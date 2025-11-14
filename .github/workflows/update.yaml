@@ -41,8 +41,8 @@ jobs:
         branch: 'main'
         commit_message: '✏️ Update papers automatically.'
         files: README.md .github/ISSUE_TEMPLATE.md
-        commit_user_name: longinhit
-        commit_user_email: longinhit@gmail.com
+        commit_user_name: qhu-ai-climate
+        commit_user_email: wuli777@qhu.edu.cn
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
