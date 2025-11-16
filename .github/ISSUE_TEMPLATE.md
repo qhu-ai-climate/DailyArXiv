@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 14, 2025
+title: Latest 15 Papers - November 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Time Series Forecastability Measures](https://arxiv.org/pdf/2507.13556v1)** | 2025-07-21 |  |
-| **[Monash Time Series Forecasting Archive](https://arxiv.org/pdf/2105.06643v1)** | 2021-10-25 | <details><summary>33 pa...</summary><p>33 pages, 3 figures, 15 tables</p></details> |
-| **[Forecasting with time series imaging](https://arxiv.org/pdf/1904.08064v3)** | 2020-07-21 |  |
-| **[Retrieval Augmented Time Series Forecasting](https://arxiv.org/pdf/2411.08249v1)** | 2024-11-14 |  |
-| **[Scaling Law for Time Series Forecasting](https://arxiv.org/pdf/2405.15124v4)** | 2024-11-13 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2024</p></details> |
-| **[Retrieval Based Time Series Forecasting](https://arxiv.org/pdf/2209.13525v1)** | 2022-09-28 | CIKM'22 AMLTS |
-| **[Inter Time Series Sales Forecasting](https://arxiv.org/pdf/1303.0117v1)** | 2013-03-04 |  |
-| **[Respecting Time Series Properties Makes Deep Time Series Forecasting Perfect](https://arxiv.org/pdf/2207.10941v1)** | 2022-07-25 |  |
-| **[Time-series Scenario Forecasting](https://arxiv.org/pdf/1211.3010v1)** | 2012-11-14 | 16 pages |
-| **[Series Saliency: Temporal Interpretation for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2012.09324v1)** | 2020-12-18 |  |
-| **[EasyTime: Time Series Forecasting Made Easy](https://arxiv.org/pdf/2412.17603v1)** | 2024-12-24 | Accepted by ICDE2025 |
-| **[An Introductory Study on Time Series Modeling and Forecasting](https://arxiv.org/pdf/1302.6613v1)** | 2013-02-28 | <details><summary>67 pa...</summary><p>67 pages, 29 figures, 33 references, book</p></details> |
-| **[Forecasting time series with constraints](https://arxiv.org/pdf/2502.10485v1)** | 2025-02-18 |  |
-| **[Optimal starting point for time series forecasting](https://arxiv.org/pdf/2409.16843v2)** | 2025-02-11 |  |
-| **[Few-shot Learning for Time-series Forecasting](https://arxiv.org/pdf/2009.14379v1)** | 2020-10-01 |  |
+| **[ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](https://arxiv.org/abs/2509.04449v2)** | 2025-11-13 |  |
+| **[Prediction of linear fractional stable motions using codifference, with application to non-Gaussian rough volatility](https://arxiv.org/abs/2507.15437v2)** | 2025-11-13 |  |
+| **[Beyond MSE: Ordinal Cross-Entropy for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2511.10200v1)** | 2025-11-13 |  |
+| **[RI-Loss: A Learnable Residual-Informed Loss for Time Series Forecasting](https://arxiv.org/abs/2511.10130v1)** | 2025-11-13 |  |
+| **[Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](https://arxiv.org/abs/2510.14510v3)** | 2025-11-13 |  |
+| **[Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing](https://arxiv.org/abs/2511.08229v3)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[MDMLP-EIA: Multi-domain Dynamic MLPs with Energy Invariant Attention for Time Series Forecasting](https://arxiv.org/abs/2511.09924v1)** | 2025-11-13 |  |
+| **[CaReTS: A Multi-Task Framework Unifying Classification and Regression for Time Series Forecasting](https://arxiv.org/abs/2511.09789v1)** | 2025-11-12 |  |
+| **[xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection](https://arxiv.org/abs/2506.22837v2)** | 2025-11-12 |  |
+| **[Local Interaction Autoregressive Model for High Dimension Time Series Data](https://arxiv.org/abs/2511.09542v1)** | 2025-11-12 |  |
+| **[Discrete Chi-Square Method beats Discrete Fourier Transform and other similar parametric time series analysis methods](https://arxiv.org/abs/2509.01540v3)** | 2025-11-12 | 27 pages, 8 figures |
+| **[PATH: A Discrete-sequence Dataset for Evaluating Online Unsupervised Anomaly Detection Approaches for Multivariate Time Series](https://arxiv.org/abs/2411.13951v6)** | 2025-11-12 |  |
+| **[STOAT: Spatial-Temporal Probabilistic Causal Inference Network](https://arxiv.org/abs/2506.09544v3)** | 2025-11-12 |  |
+| **[Repetitive Contrastive Learning Enhances Mamba's Selectivity in Time Series Prediction](https://arxiv.org/abs/2504.09185v2)** | 2025-11-12 |  |
+| **[rfBLT: Random Feature Bayesian Lasso Takens Model for time series forecasting](https://arxiv.org/abs/2511.08957v1)** | 2025-11-12 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Time Series Imputation](https://arxiv.org/pdf/1903.09732v1)** | 2019-03-26 | <details><summary>Maste...</summary><p>Master paper, draft to be submitted</p></details> |
-| **[NRTSI: Non-Recurrent Time Series Imputation](https://arxiv.org/pdf/2102.03340v3)** | 2021-05-28 | <details><summary>Codes...</summary><p>Codes available at https://github.com/lupalab/NRTSI</p></details> |
-| **[Continuous-time Autoencoders for Regular and Irregular Time Series Imputation](https://arxiv.org/pdf/2312.16581v3)** | 2024-06-25 | <details><summary>Publi...</summary><p>Published as a WSDM'24 full paper (oral presentation)</p></details> |
-| **[TSI-Bench: Benchmarking Time Series Imputation](https://arxiv.org/pdf/2406.12747v2)** | 2024-11-01 |  |
-| **[Temporal Wasserstein Imputation: A Versatile Method for Time Series Imputation](https://arxiv.org/pdf/2411.02811v3)** | 2025-08-15 |  |
-| **[ImputeGAP: A Comprehensive Library for Time Series Imputation](https://arxiv.org/pdf/2503.15250v1)** | 2025-03-20 |  |
-| **[BRITS: Bidirectional Recurrent Imputation for Time Series](https://arxiv.org/pdf/1805.10572v1)** | 2018-05-29 |  |
-| **[Impute With Confidence: A Framework for Uncertainty Aware Multivariate Time Series Imputation](https://arxiv.org/pdf/2507.09353v1)** | 2025-07-15 |  |
-| **[Probabilistic Imputation for Time-series Classification with Missing Data](https://arxiv.org/pdf/2308.06738v1)** | 2023-08-15 |  |
-| **[Imputation with Inter-Series Information from Prototypes for Irregular Sampled Time Series](https://arxiv.org/pdf/2401.07249v1)** | 2024-01-17 |  |
-| **[Time-series imputation using low-rank matrix completion](https://arxiv.org/pdf/2408.02594v1)** | 2024-08-06 | 12 pages, 6 figures |
-| **[Data-Driven Copy-Paste Imputation for Energy Time Series](https://arxiv.org/pdf/2101.01423v1)** | 2021-08-11 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, submitted to IEEE Transactions on Smart Grid, the first two authors equally contributed to this work</p></details> |
-| **[Comparison of different Methods for Univariate Time Series Imputation in R](https://arxiv.org/pdf/1510.03924v1)** | 2015-10-15 |  |
-| **[SAITS: Self-Attention-based Imputation for Time Series](https://arxiv.org/pdf/2202.08516v5)** | 2023-07-06 | <details><summary>This ...</summary><p>This paper has been published in the journal Expert Systems with Applications. The DOI link is https://doi.org/10.1016/j.eswa.2023.119619/</p></details> |
-| **[Time Series Data Imputation: A Survey on Deep Learning Approaches](https://arxiv.org/pdf/2011.11347v1)** | 2020-11-24 |  |
+| **[CSAI: Conditional Self-Attention Imputation for Healthcare Time-series](https://arxiv.org/abs/2312.16713v5)** | 2025-11-11 |  |
+| **[IBMA: An Imputation-Based Mixup Augmentation Using Self-Supervised Learning for Time Series Data](https://arxiv.org/abs/2511.07930v1)** | 2025-11-11 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 1 table, accepted at the AAAI2025 conference</p></details> |
+| **[Beyond Observations: Reconstruction Error-Guided Irregularly Sampled Time Series Representation Learning](https://arxiv.org/abs/2511.06854v1)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling](https://arxiv.org/abs/2507.13207v3)** | 2025-11-08 | <details><summary>10th ...</summary><p>10th Workshop on Advanced Analytics and Learning on Temporal Data (AALTD), ECML 2025</p></details> |
+| **[Are Time-Indexed Foundation Models the Future of Time Series Imputation?](https://arxiv.org/abs/2511.05980v1)** | 2025-11-08 |  |
+| **[HAGI++: Head-Assisted Gaze Imputation and Generation](https://arxiv.org/abs/2511.02468v1)** | 2025-11-04 | <details><summary>Exten...</summary><p>Extended version of our UIST'25 paper "HAGI: Head-Assisted Gaze Imputation for Mobile Eye Trackers"</p></details> |
+| **[Revisiting Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/abs/2509.23494v2)** | 2025-11-03 |  |
+| **[An Interdisciplinary and Cross-Task Review on Missing Data Imputation](https://arxiv.org/abs/2511.01196v1)** | 2025-11-03 |  |
+| **[Closing Gaps: An Imputation Analysis of ICU Vital Signs](https://arxiv.org/abs/2510.24217v1)** | 2025-10-28 | Preprint |
+| **[CPSLint: A Domain-Specific Language Providing Data Validation and Sanitisation for Industrial Cyber-Physical Systems](https://arxiv.org/abs/2510.18651v1)** | 2025-10-21 |  |
+| **[Unlocking the Power of Mixture-of-Experts for Task-Aware Time Series Analytics](https://arxiv.org/abs/2509.22279v2)** | 2025-10-20 |  |
+| **[Spatiotemporal Besov Priors for Bayesian Inverse Problems](https://arxiv.org/abs/2306.16378v3)** | 2025-10-17 | 64 pages, 17 figures |
+| **[Extending Prediction-Powered Inference through Conformal Prediction](https://arxiv.org/abs/2510.16166v1)** | 2025-10-17 |  |
+| **[CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions](https://arxiv.org/abs/2510.10195v1)** | 2025-10-11 |  |
+| **[CarbonX: An Open-Source Tool for Computational Decarbonization Using Time Series Foundation Models](https://arxiv.org/abs/2510.01521v2)** | 2025-10-10 | <details><summary>Updat...</summary><p>Update: Corrected PDF rendering error on page 10 (caption of Figure 5 was previously overlapping with paper text)</p></details> |
 
