@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 17, 2025
+title: Latest 15 Papers - November 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Epistemic Error Decomposition for Multi-step Time Series Forecasting: Rethinking Bias-Variance in Recursive and Direct Strategies](https://arxiv.org/abs/2511.11461v1)** | 2025-11-14 | <details><summary>2025 ...</summary><p>2025 EIML Eurips Workshop, 6 pages</p></details> |
+| **[Automated lag-selection for multi-step univariate time series forecast using Bayesian Optimization: Forecast station-wise monthly rainfall of nine divisional cities of Bangladesh](https://arxiv.org/abs/2401.08070v2)** | 2025-11-14 |  |
+| **[Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing](https://arxiv.org/abs/2511.08229v4)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[OccamVTS: Distilling Vision Models to 1% Parameters for Time Series Forecasting](https://arxiv.org/abs/2508.01727v2)** | 2025-11-14 |  |
 | **[ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](https://arxiv.org/abs/2509.04449v2)** | 2025-11-13 |  |
 | **[Prediction of linear fractional stable motions using codifference, with application to non-Gaussian rough volatility](https://arxiv.org/abs/2507.15437v2)** | 2025-11-13 |  |
 | **[Beyond MSE: Ordinal Cross-Entropy for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2511.10200v1)** | 2025-11-13 |  |
 | **[RI-Loss: A Learnable Residual-Informed Loss for Time Series Forecasting](https://arxiv.org/abs/2511.10130v1)** | 2025-11-13 |  |
 | **[Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](https://arxiv.org/abs/2510.14510v3)** | 2025-11-13 |  |
-| **[Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing](https://arxiv.org/abs/2511.08229v3)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[MDMLP-EIA: Multi-domain Dynamic MLPs with Energy Invariant Attention for Time Series Forecasting](https://arxiv.org/abs/2511.09924v1)** | 2025-11-13 |  |
 | **[CaReTS: A Multi-Task Framework Unifying Classification and Regression for Time Series Forecasting](https://arxiv.org/abs/2511.09789v1)** | 2025-11-12 |  |
 | **[xLSTMAD: A Powerful xLSTM-based Method for Anomaly Detection](https://arxiv.org/abs/2506.22837v2)** | 2025-11-12 |  |
 | **[Local Interaction Autoregressive Model for High Dimension Time Series Data](https://arxiv.org/abs/2511.09542v1)** | 2025-11-12 |  |
 | **[Discrete Chi-Square Method beats Discrete Fourier Transform and other similar parametric time series analysis methods](https://arxiv.org/abs/2509.01540v3)** | 2025-11-12 | 27 pages, 8 figures |
 | **[PATH: A Discrete-sequence Dataset for Evaluating Online Unsupervised Anomaly Detection Approaches for Multivariate Time Series](https://arxiv.org/abs/2411.13951v6)** | 2025-11-12 |  |
-| **[STOAT: Spatial-Temporal Probabilistic Causal Inference Network](https://arxiv.org/abs/2506.09544v3)** | 2025-11-12 |  |
-| **[Repetitive Contrastive Learning Enhances Mamba's Selectivity in Time Series Prediction](https://arxiv.org/abs/2504.09185v2)** | 2025-11-12 |  |
-| **[rfBLT: Random Feature Bayesian Lasso Takens Model for time series forecasting](https://arxiv.org/abs/2511.08957v1)** | 2025-11-12 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
