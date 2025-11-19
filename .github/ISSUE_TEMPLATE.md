@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2025
+title: Latest 15 Papers - November 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adapformer: Adaptive Channel Management for Multivariate Time Series Forecasting](https://arxiv.org/abs/2511.14632v1)** | 2025-11-18 |  |
+| **[A More Realistic Evaluation of Cross-Frequency Transfer Learning and Foundation Forecasting Models](https://arxiv.org/abs/2509.19465v3)** | 2025-11-18 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
+| **[BadTime: An Effective Backdoor Attack on Multivariate Long-Term Time Series Forecasting](https://arxiv.org/abs/2508.04189v2)** | 2025-11-18 |  |
+| **[A causal interactions indicator between two time series using extreme variations in the first eigenvalue of lagged correlation matrices](https://arxiv.org/abs/2307.04953v3)** | 2025-11-18 | <details><summary>24 pa...</summary><p>24 pages, 19 Figures, 3 Tables</p></details> |
+| **[Forecasting Malaria in Indian States: A Time Series Approach with R Shiny Integration](https://arxiv.org/abs/2412.20121v2)** | 2025-11-18 | 18 pages |
+| **[Enhancing Regional Airbnb Trend Forecasting Using LLM-Based Embeddings of Accessibility and Human Mobility](https://arxiv.org/abs/2511.14248v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at ASONAM 2025</p></details> |
+| **[Optimal Look-back Horizon for Time Series Forecasting in Federated Learning](https://arxiv.org/abs/2511.12791v2)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 as Oral Presentation</p></details> |
+| **[Higher-Order Transformers With Kronecker-Structured Attention](https://arxiv.org/abs/2412.02919v2)** | 2025-11-18 |  |
 | **[A Gentle Introduction to Conformal Time Series Forecasting](https://arxiv.org/abs/2511.13608v1)** | 2025-11-17 |  |
 | **[On the emergence of numerical instabilities in Next Generation Reservoir Computing](https://arxiv.org/abs/2505.00846v2)** | 2025-11-17 | 23 pages, 14 figures |
 | **[Naga: Vedic Encoding for Deep State Space Models](https://arxiv.org/abs/2511.13510v1)** | 2025-11-17 | submitted to JMLR |
@@ -14,14 +22,6 @@ labels: documentation
 | **[MMWSTM-ADRAN+: A Novel Hybrid Deep Learning Architecture for Enhanced Climate Time Series Forecasting and Extreme Event Prediction](https://arxiv.org/abs/2511.13419v1)** | 2025-11-17 |  |
 | **[Why Cannot Neural Networks Master Extrapolation? Insights from Physical Laws](https://arxiv.org/abs/2510.04102v2)** | 2025-11-17 |  |
 | **[Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline](https://arxiv.org/abs/2505.11250v4)** | 2025-11-17 |  |
-| **[Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing](https://arxiv.org/abs/2511.08229v5)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[A FEDformer-Based Hybrid Framework for Anomaly Detection and Risk Forecasting in Financial Time Series](https://arxiv.org/abs/2511.12951v1)** | 2025-11-17 |  |
-| **[APT: Affine Prototype-Timestamp For Time Series Forecasting Under Distribution Shift](https://arxiv.org/abs/2511.12945v1)** | 2025-11-17 |  |
-| **[A Simple and Effective Random Forest Modelling for Nonlinear Time Series Data](https://arxiv.org/abs/2511.06544v2)** | 2025-11-17 |  |
-| **[Optimal Look-back Horizon for Time Series Forecasting in Federated Learning](https://arxiv.org/abs/2511.12791v1)** | 2025-11-16 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 as Oral Presentation</p></details> |
-| **[MIRA: Medical Time Series Foundation Model for Real-World Health Data](https://arxiv.org/abs/2506.07584v6)** | 2025-11-15 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Main Conference</p></details> |
-| **[Beyond Observations: Reconstruction Error-Guided Irregularly Sampled Time Series Representation Learning](https://arxiv.org/abs/2511.06854v2)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[PAX-TS: Model-agnostic multi-granular explanations for time series forecasting via localized perturbations](https://arxiv.org/abs/2508.18982v2)** | 2025-11-15 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
