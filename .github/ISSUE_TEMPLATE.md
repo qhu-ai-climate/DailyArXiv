@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 21, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Modeling of Clinical Time Series via Latent Stochastic Differential Equations](https://arxiv.org/abs/2511.16427v1)** | 2025-11-20 |  |
+| **[FreqFlow: Long-term forecasting using lightweight flow matching](https://arxiv.org/abs/2511.16426v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted at EurIPS, 2025</p></details> |
+| **[xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](https://arxiv.org/abs/2410.16928v4)** | 2025-11-20 | <details><summary>Poste...</summary><p>Poster at NeurIPS 2025</p></details> |
+| **[A Hybrid Deep Learning based Carbon Price Forecasting Framework with Structural Breakpoints Detection and Signal Denoising](https://arxiv.org/abs/2511.04988v2)** | 2025-11-20 |  |
+| **[A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management](https://arxiv.org/abs/2511.16075v1)** | 2025-11-20 |  |
 | **[Ridge Regression on Riemannian Manifolds for Time-Series Prediction](https://arxiv.org/abs/2411.18339v3)** | 2025-11-19 | Extended version |
 | **[TSFM in-context learning for time-series classification of bearing-health status](https://arxiv.org/abs/2511.15447v1)** | 2025-11-19 | <details><summary>Prepr...</summary><p>Preprint submitted to ESANN 2026</p></details> |
 | **[Multi-layer Stack Ensembles for Time Series Forecasting](https://arxiv.org/abs/2511.15350v1)** | 2025-11-19 | <details><summary>Publi...</summary><p>Published at AutoML Conference 2025 Methods Track</p></details> |
 | **[STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection](https://arxiv.org/abs/2511.15339v1)** | 2025-11-19 | <details><summary>8 Pag...</summary><p>8 Pages, 4 Figures, 4 Tables</p></details> |
 | **[FireCastNet: Earth-as-a-Graph for Seasonal Fire Prediction](https://arxiv.org/abs/2502.01550v2)** | 2025-11-19 |  |
 | **[Semiconductor Industry Trend Prediction with Event Intervention Based on LSTM Model in Sentiment-Enhanced Time Series Data](https://arxiv.org/abs/2511.15112v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted in Taiwan Academic Network Conference (TANET 2025)</p></details> |
-| **[xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](https://arxiv.org/abs/2410.16928v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[Adapformer: Adaptive Channel Management for Multivariate Time Series Forecasting](https://arxiv.org/abs/2511.14632v1)** | 2025-11-18 |  |
 | **[A More Realistic Evaluation of Cross-Frequency Transfer Learning and Foundation Forecasting Models](https://arxiv.org/abs/2509.19465v3)** | 2025-11-18 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
 | **[BadTime: An Effective Backdoor Attack on Multivariate Long-Term Time Series Forecasting](https://arxiv.org/abs/2508.04189v2)** | 2025-11-18 |  |
 | **[A causal interactions indicator between two time series using extreme variations in the first eigenvalue of lagged correlation matrices](https://arxiv.org/abs/2307.04953v3)** | 2025-11-18 | <details><summary>24 pa...</summary><p>24 pages, 19 Figures, 3 Tables</p></details> |
-| **[Forecasting Malaria in Indian States: A Time Series Approach with R Shiny Integration](https://arxiv.org/abs/2412.20121v2)** | 2025-11-18 | 18 pages |
-| **[Enhancing Regional Airbnb Trend Forecasting Using LLM-Based Embeddings of Accessibility and Human Mobility](https://arxiv.org/abs/2511.14248v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at ASONAM 2025</p></details> |
-| **[Optimal Look-back Horizon for Time Series Forecasting in Federated Learning](https://arxiv.org/abs/2511.12791v2)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 as Oral Presentation</p></details> |
-| **[Higher-Order Transformers With Kronecker-Structured Attention](https://arxiv.org/abs/2412.02919v2)** | 2025-11-18 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
