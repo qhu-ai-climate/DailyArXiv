@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 25, 2025
+title: Latest 15 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TRACE: Time SeRies PArameter EffiCient FinE-tuning](https://arxiv.org/abs/2503.16991v3)** | 2025-11-21 |  |
-| **[Predicting Talent Breakout Rate using Twitter and TV data](https://arxiv.org/abs/2511.16905v1)** | 2025-11-21 | <details><summary>4 pag...</summary><p>4 pages. Presented at the 34th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2020), paper ID 1K3-ES-2-02</p></details> |
-| **[A Weak Penalty Neural ODE for Learning Chaotic Dynamics from Noisy Time Series](https://arxiv.org/abs/2511.06609v2)** | 2025-11-21 |  |
-| **[ResCP: Reservoir Conformal Prediction for Time Series Forecasting](https://arxiv.org/abs/2510.05060v2)** | 2025-11-20 |  |
-| **[DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting](https://arxiv.org/abs/2511.16715v1)** | 2025-11-20 | 36 pages |
-| **[Generative Modeling of Clinical Time Series via Latent Stochastic Differential Equations](https://arxiv.org/abs/2511.16427v1)** | 2025-11-20 |  |
-| **[FreqFlow: Long-term forecasting using lightweight flow matching](https://arxiv.org/abs/2511.16426v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted at EurIPS, 2025</p></details> |
-| **[xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](https://arxiv.org/abs/2410.16928v4)** | 2025-11-20 | <details><summary>Poste...</summary><p>Poster at NeurIPS 2025</p></details> |
-| **[A Hybrid Deep Learning based Carbon Price Forecasting Framework with Structural Breakpoints Detection and Signal Denoising](https://arxiv.org/abs/2511.04988v2)** | 2025-11-20 |  |
-| **[A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management](https://arxiv.org/abs/2511.16075v1)** | 2025-11-20 |  |
-| **[Ridge Regression on Riemannian Manifolds for Time-Series Prediction](https://arxiv.org/abs/2411.18339v3)** | 2025-11-19 | Extended version |
-| **[TSFM in-context learning for time-series classification of bearing-health status](https://arxiv.org/abs/2511.15447v1)** | 2025-11-19 | <details><summary>Prepr...</summary><p>Preprint submitted to ESANN 2026</p></details> |
-| **[Multi-layer Stack Ensembles for Time Series Forecasting](https://arxiv.org/abs/2511.15350v1)** | 2025-11-19 | <details><summary>Publi...</summary><p>Published at AutoML Conference 2025 Methods Track</p></details> |
-| **[STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection](https://arxiv.org/abs/2511.15339v1)** | 2025-11-19 | <details><summary>8 Pag...</summary><p>8 Pages, 4 Figures, 4 Tables</p></details> |
-| **[FireCastNet: Earth-as-a-Graph for Seasonal Fire Prediction](https://arxiv.org/abs/2502.01550v2)** | 2025-11-19 |  |
+| **[Targeted Manipulation: Slope-Based Attacks on Financial Time-Series Data](https://arxiv.org/abs/2511.19330v1)** | 2025-11-24 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 4 tables, preprint; Total including Appendix: 21 pages, 11 figures, 7 tables</p></details> |
+| **[Tiny-TSM: Efficiently Training a Lightweight SOTA Time Series Foundation Model](https://arxiv.org/abs/2511.19272v1)** | 2025-11-24 |  |
+| **[SimDiff: Simpler Yet Better Diffusion Model for Time Series Point Forecasting](https://arxiv.org/abs/2511.19256v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Forecasting-based Biomedical Time-series Data Synthesis for Open Data and Robust AI](https://arxiv.org/abs/2510.04622v2)** | 2025-11-24 | 22 pages |
+| **[WaveTuner: Comprehensive Wavelet Subband Tuning for Time Series Forecasting](https://arxiv.org/abs/2511.18846v1)** | 2025-11-24 |  |
+| **[WaveletDiff: Multilevel Wavelet Diffusion For Time Series Generation](https://arxiv.org/abs/2510.11839v2)** | 2025-11-23 |  |
+| **[KAN vs LSTM Performance in Time Series Forecasting](https://arxiv.org/abs/2511.18613v1)** | 2025-11-23 | <details><summary>This ...</summary><p>This paper compares Kolmogorov-Arnold Networks (KANs) and LSTMs for forecasting stock prices, highlighting that LSTMs provide superior predictive accuracy while KANs offer better interpretability and efficiency in limited-resource settings. Practical findings and future research directions are discussed</p></details> |
+| **[Re(Visiting) Time Series Foundation Models in Finance](https://arxiv.org/abs/2511.18578v1)** | 2025-11-23 |  |
+| **[TimePre: Bridging Accuracy, Efficiency, and Stability in Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2511.18539v1)** | 2025-11-23 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 6 tables</p></details> |
+| **[TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting](https://arxiv.org/abs/2506.17609v3)** | 2025-11-22 | <details><summary>Accep...</summary><p>Accepted by ACM SIGSPATIAL 2025. Received SIGSPATIAL '25 Best Short Paper Award</p></details> |
+| **[Accelerating Time Series Foundation Models with Speculative Decoding](https://arxiv.org/abs/2511.18191v1)** | 2025-11-22 | 14 pages, 7 figures |
+| **[Supervised Dynamic Dimension Reduction with Deep Neural Network](https://arxiv.org/abs/2508.03546v3)** | 2025-11-22 |  |
+| **[AutoHFormer: Efficient Hierarchical Autoregressive Transformer for Time Series Prediction](https://arxiv.org/abs/2506.16001v2)** | 2025-11-22 | 14 pages |
+| **[Mitigating Catastrophic Forgetting in Streaming Generative and Predictive Learning via Stateful Replay](https://arxiv.org/abs/2511.17936v1)** | 2025-11-22 | 11 pages, 4 figures |
+| **[Moirai 2.0: When Less Is More for Time Series Forecasting](https://arxiv.org/abs/2511.11698v2)** | 2025-11-22 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, and 1 table</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
