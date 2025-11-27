@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 27, 2025
+title: Latest 15 Papers - November 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multivariate Spatio-temporal Modelling for Completing Cancer Registries and Forecasting Incidence](https://arxiv.org/abs/2507.21714v2)** | 2025-11-26 | 37 pages |
+| **[Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models](https://arxiv.org/abs/2510.07858v2)** | 2025-11-26 | 24 pages, 9 figures |
+| **[Empowering Time Series Forecasting with LLM-Agents](https://arxiv.org/abs/2508.04231v2)** | 2025-11-26 |  |
+| **[TiCT: A Synthetically Pre-Trained Foundation Model for Time Series Classification](https://arxiv.org/abs/2511.19694v2)** | 2025-11-26 |  |
+| **[TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649v4)** | 2025-11-25 |  |
 | **[MSTN: Fast and Efficient Multivariate Time Series Model](https://arxiv.org/abs/2511.20577v1)** | 2025-11-25 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 5 tables</p></details> |
 | **[Rethinking Nonstationarity in Time Series: A Deterministic Trend Perspective](https://arxiv.org/abs/2506.07987v3)** | 2025-11-25 |  |
 | **[RED-F: Reconstruction-Elimination based Dual-stream Contrastive Forecasting for Multivariate Time Series Anomaly Prediction](https://arxiv.org/abs/2511.20044v1)** | 2025-11-25 | 13 pages, 12 figures |
@@ -16,12 +21,7 @@ labels: documentation
 | **[Temporal-Visual Semantic Alignment: A Unified Architecture for Transferring Spatial Priors from Vision Models to Zero-Shot Temporal Tasks](https://arxiv.org/abs/2511.19856v1)** | 2025-11-25 |  |
 | **[Cisco Time Series Model Technical Report](https://arxiv.org/abs/2511.19841v1)** | 2025-11-25 |  |
 | **[LiteCast: A Lightweight Forecaster for Carbon Optimizations](https://arxiv.org/abs/2511.06187v2)** | 2025-11-24 |  |
-| **[TiCT: A Synthetically Pre-Trained Foundation Model for Time Series Classification](https://arxiv.org/abs/2511.19694v1)** | 2025-11-24 |  |
 | **[Structured Noise Modeling for Enhanced Time-Series Forecasting](https://arxiv.org/abs/2511.19657v1)** | 2025-11-24 |  |
-| **[Targeted Manipulation: Slope-Based Attacks on Financial Time-Series Data](https://arxiv.org/abs/2511.19330v1)** | 2025-11-24 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 4 tables, preprint; Total including Appendix: 21 pages, 11 figures, 7 tables</p></details> |
-| **[Tiny-TSM: Efficiently Training a Lightweight SOTA Time Series Foundation Model](https://arxiv.org/abs/2511.19272v1)** | 2025-11-24 |  |
-| **[SimDiff: Simpler Yet Better Diffusion Model for Time Series Point Forecasting](https://arxiv.org/abs/2511.19256v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Forecasting-based Biomedical Time-series Data Synthesis for Open Data and Robust AI](https://arxiv.org/abs/2510.04622v2)** | 2025-11-24 | 22 pages |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
