@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 01, 2025
+title: Latest 15 Papers - December 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncovering Zero-Shot Generalization Gaps in Time-Series Foundation Models Using Real-World Videos](https://arxiv.org/abs/2509.26347v2)** | 2025-11-28 | <details><summary>This ...</summary><p>This paper has been accepted by Artificial Intelligence for Time Series Analysis (AI4TS) Workshop @ AAAI 2026: Theory, Algorithms, and Applications</p></details> |
+| **[Hierarchical AI-Meteorologist: LLM-Agent System for Multi-Scale and Explainable Weather Forecast Reporting](https://arxiv.org/abs/2511.23387v1)** | 2025-11-28 | 9 pages, 4 figures |
+| **[Interpretability for Time Series Transformers using A Concept Bottleneck Framework](https://arxiv.org/abs/2410.06070v2)** | 2025-11-28 |  |
+| **[Time Series Forecasting via Direct Per-Step Probability Distribution Modeling](https://arxiv.org/abs/2511.23260v1)** | 2025-11-28 | <details><summary>16 pa...</summary><p>16 pages, 8 figures. This is the preprint version of the paper and supplemental material to appear in AAAI, 2026. Please cite the final published version. Code is available at https://github.com/leonardokong486/interPDN</p></details> |
+| **[Counterfactual Explanation for Multivariate Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2511.06906v2)** | 2025-11-28 | <details><summary>27pag...</summary><p>27pages,9figures,9tables</p></details> |
+| **[TARFVAE: Efficient One-Step Generative Time Series Forecasting via TARFLOW based VAE](https://arxiv.org/abs/2511.22853v1)** | 2025-11-28 |  |
+| **[Modèles de Fondation et Ajustement : Vers une Nouvelle Génération de Modèles pour la Prévision des Séries Temporelles](https://arxiv.org/abs/2511.22674v1)** | 2025-11-27 | in French language |
+| **[ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](https://arxiv.org/abs/2509.04449v3)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
+| **[TS2Vec-Ensemble: An Enhanced Self-Supervised Framework for Time Series Forecasting](https://arxiv.org/abs/2511.22395v1)** | 2025-11-27 |  |
+| **[RI-Loss: A Learnable Residual-Informed Loss for Time Series Forecasting](https://arxiv.org/abs/2511.10130v2)** | 2025-11-27 |  |
+| **[Beyond MSE: Ordinal Cross-Entropy for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2511.10200v2)** | 2025-11-27 |  |
+| **[Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing](https://arxiv.org/abs/2511.08229v6)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[A two-parameter, minimal-data model to predict dengue cases: the 2022-2023 outbreak in Florida, USA](https://arxiv.org/abs/2511.22040v1)** | 2025-11-27 |  |
+| **[Leveraging Exogenous Signals for Hydrology Time Series Forecasting](https://arxiv.org/abs/2511.11849v2)** | 2025-11-26 |  |
 | **[Multivariate Spatio-temporal Modelling for Completing Cancer Registries and Forecasting Incidence](https://arxiv.org/abs/2507.21714v2)** | 2025-11-26 | 37 pages |
-| **[Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models](https://arxiv.org/abs/2510.07858v2)** | 2025-11-26 | 24 pages, 9 figures |
-| **[Empowering Time Series Forecasting with LLM-Agents](https://arxiv.org/abs/2508.04231v2)** | 2025-11-26 |  |
-| **[TiCT: A Synthetically Pre-Trained Foundation Model for Time Series Classification](https://arxiv.org/abs/2511.19694v2)** | 2025-11-26 |  |
-| **[TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649v4)** | 2025-11-25 |  |
-| **[MSTN: Fast and Efficient Multivariate Time Series Model](https://arxiv.org/abs/2511.20577v1)** | 2025-11-25 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 5 tables</p></details> |
-| **[Rethinking Nonstationarity in Time Series: A Deterministic Trend Perspective](https://arxiv.org/abs/2506.07987v3)** | 2025-11-25 |  |
-| **[RED-F: Reconstruction-Elimination based Dual-stream Contrastive Forecasting for Multivariate Time Series Anomaly Prediction](https://arxiv.org/abs/2511.20044v1)** | 2025-11-25 | 13 pages, 12 figures |
-| **[Zero-Shot Transfer Capabilities of the Sundial Foundation Model for Leaf Area Index Forecasting](https://arxiv.org/abs/2511.20004v1)** | 2025-11-25 |  |
-| **[Domain Fusion Controllable Generalization for Cross-Domain Time Series Forecasting from Multi-Domain Integrated Distribution](https://arxiv.org/abs/2412.03068v2)** | 2025-11-25 | <details><summary>We ha...</summary><p>We have updated the abstract, introduction and related work. Additionally, we have incorporated the latest competitive baseline models</p></details> |
-| **[Energy-Aware Pattern Disentanglement: A Generalizable Pattern Assisted Architecture for Multi-task Time Series Analysis](https://arxiv.org/abs/2504.14209v3)** | 2025-11-25 | <details><summary>We ha...</summary><p>We have updated the abstract, citations and related work. At the same time, we have also updated the latest baseline model</p></details> |
-| **[Temporal-Visual Semantic Alignment: A Unified Architecture for Transferring Spatial Priors from Vision Models to Zero-Shot Temporal Tasks](https://arxiv.org/abs/2511.19856v1)** | 2025-11-25 |  |
-| **[Cisco Time Series Model Technical Report](https://arxiv.org/abs/2511.19841v1)** | 2025-11-25 |  |
-| **[LiteCast: A Lightweight Forecaster for Carbon Optimizations](https://arxiv.org/abs/2511.06187v2)** | 2025-11-24 |  |
-| **[Structured Noise Modeling for Enhanced Time-Series Forecasting](https://arxiv.org/abs/2511.19657v1)** | 2025-11-24 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
