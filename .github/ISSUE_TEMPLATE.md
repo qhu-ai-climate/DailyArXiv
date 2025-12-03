@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 02, 2025
+title: Latest 15 Papers - December 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Uncovering Zero-Shot Generalization Gaps in Time-Series Foundation Models Using Real-World Videos](https://arxiv.org/abs/2509.26347v2)** | 2025-11-28 | <details><summary>This ...</summary><p>This paper has been accepted by Artificial Intelligence for Time Series Analysis (AI4TS) Workshop @ AAAI 2026: Theory, Algorithms, and Applications</p></details> |
-| **[Hierarchical AI-Meteorologist: LLM-Agent System for Multi-Scale and Explainable Weather Forecast Reporting](https://arxiv.org/abs/2511.23387v1)** | 2025-11-28 | 9 pages, 4 figures |
-| **[Interpretability for Time Series Transformers using A Concept Bottleneck Framework](https://arxiv.org/abs/2410.06070v2)** | 2025-11-28 |  |
-| **[Time Series Forecasting via Direct Per-Step Probability Distribution Modeling](https://arxiv.org/abs/2511.23260v1)** | 2025-11-28 | <details><summary>16 pa...</summary><p>16 pages, 8 figures. This is the preprint version of the paper and supplemental material to appear in AAAI, 2026. Please cite the final published version. Code is available at https://github.com/leonardokong486/interPDN</p></details> |
-| **[Counterfactual Explanation for Multivariate Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2511.06906v2)** | 2025-11-28 | <details><summary>27pag...</summary><p>27pages,9figures,9tables</p></details> |
-| **[TARFVAE: Efficient One-Step Generative Time Series Forecasting via TARFLOW based VAE](https://arxiv.org/abs/2511.22853v1)** | 2025-11-28 |  |
-| **[Modèles de Fondation et Ajustement : Vers une Nouvelle Génération de Modèles pour la Prévision des Séries Temporelles](https://arxiv.org/abs/2511.22674v1)** | 2025-11-27 | in French language |
-| **[ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](https://arxiv.org/abs/2509.04449v3)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
-| **[TS2Vec-Ensemble: An Enhanced Self-Supervised Framework for Time Series Forecasting](https://arxiv.org/abs/2511.22395v1)** | 2025-11-27 |  |
-| **[RI-Loss: A Learnable Residual-Informed Loss for Time Series Forecasting](https://arxiv.org/abs/2511.10130v2)** | 2025-11-27 |  |
-| **[Beyond MSE: Ordinal Cross-Entropy for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2511.10200v2)** | 2025-11-27 |  |
-| **[Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing](https://arxiv.org/abs/2511.08229v6)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[A two-parameter, minimal-data model to predict dengue cases: the 2022-2023 outbreak in Florida, USA](https://arxiv.org/abs/2511.22040v1)** | 2025-11-27 |  |
-| **[Leveraging Exogenous Signals for Hydrology Time Series Forecasting](https://arxiv.org/abs/2511.11849v2)** | 2025-11-26 |  |
-| **[Multivariate Spatio-temporal Modelling for Completing Cancer Registries and Forecasting Incidence](https://arxiv.org/abs/2507.21714v2)** | 2025-11-26 | 37 pages |
+| **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v2)** | 2025-12-02 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
+| **[A Comparative Study on How Data Normalization Affects Zero-Shot Generalization in Time Series Foundation Models](https://arxiv.org/abs/2512.02833v1)** | 2025-12-02 |  |
+| **[GeoMAE: Masking Representation Learning for Spatio-Temporal Graph Forecasting with Missing Values](https://arxiv.org/abs/2508.14083v2)** | 2025-12-02 | 34 pages |
+| **[XXLTraffic: Expanding and Extremely Long Traffic forecasting beyond test adaptation](https://arxiv.org/abs/2406.12693v3)** | 2025-12-02 | <details><summary>Updat...</summary><p>Updated version. SIGSPATIAL 2025 Best Paper</p></details> |
+| **[Signals, Concepts, and Laws: Toward Universal, Explainable Time-Series Forecasting](https://arxiv.org/abs/2508.01407v3)** | 2025-12-01 |  |
+| **[From Noise to Laws: Regularized Time-Series Forecasting via Denoised Dynamic Graphs](https://arxiv.org/abs/2510.17817v2)** | 2025-12-01 |  |
+| **[Conformal Prediction for Time-series Forecasting with Change Points](https://arxiv.org/abs/2509.02844v4)** | 2025-12-01 |  |
+| **[A Self-explainable Model of Long Time Series by Extracting Informative Structured Causal Patterns](https://arxiv.org/abs/2512.01412v1)** | 2025-12-01 | <details><summary>Appro...</summary><p>Approximately 30 pages, 8 figures, and 5 tables. Preprint version. Includes theoretical analysis, model architecture, interpretability evaluation, and extensive benchmark experiments</p></details> |
+| **[Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series](https://arxiv.org/abs/2507.08738v2)** | 2025-12-01 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 5 tables. New comparisons added: ESN and HESN. New datasets added to experiments: Mackey-Glass and Lorenz 96 with 100 variables</p></details> |
+| **[Revitalizing Canonical Pre-Alignment for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2508.01971v2)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation](https://arxiv.org/abs/2502.15016v2)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted at KDD 2026, we release our code publicly at https://github.com/LingFengGold/TimeDistill</p></details> |
+| **[D-CTNet: A Dual-Branch Channel-Temporal Forecasting Network with Frequency-Domain Correction](https://arxiv.org/abs/2512.00925v1)** | 2025-11-30 |  |
+| **[ProtoTS: Learning Hierarchical Prototypes for Explainable Time Series Forecasting](https://arxiv.org/abs/2509.23159v3)** | 2025-11-30 | Under submission |
+| **[Evaluating Spatio-Temporal Forecasting Trade-offs Between Graph Neural Networks and Foundation Models](https://arxiv.org/abs/2511.05179v2)** | 2025-11-30 |  |
+| **[DPWMixer: Dual-Path Wavelet Mixer for Long-Term Time Series Forecasting](https://arxiv.org/abs/2512.02070v1)** | 2025-11-30 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Interdisciplinary and Cross-Task Review on Missing Data Imputation](https://arxiv.org/abs/2511.01196v2)** | 2025-12-01 |  |
+| **[Deep sub-ensembles meets quantile regression: uncertainty-aware imputation for time series](https://arxiv.org/abs/2312.01294v4)** | 2025-12-01 | <details><summary>Publi...</summary><p>Published in Machine Learning, 114, 268 (2025). DOI: 10.1007/s10994-025-06922-x</p></details> |
+| **[FMTK: A Modular Toolkit for Composable Time Series Foundation Model Pipelines](https://arxiv.org/abs/2512.01038v1)** | 2025-11-30 |  |
 | **[MSTN: Fast and Efficient Multivariate Time Series Model](https://arxiv.org/abs/2511.20577v1)** | 2025-11-25 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 5 tables</p></details> |
 | **[Energy-Aware Pattern Disentanglement: A Generalizable Pattern Assisted Architecture for Multi-task Time Series Analysis](https://arxiv.org/abs/2504.14209v3)** | 2025-11-25 | <details><summary>We ha...</summary><p>We have updated the abstract, citations and related work. At the same time, we have also updated the latest baseline model</p></details> |
 | **[The Generalized Proximity Forest](https://arxiv.org/abs/2511.19487v1)** | 2025-11-23 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Are Time-Indexed Foundation Models the Future of Time Series Imputation?](https://arxiv.org/abs/2511.05980v1)** | 2025-11-08 |  |
 | **[HAGI++: Head-Assisted Gaze Imputation and Generation](https://arxiv.org/abs/2511.02468v1)** | 2025-11-04 | <details><summary>Exten...</summary><p>Extended version of our UIST'25 paper "HAGI: Head-Assisted Gaze Imputation for Mobile Eye Trackers"</p></details> |
 | **[Revisiting Multivariate Time Series Forecasting with Missing Values](https://arxiv.org/abs/2509.23494v2)** | 2025-11-03 |  |
-| **[An Interdisciplinary and Cross-Task Review on Missing Data Imputation](https://arxiv.org/abs/2511.01196v1)** | 2025-11-03 |  |
-| **[Closing Gaps: An Imputation Analysis of ICU Vital Signs](https://arxiv.org/abs/2510.24217v1)** | 2025-10-28 | Preprint |
-| **[CPSLint: A Domain-Specific Language Providing Data Validation and Sanitisation for Industrial Cyber-Physical Systems](https://arxiv.org/abs/2510.18651v1)** | 2025-10-21 |  |
 
