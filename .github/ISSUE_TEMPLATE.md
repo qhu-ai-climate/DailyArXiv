@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 04, 2025
+title: Latest 15 Papers - December 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training and Evaluation of Guideline-Based Medical Reasoning in LLMs](https://arxiv.org/abs/2512.03838v1)** | 2025-12-03 |  |
+| **[Adaptive Regime-Switching Forecasts with Distribution-Free Uncertainty: Deep Switching State-Space Models Meet Conformal Prediction](https://arxiv.org/abs/2512.03298v1)** | 2025-12-02 |  |
 | **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v2)** | 2025-12-02 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
 | **[A Comparative Study on How Data Normalization Affects Zero-Shot Generalization in Time Series Foundation Models](https://arxiv.org/abs/2512.02833v1)** | 2025-12-02 |  |
 | **[GeoMAE: Masking Representation Learning for Spatio-Temporal Graph Forecasting with Missing Values](https://arxiv.org/abs/2508.14083v2)** | 2025-12-02 | 34 pages |
@@ -20,8 +22,6 @@ labels: documentation
 | **[TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation](https://arxiv.org/abs/2502.15016v2)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted at KDD 2026, we release our code publicly at https://github.com/LingFengGold/TimeDistill</p></details> |
 | **[D-CTNet: A Dual-Branch Channel-Temporal Forecasting Network with Frequency-Domain Correction](https://arxiv.org/abs/2512.00925v1)** | 2025-11-30 |  |
 | **[ProtoTS: Learning Hierarchical Prototypes for Explainable Time Series Forecasting](https://arxiv.org/abs/2509.23159v3)** | 2025-11-30 | Under submission |
-| **[Evaluating Spatio-Temporal Forecasting Trade-offs Between Graph Neural Networks and Foundation Models](https://arxiv.org/abs/2511.05179v2)** | 2025-11-30 |  |
-| **[DPWMixer: Dual-Path Wavelet Mixer for Long-Term Time Series Forecasting](https://arxiv.org/abs/2512.02070v1)** | 2025-11-30 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
