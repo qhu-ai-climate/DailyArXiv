@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 05, 2025
+title: Latest 15 Papers - December 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions](https://arxiv.org/abs/2512.04871v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Random Feature Spiking Neural Networks](https://arxiv.org/abs/2510.01012v2)** | 2025-12-04 | <details><summary>37 pa...</summary><p>37 pages incl. references & appendix, 6 figures, 6 tables</p></details> |
+| **[UniTS: Unified Time Series Generative Model for Remote Sensing](https://arxiv.org/abs/2512.04461v1)** | 2025-12-04 |  |
+| **[Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer](https://arxiv.org/abs/2512.04282v1)** | 2025-12-03 |  |
 | **[Training and Evaluation of Guideline-Based Medical Reasoning in LLMs](https://arxiv.org/abs/2512.03838v1)** | 2025-12-03 |  |
 | **[Adaptive Regime-Switching Forecasts with Distribution-Free Uncertainty: Deep Switching State-Space Models Meet Conformal Prediction](https://arxiv.org/abs/2512.03298v1)** | 2025-12-02 |  |
 | **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v2)** | 2025-12-02 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Conformal Prediction for Time-series Forecasting with Change Points](https://arxiv.org/abs/2509.02844v4)** | 2025-12-01 |  |
 | **[A Self-explainable Model of Long Time Series by Extracting Informative Structured Causal Patterns](https://arxiv.org/abs/2512.01412v1)** | 2025-12-01 | <details><summary>Appro...</summary><p>Approximately 30 pages, 8 figures, and 5 tables. Preprint version. Includes theoretical analysis, model architecture, interpretability evaluation, and extensive benchmark experiments</p></details> |
 | **[Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series](https://arxiv.org/abs/2507.08738v2)** | 2025-12-01 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 5 tables. New comparisons added: ESN and HESN. New datasets added to experiments: Mackey-Glass and Lorenz 96 with 100 variables</p></details> |
-| **[Revitalizing Canonical Pre-Alignment for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2508.01971v2)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation](https://arxiv.org/abs/2502.15016v2)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted at KDD 2026, we release our code publicly at https://github.com/LingFengGold/TimeDistill</p></details> |
-| **[D-CTNet: A Dual-Branch Channel-Temporal Forecasting Network with Frequency-Domain Correction](https://arxiv.org/abs/2512.00925v1)** | 2025-11-30 |  |
-| **[ProtoTS: Learning Hierarchical Prototypes for Explainable Time Series Forecasting](https://arxiv.org/abs/2509.23159v3)** | 2025-11-30 | Under submission |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
