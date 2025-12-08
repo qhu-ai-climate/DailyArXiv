@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 08, 2025
+title: Latest 15 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IdealTSF: Can Non-Ideal Data Contribute to Enhancing the Performance of Time Series Forecasting Models?](https://arxiv.org/abs/2512.05442v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[Interpretable additive model for analyzing high-dimensional functional time series](https://arxiv.org/abs/2504.19904v2)** | 2025-12-05 |  |
 | **[STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions](https://arxiv.org/abs/2512.04871v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Random Feature Spiking Neural Networks](https://arxiv.org/abs/2510.01012v2)** | 2025-12-04 | <details><summary>37 pa...</summary><p>37 pages incl. references & appendix, 6 figures, 6 tables</p></details> |
 | **[UniTS: Unified Time Series Generative Model for Remote Sensing](https://arxiv.org/abs/2512.04461v1)** | 2025-12-04 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Signals, Concepts, and Laws: Toward Universal, Explainable Time-Series Forecasting](https://arxiv.org/abs/2508.01407v3)** | 2025-12-01 |  |
 | **[From Noise to Laws: Regularized Time-Series Forecasting via Denoised Dynamic Graphs](https://arxiv.org/abs/2510.17817v2)** | 2025-12-01 |  |
 | **[Conformal Prediction for Time-series Forecasting with Change Points](https://arxiv.org/abs/2509.02844v4)** | 2025-12-01 |  |
-| **[A Self-explainable Model of Long Time Series by Extracting Informative Structured Causal Patterns](https://arxiv.org/abs/2512.01412v1)** | 2025-12-01 | <details><summary>Appro...</summary><p>Approximately 30 pages, 8 figures, and 5 tables. Preprint version. Includes theoretical analysis, model architecture, interpretability evaluation, and extensive benchmark experiments</p></details> |
-| **[Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series](https://arxiv.org/abs/2507.08738v2)** | 2025-12-01 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 5 tables. New comparisons added: ESN and HESN. New datasets added to experiments: Mackey-Glass and Lorenz 96 with 100 variables</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
