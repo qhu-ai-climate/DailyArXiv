@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 10, 2025
+title: Latest 15 Papers - December 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting](https://arxiv.org/abs/2505.15312v2)** | 2025-12-09 | <details><summary>Paper...</summary><p>Paper accepted for oral presentation at AAAI 2026. The code is available at https://github.com/ClaudiaShu/Sonnet</p></details> |
+| **[Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://arxiv.org/abs/2505.24511v3)** | 2025-12-09 |  |
+| **[FRWKV:Frequency-Domain Linear Attention for Long-Term Time Series Forecasting](https://arxiv.org/abs/2512.07539v2)** | 2025-12-09 |  |
+| **[Bridging the Clinical Expertise Gap: Development of a Web-Based Platform for Accessible Time Series Forecasting and Analysis](https://arxiv.org/abs/2512.07992v1)** | 2025-12-08 |  |
 | **[Weighted Contrastive Learning for Anomaly-Aware Time-Series Forecasting](https://arxiv.org/abs/2512.07569v1)** | 2025-12-08 |  |
-| **[FRWKV:Frequency-Domain Linear Attention for Long-Term Time Series Forecasting](https://arxiv.org/abs/2512.07539v1)** | 2025-12-08 |  |
 | **[HN-MVTS: HyperNetwork-based Multivariate Time Series Forecasting](https://arxiv.org/abs/2511.08340v2)** | 2025-12-08 | AAAI 2026 |
 | **[UniDiff: A Unified Diffusion Framework for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.07184v1)** | 2025-12-08 |  |
 | **[Hidden Leaks in Time Series Forecasting: How Data Leakage Affects LSTM Evaluation Across Configurations and Validation Strategies](https://arxiv.org/abs/2512.06932v1)** | 2025-12-07 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Random Feature Spiking Neural Networks](https://arxiv.org/abs/2510.01012v2)** | 2025-12-04 | <details><summary>37 pa...</summary><p>37 pages incl. references & appendix, 6 figures, 6 tables</p></details> |
 | **[UniTS: Unified Time Series Generative Model for Remote Sensing](https://arxiv.org/abs/2512.04461v1)** | 2025-12-04 |  |
 | **[Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer](https://arxiv.org/abs/2512.04282v1)** | 2025-12-03 |  |
-| **[Training and Evaluation of Guideline-Based Medical Reasoning in LLMs](https://arxiv.org/abs/2512.03838v1)** | 2025-12-03 |  |
-| **[XXLTraffic: Expanding and Extremely Long Traffic forecasting beyond test adaptation](https://arxiv.org/abs/2406.12693v3)** | 2025-12-02 | <details><summary>Updat...</summary><p>Updated version. SIGSPATIAL 2025 Best Paper</p></details> |
-| **[Signals, Concepts, and Laws: Toward Universal, Explainable Time-Series Forecasting](https://arxiv.org/abs/2508.01407v3)** | 2025-12-01 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
