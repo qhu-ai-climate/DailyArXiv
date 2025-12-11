@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 11, 2025
+title: Latest 15 Papers - December 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics, Revealing a Three-Stage In-Context Learning Mechanism](https://arxiv.org/abs/2509.06322v2)** | 2025-12-10 |  |
+| **[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309v4)** | 2025-12-10 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Signal Processing (16 pages, 6 figures)</p></details> |
 | **[Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting](https://arxiv.org/abs/2505.15312v2)** | 2025-12-09 | <details><summary>Paper...</summary><p>Paper accepted for oral presentation at AAAI 2026. The code is available at https://github.com/ClaudiaShu/Sonnet</p></details> |
 | **[Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://arxiv.org/abs/2505.24511v3)** | 2025-12-09 |  |
 | **[FRWKV:Frequency-Domain Linear Attention for Long-Term Time Series Forecasting](https://arxiv.org/abs/2512.07539v2)** | 2025-12-09 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[IdealTSF: Can Non-Ideal Data Contribute to Enhancing the Performance of Time Series Forecasting Models?](https://arxiv.org/abs/2512.05442v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
 | **[STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions](https://arxiv.org/abs/2512.04871v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Random Feature Spiking Neural Networks](https://arxiv.org/abs/2510.01012v2)** | 2025-12-04 | <details><summary>37 pa...</summary><p>37 pages incl. references & appendix, 6 figures, 6 tables</p></details> |
-| **[UniTS: Unified Time Series Generative Model for Remote Sensing](https://arxiv.org/abs/2512.04461v1)** | 2025-12-04 |  |
-| **[Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer](https://arxiv.org/abs/2512.04282v1)** | 2025-12-03 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
