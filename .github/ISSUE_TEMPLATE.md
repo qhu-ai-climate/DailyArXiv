@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 12, 2025
+title: Latest 15 Papers - December 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UrbanAI 2025 Challenge: Linear vs Transformer Models for Long-Horizon Exogenous Temperature Forecasting](https://arxiv.org/abs/2512.10866v1)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop UrbanAI</p></details> |
+| **[Adaptive Information Routing for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.10229v1)** | 2025-12-11 |  |
+| **[Mitigating Exposure Bias in Risk-Aware Time Series Forecasting with Soft Tokens](https://arxiv.org/abs/2512.10056v1)** | 2025-12-10 |  |
+| **[DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting](https://arxiv.org/abs/2512.10051v1)** | 2025-12-10 |  |
 | **[Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics, Revealing a Three-Stage In-Context Learning Mechanism](https://arxiv.org/abs/2509.06322v2)** | 2025-12-10 |  |
 | **[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309v4)** | 2025-12-10 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Signal Processing (16 pages, 6 figures)</p></details> |
 | **[Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting](https://arxiv.org/abs/2505.15312v2)** | 2025-12-09 | <details><summary>Paper...</summary><p>Paper accepted for oral presentation at AAAI 2026. The code is available at https://github.com/ClaudiaShu/Sonnet</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[UniDiff: A Unified Diffusion Framework for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.07184v1)** | 2025-12-08 |  |
 | **[Hidden Leaks in Time Series Forecasting: How Data Leakage Affects LSTM Evaluation Across Configurations and Validation Strategies](https://arxiv.org/abs/2512.06932v1)** | 2025-12-07 |  |
 | **[Adaptive Normalization Mamba with Multi Scale Trend Decomposition and Patch MoE Encoding](https://arxiv.org/abs/2512.06929v1)** | 2025-12-07 |  |
-| **[Evaluating the Sensitivity of BiLSTM Forecasting Models to Sequence Length and Input Noise](https://arxiv.org/abs/2512.06926v1)** | 2025-12-07 |  |
-| **[IdealTSF: Can Non-Ideal Data Contribute to Enhancing the Performance of Time Series Forecasting Models?](https://arxiv.org/abs/2512.05442v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
-| **[STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions](https://arxiv.org/abs/2512.04871v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Random Feature Spiking Neural Networks](https://arxiv.org/abs/2510.01012v2)** | 2025-12-04 | <details><summary>37 pa...</summary><p>37 pages incl. references & appendix, 6 figures, 6 tables</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
