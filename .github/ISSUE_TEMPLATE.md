@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 16, 2025
+title: Latest 15 Papers - December 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Many Models, One: Macroeconomic Forecasting with Reservoir Ensembles](https://arxiv.org/abs/2512.13642v1)** | 2025-12-15 |  |
+| **[HTMformer: Hybrid Time and Multivariate Transformer for Time Series Forecasting](https://arxiv.org/abs/2510.07084v3)** | 2025-12-15 |  |
+| **[Channel Dependence, Limited Lookback Windows, and the Simplicity of Datasets: How Biased is Time Series Forecasting?](https://arxiv.org/abs/2502.09683v2)** | 2025-12-15 |  |
+| **[Adaptive Information Routing for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.10229v2)** | 2025-12-15 |  |
+| **[Improving Time Series Forecasting via Instance-aware Post-hoc Revision](https://arxiv.org/abs/2505.23583v2)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 as a poster</p></details> |
+| **[TwinFormer: A Dual-Level Transformer for Long-Sequence Time-Series Forecasting](https://arxiv.org/abs/2512.12301v1)** | 2025-12-13 | 14 pages, 4 figures |
+| **[Keep the Lights On, Keep the Lengths in Check: Plug-In Adversarial Detection for Time-Series LLMs in Energy Forecasting](https://arxiv.org/abs/2512.12154v1)** | 2025-12-13 |  |
+| **[The Forecast Critic: Leveraging Large Language Models for Poor Forecast Identification](https://arxiv.org/abs/2512.12059v1)** | 2025-12-12 | <details><summary>Prese...</summary><p>Presented at AAAI 2026 AI4TS workshop and AABA4ET workshop</p></details> |
 | **[Optimizing the Training Diet: Data Mixture Search for Robust Time Series Forecasting](https://arxiv.org/abs/2512.11546v1)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted ACM SAC 2026</p></details> |
 | **[Contrastive Time Series Forecasting with Anomalies](https://arxiv.org/abs/2512.11526v1)** | 2025-12-12 |  |
 | **[UrbanAI 2025 Challenge: Linear vs Transformer Models for Long-Horizon Exogenous Temperature Forecasting](https://arxiv.org/abs/2512.10866v1)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop UrbanAI</p></details> |
-| **[Adaptive Information Routing for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.10229v1)** | 2025-12-11 |  |
 | **[Mitigating Exposure Bias in Risk-Aware Time Series Forecasting with Soft Tokens](https://arxiv.org/abs/2512.10056v1)** | 2025-12-10 |  |
 | **[DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting](https://arxiv.org/abs/2512.10051v1)** | 2025-12-10 |  |
 | **[Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics, Revealing a Three-Stage In-Context Learning Mechanism](https://arxiv.org/abs/2509.06322v2)** | 2025-12-10 |  |
 | **[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309v4)** | 2025-12-10 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Signal Processing (16 pages, 6 figures)</p></details> |
-| **[Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting](https://arxiv.org/abs/2505.15312v2)** | 2025-12-09 | <details><summary>Paper...</summary><p>Paper accepted for oral presentation at AAAI 2026. The code is available at https://github.com/ClaudiaShu/Sonnet</p></details> |
-| **[Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://arxiv.org/abs/2505.24511v3)** | 2025-12-09 |  |
-| **[FRWKV:Frequency-Domain Linear Attention for Long-Term Time Series Forecasting](https://arxiv.org/abs/2512.07539v2)** | 2025-12-09 |  |
-| **[Bridging the Clinical Expertise Gap: Development of a Web-Based Platform for Accessible Time Series Forecasting and Analysis](https://arxiv.org/abs/2512.07992v1)** | 2025-12-08 |  |
-| **[Weighted Contrastive Learning for Anomaly-Aware Time-Series Forecasting](https://arxiv.org/abs/2512.07569v1)** | 2025-12-08 |  |
-| **[HN-MVTS: HyperNetwork-based Multivariate Time Series Forecasting](https://arxiv.org/abs/2511.08340v2)** | 2025-12-08 | AAAI 2026 |
-| **[UniDiff: A Unified Diffusion Framework for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.07184v1)** | 2025-12-08 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
