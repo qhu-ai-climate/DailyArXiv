@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 18, 2025
+title: Latest 15 Papers - December 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CANet: ChronoAdaptive Network for Enhanced Long-Term Time Series Forecasting under Non-Stationarity](https://arxiv.org/abs/2504.17913v2)** | 2025-12-17 |  |
 | **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502v3)** | 2025-12-16 | <details><summary>38 pa...</summary><p>38 pages, 22 figures, 17 tables</p></details> |
 | **[Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting](https://arxiv.org/abs/2502.14704v4)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25 (spotlight)</p></details> |
 | **[FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting](https://arxiv.org/abs/2512.14253v1)** | 2025-12-16 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Channel Dependence, Limited Lookback Windows, and the Simplicity of Datasets: How Biased is Time Series Forecasting?](https://arxiv.org/abs/2502.09683v2)** | 2025-12-15 |  |
 | **[Adaptive Information Routing for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.10229v2)** | 2025-12-15 |  |
 | **[Improving Time Series Forecasting via Instance-aware Post-hoc Revision](https://arxiv.org/abs/2505.23583v2)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 as a poster</p></details> |
-| **[TwinFormer: A Dual-Level Transformer for Long-Sequence Time-Series Forecasting](https://arxiv.org/abs/2512.12301v1)** | 2025-12-13 | 14 pages, 4 figures |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FADTI: Fourier and Attention Driven Diffusion for Multivariate Time Series Imputation](https://arxiv.org/abs/2512.15116v1)** | 2025-12-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. 15 pages, 8 figures</p></details> |
 | **[Deep sub-ensembles meets quantile regression: uncertainty-aware imputation for time series](https://arxiv.org/abs/2312.01294v4)** | 2025-12-01 | <details><summary>Publi...</summary><p>Published in Machine Learning, 114, 268 (2025). DOI: 10.1007/s10994-025-06922-x</p></details> |
 | **[PAST: A Primary-Auxiliary Spatio-Temporal Network for Traffic Time Series Imputation](https://arxiv.org/abs/2511.13414v1)** | 2025-11-17 |  |
 | **[MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling](https://arxiv.org/abs/2507.13207v3)** | 2025-11-08 | <details><summary>10th ...</summary><p>10th Workshop on Advanced Analytics and Learning on Temporal Data (AALTD), ECML 2025</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Spatial Imputation Drives Cross-Domain Alignment for EEG Classification](https://arxiv.org/abs/2508.03437v1)** | 2025-08-05 | ACMMM 2025 poster |
 | **[CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation](https://arxiv.org/abs/2501.19364v2)** | 2025-07-26 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 13 tables</p></details> |
 | **[Impute With Confidence: A Framework for Uncertainty Aware Multivariate Time Series Imputation](https://arxiv.org/abs/2507.09353v1)** | 2025-07-12 |  |
-| **[DIM-SUM: Dynamic IMputation for Smart Utility Management](https://arxiv.org/abs/2506.20023v1)** | 2025-06-24 |  |
 
