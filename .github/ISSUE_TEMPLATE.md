@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 19, 2025
+title: Latest 15 Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting](https://arxiv.org/abs/2412.08435v5)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted by KDD 2025. This version fixed typos in Eq. (3)</p></details> |
+| **[SEED: Spectral Entropy-Guided Evaluation of SpatialTemporal Dependencies for Multivariate Time Series Forecasting](https://arxiv.org/abs/2512.14718v2)** | 2025-12-18 |  |
+| **[Conversational Time Series Foundation Models: Towards Explainable and Effective Forecasting](https://arxiv.org/abs/2512.16022v1)** | 2025-12-17 | 31Pages |
+| **[Forking-Sequences](https://arxiv.org/abs/2510.04487v3)** | 2025-12-17 | <details><summary>Prese...</summary><p>Presented at the GPU-Accelerated and Scalable Optimization (ScaleOpt) Workshop, NeurIPS 2025</p></details> |
 | **[CANet: ChronoAdaptive Network for Enhanced Long-Term Time Series Forecasting under Non-Stationarity](https://arxiv.org/abs/2504.17913v2)** | 2025-12-17 |  |
 | **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502v3)** | 2025-12-16 | <details><summary>38 pa...</summary><p>38 pages, 22 figures, 17 tables</p></details> |
 | **[Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting](https://arxiv.org/abs/2502.14704v4)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25 (spotlight)</p></details> |
@@ -15,13 +19,9 @@ labels: documentation
 | **[MIRA: Medical Time Series Foundation Model for Real-World Health Data](https://arxiv.org/abs/2506.07584v7)** | 2025-12-16 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Main Conference</p></details> |
 | **[Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](https://arxiv.org/abs/2510.14510v5)** | 2025-12-16 |  |
 | **[Multivariate Time Series Forecasting with Hybrid Euclidean-SPD Manifold Graph Neural Networks](https://arxiv.org/abs/2512.14023v1)** | 2025-12-16 |  |
-| **[Forking-Sequences](https://arxiv.org/abs/2510.04487v2)** | 2025-12-16 | <details><summary>Prese...</summary><p>Presented at the GPU-Accelerated and Scalable Optimization (ScaleOpt) Workshop, NeurIPS 2025</p></details> |
 | **[Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting](https://arxiv.org/abs/2305.15786v4)** | 2025-12-16 | <details><summary>Publi...</summary><p>Published at ICML 2023. In this version, we clarify that the proof in fact yields a strictly stronger bound than the one stated in the ICML version</p></details> |
 | **[From Many Models, One: Macroeconomic Forecasting with Reservoir Ensembles](https://arxiv.org/abs/2512.13642v1)** | 2025-12-15 |  |
 | **[HTMformer: Hybrid Time and Multivariate Transformer for Time Series Forecasting](https://arxiv.org/abs/2510.07084v3)** | 2025-12-15 |  |
-| **[Channel Dependence, Limited Lookback Windows, and the Simplicity of Datasets: How Biased is Time Series Forecasting?](https://arxiv.org/abs/2502.09683v2)** | 2025-12-15 |  |
-| **[Adaptive Information Routing for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.10229v2)** | 2025-12-15 |  |
-| **[Improving Time Series Forecasting via Instance-aware Post-hoc Revision](https://arxiv.org/abs/2505.23583v2)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 as a poster</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
