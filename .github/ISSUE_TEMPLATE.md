@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 01, 2026
+title: Latest 15 Papers - January 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,12 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PRISM: A hierarchical multiscale approach for time series forecasting](https://arxiv.org/abs/2512.24898v1)** | 2025-12-31 |  |
+| **[Efficient Deep Learning for Short-Term Solar Irradiance Time Series Forecasting: A Benchmark Study in Ho Chi Minh City](https://arxiv.org/abs/2512.23898v1)** | 2025-12-29 | preprint, 40 pages |
+| **[BCWildfire: A Long-term Multi-factor Dataset and Deep Learning Benchmark for Boreal Wildfire Risk Prediction](https://arxiv.org/abs/2511.17597v2)** | 2025-12-29 | <details><summary>This ...</summary><p>This paper has been accepted by AAAI-26</p></details> |
 | **[Time-series Forecast for Indoor Zone Air Temperature with Long Horizons: A Case Study with Sensor-based Data from a Smart Building](https://arxiv.org/abs/2512.19038v2)** | 2025-12-28 |  |
 | **[What Matters in Deep Learning for Time Series Forecasting?](https://arxiv.org/abs/2512.22702v1)** | 2025-12-27 |  |
+| **[HINTS: Extraction of Human Insights from Time-Series Without External Sources](https://arxiv.org/abs/2512.23755v1)** | 2025-12-27 | <details><summary>AAAI ...</summary><p>AAAI 2026 AI4TS Workshop paper</p></details> |
 | **[TimePerceiver: An Encoder-Decoder Framework for Generalized Time-Series Forecasting](https://arxiv.org/abs/2512.22550v1)** | 2025-12-27 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. The code is available at https://github.com/efficient-learning-lab/TimePerceiver</p></details> |
 | **[RefineBridge: Generative Bridge Models Improve Financial Forecasting by Foundation Models](https://arxiv.org/abs/2512.21572v1)** | 2025-12-25 |  |
 | **[Explainable time-series forecasting with sampling-free SHAP for Transformers](https://arxiv.org/abs/2512.20514v1)** | 2025-12-23 |  |
@@ -18,14 +22,11 @@ labels: documentation
 | **[Adaptive Information Routing for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.10229v3)** | 2025-12-23 |  |
 | **[Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://arxiv.org/abs/2505.24511v4)** | 2025-12-21 |  |
 | **[ASTIF: Adaptive Semantic-Temporal Integration for Cryptocurrency Price Forecasting](https://arxiv.org/abs/2512.18661v1)** | 2025-12-21 | 33 Pages, 8 Figures |
-| **[HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic Forecasting](https://arxiv.org/abs/2307.14596v2)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted for publication in the Communications in Transportation Research on December 2025. 38 paqes with 9 fiqures and 6 tables</p></details> |
-| **[A lightweight Spatial-Temporal Graph Neural Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2512.17453v1)** | 2025-12-19 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 2 tables. Accepted for presentation at the 18th International Conference on Agents and Artificial Intelligence (ICAART 2026), Marbella, Spain</p></details> |
-| **[Electric Vehicle Charging Load Forecasting: An Experimental Comparison of Machine Learning Methods](https://arxiv.org/abs/2512.17257v1)** | 2025-12-19 | <details><summary>18 pa...</summary><p>18 pages, 2 figures, 5 tables</p></details> |
-| **[Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting](https://arxiv.org/abs/2412.08435v5)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted by KDD 2025. This version fixed typos in Eq. (3)</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploiting the Prior of Generative Time Series Imputation](https://arxiv.org/abs/2512.23832v1)** | 2025-12-29 |  |
 | **[STDiff: A State Transition Diffusion Framework for Time Series Imputation in Industrial Systems](https://arxiv.org/abs/2508.19011v3)** | 2025-12-19 | <details><summary>Peer-...</summary><p>Peer-reviewed and published in Expert Systems with Applications, Volume 302 (2026). This version reflects the published article</p></details> |
 | **[A Structure-Preserving Assessment of VBPBB for Time Series Imputation Under Periodic Trends, Noise, and Missingness Mechanisms](https://arxiv.org/abs/2508.19535v3)** | 2025-12-19 | <details><summary>24 pa...</summary><p>24 pages, 6 figure and 3 tables</p></details> |
 | **[FADTI: Fourier and Attention Driven Diffusion for Multivariate Time Series Imputation](https://arxiv.org/abs/2512.15116v1)** | 2025-12-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. 15 pages, 8 figures</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Temporal Wasserstein Imputation: A Versatile Method for Time Series Imputation](https://arxiv.org/abs/2411.02811v3)** | 2025-08-13 |  |
 | **[Spatial Imputation Drives Cross-Domain Alignment for EEG Classification](https://arxiv.org/abs/2508.03437v1)** | 2025-08-05 | ACMMM 2025 poster |
 | **[CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation](https://arxiv.org/abs/2501.19364v2)** | 2025-07-26 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 13 tables</p></details> |
-| **[Impute With Confidence: A Framework for Uncertainty Aware Multivariate Time Series Imputation](https://arxiv.org/abs/2507.09353v1)** | 2025-07-12 |  |
 
