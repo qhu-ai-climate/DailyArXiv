@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 07, 2026
+title: Latest 15 Papers - January 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002v2)** | 2026-01-06 | <details><summary>This ...</summary><p>This submission is withdrawn due to internal review and compliance considerations</p></details> |
+| **[Which Deep Learner? A Systematic Evaluation of Advanced Deep Forecasting Models Accuracy and Efficiency for Network Traffic Prediction](https://arxiv.org/abs/2601.02694v1)** | 2026-01-06 | 19 pages, 13 figures |
 | **[From XAI to Stories: A Factorial Study of LLM-Generated Explanation Quality](https://arxiv.org/abs/2601.02224v1)** | 2026-01-05 |  |
 | **[TimeMosaic: Temporal Heterogeneity Guided Time Series Forecasting via Adaptive Granularity Patch and Segment-wise Decoding](https://arxiv.org/abs/2509.19406v5)** | 2026-01-05 | <details><summary>This ...</summary><p>This paper has been accepted by AAAI</p></details> |
 | **[Horizon Activation Mapping for Neural Networks in Time Series Forecasting](https://arxiv.org/abs/2601.02094v1)** | 2026-01-05 |  |
@@ -14,14 +16,12 @@ labels: documentation
 | **[Optimal Look-back Horizon for Time Series Forecasting in Federated Learning](https://arxiv.org/abs/2511.12791v3)** | 2026-01-04 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 as Oral Presentation</p></details> |
 | **[Zero-shot Forecasting by Simulation Alone](https://arxiv.org/abs/2601.00970v1)** | 2026-01-02 |  |
 | **[BSAT: B-Spline Adaptive Tokenizer for Long-Term Time Series Forecasting](https://arxiv.org/abs/2601.00698v1)** | 2026-01-02 | 20 pages, 7 figures |
+| **[SpikySpace: A Spiking State Space Model for Energy-Efficient Time Series Forecasting](https://arxiv.org/abs/2601.02411v1)** | 2026-01-02 | 13 pages, 4 figures |
 | **[Learning to be Reproducible: Custom Loss Design for Robust Neural Networks](https://arxiv.org/abs/2601.00578v1)** | 2026-01-02 |  |
 | **[Sparse Tucker Decomposition and Graph Regularization for High-Dimensional Time Series Forecasting](https://arxiv.org/abs/2601.00377v1)** | 2026-01-01 |  |
 | **[StockBot 2.0: Vanilla LSTMs Outperform Transformer-based Forecasting for Stock Prices](https://arxiv.org/abs/2601.00197v1)** | 2026-01-01 | 14 pages, 5 figures |
 | **[PRISM: A hierarchical multiscale approach for time series forecasting](https://arxiv.org/abs/2512.24898v1)** | 2025-12-31 |  |
 | **[Efficient Deep Learning for Short-Term Solar Irradiance Time Series Forecasting: A Benchmark Study in Ho Chi Minh City](https://arxiv.org/abs/2512.23898v1)** | 2025-12-29 | preprint, 40 pages |
-| **[BCWildfire: A Long-term Multi-factor Dataset and Deep Learning Benchmark for Boreal Wildfire Risk Prediction](https://arxiv.org/abs/2511.17597v2)** | 2025-12-29 | <details><summary>This ...</summary><p>This paper has been accepted by AAAI-26</p></details> |
-| **[Time-series Forecast for Indoor Zone Air Temperature with Long Horizons: A Case Study with Sensor-based Data from a Smart Building](https://arxiv.org/abs/2512.19038v2)** | 2025-12-28 |  |
-| **[What Matters in Deep Learning for Time Series Forecasting?](https://arxiv.org/abs/2512.22702v1)** | 2025-12-27 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
