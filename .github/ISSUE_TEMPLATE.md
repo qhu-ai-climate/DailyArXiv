@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 08, 2026
+title: Latest 15 Papers - January 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation](https://arxiv.org/abs/2502.15016v3)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at KDD 2026, we release our code publicly at https://github.com/LingFengGold/TimeDistill</p></details> |
+| **[Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization](https://arxiv.org/abs/2601.03683v1)** | 2026-01-07 |  |
 | **[LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002v2)** | 2026-01-06 | <details><summary>This ...</summary><p>This submission is withdrawn due to internal review and compliance considerations</p></details> |
 | **[Which Deep Learner? A Systematic Evaluation of Advanced Deep Forecasting Models Accuracy and Efficiency for Network Traffic Prediction](https://arxiv.org/abs/2601.02694v1)** | 2026-01-06 | 19 pages, 13 figures |
 | **[From XAI to Stories: A Factorial Study of LLM-Generated Explanation Quality](https://arxiv.org/abs/2601.02224v1)** | 2026-01-05 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Learning to be Reproducible: Custom Loss Design for Robust Neural Networks](https://arxiv.org/abs/2601.00578v1)** | 2026-01-02 |  |
 | **[Sparse Tucker Decomposition and Graph Regularization for High-Dimensional Time Series Forecasting](https://arxiv.org/abs/2601.00377v1)** | 2026-01-01 |  |
 | **[StockBot 2.0: Vanilla LSTMs Outperform Transformer-based Forecasting for Stock Prices](https://arxiv.org/abs/2601.00197v1)** | 2026-01-01 | 14 pages, 5 figures |
-| **[PRISM: A hierarchical multiscale approach for time series forecasting](https://arxiv.org/abs/2512.24898v1)** | 2025-12-31 |  |
-| **[Efficient Deep Learning for Short-Term Solar Irradiance Time Series Forecasting: A Benchmark Study in Ho Chi Minh City](https://arxiv.org/abs/2512.23898v1)** | 2025-12-29 | preprint, 40 pages |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
