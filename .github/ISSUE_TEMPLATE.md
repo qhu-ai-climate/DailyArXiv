@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[There are no Champions in Supervised Long-Term Time Series Forecasting](https://arxiv.org/abs/2502.14045v2)** | 2026-01-09 | Accepted at TMLR |
+| **[ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/abs/2511.11991v2)** | 2026-01-09 | AAAI 2026 Oral |
+| **[PiXTime: A Model for Federated Time Series Forecasting with Heterogeneous Data Structures Across Nodes](https://arxiv.org/abs/2601.05613v1)** | 2026-01-09 |  |
+| **[GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting](https://arxiv.org/abs/2601.05353v1)** | 2026-01-08 |  |
 | **[Forking-Sequences](https://arxiv.org/abs/2510.04487v4)** | 2026-01-08 | <details><summary>Prese...</summary><p>Presented at the GPU-Accelerated and Scalable Optimization (ScaleOpt) Workshop, NeurIPS 2025</p></details> |
 | **[ASTGI: Adaptive Spatio-Temporal Graph Interactions for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2509.23313v2)** | 2026-01-08 |  |
 | **[TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation](https://arxiv.org/abs/2502.15016v3)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at KDD 2026, we release our code publicly at https://github.com/LingFengGold/TimeDistill</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[TimeMosaic: Temporal Heterogeneity Guided Time Series Forecasting via Adaptive Granularity Patch and Segment-wise Decoding](https://arxiv.org/abs/2509.19406v5)** | 2026-01-05 | <details><summary>This ...</summary><p>This paper has been accepted by AAAI</p></details> |
 | **[Horizon Activation Mapping for Neural Networks in Time Series Forecasting](https://arxiv.org/abs/2601.02094v1)** | 2026-01-05 |  |
 | **[ReNF: Rethinking the Design Space of Neural Long-Term Time Series Forecasters](https://arxiv.org/abs/2509.25914v5)** | 2026-01-05 |  |
-| **[Optimal Look-back Horizon for Time Series Forecasting in Federated Learning](https://arxiv.org/abs/2511.12791v3)** | 2026-01-04 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 as Oral Presentation</p></details> |
-| **[Zero-shot Forecasting by Simulation Alone](https://arxiv.org/abs/2601.00970v1)** | 2026-01-02 |  |
-| **[BSAT: B-Spline Adaptive Tokenizer for Long-Term Time Series Forecasting](https://arxiv.org/abs/2601.00698v1)** | 2026-01-02 | 20 pages, 7 figures |
-| **[SpikySpace: A Spiking State Space Model for Energy-Efficient Time Series Forecasting](https://arxiv.org/abs/2601.02411v1)** | 2026-01-02 | 13 pages, 4 figures |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
