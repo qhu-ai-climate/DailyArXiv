@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 13, 2026
+title: Latest 15 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dual-Level Models for Physics-Informed Multi-Step Time Series Forecasting](https://arxiv.org/abs/2601.07640v1)** | 2026-01-12 |  |
+| **[Uncovering the Computational Roles of Nonlinearity in Sequence Modeling Using Almost-Linear RNNs](https://arxiv.org/abs/2506.07919v2)** | 2026-01-12 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), https://openreview.net/forum?id=qI2Vt9P9rl</p></details> |
+| **[DDT: A Dual-Masking Dual-Expert Transformer for Energy Time-Series Forecasting](https://arxiv.org/abs/2601.07250v1)** | 2026-01-12 |  |
+| **[Improving Day-Ahead Grid Carbon Intensity Forecasting by Joint Modeling of Local-Temporal and Cross-Variable Dependencies Across Different Frequencies](https://arxiv.org/abs/2601.06530v1)** | 2026-01-10 | <details><summary>2026 ...</summary><p>2026 40th AAAI Conference on Artificial Intelligence</p></details> |
+| **[Continual Quantum Architecture Search with Tensor-Train Encoding: Theory and Applications to Signal Processing](https://arxiv.org/abs/2601.06392v1)** | 2026-01-10 | In submission |
 | **[There are no Champions in Supervised Long-Term Time Series Forecasting](https://arxiv.org/abs/2502.14045v2)** | 2026-01-09 | Accepted at TMLR |
 | **[ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/abs/2511.11991v2)** | 2026-01-09 | AAAI 2026 Oral |
 | **[PiXTime: A Model for Federated Time Series Forecasting with Heterogeneous Data Structures Across Nodes](https://arxiv.org/abs/2601.05613v1)** | 2026-01-09 |  |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization](https://arxiv.org/abs/2601.03683v1)** | 2026-01-07 |  |
 | **[LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002v2)** | 2026-01-06 | <details><summary>This ...</summary><p>This submission is withdrawn due to internal review and compliance considerations</p></details> |
 | **[Beyond Immediate Activation: Temporally Decoupled Backdoor Attacks on Time Series Forecasting](https://arxiv.org/abs/2601.04247v1)** | 2026-01-06 |  |
-| **[Which Deep Learner? A Systematic Evaluation of Advanced Deep Forecasting Models Accuracy and Efficiency for Network Traffic Prediction](https://arxiv.org/abs/2601.02694v1)** | 2026-01-06 | 19 pages, 13 figures |
-| **[From XAI to Stories: A Factorial Study of LLM-Generated Explanation Quality](https://arxiv.org/abs/2601.02224v1)** | 2026-01-05 |  |
-| **[TimeMosaic: Temporal Heterogeneity Guided Time Series Forecasting via Adaptive Granularity Patch and Segment-wise Decoding](https://arxiv.org/abs/2509.19406v5)** | 2026-01-05 | <details><summary>This ...</summary><p>This paper has been accepted by AAAI</p></details> |
-| **[Horizon Activation Mapping for Neural Networks in Time Series Forecasting](https://arxiv.org/abs/2601.02094v1)** | 2026-01-05 |  |
-| **[ReNF: Rethinking the Design Space of Neural Long-Term Time Series Forecasters](https://arxiv.org/abs/2509.25914v5)** | 2026-01-05 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
