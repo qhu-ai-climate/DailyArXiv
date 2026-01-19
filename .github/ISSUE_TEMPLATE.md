@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 19, 2026
+title: Latest 15 Papers - January 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FEATHer: Fourier-Efficient Adaptive Temporal Hierarchy Forecaster for Time-Series Forecasting](https://arxiv.org/abs/2601.11350v1)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
+| **[Epidemic Forecasting with a Hybrid Deep Learning Method Using CNN-LSTM With WOA-GWO Parameter Optimization: Global COVID-19 Case Study](https://arxiv.org/abs/2503.12813v3)** | 2026-01-16 |  |
+| **[Beyond Accuracy: A Stability-Aware Metric for Multi-Horizon Forecasting](https://arxiv.org/abs/2601.10863v1)** | 2026-01-15 |  |
 | **[Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning](https://arxiv.org/abs/2601.07903v2)** | 2026-01-14 |  |
 | **[Horizon Activation Mapping for Neural Networks in Time Series Forecasting](https://arxiv.org/abs/2601.02094v2)** | 2026-01-14 |  |
 | **[XLinear: A Lightweight and Accurate MLP-Based Model for Long-Term Time Series Forecasting with Exogenous Inputs](https://arxiv.org/abs/2601.09237v1)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Dual-Level Models for Physics-Informed Multi-Step Time Series Forecasting](https://arxiv.org/abs/2601.07640v1)** | 2026-01-12 |  |
 | **[Uncovering the Computational Roles of Nonlinearity in Sequence Modeling Using Almost-Linear RNNs](https://arxiv.org/abs/2506.07919v2)** | 2026-01-12 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), https://openreview.net/forum?id=qI2Vt9P9rl</p></details> |
 | **[DDT: A Dual-Masking Dual-Expert Transformer for Energy Time-Series Forecasting](https://arxiv.org/abs/2601.07250v1)** | 2026-01-12 |  |
-| **[Improving Day-Ahead Grid Carbon Intensity Forecasting by Joint Modeling of Local-Temporal and Cross-Variable Dependencies Across Different Frequencies](https://arxiv.org/abs/2601.06530v1)** | 2026-01-10 | <details><summary>2026 ...</summary><p>2026 40th AAAI Conference on Artificial Intelligence</p></details> |
-| **[Continual Quantum Architecture Search with Tensor-Train Encoding: Theory and Applications to Signal Processing](https://arxiv.org/abs/2601.06392v1)** | 2026-01-10 | In submission |
-| **[There are no Champions in Supervised Long-Term Time Series Forecasting](https://arxiv.org/abs/2502.14045v2)** | 2026-01-09 | Accepted at TMLR |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
