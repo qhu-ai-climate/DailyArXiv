@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Intermittent time series forecasting: local vs global models](https://arxiv.org/abs/2601.14031v1)** | 2026-01-20 | <details><summary>Submi...</summary><p>Submitted to Data Mining and Knowledge Discovery</p></details> |
+| **[From Many Models, One: Macroeconomic Forecasting with Reservoir Ensembles](https://arxiv.org/abs/2512.13642v2)** | 2026-01-20 | <details><summary>Updat...</summary><p>Updated manuscript with shortened main text</p></details> |
+| **[vLinear: A Powerful Linear Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2601.13768v1)** | 2026-01-20 |  |
+| **[Channel, Trend and Periodic-Wise Representation Learning for Multivariate Long-term Time Series Forecasting](https://arxiv.org/abs/2509.23583v2)** | 2026-01-20 |  |
+| **[Online Continual Learning for Time Series: a Natural Score-driven Approach](https://arxiv.org/abs/2601.12931v1)** | 2026-01-19 |  |
+| **[AdaNODEs: Test Time Adaptation for Time Series Forecasting Using Neural ODEs](https://arxiv.org/abs/2601.12893v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
+| **[Distilling Time Series Foundation Models for Efficient Forecasting](https://arxiv.org/abs/2601.12785v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP-2026</p></details> |
+| **[Trend-Adjusted Time Series Models with an Application to Gold Price Forecasting](https://arxiv.org/abs/2601.12706v1)** | 2026-01-19 |  |
+| **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v1)** | 2026-01-18 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
+| **[TimeGMM: Single-Pass Probabilistic Forecasting via Adaptive Gaussian Mixture Models with Reversible Normalization](https://arxiv.org/abs/2601.12288v1)** | 2026-01-18 |  |
+| **[Horizon Activation Mapping for Neural Networks in Time Series Forecasting](https://arxiv.org/abs/2601.02094v3)** | 2026-01-17 |  |
 | **[FEATHer: Fourier-Efficient Adaptive Temporal Hierarchy Forecaster for Time-Series Forecasting](https://arxiv.org/abs/2601.11350v1)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
 | **[Epidemic Forecasting with a Hybrid Deep Learning Method Using CNN-LSTM With WOA-GWO Parameter Optimization: Global COVID-19 Case Study](https://arxiv.org/abs/2503.12813v3)** | 2026-01-16 |  |
 | **[Beyond Accuracy: A Stability-Aware Metric for Multi-Horizon Forecasting](https://arxiv.org/abs/2601.10863v1)** | 2026-01-15 |  |
 | **[Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning](https://arxiv.org/abs/2601.07903v2)** | 2026-01-14 |  |
-| **[Horizon Activation Mapping for Neural Networks in Time Series Forecasting](https://arxiv.org/abs/2601.02094v2)** | 2026-01-14 |  |
-| **[XLinear: A Lightweight and Accurate MLP-Based Model for Long-Term Time Series Forecasting with Exogenous Inputs](https://arxiv.org/abs/2601.09237v1)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[From Hawkes Processes to Attention: Time-Modulated Mechanisms for Event Sequences](https://arxiv.org/abs/2601.09220v1)** | 2026-01-14 |  |
-| **[M$^2$FMoE: Multi-Resolution Multi-View Frequency Mixture-of-Experts for Extreme-Adaptive Time Series Forecasting](https://arxiv.org/abs/2601.08631v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[What If TSF: A Benchmark for Reframing Forecasting as Scenario-Guided Multimodal Forecasting](https://arxiv.org/abs/2601.08509v1)** | 2026-01-13 | 30 pages, 5 figures |
-| **[Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization](https://arxiv.org/abs/2601.03683v2)** | 2026-01-13 |  |
-| **[LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002v3)** | 2026-01-13 | <details><summary>This ...</summary><p>This submission is withdrawn due to internal review and compliance considerations</p></details> |
-| **[Beyond the Next Port: A Multi-Task Transformer for Forecasting Future Voyage Segment Durations](https://arxiv.org/abs/2601.08013v1)** | 2026-01-12 |  |
-| **[Dual-Level Models for Physics-Informed Multi-Step Time Series Forecasting](https://arxiv.org/abs/2601.07640v1)** | 2026-01-12 |  |
-| **[Uncovering the Computational Roles of Nonlinearity in Sequence Modeling Using Almost-Linear RNNs](https://arxiv.org/abs/2506.07919v2)** | 2026-01-12 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), https://openreview.net/forum?id=qI2Vt9P9rl</p></details> |
-| **[DDT: A Dual-Masking Dual-Expert Transformer for Energy Time-Series Forecasting](https://arxiv.org/abs/2601.07250v1)** | 2026-01-12 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
