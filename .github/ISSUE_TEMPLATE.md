@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2026
+title: Latest 15 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](https://arxiv.org/abs/2601.16632v1)** | 2026-01-23 |  |
+| **[Jacobian Scopes: token-level causal attributions in LLMs](https://arxiv.org/abs/2601.16407v1)** | 2026-01-23 | <details><summary>12 pa...</summary><p>12 pages, 15 figures, under review at ACL 2026</p></details> |
 | **[Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning](https://arxiv.org/abs/2601.07903v3)** | 2026-01-22 |  |
 | **[StoxLSTM: A Stochastic Extended Long Short-Term Memory Network for Time Series Forecasting](https://arxiv.org/abs/2509.01187v2)** | 2026-01-22 |  |
 | **[Dualformer: Time-Frequency Dual Domain Learning for Long-term Time Series Forecasting](https://arxiv.org/abs/2601.15669v1)** | 2026-01-22 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Distilling Time Series Foundation Models for Efficient Forecasting](https://arxiv.org/abs/2601.12785v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP-2026</p></details> |
 | **[Trend-Adjusted Time Series Models with an Application to Gold Price Forecasting](https://arxiv.org/abs/2601.12706v1)** | 2026-01-19 |  |
 | **[TimeGMM: Single-Pass Probabilistic Forecasting via Adaptive Gaussian Mixture Models with Reversible Normalization](https://arxiv.org/abs/2601.12288v1)** | 2026-01-18 |  |
-| **[Horizon Activation Mapping for Neural Networks in Time Series Forecasting](https://arxiv.org/abs/2601.02094v3)** | 2026-01-17 |  |
-| **[FEATHer: Fourier-Efficient Adaptive Temporal Hierarchy Forecaster for Time-Series Forecasting](https://arxiv.org/abs/2601.11350v1)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
