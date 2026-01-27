@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Conformal Prediction Algorithms for Time Series Forecasting: Methods and Benchmark](https://arxiv.org/abs/2601.18509v1)** | 2026-01-26 |  |
+| **[Forecasting the Maintained Score from the OpenSSF Scorecard for GitHub Repositories linked to PyPI libraries](https://arxiv.org/abs/2601.18344v1)** | 2026-01-26 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 2 tables</p></details> |
+| **[SDGF: Fusing Static and Multi-Scale Dynamic Correlations for Multivariate Time Series Forecasting](https://arxiv.org/abs/2509.18135v2)** | 2026-01-26 |  |
+| **[Momentum-integrated Multi-task Stock Recommendation with Converge-based Optimization](https://arxiv.org/abs/2509.10461v2)** | 2026-01-24 | 10 pages, 5 figures |
 | **[Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](https://arxiv.org/abs/2601.16632v1)** | 2026-01-23 |  |
 | **[Jacobian Scopes: token-level causal attributions in LLMs](https://arxiv.org/abs/2601.16407v1)** | 2026-01-23 | <details><summary>12 pa...</summary><p>12 pages, 15 figures, under review at ACL 2026</p></details> |
 | **[Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning](https://arxiv.org/abs/2601.07903v3)** | 2026-01-22 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[vLinear: A Powerful Linear Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2601.13768v1)** | 2026-01-20 |  |
 | **[Channel, Trend and Periodic-Wise Representation Learning for Multivariate Long-term Time Series Forecasting](https://arxiv.org/abs/2509.23583v2)** | 2026-01-20 |  |
 | **[Online Continual Learning for Time Series: a Natural Score-driven Approach](https://arxiv.org/abs/2601.12931v1)** | 2026-01-19 |  |
-| **[AdaNODEs: Test Time Adaptation for Time Series Forecasting Using Neural ODEs](https://arxiv.org/abs/2601.12893v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[Distilling Time Series Foundation Models for Efficient Forecasting](https://arxiv.org/abs/2601.12785v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP-2026</p></details> |
-| **[Trend-Adjusted Time Series Models with an Application to Gold Price Forecasting](https://arxiv.org/abs/2601.12706v1)** | 2026-01-19 |  |
-| **[TimeGMM: Single-Pass Probabilistic Forecasting via Adaptive Gaussian Mixture Models with Reversible Normalization](https://arxiv.org/abs/2601.12288v1)** | 2026-01-18 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
