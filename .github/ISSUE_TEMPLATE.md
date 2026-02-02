@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 30, 2026
+title: Latest 15 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RefineBridge: Generative Bridge Models Improve Financial Forecasting by Foundation Models](https://arxiv.org/abs/2512.21572v2)** | 2026-01-30 |  |
+| **[To See Far, Look Close: Evolutionary Forecasting for Long-term Time Series](https://arxiv.org/abs/2601.23114v1)** | 2026-01-30 |  |
+| **[Conformal Prediction Algorithms for Time Series Forecasting: Methods and Benchmarking](https://arxiv.org/abs/2601.18509v2)** | 2026-01-30 |  |
+| **[QuiZSF: A Retrieval-Augmented Framework for Zero-Shot Time Series Forecasting](https://arxiv.org/abs/2508.06915v2)** | 2026-01-30 |  |
+| **[Fidel-TS: A High-Fidelity Multimodal Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.24789v3)** | 2026-01-30 | new version |
+| **[MoHETS: Long-term Time Series Forecasting with Mixture-of-Heterogeneous-Experts](https://arxiv.org/abs/2601.21866v1)** | 2026-01-29 | Under review |
+| **[A Decomposable Forward Process in Diffusion Models for Time-Series Forecasting](https://arxiv.org/abs/2601.21812v1)** | 2026-01-29 | submitted to ICML'26 |
+| **[DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting](https://arxiv.org/abs/2601.21726v1)** | 2026-01-29 |  |
+| **[Seg-MoE: Multi-Resolution Segment-wise Mixture-of-Experts for Time Series Forecasting Transformers](https://arxiv.org/abs/2601.21641v1)** | 2026-01-29 | Under review |
+| **[DA-SPS: A Dual-stage Network based on Singular Spectrum Analysis, Patching-strategy and Spearman-correlation for Multivariate Time-series Prediction](https://arxiv.org/abs/2601.21381v1)** | 2026-01-29 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 6 tables, submitted to IEEE Transactions on Emerging Topics in Computational Intelligence</p></details> |
 | **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
 | **[EVEREST: An Evidential, Tail-Aware Transformer for Rare-Event Time-Series Forecasting](https://arxiv.org/abs/2601.19022v2)** | 2026-01-28 | <details><summary>Updat...</summary><p>Updated author affiliation. No changes to technical content</p></details> |
 | **[Continuous Evolution Pool: Taming Recurring Concept Drift in Online Time Series Forecasting](https://arxiv.org/abs/2506.14790v2)** | 2026-01-28 |  |
 | **[ACFormer: Mitigating Non-linearity with Auto Convolutional Encoder for Time Series Forecasting](https://arxiv.org/abs/2601.20611v1)** | 2026-01-28 |  |
 | **[Byte Pair Encoding for Efficient Time Series Forecasting](https://arxiv.org/abs/2505.14411v3)** | 2026-01-28 | <details><summary>29 pa...</summary><p>29 pages in total, 22 figures</p></details> |
-| **[TimeCatcher: A Variational Framework for Volatility-Aware Forecasting of Non-Stationary Time Series](https://arxiv.org/abs/2601.20448v1)** | 2026-01-28 | <details><summary>Under...</summary><p>Under review. 13 pages, 8 figures. This paper proposes a variational framework with adaptive volatility enhancement for non-stationary time series forecasting</p></details> |
-| **[AWGformer: Adaptive Wavelet-Guided Transformer for Multi-Resolution Time Series Forecasting](https://arxiv.org/abs/2601.20409v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[ScatterFusion: A Hierarchical Scattering Transform Framework for Enhanced Time Series Forecasting](https://arxiv.org/abs/2601.20401v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[CPiRi: Channel Permutation-Invariant Relational Interaction for Multivariate Time Series Forecasting](https://arxiv.org/abs/2601.20318v1)** | 2026-01-28 | 22 pages, ICLR 2026 |
-| **[The Forecast After the Forecast: A Post-Processing Shift in Time Series](https://arxiv.org/abs/2601.20280v1)** | 2026-01-28 | 30 Pages |
-| **[DeepBooTS: Dual-Stream Residual Boosting for Drift-Resilient Time-Series Forecasting](https://arxiv.org/abs/2511.06893v2)** | 2026-01-28 | <details><summary>28 pa...</summary><p>28 pages,17 pages, Published in AAAI-26</p></details> |
-| **[Going NUTS with ADVI: Exploring various Bayesian Inference techniques with Facebook Prophet](https://arxiv.org/abs/2601.20120v1)** | 2026-01-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, Published in Proceedings of the 22nd International Conference for Informatics and Information Technologies - CiiT 2025</p></details> |
-| **[Trend-Adjusted Time Series Models with an Application to Gold Price Forecasting](https://arxiv.org/abs/2601.12706v2)** | 2026-01-27 |  |
-| **[Grasynda: Graph-based Synthetic Time Series Generation](https://arxiv.org/abs/2601.19668v1)** | 2026-01-27 | Accepted in IDA'26 |
-| **[Characteristic Root Analysis and Regularization for Linear Time Series Forecasting](https://arxiv.org/abs/2509.23597v2)** | 2026-01-27 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
