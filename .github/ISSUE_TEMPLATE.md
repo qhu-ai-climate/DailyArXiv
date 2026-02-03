@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RefineBridge: Generative Bridge Models Improve Financial Forecasting by Foundation Models](https://arxiv.org/abs/2512.21572v2)** | 2026-01-30 |  |
-| **[To See Far, Look Close: Evolutionary Forecasting for Long-term Time Series](https://arxiv.org/abs/2601.23114v1)** | 2026-01-30 |  |
-| **[Conformal Prediction Algorithms for Time Series Forecasting: Methods and Benchmarking](https://arxiv.org/abs/2601.18509v2)** | 2026-01-30 |  |
-| **[QuiZSF: A Retrieval-Augmented Framework for Zero-Shot Time Series Forecasting](https://arxiv.org/abs/2508.06915v2)** | 2026-01-30 |  |
-| **[Fidel-TS: A High-Fidelity Multimodal Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.24789v3)** | 2026-01-30 | new version |
-| **[MoHETS: Long-term Time Series Forecasting with Mixture-of-Heterogeneous-Experts](https://arxiv.org/abs/2601.21866v1)** | 2026-01-29 | Under review |
-| **[A Decomposable Forward Process in Diffusion Models for Time-Series Forecasting](https://arxiv.org/abs/2601.21812v1)** | 2026-01-29 | submitted to ICML'26 |
-| **[DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting](https://arxiv.org/abs/2601.21726v1)** | 2026-01-29 |  |
-| **[Seg-MoE: Multi-Resolution Segment-wise Mixture-of-Experts for Time Series Forecasting Transformers](https://arxiv.org/abs/2601.21641v1)** | 2026-01-29 | Under review |
-| **[DA-SPS: A Dual-stage Network based on Singular Spectrum Analysis, Patching-strategy and Spearman-correlation for Multivariate Time-series Prediction](https://arxiv.org/abs/2601.21381v1)** | 2026-01-29 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 6 tables, submitted to IEEE Transactions on Emerging Topics in Computational Intelligence</p></details> |
-| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
-| **[EVEREST: An Evidential, Tail-Aware Transformer for Rare-Event Time-Series Forecasting](https://arxiv.org/abs/2601.19022v2)** | 2026-01-28 | <details><summary>Updat...</summary><p>Updated author affiliation. No changes to technical content</p></details> |
-| **[Continuous Evolution Pool: Taming Recurring Concept Drift in Online Time Series Forecasting](https://arxiv.org/abs/2506.14790v2)** | 2026-01-28 |  |
-| **[ACFormer: Mitigating Non-linearity with Auto Convolutional Encoder for Time Series Forecasting](https://arxiv.org/abs/2601.20611v1)** | 2026-01-28 |  |
-| **[Byte Pair Encoding for Efficient Time Series Forecasting](https://arxiv.org/abs/2505.14411v3)** | 2026-01-28 | <details><summary>29 pa...</summary><p>29 pages in total, 22 figures</p></details> |
+| **[Online conformal inference for multi-step time series forecasting](https://arxiv.org/abs/2410.13115v2)** | 2026-02-02 |  |
+| **[Future frame prediction in chest and liver cine MRI using the PCA respiratory motion model: comparing transformers and dynamically trained recurrent neural networks](https://arxiv.org/abs/2410.05882v2)** | 2026-02-02 | <details><summary>43 pa...</summary><p>43 pages, 19 figures, revised version (including transformer experiments, evaluation on liver MRI data, statistical analysis...)</p></details> |
+| **[To See Far, Look Close: Evolutionary Forecasting for Long-term Time Series](https://arxiv.org/abs/2601.23114v2)** | 2026-02-02 |  |
+| **[An Optimization Method for Autoregressive Time Series Forecasting](https://arxiv.org/abs/2602.02288v1)** | 2026-02-02 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables</p></details> |
+| **[SEDformer: Event-Synchronous Spiking Transformers for Irregular Telemetry Time Series Forecasting](https://arxiv.org/abs/2602.02230v1)** | 2026-02-02 | Under review |
+| **[Back to the Future: Look-ahead Augmentation and Parallel Self-Refinement for Time Series Forecasting](https://arxiv.org/abs/2602.02146v1)** | 2026-02-02 | <details><summary>4 pag...</summary><p>4 pages, Short paper accepted at The Web Conference (WWW) 2026</p></details> |
+| **[T-LLM: Teaching Large Language Models to Forecast Time Series via Temporal Distillation](https://arxiv.org/abs/2602.01937v1)** | 2026-02-02 |  |
+| **[shapr: Explaining Machine Learning Models with Conditional Shapley Values in R and Python](https://arxiv.org/abs/2504.01842v3)** | 2026-02-02 |  |
+| **[Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776v1)** | 2026-02-02 |  |
+| **[Position: The Inevitable End of One-Architecture-Fits-All-Domains in Time Series Forecasting](https://arxiv.org/abs/2602.01736v1)** | 2026-02-02 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 2 tables</p></details> |
+| **[ASGMamba: Adaptive Spectral Gating Mamba for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.01668v1)** | 2026-02-02 |  |
+| **[Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer](https://arxiv.org/abs/2512.04282v2)** | 2026-02-02 |  |
+| **[Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](https://arxiv.org/abs/2602.01588v1)** | 2026-02-02 |  |
+| **[A Lightweight Sparse Interaction Network for Time Series Forecasting](https://arxiv.org/abs/2602.01585v1)** | 2026-02-02 | <details><summary>The p...</summary><p>The paper is published in AAAI Conference on Artificial Intelligence, AAAI 2025. The code is available at the link https://github.com/Meteor-Stars/LSINet</p></details> |
+| **[Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting](https://arxiv.org/abs/2509.23074v2)** | 2026-02-02 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Analyzing and Improving Diffusion Models for Time-Series Data Imputation: A Proximal Recursion Perspective](https://arxiv.org/abs/2602.01182v1)** | 2026-02-01 |  |
 | **[ImputeGAP: A Comprehensive Library for Time Series Imputation](https://arxiv.org/abs/2503.15250v2)** | 2026-01-22 |  |
 | **[Exploiting the Prior of Generative Time Series Imputation](https://arxiv.org/abs/2512.23832v1)** | 2025-12-29 |  |
 | **[STDiff: A State Transition Diffusion Framework for Time Series Imputation in Industrial Systems](https://arxiv.org/abs/2508.19011v3)** | 2025-12-19 | <details><summary>Peer-...</summary><p>Peer-reviewed and published in Expert Systems with Applications, Volume 302 (2026). This version reflects the published article</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Glocal Information Bottleneck for Time Series Imputation](https://arxiv.org/abs/2510.04910v1)** | 2025-10-06 |  |
 | **[SSD-TS: Exploring the Potential of Linear State Space Models for Diffusion Models in Time Series Imputation](https://arxiv.org/abs/2410.13338v2)** | 2025-08-19 | KDD' 25 |
 | **[Temporal Wasserstein Imputation: A Versatile Method for Time Series Imputation](https://arxiv.org/abs/2411.02811v3)** | 2025-08-13 |  |
-| **[Spatial Imputation Drives Cross-Domain Alignment for EEG Classification](https://arxiv.org/abs/2508.03437v1)** | 2025-08-05 | ACMMM 2025 poster |
 
