@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 04, 2026
+title: Latest 15 Papers - February 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[fev-bench: A Realistic Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.26468v2)** | 2026-02-03 |  |
+| **[CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting](https://arxiv.org/abs/2602.03564v1)** | 2026-02-03 |  |
+| **[SEDformer: Event-Synchronous Spiking Transformers for Irregular Telemetry Time Series Forecasting](https://arxiv.org/abs/2602.02230v2)** | 2026-02-03 | Under review |
+| **[MoGU: Mixture-of-Gaussians with Uncertainty-based Gating for Time Series Forecasting](https://arxiv.org/abs/2510.07459v2)** | 2026-02-03 |  |
+| **[MemCast: Memory-Driven Time Series Forecasting with Experience-Conditioned Reasoning](https://arxiv.org/abs/2602.03164v1)** | 2026-02-03 |  |
+| **[Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](https://arxiv.org/abs/2602.01588v2)** | 2026-02-03 |  |
+| **[Moirai 2.0: When Less Is More for Time Series Forecasting](https://arxiv.org/abs/2511.11698v3)** | 2026-02-03 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, and 1 table</p></details> |
+| **[The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators](https://arxiv.org/abs/2508.11175v2)** | 2026-02-03 |  |
+| **[CAPS: Unifying Attention, Recurrence, and Alignment in Transformer-based Time Series Forecasting](https://arxiv.org/abs/2602.02729v1)** | 2026-02-02 |  |
 | **[Online conformal inference for multi-step time series forecasting](https://arxiv.org/abs/2410.13115v2)** | 2026-02-02 |  |
 | **[Future frame prediction in chest and liver cine MRI using the PCA respiratory motion model: comparing transformers and dynamically trained recurrent neural networks](https://arxiv.org/abs/2410.05882v2)** | 2026-02-02 | <details><summary>43 pa...</summary><p>43 pages, 19 figures, revised version (including transformer experiments, evaluation on liver MRI data, statistical analysis...)</p></details> |
 | **[To See Far, Look Close: Evolutionary Forecasting for Long-term Time Series](https://arxiv.org/abs/2601.23114v2)** | 2026-02-02 |  |
 | **[An Optimization Method for Autoregressive Time Series Forecasting](https://arxiv.org/abs/2602.02288v1)** | 2026-02-02 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables</p></details> |
-| **[SEDformer: Event-Synchronous Spiking Transformers for Irregular Telemetry Time Series Forecasting](https://arxiv.org/abs/2602.02230v1)** | 2026-02-02 | Under review |
 | **[Back to the Future: Look-ahead Augmentation and Parallel Self-Refinement for Time Series Forecasting](https://arxiv.org/abs/2602.02146v1)** | 2026-02-02 | <details><summary>4 pag...</summary><p>4 pages, Short paper accepted at The Web Conference (WWW) 2026</p></details> |
 | **[T-LLM: Teaching Large Language Models to Forecast Time Series via Temporal Distillation](https://arxiv.org/abs/2602.01937v1)** | 2026-02-02 |  |
-| **[shapr: Explaining Machine Learning Models with Conditional Shapley Values in R and Python](https://arxiv.org/abs/2504.01842v3)** | 2026-02-02 |  |
-| **[Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776v1)** | 2026-02-02 |  |
-| **[Position: The Inevitable End of One-Architecture-Fits-All-Domains in Time Series Forecasting](https://arxiv.org/abs/2602.01736v1)** | 2026-02-02 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 2 tables</p></details> |
-| **[ASGMamba: Adaptive Spectral Gating Mamba for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.01668v1)** | 2026-02-02 |  |
-| **[Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer](https://arxiv.org/abs/2512.04282v2)** | 2026-02-02 |  |
-| **[Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](https://arxiv.org/abs/2602.01588v1)** | 2026-02-02 |  |
-| **[A Lightweight Sparse Interaction Network for Time Series Forecasting](https://arxiv.org/abs/2602.01585v1)** | 2026-02-02 | <details><summary>The p...</summary><p>The paper is published in AAAI Conference on Artificial Intelligence, AAAI 2025. The code is available at the link https://github.com/Meteor-Stars/LSINet</p></details> |
-| **[Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting](https://arxiv.org/abs/2509.23074v2)** | 2026-02-02 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
