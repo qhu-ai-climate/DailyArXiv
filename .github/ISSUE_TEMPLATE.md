@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[fev-bench: A Realistic Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.26468v2)** | 2026-02-03 |  |
-| **[CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting](https://arxiv.org/abs/2602.03564v1)** | 2026-02-03 |  |
-| **[SEDformer: Event-Synchronous Spiking Transformers for Irregular Telemetry Time Series Forecasting](https://arxiv.org/abs/2602.02230v2)** | 2026-02-03 | Under review |
-| **[MoGU: Mixture-of-Gaussians with Uncertainty-based Gating for Time Series Forecasting](https://arxiv.org/abs/2510.07459v2)** | 2026-02-03 |  |
-| **[MemCast: Memory-Driven Time Series Forecasting with Experience-Conditioned Reasoning](https://arxiv.org/abs/2602.03164v1)** | 2026-02-03 |  |
-| **[Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](https://arxiv.org/abs/2602.01588v2)** | 2026-02-03 |  |
-| **[Moirai 2.0: When Less Is More for Time Series Forecasting](https://arxiv.org/abs/2511.11698v3)** | 2026-02-03 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, and 1 table</p></details> |
-| **[The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators](https://arxiv.org/abs/2508.11175v2)** | 2026-02-03 |  |
-| **[CAPS: Unifying Attention, Recurrence, and Alignment in Transformer-based Time Series Forecasting](https://arxiv.org/abs/2602.02729v1)** | 2026-02-02 |  |
-| **[Online conformal inference for multi-step time series forecasting](https://arxiv.org/abs/2410.13115v2)** | 2026-02-02 |  |
-| **[Future frame prediction in chest and liver cine MRI using the PCA respiratory motion model: comparing transformers and dynamically trained recurrent neural networks](https://arxiv.org/abs/2410.05882v2)** | 2026-02-02 | <details><summary>43 pa...</summary><p>43 pages, 19 figures, revised version (including transformer experiments, evaluation on liver MRI data, statistical analysis...)</p></details> |
-| **[To See Far, Look Close: Evolutionary Forecasting for Long-term Time Series](https://arxiv.org/abs/2601.23114v2)** | 2026-02-02 |  |
-| **[An Optimization Method for Autoregressive Time Series Forecasting](https://arxiv.org/abs/2602.02288v1)** | 2026-02-02 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables</p></details> |
-| **[Back to the Future: Look-ahead Augmentation and Parallel Self-Refinement for Time Series Forecasting](https://arxiv.org/abs/2602.02146v1)** | 2026-02-02 | <details><summary>4 pag...</summary><p>4 pages, Short paper accepted at The Web Conference (WWW) 2026</p></details> |
-| **[T-LLM: Teaching Large Language Models to Forecast Time Series via Temporal Distillation](https://arxiv.org/abs/2602.01937v1)** | 2026-02-02 |  |
+| **[Task-Adaptive Physical Reservoir Computing via Tunable Molecular Communication Dynamics](https://arxiv.org/abs/2602.05931v1)** | 2026-02-05 |  |
+| **[Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks](https://arxiv.org/abs/2602.05873v1)** | 2026-02-05 |  |
+| **[Empowering Time Series Analysis with Large-Scale Multimodal Pretraining](https://arxiv.org/abs/2602.05646v1)** | 2026-02-05 |  |
+| **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502v4)** | 2026-02-05 | <details><summary>38 pa...</summary><p>38 pages, 22 figures, 17 tables</p></details> |
+| **[Hierarchical Time Series Forecasting with Robust Reconciliation](https://arxiv.org/abs/2510.20383v2)** | 2026-02-05 |  |
+| **[Day-Ahead Electricity Price Forecasting for Volatile Markets Using Foundation Models with Regularization Strategy](https://arxiv.org/abs/2602.05430v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to AI4TS Workshop @ AAAI'26 (Oral and Poster), see https://ai4ts.github.io/aaai2026</p></details> |
+| **[A Decomposition-based State Space Model for Multivariate Time-Series Forecasting](https://arxiv.org/abs/2602.05389v1)** | 2026-02-05 | ICASSP2026 |
+| **[ARM: Refining Multivariate Forecasting with Adaptive Temporal-Contextual Learning](https://arxiv.org/abs/2310.09488v2)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICLR 2024</p></details> |
+| **[CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673v2)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICML 2024</p></details> |
+| **[In-context Time Series Predictor](https://arxiv.org/abs/2405.14982v2)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICLR 2025</p></details> |
+| **[WAVE: Weighted Autoregressive Varying Gate for Time Series Forecasting](https://arxiv.org/abs/2410.03159v4)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICML 2025</p></details> |
+| **[HealthMamba: An Uncertainty-aware Spatiotemporal Graph State Space Model for Effective and Reliable Healthcare Facility Visit Prediction](https://arxiv.org/abs/2602.05286v1)** | 2026-02-05 |  |
+| **[Linear Transformers as VAR Models: Aligning Autoregressive Attention Mechanisms with Autoregressive Forecasting](https://arxiv.org/abs/2502.07244v2)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICML 2025</p></details> |
+| **[Bounded-Abstention Multi-horizon Time-series Forecasting](https://arxiv.org/abs/2602.04714v1)** | 2026-02-04 |  |
+| **[Let Experts Feel Uncertainty: A Multi-Expert Label Distribution Approach to Probabilistic Time Series Forecasting](https://arxiv.org/abs/2602.04678v1)** | 2026-02-04 | 11 pages, 2figures |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
