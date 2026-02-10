@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 10, 2026
+title: Latest 15 Papers - February 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,14 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v1)** | 2026-02-06 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
+| **[StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](https://arxiv.org/abs/2602.08983v1)** | 2026-02-09 |  |
+| **[FreqLens: Interpretable Frequency Attribution for Time Series Forecasting](https://arxiv.org/abs/2602.08768v1)** | 2026-02-09 |  |
+| **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v2)** | 2026-02-09 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
+| **[FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting](https://arxiv.org/abs/2512.14253v3)** | 2026-02-09 |  |
+| **[Disentangled Parameter-Efficient Linear Model for Long-Term Time Series Forecasting](https://arxiv.org/abs/2411.17257v2)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted by DASFAA 2026. (Submitted Manuscript Version)</p></details> |
+| **[A Quadratic Link between Out-of-Sample $R^2$ and Directional Accuracy](https://arxiv.org/abs/2602.07841v1)** | 2026-02-08 |  |
+| **[PHAT: Modeling Period Heterogeneity for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.00654v2)** | 2026-02-07 |  |
 | **[Multi-Order Wavelet Derivative Transform for Deep Time Series Forecasting](https://arxiv.org/abs/2505.11781v2)** | 2026-02-06 | Preprint |
-| **[FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting](https://arxiv.org/abs/2512.14253v2)** | 2026-02-06 |  |
 | **[DiTS: Multimodal Diffusion Transformers Are Time Series Forecasters](https://arxiv.org/abs/2602.06597v1)** | 2026-02-06 |  |
 | **[FreDN: Spectral Disentanglement for Time Series Forecasting via Learnable Frequency Decomposition](https://arxiv.org/abs/2511.11817v2)** | 2026-02-06 | <details><summary>Added...</summary><p>Added a code link and fixed minor typos</p></details> |
 | **[Task-Adaptive Physical Reservoir Computing via Tunable Molecular Communication Dynamics](https://arxiv.org/abs/2602.05931v1)** | 2026-02-05 |  |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Empowering Time Series Analysis with Large-Scale Multimodal Pretraining](https://arxiv.org/abs/2602.05646v1)** | 2026-02-05 |  |
 | **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502v4)** | 2026-02-05 | <details><summary>38 pa...</summary><p>38 pages, 22 figures, 17 tables</p></details> |
 | **[Hierarchical Time Series Forecasting with Robust Reconciliation](https://arxiv.org/abs/2510.20383v2)** | 2026-02-05 |  |
-| **[Day-Ahead Electricity Price Forecasting for Volatile Markets Using Foundation Models with Regularization Strategy](https://arxiv.org/abs/2602.05430v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to AI4TS Workshop @ AAAI'26 (Oral and Poster), see https://ai4ts.github.io/aaai2026</p></details> |
-| **[A Decomposition-based State Space Model for Multivariate Time-Series Forecasting](https://arxiv.org/abs/2602.05389v1)** | 2026-02-05 | ICASSP2026 |
-| **[ARM: Refining Multivariate Forecasting with Adaptive Temporal-Contextual Learning](https://arxiv.org/abs/2310.09488v2)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICLR 2024</p></details> |
-| **[CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673v2)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICML 2024</p></details> |
-| **[In-context Time Series Predictor](https://arxiv.org/abs/2405.14982v2)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICLR 2025</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
