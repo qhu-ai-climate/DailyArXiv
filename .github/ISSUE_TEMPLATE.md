@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 11, 2026
+title: Latest 15 Papers - February 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bridging Past and Future: Distribution-Aware Alignment for Time Series Forecasting](https://arxiv.org/abs/2509.14181v3)** | 2026-02-10 |  |
+| **[Statistical benchmarking of transformer models in low signal-to-noise time-series forecasting](https://arxiv.org/abs/2602.09869v1)** | 2026-02-10 | Submitted to ICML |
+| **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v3)** | 2026-02-10 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
+| **[Predictive Query Language: A Domain-Specific Language for Predictive Modeling on Relational Databases](https://arxiv.org/abs/2602.09572v1)** | 2026-02-10 |  |
+| **[SpikySpace: A Spiking State Space Model for Energy-Efficient Time Series Forecasting](https://arxiv.org/abs/2601.02411v2)** | 2026-02-10 | 17 pages, 4 figures |
+| **[A Lightweight Multi-View Approach to Short-Term Load Forecasting](https://arxiv.org/abs/2602.09220v1)** | 2026-02-09 |  |
+| **[DMamba: Decomposition-enhanced Mamba for Time Series Forecasting](https://arxiv.org/abs/2602.09081v1)** | 2026-02-09 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 4 tables</p></details> |
 | **[StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](https://arxiv.org/abs/2602.08983v1)** | 2026-02-09 |  |
 | **[FreqLens: Interpretable Frequency Attribution for Time Series Forecasting](https://arxiv.org/abs/2602.08768v1)** | 2026-02-09 |  |
 | **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v2)** | 2026-02-09 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
@@ -15,18 +22,11 @@ labels: documentation
 | **[A Quadratic Link between Out-of-Sample $R^2$ and Directional Accuracy](https://arxiv.org/abs/2602.07841v1)** | 2026-02-08 |  |
 | **[PHAT: Modeling Period Heterogeneity for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.00654v2)** | 2026-02-07 |  |
 | **[Multi-Order Wavelet Derivative Transform for Deep Time Series Forecasting](https://arxiv.org/abs/2505.11781v2)** | 2026-02-06 | Preprint |
-| **[DiTS: Multimodal Diffusion Transformers Are Time Series Forecasters](https://arxiv.org/abs/2602.06597v1)** | 2026-02-06 |  |
-| **[FreDN: Spectral Disentanglement for Time Series Forecasting via Learnable Frequency Decomposition](https://arxiv.org/abs/2511.11817v2)** | 2026-02-06 | <details><summary>Added...</summary><p>Added a code link and fixed minor typos</p></details> |
-| **[Task-Adaptive Physical Reservoir Computing via Tunable Molecular Communication Dynamics](https://arxiv.org/abs/2602.05931v1)** | 2026-02-05 |  |
-| **[Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks](https://arxiv.org/abs/2602.05873v1)** | 2026-02-05 |  |
-| **[Empowering Time Series Analysis with Large-Scale Multimodal Pretraining](https://arxiv.org/abs/2602.05646v1)** | 2026-02-05 |  |
-| **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502v4)** | 2026-02-05 | <details><summary>38 pa...</summary><p>38 pages, 22 figures, 17 tables</p></details> |
-| **[Hierarchical Time Series Forecasting with Robust Reconciliation](https://arxiv.org/abs/2510.20383v2)** | 2026-02-05 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Are Time-Indexed Foundation Models the Future of Time Series Imputation?](https://arxiv.org/abs/2511.05980v2)** | 2026-02-06 |  |
+| **[Are Time-Indexed Foundation Models the Future of Time Series Imputation?](https://arxiv.org/abs/2511.05980v2)** | 2026-02-06 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research, 2026</p></details> |
 | **[Analyzing and Improving Diffusion Models for Time-Series Data Imputation: A Proximal Recursion Perspective](https://arxiv.org/abs/2602.01182v1)** | 2026-02-01 |  |
 | **[ImputeGAP: A Comprehensive Library for Time Series Imputation](https://arxiv.org/abs/2503.15250v2)** | 2026-01-22 |  |
 | **[Exploiting the Prior of Generative Time Series Imputation](https://arxiv.org/abs/2512.23832v1)** | 2025-12-29 |  |
