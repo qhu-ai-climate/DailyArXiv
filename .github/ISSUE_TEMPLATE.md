@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2026
+title: Latest 15 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tuning the burn-in phase in training recurrent neural networks improves their performance](https://arxiv.org/abs/2602.10911v1)** | 2026-02-11 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026, https://openreview.net/forum?id=jwkdKpioHJ</p></details> |
+| **[Enhancing Multivariate Time Series Forecasting with Global Temporal Retrieval](https://arxiv.org/abs/2602.10847v1)** | 2026-02-11 | ICLR 2026 |
+| **[MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering](https://arxiv.org/abs/2503.16858v2)** | 2026-02-11 | 18 pages |
+| **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v4)** | 2026-02-11 | 18 pages,6 figures |
+| **[LightGTS-Cov: Covariate-Enhanced Time Series Forecasting](https://arxiv.org/abs/2602.10412v1)** | 2026-02-11 |  |
 | **[Bridging Past and Future: Distribution-Aware Alignment for Time Series Forecasting](https://arxiv.org/abs/2509.14181v3)** | 2026-02-10 |  |
 | **[Statistical benchmarking of transformer models in low signal-to-noise time-series forecasting](https://arxiv.org/abs/2602.09869v1)** | 2026-02-10 | Submitted to ICML |
 | **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v3)** | 2026-02-10 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](https://arxiv.org/abs/2602.08983v1)** | 2026-02-09 |  |
 | **[FreqLens: Interpretable Frequency Attribution for Time Series Forecasting](https://arxiv.org/abs/2602.08768v1)** | 2026-02-09 |  |
 | **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v2)** | 2026-02-09 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
-| **[FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting](https://arxiv.org/abs/2512.14253v3)** | 2026-02-09 |  |
-| **[Disentangled Parameter-Efficient Linear Model for Long-Term Time Series Forecasting](https://arxiv.org/abs/2411.17257v2)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted by DASFAA 2026. (Submitted Manuscript Version)</p></details> |
-| **[A Quadratic Link between Out-of-Sample $R^2$ and Directional Accuracy](https://arxiv.org/abs/2602.07841v1)** | 2026-02-08 |  |
-| **[PHAT: Modeling Period Heterogeneity for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.00654v2)** | 2026-02-07 |  |
-| **[Multi-Order Wavelet Derivative Transform for Deep Time Series Forecasting](https://arxiv.org/abs/2505.11781v2)** | 2026-02-06 | Preprint |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
