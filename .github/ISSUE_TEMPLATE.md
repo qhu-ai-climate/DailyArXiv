@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 13, 2026
+title: Latest 15 Papers - February 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LTSM-Bundle: A Toolbox and Benchmark on Large Language Models for Time Series Forecasting](https://arxiv.org/abs/2406.14045v3)** | 2026-02-13 |  |
+| **[PriceFM: Foundation Model for Probabilistic Electricity Price Forecasting](https://arxiv.org/abs/2508.04875v3)** | 2026-02-13 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 9 tables</p></details> |
+| **[Closing the Loop: A Control-Theoretic Framework for Provably Stable Time Series Forecasting with LLMs](https://arxiv.org/abs/2602.12756v1)** | 2026-02-13 |  |
+| **[Beyond All-to-All: Causal-Aligned Transformer with Dynamic Structure Learning for Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.16308v2)** | 2026-02-13 |  |
+| **[Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference](https://arxiv.org/abs/2509.04169v2)** | 2026-02-12 |  |
+| **[Beyond Accuracy: A Stability-Aware Metric for Multi-Horizon Forecasting](https://arxiv.org/abs/2601.10863v2)** | 2026-02-12 |  |
+| **[PeakWeather: MeteoSwiss Weather Station Measurements for Spatiotemporal Deep Learning](https://arxiv.org/abs/2506.13652v2)** | 2026-02-12 |  |
+| **[It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147v1)** | 2026-02-12 | <details><summary>The s...</summary><p>The source code will be released on GitHub shortly</p></details> |
+| **[Empirical Gaussian Processes](https://arxiv.org/abs/2602.12082v1)** | 2026-02-12 |  |
+| **[Temporally Unified Adversarial Perturbations for Time Series Forecasting](https://arxiv.org/abs/2602.11940v1)** | 2026-02-12 |  |
+| **[TUBO: A Tailored ML Framework for Reliable Network Traffic Forecasting](https://arxiv.org/abs/2602.11759v1)** | 2026-02-12 | <details><summary>Short...</summary><p>Short version of this paper is presented at ICDCS 2025</p></details> |
+| **[AltTS: A Dual-Path Framework with Alternating Optimization for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.11533v1)** | 2026-02-12 | Preprint |
+| **[TimeSynth: A Framework for Uncovering Systematic Biases in Time Series Forecasting](https://arxiv.org/abs/2602.11413v1)** | 2026-02-11 |  |
+| **[Test-Time Efficient Pretrained Model Portfolios for Time Series Forecasting](https://arxiv.org/abs/2510.06419v2)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted as an ICLR 2026 conference paper</p></details> |
 | **[Tuning the burn-in phase in training recurrent neural networks improves their performance](https://arxiv.org/abs/2602.10911v1)** | 2026-02-11 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026, https://openreview.net/forum?id=jwkdKpioHJ</p></details> |
-| **[Enhancing Multivariate Time Series Forecasting with Global Temporal Retrieval](https://arxiv.org/abs/2602.10847v1)** | 2026-02-11 | ICLR 2026 |
-| **[MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering](https://arxiv.org/abs/2503.16858v2)** | 2026-02-11 | 18 pages |
-| **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v4)** | 2026-02-11 | 18 pages,6 figures |
-| **[LightGTS-Cov: Covariate-Enhanced Time Series Forecasting](https://arxiv.org/abs/2602.10412v1)** | 2026-02-11 |  |
-| **[Bridging Past and Future: Distribution-Aware Alignment for Time Series Forecasting](https://arxiv.org/abs/2509.14181v3)** | 2026-02-10 |  |
-| **[Statistical benchmarking of transformer models in low signal-to-noise time-series forecasting](https://arxiv.org/abs/2602.09869v1)** | 2026-02-10 | Submitted to ICML |
-| **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v3)** | 2026-02-10 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
-| **[Predictive Query Language: A Domain-Specific Language for Predictive Modeling on Relational Databases](https://arxiv.org/abs/2602.09572v1)** | 2026-02-10 |  |
-| **[SpikySpace: A Spiking State Space Model for Energy-Efficient Time Series Forecasting](https://arxiv.org/abs/2601.02411v2)** | 2026-02-10 | 17 pages, 4 figures |
-| **[A Lightweight Multi-View Approach to Short-Term Load Forecasting](https://arxiv.org/abs/2602.09220v1)** | 2026-02-09 |  |
-| **[DMamba: Decomposition-enhanced Mamba for Time Series Forecasting](https://arxiv.org/abs/2602.09081v1)** | 2026-02-09 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 4 tables</p></details> |
-| **[StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](https://arxiv.org/abs/2602.08983v1)** | 2026-02-09 |  |
-| **[FreqLens: Interpretable Frequency Attribution for Time Series Forecasting](https://arxiv.org/abs/2602.08768v1)** | 2026-02-09 |  |
-| **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v2)** | 2026-02-09 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
