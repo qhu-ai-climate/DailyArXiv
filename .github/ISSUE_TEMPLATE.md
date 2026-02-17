@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2026
+title: Latest 15 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v3)** | 2026-02-16 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
+| **[Rethinking the Role of LLMs in Time Series Forecasting](https://arxiv.org/abs/2602.14744v1)** | 2026-02-16 |  |
+| **[A Meta-Knowledge-Augmented LLM Framework for Hyperparameter Optimization in Time-Series Forecasting](https://arxiv.org/abs/2602.01445v2)** | 2026-02-16 |  |
+| **[Challenges and Requirements for Benchmarking Time Series Foundation Models](https://arxiv.org/abs/2510.13654v2)** | 2026-02-16 |  |
+| **[A Decomposable Forward Process in Diffusion Models for Time-Series Forecasting](https://arxiv.org/abs/2601.21812v2)** | 2026-02-16 | submitted to ICML'26 |
+| **[Predictive Query Language: A Domain-Specific Language for Predictive Modeling on Relational Databases](https://arxiv.org/abs/2602.09572v2)** | 2026-02-16 |  |
+| **[Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2509.20928v2)** | 2026-02-16 |  |
+| **[MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081v2)** | 2026-02-16 |  |
+| **[A Quadratic Link between Out-of-Sample $R^2$ and Directional Accuracy](https://arxiv.org/abs/2602.07841v2)** | 2026-02-14 |  |
+| **[TKN: Transformer-based Keypoint Prediction Network For Real-time Video Prediction](https://arxiv.org/abs/2303.09807v3)** | 2026-02-14 |  |
+| **[Cast-R1: Learning Tool-Augmented Sequential Decision Policies for Time Series Forecasting](https://arxiv.org/abs/2602.13802v1)** | 2026-02-14 |  |
+| **[MEMTS: Internalizing Domain Knowledge via Parameterized Memory for Retrieval-Free Domain Adaptation of Time Series Foundation Models](https://arxiv.org/abs/2602.13783v1)** | 2026-02-14 |  |
+| **[SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting](https://arxiv.org/abs/2501.16178v3)** | 2026-02-14 |  |
 | **[LTSM-Bundle: A Toolbox and Benchmark on Large Language Models for Time Series Forecasting](https://arxiv.org/abs/2406.14045v3)** | 2026-02-13 |  |
 | **[PriceFM: Foundation Model for Probabilistic Electricity Price Forecasting](https://arxiv.org/abs/2508.04875v3)** | 2026-02-13 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 9 tables</p></details> |
-| **[Closing the Loop: A Control-Theoretic Framework for Provably Stable Time Series Forecasting with LLMs](https://arxiv.org/abs/2602.12756v1)** | 2026-02-13 |  |
-| **[Beyond All-to-All: Causal-Aligned Transformer with Dynamic Structure Learning for Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.16308v2)** | 2026-02-13 |  |
-| **[Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference](https://arxiv.org/abs/2509.04169v2)** | 2026-02-12 |  |
-| **[Beyond Accuracy: A Stability-Aware Metric for Multi-Horizon Forecasting](https://arxiv.org/abs/2601.10863v2)** | 2026-02-12 |  |
-| **[PeakWeather: MeteoSwiss Weather Station Measurements for Spatiotemporal Deep Learning](https://arxiv.org/abs/2506.13652v2)** | 2026-02-12 |  |
-| **[It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147v1)** | 2026-02-12 | <details><summary>The s...</summary><p>The source code will be released on GitHub shortly</p></details> |
-| **[Empirical Gaussian Processes](https://arxiv.org/abs/2602.12082v1)** | 2026-02-12 |  |
-| **[Temporally Unified Adversarial Perturbations for Time Series Forecasting](https://arxiv.org/abs/2602.11940v1)** | 2026-02-12 |  |
-| **[TUBO: A Tailored ML Framework for Reliable Network Traffic Forecasting](https://arxiv.org/abs/2602.11759v1)** | 2026-02-12 | <details><summary>Short...</summary><p>Short version of this paper is presented at ICDCS 2025</p></details> |
-| **[AltTS: A Dual-Path Framework with Alternating Optimization for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.11533v1)** | 2026-02-12 | Preprint |
-| **[TimeSynth: A Framework for Uncovering Systematic Biases in Time Series Forecasting](https://arxiv.org/abs/2602.11413v1)** | 2026-02-11 |  |
-| **[Test-Time Efficient Pretrained Model Portfolios for Time Series Forecasting](https://arxiv.org/abs/2510.06419v2)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted as an ICLR 2026 conference paper</p></details> |
-| **[Tuning the burn-in phase in training recurrent neural networks improves their performance](https://arxiv.org/abs/2602.10911v1)** | 2026-02-11 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026, https://openreview.net/forum?id=jwkdKpioHJ</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
