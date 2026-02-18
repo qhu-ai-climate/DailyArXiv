@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2026
+title: Latest 15 Papers - February 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hybrid quantum recurrent neural network for remaining useful life prediction](https://arxiv.org/abs/2504.20823v2)** | 2026-02-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures. 3 tables</p></details> |
 | **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v3)** | 2026-02-16 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
 | **[Rethinking the Role of LLMs in Time Series Forecasting](https://arxiv.org/abs/2602.14744v1)** | 2026-02-16 |  |
 | **[A Meta-Knowledge-Augmented LLM Framework for Hyperparameter Optimization in Time-Series Forecasting](https://arxiv.org/abs/2602.01445v2)** | 2026-02-16 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[MEMTS: Internalizing Domain Knowledge via Parameterized Memory for Retrieval-Free Domain Adaptation of Time Series Foundation Models](https://arxiv.org/abs/2602.13783v1)** | 2026-02-14 |  |
 | **[SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting](https://arxiv.org/abs/2501.16178v3)** | 2026-02-14 |  |
 | **[LTSM-Bundle: A Toolbox and Benchmark on Large Language Models for Time Series Forecasting](https://arxiv.org/abs/2406.14045v3)** | 2026-02-13 |  |
-| **[PriceFM: Foundation Model for Probabilistic Electricity Price Forecasting](https://arxiv.org/abs/2508.04875v3)** | 2026-02-13 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 9 tables</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Stationarity Bias: Stratified Stress-Testing for Time-Series Imputation in Regulated Dynamical Systems](https://arxiv.org/abs/2602.15637v1)** | 2026-02-17 |  |
 | **[Are Time-Indexed Foundation Models the Future of Time Series Imputation?](https://arxiv.org/abs/2511.05980v2)** | 2026-02-06 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research, 2026</p></details> |
 | **[Analyzing and Improving Diffusion Models for Time-Series Data Imputation: A Proximal Recursion Perspective](https://arxiv.org/abs/2602.01182v1)** | 2026-02-01 |  |
 | **[ImputeGAP: A Comprehensive Library for Time Series Imputation](https://arxiv.org/abs/2503.15250v2)** | 2026-01-22 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Closing Gaps: An Imputation Analysis of ICU Vital Signs](https://arxiv.org/abs/2510.24217v1)** | 2025-10-28 | Preprint |
 | **[Glocal Information Bottleneck for Time Series Imputation](https://arxiv.org/abs/2510.04910v1)** | 2025-10-06 |  |
 | **[SSD-TS: Exploring the Potential of Linear State Space Models for Diffusion Models in Time Series Imputation](https://arxiv.org/abs/2410.13338v2)** | 2025-08-19 | KDD' 25 |
-| **[Temporal Wasserstein Imputation: A Versatile Method for Time Series Imputation](https://arxiv.org/abs/2411.02811v3)** | 2025-08-13 |  |
 
