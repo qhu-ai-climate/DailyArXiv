@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2026
+title: Latest 15 Papers - February 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Channel Dependence, Limited Lookback Windows, and the Simplicity of Datasets: How Biased is Time Series Forecasting?](https://arxiv.org/abs/2502.09683v3)** | 2026-02-18 |  |
+| **[HPMixer: Hierarchical Patching for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.16468v1)** | 2026-02-18 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 5 tables, PAKDD 2026</p></details> |
+| **[Amortized Predictability-aware Training Framework for Time Series Forecasting and Classification](https://arxiv.org/abs/2602.16224v1)** | 2026-02-18 | <details><summary>This ...</summary><p>This work is accepted by the proceedings of the ACM Web Conference 2026 (WWW 2026). The code is available at the link https://github.com/Meteor-Stars/APTF</p></details> |
+| **[SEMixer: Semantics Enhanced MLP-Mixer for Multiscale Mixing and Long-term Time Series Forecasting](https://arxiv.org/abs/2602.16220v1)** | 2026-02-18 | <details><summary>This ...</summary><p>This work is accepted by the proceedings of the ACM Web Conference 2026 (WWW 2026). The code is available at the link https://github.com/Meteor-Stars/SEMixer</p></details> |
+| **[Deep TPC: Temporal-Prior Conditioning for Time Series Forecasting](https://arxiv.org/abs/2602.16188v1)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
+| **[Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2509.20928v3)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted by the fourteenth International Conference on Learning Representations (ICLR 2026). https://openreview.net/forum?id=GG01lCopSK</p></details> |
 | **[Hybrid quantum recurrent neural network for remaining useful life prediction](https://arxiv.org/abs/2504.20823v2)** | 2026-02-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures. 3 tables</p></details> |
 | **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v3)** | 2026-02-16 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
 | **[Rethinking the Role of LLMs in Time Series Forecasting](https://arxiv.org/abs/2602.14744v1)** | 2026-02-16 |  |
@@ -14,14 +20,8 @@ labels: documentation
 | **[Challenges and Requirements for Benchmarking Time Series Foundation Models](https://arxiv.org/abs/2510.13654v2)** | 2026-02-16 |  |
 | **[A Decomposable Forward Process in Diffusion Models for Time-Series Forecasting](https://arxiv.org/abs/2601.21812v2)** | 2026-02-16 | submitted to ICML'26 |
 | **[Predictive Query Language: A Domain-Specific Language for Predictive Modeling on Relational Databases](https://arxiv.org/abs/2602.09572v2)** | 2026-02-16 |  |
-| **[Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2509.20928v2)** | 2026-02-16 |  |
 | **[MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081v2)** | 2026-02-16 |  |
 | **[A Quadratic Link between Out-of-Sample $R^2$ and Directional Accuracy](https://arxiv.org/abs/2602.07841v2)** | 2026-02-14 |  |
-| **[TKN: Transformer-based Keypoint Prediction Network For Real-time Video Prediction](https://arxiv.org/abs/2303.09807v3)** | 2026-02-14 |  |
-| **[Cast-R1: Learning Tool-Augmented Sequential Decision Policies for Time Series Forecasting](https://arxiv.org/abs/2602.13802v1)** | 2026-02-14 |  |
-| **[MEMTS: Internalizing Domain Knowledge via Parameterized Memory for Retrieval-Free Domain Adaptation of Time Series Foundation Models](https://arxiv.org/abs/2602.13783v1)** | 2026-02-14 |  |
-| **[SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting](https://arxiv.org/abs/2501.16178v3)** | 2026-02-14 |  |
-| **[LTSM-Bundle: A Toolbox and Benchmark on Large Language Models for Time Series Forecasting](https://arxiv.org/abs/2406.14045v3)** | 2026-02-13 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
