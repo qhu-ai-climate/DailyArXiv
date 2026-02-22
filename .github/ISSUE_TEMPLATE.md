@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 20, 2026
+title: Latest 15 Papers - February 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting](https://arxiv.org/abs/2602.17634v1)** | 2026-02-19 |  |
+| **[HPMixer: Hierarchical Patching for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.16468v2)** | 2026-02-19 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 5 tables, PAKDD 2026</p></details> |
+| **[TIFO: Time-Invariant Frequency Operator for Stationarity-Aware Representation Learning in Time Series](https://arxiv.org/abs/2602.17122v1)** | 2026-02-19 |  |
+| **[Forecasting Anomaly Precursors via Uncertainty-Aware Time-Series Ensembles](https://arxiv.org/abs/2602.17028v1)** | 2026-02-19 | <details><summary>This ...</summary><p>This manuscript contains 14 pages and 8 figures. It is currently under review at IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
 | **[Channel Dependence, Limited Lookback Windows, and the Simplicity of Datasets: How Biased is Time Series Forecasting?](https://arxiv.org/abs/2502.09683v3)** | 2026-02-18 |  |
-| **[HPMixer: Hierarchical Patching for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.16468v1)** | 2026-02-18 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 5 tables, PAKDD 2026</p></details> |
 | **[Amortized Predictability-aware Training Framework for Time Series Forecasting and Classification](https://arxiv.org/abs/2602.16224v1)** | 2026-02-18 | <details><summary>This ...</summary><p>This work is accepted by the proceedings of the ACM Web Conference 2026 (WWW 2026). The code is available at the link https://github.com/Meteor-Stars/APTF</p></details> |
 | **[SEMixer: Semantics Enhanced MLP-Mixer for Multiscale Mixing and Long-term Time Series Forecasting](https://arxiv.org/abs/2602.16220v1)** | 2026-02-18 | <details><summary>This ...</summary><p>This work is accepted by the proceedings of the ACM Web Conference 2026 (WWW 2026). The code is available at the link https://github.com/Meteor-Stars/SEMixer</p></details> |
 | **[Deep TPC: Temporal-Prior Conditioning for Time Series Forecasting](https://arxiv.org/abs/2602.16188v1)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[A Meta-Knowledge-Augmented LLM Framework for Hyperparameter Optimization in Time-Series Forecasting](https://arxiv.org/abs/2602.01445v2)** | 2026-02-16 |  |
 | **[Challenges and Requirements for Benchmarking Time Series Foundation Models](https://arxiv.org/abs/2510.13654v2)** | 2026-02-16 |  |
 | **[A Decomposable Forward Process in Diffusion Models for Time-Series Forecasting](https://arxiv.org/abs/2601.21812v2)** | 2026-02-16 | submitted to ICML'26 |
-| **[Predictive Query Language: A Domain-Specific Language for Predictive Modeling on Relational Databases](https://arxiv.org/abs/2602.09572v2)** | 2026-02-16 |  |
-| **[MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081v2)** | 2026-02-16 |  |
-| **[A Quadratic Link between Out-of-Sample $R^2$ and Directional Accuracy](https://arxiv.org/abs/2602.07841v2)** | 2026-02-14 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
