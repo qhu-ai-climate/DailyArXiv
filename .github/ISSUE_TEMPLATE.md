@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 23, 2026
+title: Latest 15 Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach](https://arxiv.org/abs/2602.18377v1)** | 2026-02-20 | 34 pages, 12 figures |
+| **[Financial time series augmentation using transformer based GAN architecture](https://arxiv.org/abs/2602.17865v1)** | 2026-02-19 | <details><summary>This ...</summary><p>This paper has been accepted for the upcoming 18th International Conference on Agents and Artificial Intelligence (ICAART-2026), Marbella, Spain. The final published version will appear in the official conference proceedings</p></details> |
+| **[Individualized and Interpretable Sleep Forecasting via a Two-Stage Adaptive Spatial-Temporal Model](https://arxiv.org/abs/2509.06974v2)** | 2026-02-19 |  |
 | **[Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting](https://arxiv.org/abs/2602.17634v1)** | 2026-02-19 |  |
 | **[HPMixer: Hierarchical Patching for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.16468v2)** | 2026-02-19 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 5 tables, PAKDD 2026</p></details> |
 | **[TIFO: Time-Invariant Frequency Operator for Stationarity-Aware Representation Learning in Time Series](https://arxiv.org/abs/2602.17122v1)** | 2026-02-19 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Hybrid quantum recurrent neural network for remaining useful life prediction](https://arxiv.org/abs/2504.20823v2)** | 2026-02-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures. 3 tables</p></details> |
 | **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v3)** | 2026-02-16 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
 | **[Rethinking the Role of LLMs in Time Series Forecasting](https://arxiv.org/abs/2602.14744v1)** | 2026-02-16 |  |
-| **[A Meta-Knowledge-Augmented LLM Framework for Hyperparameter Optimization in Time-Series Forecasting](https://arxiv.org/abs/2602.01445v2)** | 2026-02-16 |  |
-| **[Challenges and Requirements for Benchmarking Time Series Foundation Models](https://arxiv.org/abs/2510.13654v2)** | 2026-02-16 |  |
-| **[A Decomposable Forward Process in Diffusion Models for Time-Series Forecasting](https://arxiv.org/abs/2601.21812v2)** | 2026-02-16 | submitted to ICML'26 |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
