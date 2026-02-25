@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 25, 2026
+title: Latest 15 Papers - February 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncertainty Propagation Networks for Neural Ordinary Differential Equations](https://arxiv.org/abs/2508.16815v2)** | 2026-02-24 |  |
+| **[Towards Robust Real-World Multivariate Time Series Forecasting: A Unified Framework for Dependency, Asynchrony, and Missingness](https://arxiv.org/abs/2506.08660v3)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[From Samples to Scenarios: A New Paradigm for Probabilistic Forecasting](https://arxiv.org/abs/2509.19975v2)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[On Electric Vehicle Energy Demand Forecasting and the Effect of Federated Learning](https://arxiv.org/abs/2602.20782v1)** | 2026-02-24 |  |
+| **[Pre-training Epidemic Time Series Forecasters with Compartmental Prototypes](https://arxiv.org/abs/2502.03393v6)** | 2026-02-23 | version 3.0 |
 | **[Multivariate time-series forecasting of ASTRI-Horn monitoring data: A Normal Behavior Model](https://arxiv.org/abs/2602.19984v1)** | 2026-02-23 | 15 pages, 12 figures |
 | **[Aurora: Towards Universal Generative Multimodal Time Series Forecasting](https://arxiv.org/abs/2509.22295v5)** | 2026-02-23 |  |
 | **[Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach](https://arxiv.org/abs/2602.18377v1)** | 2026-02-20 | 34 pages, 12 figures |
@@ -17,15 +22,11 @@ labels: documentation
 | **[HPMixer: Hierarchical Patching for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.16468v2)** | 2026-02-19 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 5 tables, PAKDD 2026</p></details> |
 | **[TIFO: Time-Invariant Frequency Operator for Stationarity-Aware Representation Learning in Time Series](https://arxiv.org/abs/2602.17122v1)** | 2026-02-19 |  |
 | **[Forecasting Anomaly Precursors via Uncertainty-Aware Time-Series Ensembles](https://arxiv.org/abs/2602.17028v1)** | 2026-02-19 | <details><summary>This ...</summary><p>This manuscript contains 14 pages and 8 figures. It is currently under review at IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
-| **[Channel Dependence, Limited Lookback Windows, and the Simplicity of Datasets: How Biased is Time Series Forecasting?](https://arxiv.org/abs/2502.09683v3)** | 2026-02-18 |  |
-| **[Amortized Predictability-aware Training Framework for Time Series Forecasting and Classification](https://arxiv.org/abs/2602.16224v1)** | 2026-02-18 | <details><summary>This ...</summary><p>This work is accepted by the proceedings of the ACM Web Conference 2026 (WWW 2026). The code is available at the link https://github.com/Meteor-Stars/APTF</p></details> |
-| **[SEMixer: Semantics Enhanced MLP-Mixer for Multiscale Mixing and Long-term Time Series Forecasting](https://arxiv.org/abs/2602.16220v1)** | 2026-02-18 | <details><summary>This ...</summary><p>This work is accepted by the proceedings of the ACM Web Conference 2026 (WWW 2026). The code is available at the link https://github.com/Meteor-Stars/SEMixer</p></details> |
-| **[Deep TPC: Temporal-Prior Conditioning for Time Series Forecasting](https://arxiv.org/abs/2602.16188v1)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
-| **[Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2509.20928v3)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted by the fourteenth International Conference on Learning Representations (ICLR 2026). https://openreview.net/forum?id=GG01lCopSK</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation](https://arxiv.org/abs/2602.21043v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[The Stationarity Bias: Stratified Stress-Testing for Time-Series Imputation in Regulated Dynamical Systems](https://arxiv.org/abs/2602.15637v1)** | 2026-02-17 |  |
 | **[Are Time-Indexed Foundation Models the Future of Time Series Imputation?](https://arxiv.org/abs/2511.05980v2)** | 2026-02-06 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research, 2026</p></details> |
 | **[Analyzing and Improving Diffusion Models for Time-Series Data Imputation: A Proximal Recursion Perspective](https://arxiv.org/abs/2602.01182v1)** | 2026-02-01 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[HAGI++: Head-Assisted Gaze Imputation and Generation](https://arxiv.org/abs/2511.02468v1)** | 2025-11-04 | <details><summary>Exten...</summary><p>Extended version of our UIST'25 paper "HAGI: Head-Assisted Gaze Imputation for Mobile Eye Trackers"</p></details> |
 | **[Closing Gaps: An Imputation Analysis of ICU Vital Signs](https://arxiv.org/abs/2510.24217v1)** | 2025-10-28 | Preprint |
 | **[Glocal Information Bottleneck for Time Series Imputation](https://arxiv.org/abs/2510.04910v1)** | 2025-10-06 |  |
-| **[SSD-TS: Exploring the Potential of Linear State Space Models for Diffusion Models in Time Series Imputation](https://arxiv.org/abs/2410.13338v2)** | 2025-08-19 | KDD' 25 |
 
