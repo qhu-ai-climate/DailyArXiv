@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 26, 2026
+title: Latest 15 Papers - February 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Evaluation in the Era of Time Series Foundation Models: (Un)known Information Leakage Challenges](https://arxiv.org/abs/2510.13654v3)** | 2026-02-25 |  |
+| **[TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts](https://arxiv.org/abs/2602.21693v1)** | 2026-02-25 |  |
+| **[Characteristic Root Analysis and Regularization for Linear Time Series Forecasting](https://arxiv.org/abs/2509.23597v3)** | 2026-02-25 |  |
+| **[Learning Recursive Multi-Scale Representations for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.21498v1)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted in ICLR 2026</p></details> |
 | **[Uncertainty Propagation Networks for Neural Ordinary Differential Equations](https://arxiv.org/abs/2508.16815v2)** | 2026-02-24 |  |
 | **[Towards Robust Real-World Multivariate Time Series Forecasting: A Unified Framework for Dependency, Asynchrony, and Missingness](https://arxiv.org/abs/2506.08660v3)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
 | **[From Samples to Scenarios: A New Paradigm for Probabilistic Forecasting](https://arxiv.org/abs/2509.19975v2)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Financial time series augmentation using transformer based GAN architecture](https://arxiv.org/abs/2602.17865v1)** | 2026-02-19 | <details><summary>This ...</summary><p>This paper has been accepted for the upcoming 18th International Conference on Agents and Artificial Intelligence (ICAART-2026), Marbella, Spain. The final published version will appear in the official conference proceedings</p></details> |
 | **[Individualized and Interpretable Sleep Forecasting via a Two-Stage Adaptive Spatial-Temporal Model](https://arxiv.org/abs/2509.06974v2)** | 2026-02-19 |  |
 | **[AdaptStress: Online Adaptive Learning for Interpretable and Personalized Stress Prediction Using Multivariate and Sparse Physiological Signals](https://arxiv.org/abs/2602.18521v1)** | 2026-02-19 |  |
-| **[Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting](https://arxiv.org/abs/2602.17634v1)** | 2026-02-19 |  |
-| **[HPMixer: Hierarchical Patching for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.16468v2)** | 2026-02-19 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 5 tables, PAKDD 2026</p></details> |
-| **[TIFO: Time-Invariant Frequency Operator for Stationarity-Aware Representation Learning in Time Series](https://arxiv.org/abs/2602.17122v1)** | 2026-02-19 |  |
-| **[Forecasting Anomaly Precursors via Uncertainty-Aware Time-Series Ensembles](https://arxiv.org/abs/2602.17028v1)** | 2026-02-19 | <details><summary>This ...</summary><p>This manuscript contains 14 pages and 8 figures. It is currently under review at IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
