@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 27, 2026
+title: Latest 15 Papers - March 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mixing It Up: Exploring Mixer Networks for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2502.11816v3)** | 2026-02-26 |  |
+| **[Robust optimal reconciliation for hierarchical time series forecasting with M-estimation](https://arxiv.org/abs/2602.22694v1)** | 2026-02-26 |  |
+| **[TEFL: Prediction-Residual-Guided Rolling Forecasting for Multi-Horizon Time Series](https://arxiv.org/abs/2602.22520v1)** | 2026-02-26 |  |
+| **[Online time series prediction using feature adjustment](https://arxiv.org/abs/2509.03810v2)** | 2026-02-26 | <details><summary>Camer...</summary><p>Camera ready version for ICLR 2026</p></details> |
 | **[Rethinking Evaluation in the Era of Time Series Foundation Models: (Un)known Information Leakage Challenges](https://arxiv.org/abs/2510.13654v3)** | 2026-02-25 |  |
 | **[TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts](https://arxiv.org/abs/2602.21693v1)** | 2026-02-25 |  |
 | **[Characteristic Root Analysis and Regularization for Linear Time Series Forecasting](https://arxiv.org/abs/2509.23597v3)** | 2026-02-25 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Pre-training Epidemic Time Series Forecasters with Compartmental Prototypes](https://arxiv.org/abs/2502.03393v6)** | 2026-02-23 | version 3.0 |
 | **[Multivariate time-series forecasting of ASTRI-Horn monitoring data: A Normal Behavior Model](https://arxiv.org/abs/2602.19984v1)** | 2026-02-23 | 15 pages, 12 figures |
 | **[Aurora: Towards Universal Generative Multimodal Time Series Forecasting](https://arxiv.org/abs/2509.22295v5)** | 2026-02-23 |  |
-| **[Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach](https://arxiv.org/abs/2602.18377v1)** | 2026-02-20 | 34 pages, 12 figures |
-| **[Financial time series augmentation using transformer based GAN architecture](https://arxiv.org/abs/2602.17865v1)** | 2026-02-19 | <details><summary>This ...</summary><p>This paper has been accepted for the upcoming 18th International Conference on Agents and Artificial Intelligence (ICAART-2026), Marbella, Spain. The final published version will appear in the official conference proceedings</p></details> |
-| **[Individualized and Interpretable Sleep Forecasting via a Two-Stage Adaptive Spatial-Temporal Model](https://arxiv.org/abs/2509.06974v2)** | 2026-02-19 |  |
-| **[AdaptStress: Online Adaptive Learning for Interpretable and Personalized Stress Prediction Using Multivariate and Sparse Physiological Signals](https://arxiv.org/abs/2602.18521v1)** | 2026-02-19 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
