@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 02, 2026
+title: Latest 15 Papers - March 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147v2)** | 2026-02-27 | <details><summary>Relea...</summary><p>Release official code and update experimental results</p></details> |
+| **[CPiRi: Channel Permutation-Invariant Relational Interaction for Multivariate Time Series Forecasting](https://arxiv.org/abs/2601.20318v2)** | 2026-02-27 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, ICLR 2026</p></details> |
+| **[Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776v2)** | 2026-02-27 |  |
+| **[ProtoTS: Learning Hierarchical Prototypes for Explainable Time Series Forecasting](https://arxiv.org/abs/2509.23159v4)** | 2026-02-27 | ICLR 2026 Poster |
+| **[SDMixer: Sparse Dual-Mixer for Time Series Forecasting](https://arxiv.org/abs/2602.23581v1)** | 2026-02-27 | 12pages,2 figures |
 | **[Mixing It Up: Exploring Mixer Networks for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2502.11816v3)** | 2026-02-26 |  |
 | **[Robust optimal reconciliation for hierarchical time series forecasting with M-estimation](https://arxiv.org/abs/2602.22694v1)** | 2026-02-26 |  |
 | **[TEFL: Prediction-Residual-Guided Rolling Forecasting for Multi-Horizon Time Series](https://arxiv.org/abs/2602.22520v1)** | 2026-02-26 |  |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Learning Recursive Multi-Scale Representations for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.21498v1)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted in ICLR 2026</p></details> |
 | **[Uncertainty Propagation Networks for Neural Ordinary Differential Equations](https://arxiv.org/abs/2508.16815v2)** | 2026-02-24 |  |
 | **[Towards Robust Real-World Multivariate Time Series Forecasting: A Unified Framework for Dependency, Asynchrony, and Missingness](https://arxiv.org/abs/2506.08660v3)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[From Samples to Scenarios: A New Paradigm for Probabilistic Forecasting](https://arxiv.org/abs/2509.19975v2)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[On Electric Vehicle Energy Demand Forecasting and the Effect of Federated Learning](https://arxiv.org/abs/2602.20782v1)** | 2026-02-24 |  |
-| **[Pre-training Epidemic Time Series Forecasters with Compartmental Prototypes](https://arxiv.org/abs/2502.03393v6)** | 2026-02-23 | version 3.0 |
-| **[Multivariate time-series forecasting of ASTRI-Horn monitoring data: A Normal Behavior Model](https://arxiv.org/abs/2602.19984v1)** | 2026-02-23 | 15 pages, 12 figures |
-| **[Aurora: Towards Universal Generative Multimodal Time Series Forecasting](https://arxiv.org/abs/2509.22295v5)** | 2026-02-23 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
