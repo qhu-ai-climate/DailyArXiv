@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Learnable Wavelet Transformer for Long-Short Equity Trading and Risk-Adjusted Return Optimization](https://arxiv.org/abs/2601.13435v3)** | 2026-03-02 |  |
+| **[PHAT: Modeling Period Heterogeneity for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.00654v3)** | 2026-03-02 |  |
+| **[Reasoning on Time-Series for Financial Technical Analysis](https://arxiv.org/abs/2511.08616v2)** | 2026-03-02 | ICLR 2026 |
+| **[ResCP: Reservoir Conformal Prediction for Time Series Forecasting](https://arxiv.org/abs/2510.05060v3)** | 2026-03-02 | ICLR 2026 |
+| **[Fed-GAME: Personalized Federated Learning with Graph Attention Mixture-of-Experts For Time-Series Forecasting](https://arxiv.org/abs/2603.01363v1)** | 2026-03-02 |  |
+| **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v5)** | 2026-03-02 | 23 pages,6 figures |
+| **[DoFlow: Flow-based Generative Models for Interventional and Counterfactual Forecasting on Time Series](https://arxiv.org/abs/2511.02137v2)** | 2026-03-01 | <details><summary>Accep...</summary><p>Accepted to the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[Navigating Time's Possibilities: Plausible Counterfactual Explanations for Multivariate Time-Series Forecast through Genetic Algorithms](https://arxiv.org/abs/2603.00855v1)** | 2026-03-01 | <details><summary>Publi...</summary><p>Published on IEEE TrustCom 2024</p></details> |
+| **[Characteristic Root Analysis and Regularization for Linear Time Series Forecasting](https://arxiv.org/abs/2509.23597v4)** | 2026-02-28 |  |
+| **[GradientStabilizer:Fix the Norm, Not the Gradient](https://arxiv.org/abs/2502.17055v3)** | 2026-02-27 | <details><summary>Pleas...</summary><p>Please find stablespam in the old version</p></details> |
 | **[It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147v2)** | 2026-02-27 | <details><summary>Relea...</summary><p>Release official code and update experimental results</p></details> |
 | **[CPiRi: Channel Permutation-Invariant Relational Interaction for Multivariate Time Series Forecasting](https://arxiv.org/abs/2601.20318v2)** | 2026-02-27 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, ICLR 2026</p></details> |
 | **[Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776v2)** | 2026-02-27 |  |
 | **[ProtoTS: Learning Hierarchical Prototypes for Explainable Time Series Forecasting](https://arxiv.org/abs/2509.23159v4)** | 2026-02-27 | ICLR 2026 Poster |
 | **[SDMixer: Sparse Dual-Mixer for Time Series Forecasting](https://arxiv.org/abs/2602.23581v1)** | 2026-02-27 | 12pages,2 figures |
-| **[Mixing It Up: Exploring Mixer Networks for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2502.11816v3)** | 2026-02-26 |  |
-| **[Robust optimal reconciliation for hierarchical time series forecasting with M-estimation](https://arxiv.org/abs/2602.22694v1)** | 2026-02-26 |  |
-| **[TEFL: Prediction-Residual-Guided Rolling Forecasting for Multi-Horizon Time Series](https://arxiv.org/abs/2602.22520v1)** | 2026-02-26 |  |
-| **[Online time series prediction using feature adjustment](https://arxiv.org/abs/2509.03810v2)** | 2026-02-26 | <details><summary>Camer...</summary><p>Camera ready version for ICLR 2026</p></details> |
-| **[Rethinking Evaluation in the Era of Time Series Foundation Models: (Un)known Information Leakage Challenges](https://arxiv.org/abs/2510.13654v3)** | 2026-02-25 |  |
-| **[TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts](https://arxiv.org/abs/2602.21693v1)** | 2026-02-25 |  |
-| **[Characteristic Root Analysis and Regularization for Linear Time Series Forecasting](https://arxiv.org/abs/2509.23597v3)** | 2026-02-25 |  |
-| **[Learning Recursive Multi-Scale Representations for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.21498v1)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted in ICLR 2026</p></details> |
-| **[Uncertainty Propagation Networks for Neural Ordinary Differential Equations](https://arxiv.org/abs/2508.16815v2)** | 2026-02-24 |  |
-| **[Towards Robust Real-World Multivariate Time Series Forecasting: A Unified Framework for Dependency, Asynchrony, and Missingness](https://arxiv.org/abs/2506.08660v3)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
