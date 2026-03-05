@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 05, 2026
+title: Latest 15 Papers - March 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PatchDecomp: Interpretable Patch-Based Time Series Forecasting](https://arxiv.org/abs/2603.03902v1)** | 2026-03-04 |  |
+| **[FSMLP: Modelling Channel Dependencies With Simplex Theory Based Multi-Layer Perceptions In Frequency Domain](https://arxiv.org/abs/2412.01654v3)** | 2026-03-04 |  |
+| **[Harmonic Dataset Distillation for Time Series Forecasting](https://arxiv.org/abs/2603.03760v1)** | 2026-03-04 | AAAI 2026 |
+| **[It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147v3)** | 2026-03-04 | Update affiliations |
+| **[HealthMamba: An Uncertainty-aware Spatiotemporal Graph State Space Model for Effective and Reliable Healthcare Facility Visit Prediction](https://arxiv.org/abs/2602.05286v2)** | 2026-03-04 |  |
 | **[Eliciting Numerical Predictive Distributions of LLMs Without Autoregression](https://arxiv.org/abs/2603.02913v1)** | 2026-03-03 | <details><summary>First...</summary><p>First two authors contributed equally. Published as a conference paper at ICLR2026</p></details> |
 | **[Towards Accurate and Interpretable Time-series Forecasting: A Polynomial Learning Approach](https://arxiv.org/abs/2603.02906v1)** | 2026-03-03 |  |
 | **[Weight-Space Linear Recurrent Neural Networks](https://arxiv.org/abs/2506.01153v3)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted as a main track publication at ICLR 2026. Contains 40 pages, 23 figures, and 16 tables</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[ResCP: Reservoir Conformal Prediction for Time Series Forecasting](https://arxiv.org/abs/2510.05060v3)** | 2026-03-02 | ICLR 2026 |
 | **[Fed-GAME: Personalized Federated Learning with Graph Attention Mixture-of-Experts For Time-Series Forecasting](https://arxiv.org/abs/2603.01363v1)** | 2026-03-02 |  |
 | **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v5)** | 2026-03-02 | 23 pages,6 figures |
-| **[DoFlow: Flow-based Generative Models for Interventional and Counterfactual Forecasting on Time Series](https://arxiv.org/abs/2511.02137v2)** | 2026-03-01 | <details><summary>Accep...</summary><p>Accepted to the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[Navigating Time's Possibilities: Plausible Counterfactual Explanations for Multivariate Time-Series Forecast through Genetic Algorithms](https://arxiv.org/abs/2603.00855v1)** | 2026-03-01 | <details><summary>Publi...</summary><p>Published on IEEE TrustCom 2024</p></details> |
-| **[Characteristic Root Analysis and Regularization for Linear Time Series Forecasting](https://arxiv.org/abs/2509.23597v4)** | 2026-02-28 |  |
-| **[GradientStabilizer:Fix the Norm, Not the Gradient](https://arxiv.org/abs/2502.17055v3)** | 2026-02-27 | <details><summary>Pleas...</summary><p>Please find stablespam in the old version</p></details> |
-| **[It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147v2)** | 2026-02-27 | <details><summary>Relea...</summary><p>Release official code and update experimental results</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
