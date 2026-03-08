@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 06, 2026
+title: Latest 15 Papers - March 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/abs/2511.11991v3)** | 2026-03-05 | AAAI 2026 Oral |
+| **[Aura: Universal Multi-dimensional Exogenous Integration for Aviation Time Series](https://arxiv.org/abs/2603.05092v1)** | 2026-03-05 |  |
+| **[ms-Mamba: Multi-scale Mamba for Time-Series Forecasting](https://arxiv.org/abs/2504.07654v2)** | 2026-03-05 | <details><summary>14 pa...</summary><p>14 pages. Accepted for publication in Neurocomputing</p></details> |
+| **[SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms](https://arxiv.org/abs/2603.04873v1)** | 2026-03-05 |  |
+| **[Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776v3)** | 2026-03-05 |  |
 | **[PatchDecomp: Interpretable Patch-Based Time Series Forecasting](https://arxiv.org/abs/2603.03902v1)** | 2026-03-04 |  |
 | **[FSMLP: Modelling Channel Dependencies With Simplex Theory Based Multi-Layer Perceptions In Frequency Domain](https://arxiv.org/abs/2412.01654v3)** | 2026-03-04 |  |
 | **[Harmonic Dataset Distillation for Time Series Forecasting](https://arxiv.org/abs/2603.03760v1)** | 2026-03-04 | AAAI 2026 |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Weight-Space Linear Recurrent Neural Networks](https://arxiv.org/abs/2506.01153v3)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted as a main track publication at ICLR 2026. Contains 40 pages, 23 figures, and 16 tables</p></details> |
 | **[Rethinking the Role of LLMs in Time Series Forecasting](https://arxiv.org/abs/2602.14744v2)** | 2026-03-02 |  |
 | **[A Learnable Wavelet Transformer for Long-Short Equity Trading and Risk-Adjusted Return Optimization](https://arxiv.org/abs/2601.13435v3)** | 2026-03-02 |  |
-| **[PHAT: Modeling Period Heterogeneity for Multivariate Time Series Forecasting](https://arxiv.org/abs/2602.00654v3)** | 2026-03-02 |  |
-| **[Reasoning on Time-Series for Financial Technical Analysis](https://arxiv.org/abs/2511.08616v2)** | 2026-03-02 | ICLR 2026 |
-| **[ResCP: Reservoir Conformal Prediction for Time Series Forecasting](https://arxiv.org/abs/2510.05060v3)** | 2026-03-02 | ICLR 2026 |
-| **[Fed-GAME: Personalized Federated Learning with Graph Attention Mixture-of-Experts For Time-Series Forecasting](https://arxiv.org/abs/2603.01363v1)** | 2026-03-02 |  |
-| **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v5)** | 2026-03-02 | 23 pages,6 figures |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
