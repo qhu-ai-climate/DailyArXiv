@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 09, 2026
+title: Latest 15 Papers - March 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,14 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hierarchical Industrial Demand Forecasting with Temporal and Uncertainty Explanations](https://arxiv.org/abs/2603.06555v1)** | 2026-03-06 |  |
+| **[MM-ISTS: Cooperating Irregularly Sampled Time Series Forecasting with Multimodal Vision-Text LLMs](https://arxiv.org/abs/2603.05997v1)** | 2026-03-06 |  |
+| **[From Tokenizer Bias to Backbone Capability: A Controlled Study of LLMs for Time Series Forecasting](https://arxiv.org/abs/2504.08818v2)** | 2026-03-06 |  |
+| **[SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms](https://arxiv.org/abs/2603.04873v2)** | 2026-03-06 |  |
+| **[UniTS: Unified Spatio-Temporal Generative Model for Remote Sensing](https://arxiv.org/abs/2512.04461v2)** | 2026-03-06 |  |
 | **[ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/abs/2511.11991v3)** | 2026-03-05 | AAAI 2026 Oral |
 | **[Aura: Universal Multi-dimensional Exogenous Integration for Aviation Time Series](https://arxiv.org/abs/2603.05092v1)** | 2026-03-05 |  |
 | **[ms-Mamba: Multi-scale Mamba for Time-Series Forecasting](https://arxiv.org/abs/2504.07654v2)** | 2026-03-05 | <details><summary>14 pa...</summary><p>14 pages. Accepted for publication in Neurocomputing</p></details> |
-| **[SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms](https://arxiv.org/abs/2603.04873v1)** | 2026-03-05 |  |
 | **[Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776v3)** | 2026-03-05 |  |
 | **[PatchDecomp: Interpretable Patch-Based Time Series Forecasting](https://arxiv.org/abs/2603.03902v1)** | 2026-03-04 |  |
 | **[FSMLP: Modelling Channel Dependencies With Simplex Theory Based Multi-Layer Perceptions In Frequency Domain](https://arxiv.org/abs/2412.01654v3)** | 2026-03-04 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147v3)** | 2026-03-04 | Update affiliations |
 | **[HealthMamba: An Uncertainty-aware Spatiotemporal Graph State Space Model for Effective and Reliable Healthcare Facility Visit Prediction](https://arxiv.org/abs/2602.05286v2)** | 2026-03-04 |  |
 | **[Eliciting Numerical Predictive Distributions of LLMs Without Autoregression](https://arxiv.org/abs/2603.02913v1)** | 2026-03-03 | <details><summary>First...</summary><p>First two authors contributed equally. Published as a conference paper at ICLR2026</p></details> |
-| **[Towards Accurate and Interpretable Time-series Forecasting: A Polynomial Learning Approach](https://arxiv.org/abs/2603.02906v1)** | 2026-03-03 |  |
-| **[Weight-Space Linear Recurrent Neural Networks](https://arxiv.org/abs/2506.01153v3)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted as a main track publication at ICLR 2026. Contains 40 pages, 23 figures, and 16 tables</p></details> |
-| **[Rethinking the Role of LLMs in Time Series Forecasting](https://arxiv.org/abs/2602.14744v2)** | 2026-03-02 |  |
-| **[A Learnable Wavelet Transformer for Long-Short Equity Trading and Risk-Adjusted Return Optimization](https://arxiv.org/abs/2601.13435v3)** | 2026-03-02 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
