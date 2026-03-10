@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2026
+title: Latest 15 Papers - March 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting](https://arxiv.org/abs/2603.08707v1)** | 2026-03-09 |  |
+| **[Are We Winning the Wrong Game? Revisiting Evaluation Practices for Long-Term Time Series Forecasting](https://arxiv.org/abs/2603.08156v1)** | 2026-03-09 | First draft |
+| **[Hybrid Quantum Neural Network for Multivariate Clinical Time Series Forecasting](https://arxiv.org/abs/2603.08072v1)** | 2026-03-09 |  |
+| **[GCGNet: Graph-Consistent Generative Network for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.08032v1)** | 2026-03-09 |  |
+| **[Aurora: Towards Universal Generative Multimodal Time Series Forecasting](https://arxiv.org/abs/2509.22295v6)** | 2026-03-09 |  |
+| **[UniCast: A Unified Framework for Instance-Conditioned Multimodal Time-Series Forecasting](https://arxiv.org/abs/2508.11954v2)** | 2026-03-09 |  |
+| **[Uncertainty-Gated Generative Modeling](https://arxiv.org/abs/2603.07753v1)** | 2026-03-08 | <details><summary>Accep...</summary><p>Accepeted by ICLR 2026 Workshop Advances in Financial AI</p></details> |
+| **[MAS-H2: A Hierarchical Multi-Agent System for Holistic Cloud-Native Autoscaling](https://arxiv.org/abs/2603.07607v1)** | 2026-03-08 |  |
+| **[Enhanced Random Subspace Local Projections for High-Dimensional Time Series Analysis](https://arxiv.org/abs/2603.07500v1)** | 2026-03-08 | 12 pages, 18 figures |
+| **[Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative](https://arxiv.org/abs/2502.08942v3)** | 2026-03-07 | ICLR 2026, 47 pages |
 | **[Hierarchical Industrial Demand Forecasting with Temporal and Uncertainty Explanations](https://arxiv.org/abs/2603.06555v1)** | 2026-03-06 |  |
 | **[MM-ISTS: Cooperating Irregularly Sampled Time Series Forecasting with Multimodal Vision-Text LLMs](https://arxiv.org/abs/2603.05997v1)** | 2026-03-06 |  |
 | **[From Tokenizer Bias to Backbone Capability: A Controlled Study of LLMs for Time Series Forecasting](https://arxiv.org/abs/2504.08818v2)** | 2026-03-06 |  |
 | **[SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms](https://arxiv.org/abs/2603.04873v2)** | 2026-03-06 |  |
 | **[UniTS: Unified Spatio-Temporal Generative Model for Remote Sensing](https://arxiv.org/abs/2512.04461v2)** | 2026-03-06 |  |
-| **[ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/abs/2511.11991v3)** | 2026-03-05 | AAAI 2026 Oral |
-| **[Aura: Universal Multi-dimensional Exogenous Integration for Aviation Time Series](https://arxiv.org/abs/2603.05092v1)** | 2026-03-05 |  |
-| **[ms-Mamba: Multi-scale Mamba for Time-Series Forecasting](https://arxiv.org/abs/2504.07654v2)** | 2026-03-05 | <details><summary>14 pa...</summary><p>14 pages. Accepted for publication in Neurocomputing</p></details> |
-| **[Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776v3)** | 2026-03-05 |  |
-| **[PatchDecomp: Interpretable Patch-Based Time Series Forecasting](https://arxiv.org/abs/2603.03902v1)** | 2026-03-04 |  |
-| **[FSMLP: Modelling Channel Dependencies With Simplex Theory Based Multi-Layer Perceptions In Frequency Domain](https://arxiv.org/abs/2412.01654v3)** | 2026-03-04 |  |
-| **[Harmonic Dataset Distillation for Time Series Forecasting](https://arxiv.org/abs/2603.03760v1)** | 2026-03-04 | AAAI 2026 |
-| **[It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147v3)** | 2026-03-04 | Update affiliations |
-| **[HealthMamba: An Uncertainty-aware Spatiotemporal Graph State Space Model for Effective and Reliable Healthcare Facility Visit Prediction](https://arxiv.org/abs/2602.05286v2)** | 2026-03-04 |  |
-| **[Eliciting Numerical Predictive Distributions of LLMs Without Autoregression](https://arxiv.org/abs/2603.02913v1)** | 2026-03-03 | <details><summary>First...</summary><p>First two authors contributed equally. Published as a conference paper at ICLR2026</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
