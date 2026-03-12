@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2026
+title: Latest 15 Papers - March 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776v4)** | 2026-03-11 |  |
+| **[Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410v1)** | 2026-03-11 | <details><summary>to be...</summary><p>to be published in the 42nd IEEE International Conference on Data Engineering (ICDE '26)</p></details> |
+| **[Time series forecasting with Hahn Kolmogorov-Arnold networks](https://arxiv.org/abs/2601.18837v2)** | 2026-03-10 |  |
+| **[Rethinking Adam for Time Series Forecasting: A Simple Heuristic to Improve Optimization under Distribution Shifts](https://arxiv.org/abs/2603.10095v1)** | 2026-03-10 |  |
 | **[FreqCycle: A Multi-Scale Time-Frequency Analysis Method for Time Series Forecasting](https://arxiv.org/abs/2603.09661v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 17 figures, accepted to AAAI 2026. Code available at https://github.com/boya-zhang-ai/FreqCycle</p></details> |
 | **[Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting](https://arxiv.org/abs/2603.08707v2)** | 2026-03-10 |  |
 | **[Towards Robust Real-World Multivariate Time Series Forecasting: A Unified Framework for Dependency, Asynchrony, and Missingness](https://arxiv.org/abs/2506.08660v4)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted at the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[UniCast: A Unified Framework for Instance-Conditioned Multimodal Time-Series Forecasting](https://arxiv.org/abs/2508.11954v2)** | 2026-03-09 |  |
 | **[Uncertainty-Gated Generative Modeling](https://arxiv.org/abs/2603.07753v1)** | 2026-03-08 | <details><summary>Accep...</summary><p>Accepeted by ICLR 2026 Workshop Advances in Financial AI</p></details> |
 | **[MAS-H2: A Hierarchical Multi-Agent System for Holistic Cloud-Native Autoscaling](https://arxiv.org/abs/2603.07607v1)** | 2026-03-08 |  |
-| **[Enhanced Random Subspace Local Projections for High-Dimensional Time Series Analysis](https://arxiv.org/abs/2603.07500v1)** | 2026-03-08 | 12 pages, 18 figures |
-| **[Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative](https://arxiv.org/abs/2502.08942v3)** | 2026-03-07 | ICLR 2026, 47 pages |
-| **[Hierarchical Industrial Demand Forecasting with Temporal and Uncertainty Explanations](https://arxiv.org/abs/2603.06555v1)** | 2026-03-06 |  |
-| **[MM-ISTS: Cooperating Irregularly Sampled Time Series Forecasting with Multimodal Vision-Text LLMs](https://arxiv.org/abs/2603.05997v1)** | 2026-03-06 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
