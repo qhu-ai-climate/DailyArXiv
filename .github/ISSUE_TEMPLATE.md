@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 13, 2026
+title: Latest 15 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EnTransformer: A Deep Generative Transformer for Multivariate Probabilistic Forecasting](https://arxiv.org/abs/2603.11909v1)** | 2026-03-12 |  |
+| **[On the Role of Reversible Instance Normalization](https://arxiv.org/abs/2603.11869v1)** | 2026-03-12 |  |
+| **[A Learnable Wavelet Transformer for Long-Short Equity Trading and Risk-Adjusted Return Optimization](https://arxiv.org/abs/2601.13435v4)** | 2026-03-12 |  |
+| **[TimeSqueeze: Dynamic Patching for Efficient Time Series Forecasting](https://arxiv.org/abs/2603.11352v1)** | 2026-03-11 | 21 pages, 14 figures |
+| **[Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics, Revealing a Three-Stage In-Context Learning Mechanism](https://arxiv.org/abs/2509.06322v3)** | 2026-03-11 |  |
 | **[Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776v4)** | 2026-03-11 |  |
 | **[Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410v1)** | 2026-03-11 | <details><summary>to be...</summary><p>to be published in the 42nd IEEE International Conference on Data Engineering (ICDE '26)</p></details> |
 | **[Time series forecasting with Hahn Kolmogorov-Arnold networks](https://arxiv.org/abs/2601.18837v2)** | 2026-03-10 |  |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Dynamic Multi-period Experts for Online Time Series Forecasting](https://arxiv.org/abs/2603.09062v1)** | 2026-03-10 | WWW 2026 |
 | **[Are We Winning the Wrong Game? Revisiting Evaluation Practices for Long-Term Time Series Forecasting](https://arxiv.org/abs/2603.08156v1)** | 2026-03-09 | First draft |
 | **[Hybrid Quantum Neural Network for Multivariate Clinical Time Series Forecasting](https://arxiv.org/abs/2603.08072v1)** | 2026-03-09 |  |
-| **[GCGNet: Graph-Consistent Generative Network for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.08032v1)** | 2026-03-09 |  |
-| **[Aurora: Towards Universal Generative Multimodal Time Series Forecasting](https://arxiv.org/abs/2509.22295v6)** | 2026-03-09 |  |
-| **[UniCast: A Unified Framework for Instance-Conditioned Multimodal Time-Series Forecasting](https://arxiv.org/abs/2508.11954v2)** | 2026-03-09 |  |
-| **[Uncertainty-Gated Generative Modeling](https://arxiv.org/abs/2603.07753v1)** | 2026-03-08 | <details><summary>Accep...</summary><p>Accepeted by ICLR 2026 Workshop Advances in Financial AI</p></details> |
-| **[MAS-H2: A Hierarchical Multi-Agent System for Holistic Cloud-Native Autoscaling](https://arxiv.org/abs/2603.07607v1)** | 2026-03-08 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
