@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 17, 2026
+title: Latest 15 Papers - March 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Seeking SOTA: Time-Series Forecasting Must Adopt Taxonomy-Specific Evaluation to Dispel Illusory Gains](https://arxiv.org/abs/2603.15506v1)** | 2026-03-16 | <details><summary>Posit...</summary><p>Position paper; 8 figures, 8 tables; includes appendix</p></details> |
+| **[Unlocking the Value of Text: Event-Driven Reasoning and Multi-Level Alignment for Time Series Forecasting](https://arxiv.org/abs/2603.15452v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](https://arxiv.org/abs/2603.12664v2)** | 2026-03-16 | 15 pages, 6 figures |
+| **[3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting](https://arxiv.org/abs/2603.13049v2)** | 2026-03-16 |  |
+| **[OpenReservoirComputing: GPU-Accelerated Reservoir Computing in JAX](https://arxiv.org/abs/2603.14802v1)** | 2026-03-16 |  |
+| **[Deconfounded Time Series Forecasting: A Causal Inference Approach](https://arxiv.org/abs/2410.21328v2)** | 2026-03-16 |  |
+| **[Cross-RAG: Zero-Shot Retrieval-Augmented Time Series Forecasting via Cross-Attention](https://arxiv.org/abs/2603.14709v1)** | 2026-03-16 |  |
+| **[Jacobian Scopes: token-level causal attributions in LLMs](https://arxiv.org/abs/2601.16407v2)** | 2026-03-15 | <details><summary>16 pa...</summary><p>16 pages, 15 figures, under review at ACL 2026</p></details> |
+| **[EARCP: Self-Regulating Coherence-Aware Ensemble Architecture for Sequential Decision Making -- Ensemble Auto-Regule par Coherence et Performance](https://arxiv.org/abs/2603.14651v1)** | 2026-03-15 | <details><summary>13 pa...</summary><p>13 pages, 1 table, 1 algorithm. Open-source implementation available at https://github.com/Volgat/earcp and via pip install earcp. Dual-licensed: free for academic researchers, students, and organizations with gross revenue under $100,000/year; commercial license required for organizations exceeding this threshold (contact author)</p></details> |
+| **[Seg-MoE: Multi-Resolution Segment-wise Mixture-of-Experts for Time Series Forecasting Transformers](https://arxiv.org/abs/2601.21641v2)** | 2026-03-14 | Under review |
+| **[Aura: Universal Multi-dimensional Exogenous Integration for Aviation Time Series](https://arxiv.org/abs/2603.05092v2)** | 2026-03-14 |  |
+| **[Routing Channel-Patch Dependencies in Time Series Forecasting with Graph Spectral Decomposition](https://arxiv.org/abs/2603.13702v1)** | 2026-03-14 | <details><summary>The P...</summary><p>The Paper has been Accepted by ICLR 2026</p></details> |
+| **[Locally Linear Continual Learning for Time Series based on VC-Theoretical Generalization Bounds](https://arxiv.org/abs/2603.13674v1)** | 2026-03-14 | <details><summary>12 pa...</summary><p>12 pages. Accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
 | **[MoHETS: Long-term Time Series Forecasting with Mixture-of-Heterogeneous-Experts](https://arxiv.org/abs/2601.21866v2)** | 2026-03-13 | Under review |
-| **[3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting](https://arxiv.org/abs/2603.13049v1)** | 2026-03-13 |  |
 | **[Learnable Koopman-Enhanced Transformer-Based Time Series Forecasting with Spectral Control](https://arxiv.org/abs/2602.02592v2)** | 2026-03-13 |  |
-| **[From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](https://arxiv.org/abs/2603.12664v1)** | 2026-03-13 | 15 pages, 6 figures |
-| **[From XAI to Stories: A Factorial Study of LLM-Generated Explanation Quality](https://arxiv.org/abs/2601.02224v2)** | 2026-03-12 |  |
-| **[ASTGI: Adaptive Spatio-Temporal Graph Interactions for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2509.23313v3)** | 2026-03-12 |  |
-| **[EnTransformer: A Deep Generative Transformer for Multivariate Probabilistic Forecasting](https://arxiv.org/abs/2603.11909v1)** | 2026-03-12 |  |
-| **[On the Role of Reversible Instance Normalization](https://arxiv.org/abs/2603.11869v1)** | 2026-03-12 |  |
-| **[A Learnable Wavelet Transformer for Long-Short Equity Trading and Risk-Adjusted Return Optimization](https://arxiv.org/abs/2601.13435v4)** | 2026-03-12 |  |
-| **[TimeSqueeze: Dynamic Patching for Efficient Time Series Forecasting](https://arxiv.org/abs/2603.11352v1)** | 2026-03-11 | 21 pages, 14 figures |
-| **[Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics, Revealing a Three-Stage In-Context Learning Mechanism](https://arxiv.org/abs/2509.06322v3)** | 2026-03-11 |  |
-| **[Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776v4)** | 2026-03-11 |  |
-| **[Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410v1)** | 2026-03-11 | <details><summary>to be...</summary><p>to be published in the 42nd IEEE International Conference on Data Engineering (ICDE '26)</p></details> |
-| **[Time series forecasting with Hahn Kolmogorov-Arnold networks](https://arxiv.org/abs/2601.18837v2)** | 2026-03-10 |  |
-| **[Rethinking Adam for Time Series Forecasting: A Simple Heuristic to Improve Optimization under Distribution Shifts](https://arxiv.org/abs/2603.10095v1)** | 2026-03-10 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
