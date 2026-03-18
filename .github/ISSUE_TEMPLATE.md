@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 18, 2026
+title: Latest 15 Papers - March 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.15802v1)** | 2026-03-16 |  |
 | **[Seeking SOTA: Time-Series Forecasting Must Adopt Taxonomy-Specific Evaluation to Dispel Illusory Gains](https://arxiv.org/abs/2603.15506v1)** | 2026-03-16 | <details><summary>Posit...</summary><p>Position paper; 8 figures, 8 tables; includes appendix</p></details> |
 | **[Unlocking the Value of Text: Event-Driven Reasoning and Multi-Level Alignment for Time Series Forecasting](https://arxiv.org/abs/2603.15452v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](https://arxiv.org/abs/2603.12664v2)** | 2026-03-16 | 15 pages, 6 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Routing Channel-Patch Dependencies in Time Series Forecasting with Graph Spectral Decomposition](https://arxiv.org/abs/2603.13702v1)** | 2026-03-14 | <details><summary>The P...</summary><p>The Paper has been Accepted by ICLR 2026</p></details> |
 | **[Locally Linear Continual Learning for Time Series based on VC-Theoretical Generalization Bounds](https://arxiv.org/abs/2603.13674v1)** | 2026-03-14 | <details><summary>12 pa...</summary><p>12 pages. Accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
 | **[MoHETS: Long-term Time Series Forecasting with Mixture-of-Heterogeneous-Experts](https://arxiv.org/abs/2601.21866v2)** | 2026-03-13 | Under review |
-| **[Learnable Koopman-Enhanced Transformer-Based Time Series Forecasting with Spectral Control](https://arxiv.org/abs/2602.02592v2)** | 2026-03-13 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
