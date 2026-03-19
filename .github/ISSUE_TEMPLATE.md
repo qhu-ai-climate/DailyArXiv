@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2026
+title: Latest 15 Papers - March 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines](https://arxiv.org/abs/2505.15151v2)** | 2026-03-18 |  |
+| **[Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates](https://arxiv.org/abs/2603.17439v1)** | 2026-03-18 |  |
+| **[TimeAPN: Adaptive Amplitude-Phase Non-Stationarity Normalization for Time Series Forecasting](https://arxiv.org/abs/2603.17436v1)** | 2026-03-18 |  |
+| **[Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting](https://arxiv.org/abs/2603.16985v1)** | 2026-03-17 | 18 pages, 6 figures |
 | **[Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.15802v1)** | 2026-03-16 |  |
 | **[Seeking SOTA: Time-Series Forecasting Must Adopt Taxonomy-Specific Evaluation to Dispel Illusory Gains](https://arxiv.org/abs/2603.15506v1)** | 2026-03-16 | <details><summary>Posit...</summary><p>Position paper; 8 figures, 8 tables; includes appendix</p></details> |
 | **[Unlocking the Value of Text: Event-Driven Reasoning and Multi-Level Alignment for Time Series Forecasting](https://arxiv.org/abs/2603.15452v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Jacobian Scopes: token-level causal attributions in LLMs](https://arxiv.org/abs/2601.16407v2)** | 2026-03-15 | <details><summary>16 pa...</summary><p>16 pages, 15 figures, under review at ACL 2026</p></details> |
 | **[EARCP: Self-Regulating Coherence-Aware Ensemble Architecture for Sequential Decision Making -- Ensemble Auto-Regule par Coherence et Performance](https://arxiv.org/abs/2603.14651v1)** | 2026-03-15 | <details><summary>13 pa...</summary><p>13 pages, 1 table, 1 algorithm. Open-source implementation available at https://github.com/Volgat/earcp and via pip install earcp. Dual-licensed: free for academic researchers, students, and organizations with gross revenue under $100,000/year; commercial license required for organizations exceeding this threshold (contact author)</p></details> |
 | **[Seg-MoE: Multi-Resolution Segment-wise Mixture-of-Experts for Time Series Forecasting Transformers](https://arxiv.org/abs/2601.21641v2)** | 2026-03-14 | Under review |
-| **[Aura: Universal Multi-dimensional Exogenous Integration for Aviation Time Series](https://arxiv.org/abs/2603.05092v2)** | 2026-03-14 |  |
-| **[Routing Channel-Patch Dependencies in Time Series Forecasting with Graph Spectral Decomposition](https://arxiv.org/abs/2603.13702v1)** | 2026-03-14 | <details><summary>The P...</summary><p>The Paper has been Accepted by ICLR 2026</p></details> |
-| **[Locally Linear Continual Learning for Time Series based on VC-Theoretical Generalization Bounds](https://arxiv.org/abs/2603.13674v1)** | 2026-03-14 | <details><summary>12 pa...</summary><p>12 pages. Accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
-| **[MoHETS: Long-term Time Series Forecasting with Mixture-of-Heterogeneous-Experts](https://arxiv.org/abs/2601.21866v2)** | 2026-03-13 | Under review |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
