@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 20, 2026
+title: Latest 15 Papers - March 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism](https://arxiv.org/abs/2603.18712v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
+| **[MLOW: Interpretable Low-Rank Frequency Magnitude Decomposition of Multiple Effects for Time Series Forecasting](https://arxiv.org/abs/2603.18432v1)** | 2026-03-19 |  |
+| **[Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach](https://arxiv.org/abs/2602.18377v2)** | 2026-03-18 | 36 pages, 14 figures |
 | **[Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines](https://arxiv.org/abs/2505.15151v2)** | 2026-03-18 |  |
 | **[Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates](https://arxiv.org/abs/2603.17439v1)** | 2026-03-18 |  |
 | **[TimeAPN: Adaptive Amplitude-Phase Non-Stationarity Normalization for Time Series Forecasting](https://arxiv.org/abs/2603.17436v1)** | 2026-03-18 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[OpenReservoirComputing: GPU-Accelerated Reservoir Computing in JAX](https://arxiv.org/abs/2603.14802v1)** | 2026-03-16 |  |
 | **[Deconfounded Time Series Forecasting: A Causal Inference Approach](https://arxiv.org/abs/2410.21328v2)** | 2026-03-16 |  |
 | **[Cross-RAG: Zero-Shot Retrieval-Augmented Time Series Forecasting via Cross-Attention](https://arxiv.org/abs/2603.14709v1)** | 2026-03-16 |  |
-| **[Jacobian Scopes: token-level causal attributions in LLMs](https://arxiv.org/abs/2601.16407v2)** | 2026-03-15 | <details><summary>16 pa...</summary><p>16 pages, 15 figures, under review at ACL 2026</p></details> |
-| **[EARCP: Self-Regulating Coherence-Aware Ensemble Architecture for Sequential Decision Making -- Ensemble Auto-Regule par Coherence et Performance](https://arxiv.org/abs/2603.14651v1)** | 2026-03-15 | <details><summary>13 pa...</summary><p>13 pages, 1 table, 1 algorithm. Open-source implementation available at https://github.com/Volgat/earcp and via pip install earcp. Dual-licensed: free for academic researchers, students, and organizations with gross revenue under $100,000/year; commercial license required for organizations exceeding this threshold (contact author)</p></details> |
-| **[Seg-MoE: Multi-Resolution Segment-wise Mixture-of-Experts for Time Series Forecasting Transformers](https://arxiv.org/abs/2601.21641v2)** | 2026-03-14 | Under review |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
