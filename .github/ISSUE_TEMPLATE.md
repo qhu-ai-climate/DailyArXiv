@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2026
+title: Latest 15 Papers - March 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trojan horse hunt in deep forecasting models: Insights from the European Space Agency competition](https://arxiv.org/abs/2603.20108v1)** | 2026-03-20 | 43 pages, 18 figures |
+| **[Deep Autocorrelation Modeling for Time-Series Forecasting: Progress and Prospects](https://arxiv.org/abs/2603.19899v1)** | 2026-03-20 |  |
 | **[Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism](https://arxiv.org/abs/2603.18712v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
 | **[MLOW: Interpretable Low-Rank Frequency Magnitude Decomposition of Multiple Effects for Time Series Forecasting](https://arxiv.org/abs/2603.18432v1)** | 2026-03-19 |  |
 | **[Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach](https://arxiv.org/abs/2602.18377v2)** | 2026-03-18 | 36 pages, 14 figures |
@@ -20,8 +22,6 @@ labels: documentation
 | **[From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space](https://arxiv.org/abs/2603.12664v2)** | 2026-03-16 | 15 pages, 6 figures |
 | **[3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting](https://arxiv.org/abs/2603.13049v2)** | 2026-03-16 |  |
 | **[OpenReservoirComputing: GPU-Accelerated Reservoir Computing in JAX](https://arxiv.org/abs/2603.14802v1)** | 2026-03-16 |  |
-| **[Deconfounded Time Series Forecasting: A Causal Inference Approach](https://arxiv.org/abs/2410.21328v2)** | 2026-03-16 |  |
-| **[Cross-RAG: Zero-Shot Retrieval-Augmented Time Series Forecasting via Cross-Attention](https://arxiv.org/abs/2603.14709v1)** | 2026-03-16 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
