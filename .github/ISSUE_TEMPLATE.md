@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Hawkes Processes to Attention: Time-Modulated Mechanisms for Event Sequences](https://arxiv.org/abs/2601.09220v2)** | 2026-03-24 |  |
+| **[A Comparative Study of Machine Learning Models for Hourly Forecasting of Air Temperature and Relative Humidity](https://arxiv.org/abs/2603.23282v1)** | 2026-03-24 |  |
+| **[Short-Form Video Viewing Behavior Analysis and Multi-Step Viewing Time Prediction](https://arxiv.org/abs/2603.22663v1)** | 2026-03-24 |  |
 | **[FRIREN: Beyond Trajectories -- A Spectral Lens on Time](https://arxiv.org/abs/2505.17370v5)** | 2026-03-23 | <details><summary>37 pa...</summary><p>37 pages, 4 figures. Submitted to NeurIPS 2025. Public code at https://anonymous.4open.science/r/LTSF_model-03BB/</p></details> |
 | **[Noise Titration: Exact Distributional Benchmarking for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2603.22219v1)** | 2026-03-23 |  |
 | **[CoRA: Boosting Time Series Foundation Models for Multivariate Forecasting through Correlation-aware Adapter](https://arxiv.org/abs/2603.21828v1)** | 2026-03-23 |  |
@@ -19,14 +22,11 @@ labels: documentation
 | **[MLOW: Interpretable Low-Rank Frequency Magnitude Decomposition of Multiple Effects for Time Series Forecasting](https://arxiv.org/abs/2603.18432v1)** | 2026-03-19 |  |
 | **[Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach](https://arxiv.org/abs/2602.18377v2)** | 2026-03-18 | 36 pages, 14 figures |
 | **[Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines](https://arxiv.org/abs/2505.15151v2)** | 2026-03-18 |  |
-| **[Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates](https://arxiv.org/abs/2603.17439v1)** | 2026-03-18 |  |
-| **[TimeAPN: Adaptive Amplitude-Phase Non-Stationarity Normalization for Time Series Forecasting](https://arxiv.org/abs/2603.17436v1)** | 2026-03-18 |  |
-| **[Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting](https://arxiv.org/abs/2603.16985v1)** | 2026-03-17 | 18 pages, 6 figures |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation](https://arxiv.org/abs/2602.21043v2)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation](https://arxiv.org/abs/2602.21043v3)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[The Stationarity Bias: Stratified Stress-Testing for Time-Series Imputation in Regulated Dynamical Systems](https://arxiv.org/abs/2602.15637v1)** | 2026-02-17 |  |
 | **[Are Time-Indexed Foundation Models the Future of Time Series Imputation?](https://arxiv.org/abs/2511.05980v2)** | 2026-02-06 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research, 2026</p></details> |
 | **[Analyzing and Improving Diffusion Models for Time-Series Data Imputation: A Proximal Recursion Perspective](https://arxiv.org/abs/2602.01182v1)** | 2026-02-01 |  |
