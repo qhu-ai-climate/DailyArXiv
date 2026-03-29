@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 27, 2026
+title: Latest 15 Papers - March 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Benchmarking M-LTSF: Frequency and Noise-Based Evaluation of Multivariate Long Time Series Forecasting Models](https://arxiv.org/abs/2510.04900v2)** | 2026-03-26 | <details><summary>Numbe...</summary><p>Number of pages: 13 Number of figures: 16 Number of Tables: 1</p></details> |
+| **[System-Anchored Knee Estimation for Low-Cost Context Window Selection in PDE Forecasting](https://arxiv.org/abs/2603.25025v1)** | 2026-03-26 |  |
 | **[TimeRecipe: A Time-Series Forecasting Recipe via Benchmarking Module Level Effectiveness](https://arxiv.org/abs/2506.06482v3)** | 2026-03-25 | <details><summary>48 pa...</summary><p>48 pages, 1 figure, 30 tables</p></details> |
 | **[Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift](https://arxiv.org/abs/2510.14814v2)** | 2026-03-25 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 4 tables</p></details> |
 | **[Forecasting with Guidance: Representation-Level Supervision for Time Series Forecasting](https://arxiv.org/abs/2603.24262v1)** | 2026-03-25 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 4 tables</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Dual-Criterion Curriculum Learning: Application to Temporal Data](https://arxiv.org/abs/2603.23573v1)** | 2026-03-24 |  |
 | **[Short-Form Video Viewing Behavior Analysis and Multi-Step Viewing Time Prediction](https://arxiv.org/abs/2603.22663v1)** | 2026-03-24 |  |
 | **[FRIREN: Beyond Trajectories -- A Spectral Lens on Time](https://arxiv.org/abs/2505.17370v5)** | 2026-03-23 | <details><summary>37 pa...</summary><p>37 pages, 4 figures. Submitted to NeurIPS 2025. Public code at https://anonymous.4open.science/r/LTSF_model-03BB/</p></details> |
-| **[Noise Titration: Exact Distributional Benchmarking for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2603.22219v1)** | 2026-03-23 |  |
-| **[CoRA: Boosting Time Series Foundation Models for Multivariate Forecasting through Correlation-aware Adapter](https://arxiv.org/abs/2603.21828v1)** | 2026-03-23 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
