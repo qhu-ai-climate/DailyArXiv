@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 31, 2026
+title: Latest 15 Papers - April 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Echo State Networks for Time Series Forecasting: Hyperparameter Sweep and Benchmarking](https://arxiv.org/abs/2602.03912v2)** | 2026-03-30 |  |
+| **[MR-ImagenTime: Multi-Resolution Time Series Generation through Dual Image Representations](https://arxiv.org/abs/2603.28253v1)** | 2026-03-30 |  |
+| **[Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](https://arxiv.org/abs/2601.16632v3)** | 2026-03-30 |  |
+| **[Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning](https://arxiv.org/abs/2505.11349v3)** | 2026-03-29 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[What-If Explanations Over Time: Counterfactuals for Time Series Classification](https://arxiv.org/abs/2603.27792v1)** | 2026-03-29 | <details><summary>24 pa...</summary><p>24 pages, 1 figure, 3 tables, accepted at the XAI 2026</p></details> |
+| **[PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-term Time Series Forecasting](https://arxiv.org/abs/2508.13773v3)** | 2026-03-29 |  |
+| **[Diffolio: A Diffusion Model for Multivariate Probabilistic Financial Time-Series Forecasting and Portfolio Construction](https://arxiv.org/abs/2511.07014v2)** | 2026-03-29 | <details><summary>41 pa...</summary><p>41 pages, 11 figures. Replacement to match the version accepted for publication in Information Fusion (Vol. 133, 104286, 2026). Significant updates have been made from the initial draft to reflect the final accepted manuscript (AAM)</p></details> |
+| **[PyINLA: Fast Bayesian Inference for Latent Gaussian Models in Python](https://arxiv.org/abs/2603.27276v1)** | 2026-03-28 | 41 pages, 9 figures |
+| **[Binned Spectral Power Loss for Improved Prediction of Chaotic Systems](https://arxiv.org/abs/2502.00472v3)** | 2026-03-27 |  |
 | **[Dynamic Tokenization via Reinforcement Patching: End-to-end Training and Zero-shot Transfer](https://arxiv.org/abs/2603.26097v1)** | 2026-03-27 |  |
 | **[QuitoBench: A High-Quality Open Time Series Forecasting Benchmark](https://arxiv.org/abs/2603.26017v1)** | 2026-03-27 | <details><summary>proje...</summary><p>project site: https://hq-bench.github.io/quito/</p></details> |
 | **[Benchmarking M-LTSF: Frequency and Noise-Based Evaluation of Multivariate Long Time Series Forecasting Models](https://arxiv.org/abs/2510.04900v2)** | 2026-03-26 | <details><summary>Numbe...</summary><p>Number of pages: 13 Number of figures: 16 Number of Tables: 1</p></details> |
 | **[System-Anchored Knee Estimation for Low-Cost Context Window Selection in PDE Forecasting](https://arxiv.org/abs/2603.25025v1)** | 2026-03-26 |  |
 | **[TimeRecipe: A Time-Series Forecasting Recipe via Benchmarking Module Level Effectiveness](https://arxiv.org/abs/2506.06482v3)** | 2026-03-25 | <details><summary>48 pa...</summary><p>48 pages, 1 figure, 30 tables</p></details> |
 | **[Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift](https://arxiv.org/abs/2510.14814v2)** | 2026-03-25 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 4 tables</p></details> |
-| **[Forecasting with Guidance: Representation-Level Supervision for Time Series Forecasting](https://arxiv.org/abs/2603.24262v1)** | 2026-03-25 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 4 tables</p></details> |
-| **[Embracing Heteroscedasticity for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2603.24254v1)** | 2026-03-25 |  |
-| **[IPatch: A Multi-Resolution Transformer Architecture for Robust Time-Series Forecasting](https://arxiv.org/abs/2603.24207v1)** | 2026-03-25 |  |
-| **[CastMind: An Interaction-Driven Agentic Reasoning Framework for Cognition-Inspired Time Series Forecasting](https://arxiv.org/abs/2511.08947v3)** | 2026-03-25 |  |
-| **[Bridging Past and Future: Distribution-Aware Alignment for Time Series Forecasting](https://arxiv.org/abs/2509.14181v4)** | 2026-03-25 |  |
-| **[From Hawkes Processes to Attention: Time-Modulated Mechanisms for Event Sequences](https://arxiv.org/abs/2601.09220v2)** | 2026-03-24 |  |
-| **[A Comparative Study of Machine Learning Models for Hourly Forecasting of Air Temperature and Relative Humidity](https://arxiv.org/abs/2603.23282v1)** | 2026-03-24 |  |
-| **[Wafer-Level Etch Spatial Profiling for Process Monitoring from Time-Series with Time-LLM](https://arxiv.org/abs/2603.23576v1)** | 2026-03-24 | <details><summary>Submi...</summary><p>Submitted to AVSS 2026</p></details> |
-| **[Dual-Criterion Curriculum Learning: Application to Temporal Data](https://arxiv.org/abs/2603.23573v1)** | 2026-03-24 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bayes-MICE: A Bayesian Approach to Multiple Imputation for Time Series Data](https://arxiv.org/abs/2603.27142v1)** | 2026-03-28 |  |
 | **[Uncovering Memorization in Timeseries Imputation models: LBRM Membership Inference and its link to attribute Leakage](https://arxiv.org/abs/2603.24213v1)** | 2026-03-25 |  |
 | **[T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation](https://arxiv.org/abs/2602.21043v3)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[The Stationarity Bias: Stratified Stress-Testing for Time-Series Imputation in Regulated Dynamical Systems](https://arxiv.org/abs/2602.15637v1)** | 2026-02-17 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[PAST: A Primary-Auxiliary Spatio-Temporal Network for Traffic Time Series Imputation](https://arxiv.org/abs/2511.13414v1)** | 2025-11-17 |  |
 | **[MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling](https://arxiv.org/abs/2507.13207v3)** | 2025-11-08 | <details><summary>10th ...</summary><p>10th Workshop on Advanced Analytics and Learning on Temporal Data (AALTD), ECML 2025</p></details> |
 | **[HAGI++: Head-Assisted Gaze Imputation and Generation](https://arxiv.org/abs/2511.02468v1)** | 2025-11-04 | <details><summary>Exten...</summary><p>Extended version of our UIST'25 paper "HAGI: Head-Assisted Gaze Imputation for Mobile Eye Trackers"</p></details> |
-| **[Closing Gaps: An Imputation Analysis of ICU Vital Signs](https://arxiv.org/abs/2510.24217v1)** | 2025-10-28 | Preprint |
 
