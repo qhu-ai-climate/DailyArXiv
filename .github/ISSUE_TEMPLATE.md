@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 01, 2026
+title: Latest 15 Papers - April 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](https://arxiv.org/abs/2406.14399v3)** | 2026-03-31 | 34 pages, 20 figures |
+| **[One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting](https://arxiv.org/abs/2603.29756v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This manuscript is currently under review at IEEE Transactions on Knowledge and Data Engineering (TKDE)</p></details> |
+| **[Electric Vehicle Charging Load Forecasting: An Experimental Comparison of Machine Learning Methods](https://arxiv.org/abs/2512.17257v2)** | 2026-03-31 | <details><summary>19 pa...</summary><p>19 pages, 2 figures, 5 tables</p></details> |
 | **[Echo State Networks for Time Series Forecasting: Hyperparameter Sweep and Benchmarking](https://arxiv.org/abs/2602.03912v2)** | 2026-03-30 |  |
 | **[MR-ImagenTime: Multi-Resolution Time Series Generation through Dual Image Representations](https://arxiv.org/abs/2603.28253v1)** | 2026-03-30 |  |
 | **[Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](https://arxiv.org/abs/2601.16632v3)** | 2026-03-30 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Dynamic Tokenization via Reinforcement Patching: End-to-end Training and Zero-shot Transfer](https://arxiv.org/abs/2603.26097v1)** | 2026-03-27 |  |
 | **[QuitoBench: A High-Quality Open Time Series Forecasting Benchmark](https://arxiv.org/abs/2603.26017v1)** | 2026-03-27 | <details><summary>proje...</summary><p>project site: https://hq-bench.github.io/quito/</p></details> |
 | **[Benchmarking M-LTSF: Frequency and Noise-Based Evaluation of Multivariate Long Time Series Forecasting Models](https://arxiv.org/abs/2510.04900v2)** | 2026-03-26 | <details><summary>Numbe...</summary><p>Number of pages: 13 Number of figures: 16 Number of Tables: 1</p></details> |
-| **[System-Anchored Knee Estimation for Low-Cost Context Window Selection in PDE Forecasting](https://arxiv.org/abs/2603.25025v1)** | 2026-03-26 |  |
-| **[TimeRecipe: A Time-Series Forecasting Recipe via Benchmarking Module Level Effectiveness](https://arxiv.org/abs/2506.06482v3)** | 2026-03-25 | <details><summary>48 pa...</summary><p>48 pages, 1 figure, 30 tables</p></details> |
-| **[Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift](https://arxiv.org/abs/2510.14814v2)** | 2026-03-25 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 4 tables</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
