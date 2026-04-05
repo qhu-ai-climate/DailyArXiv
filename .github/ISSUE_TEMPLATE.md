@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 03, 2026
+title: Latest 15 Papers - April 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Transformer self-attention encoder-decoder with multimodal deep learning for response time series forecasting and digital twin support in wind structural health monitoring](https://arxiv.org/abs/2604.01712v1)** | 2026-04-02 | <details><summary>21 pa...</summary><p>21 pages, 22 figures, 9 tables. This version corresponds to the published article in Computers & Structures. https://doi.org/10.1016/j.compstruc.2026.108216</p></details> |
+| **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v6)** | 2026-04-02 | 23 pages,6 figures |
+| **[Automatic selection of the best neural architecture for time series forecasting](https://arxiv.org/abs/2501.12215v2)** | 2026-04-02 | 35 pages, 8 figures |
+| **[DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting](https://arxiv.org/abs/2604.01261v1)** | 2026-04-01 | 9 pages, 7 figures |
 | **[Alphacast: An Interaction-Driven Agentic Reasoning Framework for Cognition-Inspired Time Series Forecasting](https://arxiv.org/abs/2511.08947v4)** | 2026-04-01 |  |
 | **[Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](https://arxiv.org/abs/2406.14399v3)** | 2026-03-31 | 34 pages, 20 figures |
 | **[One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting](https://arxiv.org/abs/2603.29756v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This manuscript is currently under review at IEEE Transactions on Knowledge and Data Engineering (TKDE)</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[What-If Explanations Over Time: Counterfactuals for Time Series Classification](https://arxiv.org/abs/2603.27792v1)** | 2026-03-29 | <details><summary>24 pa...</summary><p>24 pages, 1 figure, 3 tables, accepted at the XAI 2026</p></details> |
 | **[PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-term Time Series Forecasting](https://arxiv.org/abs/2508.13773v3)** | 2026-03-29 |  |
 | **[Diffolio: A Diffusion Model for Multivariate Probabilistic Financial Time-Series Forecasting and Portfolio Construction](https://arxiv.org/abs/2511.07014v2)** | 2026-03-29 | <details><summary>41 pa...</summary><p>41 pages, 11 figures. Replacement to match the version accepted for publication in Information Fusion (Vol. 133, 104286, 2026). Significant updates have been made from the initial draft to reflect the final accepted manuscript (AAM)</p></details> |
-| **[PyINLA: Fast Bayesian Inference for Latent Gaussian Models in Python](https://arxiv.org/abs/2603.27276v1)** | 2026-03-28 | 41 pages, 9 figures |
-| **[Binned Spectral Power Loss for Improved Prediction of Chaotic Systems](https://arxiv.org/abs/2502.00472v3)** | 2026-03-27 |  |
-| **[Dynamic Tokenization via Reinforcement Patching: End-to-end Training and Zero-shot Transfer](https://arxiv.org/abs/2603.26097v1)** | 2026-03-27 |  |
-| **[QuitoBench: A High-Quality Open Time Series Forecasting Benchmark](https://arxiv.org/abs/2603.26017v1)** | 2026-03-27 | <details><summary>proje...</summary><p>project site: https://hq-bench.github.io/quito/</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
