@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Echo State Networks for Time Series Forecasting: Hyperparameter Sweep and Benchmarking](https://arxiv.org/abs/2602.03912v3)** | 2026-04-07 |  |
+| **[Channel-wise Retrieval for Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.05543v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026 Oral</p></details> |
+| **[VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting](https://arxiv.org/abs/2501.14183v3)** | 2026-04-07 | <details><summary>Publi...</summary><p>Published in AAAI 2025</p></details> |
+| **[TFRBench: A Reasoning Benchmark for Evaluating Forecasting Systems](https://arxiv.org/abs/2604.05364v1)** | 2026-04-07 |  |
+| **[Non-monotonic causal discovery with Kolmogorov-Arnold Fuzzy Cognitive Maps](https://arxiv.org/abs/2604.05136v1)** | 2026-04-06 | <details><summary>Fuzzy...</summary><p>Fuzzy Cognitive Maps, Kolmogorov-Arnold Networks, Causal Modeling, Neuro-Symbolic AI</p></details> |
+| **[Retrieval Augmented Time Series Forecasting](https://arxiv.org/abs/2411.08249v2)** | 2026-04-06 |  |
 | **[The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators](https://arxiv.org/abs/2508.11175v3)** | 2026-04-04 |  |
 | **[Process-Informed Forecasting of Complex Thermal Dynamics in Pharmaceutical Manufacturing](https://arxiv.org/abs/2509.20349v2)** | 2026-04-04 |  |
 | **[Adversarial Robustness of Deep State Space Models for Forecasting](https://arxiv.org/abs/2604.03427v1)** | 2026-04-03 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, conference submission</p></details> |
@@ -16,12 +22,6 @@ labels: documentation
 | **[DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting](https://arxiv.org/abs/2604.01261v1)** | 2026-04-01 | 9 pages, 7 figures |
 | **[Alphacast: An Interaction-Driven Agentic Reasoning Framework for Cognition-Inspired Time Series Forecasting](https://arxiv.org/abs/2511.08947v4)** | 2026-04-01 |  |
 | **[Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](https://arxiv.org/abs/2406.14399v3)** | 2026-03-31 | 34 pages, 20 figures |
-| **[One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting](https://arxiv.org/abs/2603.29756v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This manuscript is currently under review at IEEE Transactions on Knowledge and Data Engineering (TKDE)</p></details> |
-| **[Electric Vehicle Charging Load Forecasting: An Experimental Comparison of Machine Learning Methods](https://arxiv.org/abs/2512.17257v2)** | 2026-03-31 | <details><summary>19 pa...</summary><p>19 pages, 2 figures, 5 tables</p></details> |
-| **[Echo State Networks for Time Series Forecasting: Hyperparameter Sweep and Benchmarking](https://arxiv.org/abs/2602.03912v2)** | 2026-03-30 |  |
-| **[MR-ImagenTime: Multi-Resolution Time Series Generation through Dual Image Representations](https://arxiv.org/abs/2603.28253v1)** | 2026-03-30 |  |
-| **[Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](https://arxiv.org/abs/2601.16632v3)** | 2026-03-30 |  |
-| **[Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning](https://arxiv.org/abs/2505.11349v3)** | 2026-03-29 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR 2026)</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
