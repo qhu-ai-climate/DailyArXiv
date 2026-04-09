@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 09, 2026
+title: Latest 15 Papers - April 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MR-ImagenTime: Multi-Resolution Time Series Generation through Dual Image Representations](https://arxiv.org/abs/2603.28253v2)** | 2026-04-08 |  |
+| **[MICA: Multivariate Infini Compressive Attention for Time Series Forecasting](https://arxiv.org/abs/2604.06473v1)** | 2026-04-07 |  |
 | **[Echo State Networks for Time Series Forecasting: Hyperparameter Sweep and Benchmarking](https://arxiv.org/abs/2602.03912v3)** | 2026-04-07 |  |
 | **[Channel-wise Retrieval for Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.05543v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026 Oral</p></details> |
 | **[VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting](https://arxiv.org/abs/2501.14183v3)** | 2026-04-07 | <details><summary>Publi...</summary><p>Published in AAAI 2025</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v6)** | 2026-04-02 | 23 pages,6 figures |
 | **[Automatic selection of the best neural architecture for time series forecasting](https://arxiv.org/abs/2501.12215v2)** | 2026-04-02 | 35 pages, 8 figures |
 | **[DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting](https://arxiv.org/abs/2604.01261v1)** | 2026-04-01 | 9 pages, 7 figures |
-| **[Alphacast: An Interaction-Driven Agentic Reasoning Framework for Cognition-Inspired Time Series Forecasting](https://arxiv.org/abs/2511.08947v4)** | 2026-04-01 |  |
-| **[Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](https://arxiv.org/abs/2406.14399v3)** | 2026-03-31 | 34 pages, 20 figures |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
