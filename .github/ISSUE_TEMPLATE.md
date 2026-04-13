@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2026
+title: Latest 15 Papers - April 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AR-KAN: Autoregressive-Weight-Enhanced Kolmogorov-Arnold Network for Time Series Forecasting](https://arxiv.org/abs/2509.02967v3)** | 2026-04-10 |  |
+| **[Temporal Patch Shuffle (TPS): Leveraging Patch-Level Shuffling to Boost Generalization and Robustness in Time Series Forecasting](https://arxiv.org/abs/2604.09067v1)** | 2026-04-10 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 17 tables</p></details> |
+| **[AlphaCast: A Human Wisdom-LLM Intelligence Co-Reasoning Framework for Interactive Time Series Forecasting](https://arxiv.org/abs/2511.08947v5)** | 2026-04-10 |  |
 | **[Zero-shot Multivariate Time Series Forecasting Using Tabular Prior Fitted Networks](https://arxiv.org/abs/2604.08400v1)** | 2026-04-09 |  |
 | **[Auto-Configured Networks for Multi-Scale Multi-Output Time-Series Forecasting](https://arxiv.org/abs/2604.07610v1)** | 2026-04-08 |  |
 | **[DSPR: Dual-Stream Physics-Residual Networks for Trustworthy Industrial Time Series Forecasting](https://arxiv.org/abs/2604.07393v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, submitted to KDD 2026</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Non-monotonic causal discovery with Kolmogorov-Arnold Fuzzy Cognitive Maps](https://arxiv.org/abs/2604.05136v1)** | 2026-04-06 | <details><summary>Fuzzy...</summary><p>Fuzzy Cognitive Maps, Kolmogorov-Arnold Networks, Causal Modeling, Neuro-Symbolic AI</p></details> |
 | **[Retrieval Augmented Time Series Forecasting](https://arxiv.org/abs/2411.08249v2)** | 2026-04-06 |  |
 | **[The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators](https://arxiv.org/abs/2508.11175v3)** | 2026-04-04 |  |
-| **[Process-Informed Forecasting of Complex Thermal Dynamics in Pharmaceutical Manufacturing](https://arxiv.org/abs/2509.20349v2)** | 2026-04-04 |  |
-| **[Adversarial Robustness of Deep State Space Models for Forecasting](https://arxiv.org/abs/2604.03427v1)** | 2026-04-03 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, conference submission</p></details> |
-| **[Transformer self-attention encoder-decoder with multimodal deep learning for response time series forecasting and digital twin support in wind structural health monitoring](https://arxiv.org/abs/2604.01712v1)** | 2026-04-02 | <details><summary>21 pa...</summary><p>21 pages, 22 figures, 9 tables. This version corresponds to the published article in Computers & Structures. https://doi.org/10.1016/j.compstruc.2026.108216</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
