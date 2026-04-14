@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2026
+title: Latest 15 Papers - April 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TempusBench: An Evaluation Framework for Time-Series Forecasting](https://arxiv.org/abs/2604.11529v1)** | 2026-04-13 |  |
+| **[Non-stationary Diffusion For Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.04278v3)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted as spotlight poster at ICML</p></details> |
+| **[WaveMoE: A Wavelet-Enhanced Mixture-of-Experts Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2604.10544v1)** | 2026-04-12 | <details><summary>Prese...</summary><p>Presented at ICLR 2026 TSALM Workshop (1st Workshop on Time Series in the Age of Large Models)</p></details> |
+| **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v7)** | 2026-04-12 | 23 pages,6 figures |
+| **[A Heavy-Load-Enhanced and Changeable-Periodicity-Perceived Workload Prediction Network](https://arxiv.org/abs/2308.01917v3)** | 2026-04-11 | <details><summary>Submi...</summary><p>Submitted to TII 2026</p></details> |
+| **[DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment](https://arxiv.org/abs/2510.24574v2)** | 2026-04-11 |  |
 | **[AR-KAN: Autoregressive-Weight-Enhanced Kolmogorov-Arnold Network for Time Series Forecasting](https://arxiv.org/abs/2509.02967v3)** | 2026-04-10 |  |
 | **[Temporal Patch Shuffle (TPS): Leveraging Patch-Level Shuffling to Boost Generalization and Robustness in Time Series Forecasting](https://arxiv.org/abs/2604.09067v1)** | 2026-04-10 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 17 tables</p></details> |
 | **[AlphaCast: A Human Wisdom-LLM Intelligence Co-Reasoning Framework for Interactive Time Series Forecasting](https://arxiv.org/abs/2511.08947v5)** | 2026-04-10 |  |
@@ -16,12 +22,6 @@ labels: documentation
 | **[MR-ImagenTime: Multi-Resolution Time Series Generation through Dual Image Representations](https://arxiv.org/abs/2603.28253v2)** | 2026-04-08 |  |
 | **[MICA: Multivariate Infini Compressive Attention for Time Series Forecasting](https://arxiv.org/abs/2604.06473v1)** | 2026-04-07 |  |
 | **[Echo State Networks for Time Series Forecasting: Hyperparameter Sweep and Benchmarking](https://arxiv.org/abs/2602.03912v3)** | 2026-04-07 |  |
-| **[Channel-wise Retrieval for Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.05543v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026 Oral</p></details> |
-| **[VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting](https://arxiv.org/abs/2501.14183v3)** | 2026-04-07 | <details><summary>Publi...</summary><p>Published in AAAI 2025</p></details> |
-| **[TFRBench: A Reasoning Benchmark for Evaluating Forecasting Systems](https://arxiv.org/abs/2604.05364v1)** | 2026-04-07 |  |
-| **[Non-monotonic causal discovery with Kolmogorov-Arnold Fuzzy Cognitive Maps](https://arxiv.org/abs/2604.05136v1)** | 2026-04-06 | <details><summary>Fuzzy...</summary><p>Fuzzy Cognitive Maps, Kolmogorov-Arnold Networks, Causal Modeling, Neuro-Symbolic AI</p></details> |
-| **[Retrieval Augmented Time Series Forecasting](https://arxiv.org/abs/2411.08249v2)** | 2026-04-06 |  |
-| **[The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators](https://arxiv.org/abs/2508.11175v3)** | 2026-04-04 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
