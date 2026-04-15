@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2026
+title: Latest 15 Papers - April 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TimeSAF: Towards LLM-Guided Semantic Asynchronous Fusion for Time Series Forecasting](https://arxiv.org/abs/2604.12648v1)** | 2026-04-14 |  |
+| **[INTARG: Informed Real-Time Adversarial Attack Generation for Time-Series Regression](https://arxiv.org/abs/2604.11928v1)** | 2026-04-13 |  |
 | **[TempusBench: An Evaluation Framework for Time-Series Forecasting](https://arxiv.org/abs/2604.11529v1)** | 2026-04-13 |  |
 | **[Non-stationary Diffusion For Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.04278v3)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted as spotlight poster at ICML</p></details> |
 | **[WaveMoE: A Wavelet-Enhanced Mixture-of-Experts Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2604.10544v1)** | 2026-04-12 | <details><summary>Prese...</summary><p>Presented at ICLR 2026 TSALM Workshop (1st Workshop on Time Series in the Age of Large Models)</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Auto-Configured Networks for Multi-Scale Multi-Output Time-Series Forecasting](https://arxiv.org/abs/2604.07610v1)** | 2026-04-08 |  |
 | **[DSPR: Dual-Stream Physics-Residual Networks for Trustworthy Industrial Time Series Forecasting](https://arxiv.org/abs/2604.07393v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, submitted to KDD 2026</p></details> |
 | **[MR-ImagenTime: Multi-Resolution Time Series Generation through Dual Image Representations](https://arxiv.org/abs/2603.28253v2)** | 2026-04-08 |  |
-| **[MICA: Multivariate Infini Compressive Attention for Time Series Forecasting](https://arxiv.org/abs/2604.06473v1)** | 2026-04-07 |  |
-| **[Echo State Networks for Time Series Forecasting: Hyperparameter Sweep and Benchmarking](https://arxiv.org/abs/2602.03912v3)** | 2026-04-07 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
