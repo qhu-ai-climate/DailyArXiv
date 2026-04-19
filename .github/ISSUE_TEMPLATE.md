@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 17, 2026
+title: Latest 15 Papers - April 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,12 +7,14 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TempusBench: An Evaluation Framework for Time-Series Forecasting](https://arxiv.org/abs/2604.11529v2)** | 2026-04-16 |  |
+| **[Logo-LLM: Local and Global Modeling with Large Language Models for Time Series Forecasting](https://arxiv.org/abs/2505.11017v2)** | 2026-04-16 |  |
+| **[Frame forecasting in cine MRI using the PCA respiratory motion model: comparing recurrent neural networks trained online and transformers](https://arxiv.org/abs/2410.05882v3)** | 2026-04-15 | <details><summary>43 pa...</summary><p>43 pages, 19 figures. Revised version with minor corrections and improved figures and language. Accepted for publication in Computerized Medical Imaging and Graphics</p></details> |
 | **[Forecasting Multivariate Time Series under Predictive Heterogeneity: A Validation-Driven Clustering Framework](https://arxiv.org/abs/2604.13748v1)** | 2026-04-15 |  |
 | **[Minimax Optimality and Spectral Routing for Majority-Vote Ensembles under Markov Dependence](https://arxiv.org/abs/2604.13414v1)** | 2026-04-15 |  |
 | **[Bias-Corrected Adaptive Conformal Inference for Multi-Horizon Time Series Forecasting](https://arxiv.org/abs/2604.13253v1)** | 2026-04-14 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 2 tables. Preprint</p></details> |
 | **[TimeSAF: Towards LLM-Guided Semantic Asynchronous Fusion for Time Series Forecasting](https://arxiv.org/abs/2604.12648v1)** | 2026-04-14 |  |
 | **[INTARG: Informed Real-Time Adversarial Attack Generation for Time-Series Regression](https://arxiv.org/abs/2604.11928v1)** | 2026-04-13 |  |
-| **[TempusBench: An Evaluation Framework for Time-Series Forecasting](https://arxiv.org/abs/2604.11529v1)** | 2026-04-13 |  |
 | **[Non-stationary Diffusion For Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.04278v3)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted as spotlight poster at ICML</p></details> |
 | **[WaveMoE: A Wavelet-Enhanced Mixture-of-Experts Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2604.10544v1)** | 2026-04-12 | <details><summary>Prese...</summary><p>Presented at ICLR 2026 TSALM Workshop (1st Workshop on Time Series in the Age of Large Models)</p></details> |
 | **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v7)** | 2026-04-12 | 23 pages,6 figures |
@@ -20,8 +22,6 @@ labels: documentation
 | **[DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment](https://arxiv.org/abs/2510.24574v2)** | 2026-04-11 |  |
 | **[AR-KAN: Autoregressive-Weight-Enhanced Kolmogorov-Arnold Network for Time Series Forecasting](https://arxiv.org/abs/2509.02967v3)** | 2026-04-10 |  |
 | **[Temporal Patch Shuffle (TPS): Leveraging Patch-Level Shuffling to Boost Generalization and Robustness in Time Series Forecasting](https://arxiv.org/abs/2604.09067v1)** | 2026-04-10 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 17 tables</p></details> |
-| **[AlphaCast: A Human Wisdom-LLM Intelligence Co-Reasoning Framework for Interactive Time Series Forecasting](https://arxiv.org/abs/2511.08947v5)** | 2026-04-10 |  |
-| **[Zero-shot Multivariate Time Series Forecasting Using Tabular Prior Fitted Networks](https://arxiv.org/abs/2604.08400v1)** | 2026-04-09 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
