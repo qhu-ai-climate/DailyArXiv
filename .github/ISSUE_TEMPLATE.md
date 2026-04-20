@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2026
+title: Latest 15 Papers - April 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Advancing Intelligent Sequence Modeling: Evolution, Trade-offs, and Applications of State- Space Architectures from S4 to Mamba](https://arxiv.org/abs/2503.18970v3)** | 2026-04-17 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables</p></details> |
+| **[Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints](https://arxiv.org/abs/2604.16038v1)** | 2026-04-17 |  |
+| **[Convolutionally Low-Rank Models with Modified Quantile Regression for Interval Time Series Forecasting](https://arxiv.org/abs/2604.15791v1)** | 2026-04-17 |  |
 | **[TempusBench: An Evaluation Framework for Time-Series Forecasting](https://arxiv.org/abs/2604.11529v2)** | 2026-04-16 |  |
 | **[Logo-LLM: Local and Global Modeling with Large Language Models for Time Series Forecasting](https://arxiv.org/abs/2505.11017v2)** | 2026-04-16 |  |
 | **[Frame forecasting in cine MRI using the PCA respiratory motion model: comparing recurrent neural networks trained online and transformers](https://arxiv.org/abs/2410.05882v3)** | 2026-04-15 | <details><summary>43 pa...</summary><p>43 pages, 19 figures. Revised version with minor corrections and improved figures and language. Accepted for publication in Computerized Medical Imaging and Graphics</p></details> |
@@ -19,13 +22,11 @@ labels: documentation
 | **[WaveMoE: A Wavelet-Enhanced Mixture-of-Experts Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2604.10544v1)** | 2026-04-12 | <details><summary>Prese...</summary><p>Presented at ICLR 2026 TSALM Workshop (1st Workshop on Time Series in the Age of Large Models)</p></details> |
 | **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v7)** | 2026-04-12 | 23 pages,6 figures |
 | **[A Heavy-Load-Enhanced and Changeable-Periodicity-Perceived Workload Prediction Network](https://arxiv.org/abs/2308.01917v3)** | 2026-04-11 | <details><summary>Submi...</summary><p>Submitted to TII 2026</p></details> |
-| **[DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment](https://arxiv.org/abs/2510.24574v2)** | 2026-04-11 |  |
-| **[AR-KAN: Autoregressive-Weight-Enhanced Kolmogorov-Arnold Network for Time Series Forecasting](https://arxiv.org/abs/2509.02967v3)** | 2026-04-10 |  |
-| **[Temporal Patch Shuffle (TPS): Leveraging Patch-Level Shuffling to Boost Generalization and Robustness in Time Series Forecasting](https://arxiv.org/abs/2604.09067v1)** | 2026-04-10 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 17 tables</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EVIL: Evolving Interpretable Algorithms for Zero-Shot Inference on Event Sequences and Time Series with LLMs](https://arxiv.org/abs/2604.15787v1)** | 2026-04-17 |  |
 | **[tBayes-MICE: A Bayesian Approach to Multiple Imputation for Time Series Data](https://arxiv.org/abs/2603.27142v2)** | 2026-04-09 |  |
 | **[T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation](https://arxiv.org/abs/2602.21043v4)** | 2026-04-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[Uncovering Memorization in Timeseries Imputation models: LBRM Membership Inference and its link to attribute Leakage](https://arxiv.org/abs/2603.24213v1)** | 2026-03-25 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Deep sub-ensembles meets quantile regression: uncertainty-aware imputation for time series](https://arxiv.org/abs/2312.01294v4)** | 2025-12-01 | <details><summary>Publi...</summary><p>Published in Machine Learning, 114, 268 (2025). DOI: 10.1007/s10994-025-06922-x</p></details> |
 | **[PAST: A Primary-Auxiliary Spatio-Temporal Network for Traffic Time Series Imputation](https://arxiv.org/abs/2511.13414v1)** | 2025-11-17 |  |
 | **[MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling](https://arxiv.org/abs/2507.13207v3)** | 2025-11-08 | <details><summary>10th ...</summary><p>10th Workshop on Advanced Analytics and Learning on Temporal Data (AALTD), ECML 2025</p></details> |
-| **[HAGI++: Head-Assisted Gaze Imputation and Generation](https://arxiv.org/abs/2511.02468v1)** | 2025-11-04 | <details><summary>Exten...</summary><p>Extended version of our UIST'25 paper "HAGI: Head-Assisted Gaze Imputation for Mobile Eye Trackers"</p></details> |
 
