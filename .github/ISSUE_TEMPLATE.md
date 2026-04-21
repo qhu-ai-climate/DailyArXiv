@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CAARL: In-Context Learning for Interpretable Co-Evolving Time Series Forecasting](https://arxiv.org/abs/2604.18305v1)** | 2026-04-20 | <details><summary>Doubl...</summary><p>Double-columned, 8 pages, 4 figures</p></details> |
+| **[Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs](https://arxiv.org/abs/2506.10630v2)** | 2026-04-19 |  |
+| **[SPaRSe-TIME: Saliency-Projected Low-Rank Temporal Modeling for Efficient and Interpretable Time Series Prediction](https://arxiv.org/abs/2604.17350v1)** | 2026-04-19 | N.A |
+| **[In-Context Learning Under Regime Change](https://arxiv.org/abs/2604.16988v1)** | 2026-04-18 |  |
+| **[The CTLNet for Shanghai Composite Index Prediction](https://arxiv.org/abs/2604.16835v1)** | 2026-04-18 |  |
+| **[TriTS: Time Series Forecasting from a Multimodal Perspective](https://arxiv.org/abs/2604.16748v1)** | 2026-04-17 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Accepted by the A2A-MML Workshop in conjunction with CVPR 2026</p></details> |
+| **[Chronax: A Jax Library for Univariate Statistical Forecasting and Conformal Inference](https://arxiv.org/abs/2604.16719v1)** | 2026-04-17 |  |
 | **[Advancing Intelligent Sequence Modeling: Evolution, Trade-offs, and Applications of State- Space Architectures from S4 to Mamba](https://arxiv.org/abs/2503.18970v3)** | 2026-04-17 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables</p></details> |
 | **[Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints](https://arxiv.org/abs/2604.16038v1)** | 2026-04-17 |  |
 | **[Convolutionally Low-Rank Models with Modified Quantile Regression for Interval Time Series Forecasting](https://arxiv.org/abs/2604.15791v1)** | 2026-04-17 |  |
@@ -15,13 +22,6 @@ labels: documentation
 | **[Frame forecasting in cine MRI using the PCA respiratory motion model: comparing recurrent neural networks trained online and transformers](https://arxiv.org/abs/2410.05882v3)** | 2026-04-15 | <details><summary>43 pa...</summary><p>43 pages, 19 figures. Revised version with minor corrections and improved figures and language. Accepted for publication in Computerized Medical Imaging and Graphics</p></details> |
 | **[Forecasting Multivariate Time Series under Predictive Heterogeneity: A Validation-Driven Clustering Framework](https://arxiv.org/abs/2604.13748v1)** | 2026-04-15 |  |
 | **[Minimax Optimality and Spectral Routing for Majority-Vote Ensembles under Markov Dependence](https://arxiv.org/abs/2604.13414v1)** | 2026-04-15 |  |
-| **[Bias-Corrected Adaptive Conformal Inference for Multi-Horizon Time Series Forecasting](https://arxiv.org/abs/2604.13253v1)** | 2026-04-14 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 2 tables. Preprint</p></details> |
-| **[TimeSAF: Towards LLM-Guided Semantic Asynchronous Fusion for Time Series Forecasting](https://arxiv.org/abs/2604.12648v1)** | 2026-04-14 |  |
-| **[INTARG: Informed Real-Time Adversarial Attack Generation for Time-Series Regression](https://arxiv.org/abs/2604.11928v1)** | 2026-04-13 |  |
-| **[Non-stationary Diffusion For Probabilistic Time Series Forecasting](https://arxiv.org/abs/2505.04278v3)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted as spotlight poster at ICML</p></details> |
-| **[WaveMoE: A Wavelet-Enhanced Mixture-of-Experts Foundation Model for Time Series Forecasting](https://arxiv.org/abs/2604.10544v1)** | 2026-04-12 | <details><summary>Prese...</summary><p>Presented at ICLR 2026 TSALM Workshop (1st Workshop on Time Series in the Age of Large Models)</p></details> |
-| **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v7)** | 2026-04-12 | 23 pages,6 figures |
-| **[A Heavy-Load-Enhanced and Changeable-Periodicity-Perceived Workload Prediction Network](https://arxiv.org/abs/2308.01917v3)** | 2026-04-11 | <details><summary>Submi...</summary><p>Submitted to TII 2026</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
