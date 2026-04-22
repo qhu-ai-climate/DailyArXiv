@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2026
+title: Latest 15 Papers - April 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Resource-aware Mixed-precision Quantization for Enhancing Deployability of Transformers for Time-series Forecasting on Embedded FPGAs](https://arxiv.org/abs/2410.03294v4)** | 2026-04-21 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 6 tables, accepted by the 21st EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous2024)</p></details> |
+| **[Integer-only Quantized Transformers for Embedded FPGA-based Time-series Forecasting in AIoT](https://arxiv.org/abs/2407.11041v6)** | 2026-04-21 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 4 tables, accepted by 2024 IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT) and got best paper award</p></details> |
+| **[Conditional Diffusion Modeling with Attention for Probabilistic Battery Capacity Prediction under Real-World Condition](https://arxiv.org/abs/2510.17414v2)** | 2026-04-21 |  |
 | **[CAARL: In-Context Learning for Interpretable Co-Evolving Time Series Forecasting](https://arxiv.org/abs/2604.18305v1)** | 2026-04-20 | <details><summary>Doubl...</summary><p>Double-columned, 8 pages, 4 figures</p></details> |
 | **[Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs](https://arxiv.org/abs/2506.10630v2)** | 2026-04-19 |  |
 | **[SPaRSe-TIME: Saliency-Projected Low-Rank Temporal Modeling for Efficient and Interpretable Time Series Prediction](https://arxiv.org/abs/2604.17350v1)** | 2026-04-19 | N.A |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Convolutionally Low-Rank Models with Modified Quantile Regression for Interval Time Series Forecasting](https://arxiv.org/abs/2604.15791v1)** | 2026-04-17 |  |
 | **[TempusBench: An Evaluation Framework for Time-Series Forecasting](https://arxiv.org/abs/2604.11529v2)** | 2026-04-16 |  |
 | **[Logo-LLM: Local and Global Modeling with Large Language Models for Time Series Forecasting](https://arxiv.org/abs/2505.11017v2)** | 2026-04-16 |  |
-| **[Frame forecasting in cine MRI using the PCA respiratory motion model: comparing recurrent neural networks trained online and transformers](https://arxiv.org/abs/2410.05882v3)** | 2026-04-15 | <details><summary>43 pa...</summary><p>43 pages, 19 figures. Revised version with minor corrections and improved figures and language. Accepted for publication in Computerized Medical Imaging and Graphics</p></details> |
-| **[Forecasting Multivariate Time Series under Predictive Heterogeneity: A Validation-Driven Clustering Framework](https://arxiv.org/abs/2604.13748v1)** | 2026-04-15 |  |
-| **[Minimax Optimality and Spectral Routing for Majority-Vote Ensembles under Markov Dependence](https://arxiv.org/abs/2604.13414v1)** | 2026-04-15 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
