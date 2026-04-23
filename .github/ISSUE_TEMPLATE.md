@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2026
+title: Latest 15 Papers - April 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Recency Biased Causal Attention for Time-series Forecasting](https://arxiv.org/abs/2502.06151v2)** | 2026-04-22 |  |
+| **[KANMixer: a minimal KAN-centered mixer for long-term time series forecasting](https://arxiv.org/abs/2508.01575v2)** | 2026-04-22 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 5 tables</p></details> |
 | **[Resource-aware Mixed-precision Quantization for Enhancing Deployability of Transformers for Time-series Forecasting on Embedded FPGAs](https://arxiv.org/abs/2410.03294v4)** | 2026-04-21 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 6 tables, accepted by the 21st EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous2024)</p></details> |
 | **[Integer-only Quantized Transformers for Embedded FPGA-based Time-series Forecasting in AIoT](https://arxiv.org/abs/2407.11041v6)** | 2026-04-21 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 4 tables, accepted by 2024 IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT) and got best paper award</p></details> |
 | **[Conditional Diffusion Modeling with Attention for Probabilistic Battery Capacity Prediction under Real-World Condition](https://arxiv.org/abs/2510.17414v2)** | 2026-04-21 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Advancing Intelligent Sequence Modeling: Evolution, Trade-offs, and Applications of State- Space Architectures from S4 to Mamba](https://arxiv.org/abs/2503.18970v3)** | 2026-04-17 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables</p></details> |
 | **[Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints](https://arxiv.org/abs/2604.16038v1)** | 2026-04-17 |  |
 | **[Convolutionally Low-Rank Models with Modified Quantile Regression for Interval Time Series Forecasting](https://arxiv.org/abs/2604.15791v1)** | 2026-04-17 |  |
-| **[TempusBench: An Evaluation Framework for Time-Series Forecasting](https://arxiv.org/abs/2604.11529v2)** | 2026-04-16 |  |
-| **[Logo-LLM: Local and Global Modeling with Large Language Models for Time Series Forecasting](https://arxiv.org/abs/2505.11017v2)** | 2026-04-16 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
