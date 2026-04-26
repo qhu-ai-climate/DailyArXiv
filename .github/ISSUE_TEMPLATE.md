@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 24, 2026
+title: Latest 15 Papers - April 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TimePre: Bridging Accuracy, Efficiency, and Stability in Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2511.18539v2)** | 2026-04-23 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 6 tables</p></details> |
+| **[Beyond Accuracy: A Stability-Aware Metric for Multi-Horizon Forecasting](https://arxiv.org/abs/2601.10863v3)** | 2026-04-22 |  |
 | **[Recency Biased Causal Attention for Time-series Forecasting](https://arxiv.org/abs/2502.06151v2)** | 2026-04-22 |  |
 | **[KANMixer: a minimal KAN-centered mixer for long-term time series forecasting](https://arxiv.org/abs/2508.01575v2)** | 2026-04-22 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 5 tables</p></details> |
 | **[Resource-aware Mixed-precision Quantization for Enhancing Deployability of Transformers for Time-series Forecasting on Embedded FPGAs](https://arxiv.org/abs/2410.03294v4)** | 2026-04-21 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 6 tables, accepted by the 21st EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous2024)</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[TriTS: Time Series Forecasting from a Multimodal Perspective](https://arxiv.org/abs/2604.16748v1)** | 2026-04-17 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Accepted by the A2A-MML Workshop in conjunction with CVPR 2026</p></details> |
 | **[Chronax: A Jax Library for Univariate Statistical Forecasting and Conformal Inference](https://arxiv.org/abs/2604.16719v1)** | 2026-04-17 |  |
 | **[Advancing Intelligent Sequence Modeling: Evolution, Trade-offs, and Applications of State- Space Architectures from S4 to Mamba](https://arxiv.org/abs/2503.18970v3)** | 2026-04-17 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables</p></details> |
-| **[Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints](https://arxiv.org/abs/2604.16038v1)** | 2026-04-17 |  |
-| **[Convolutionally Low-Rank Models with Modified Quantile Regression for Interval Time Series Forecasting](https://arxiv.org/abs/2604.15791v1)** | 2026-04-17 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
