@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2026
+title: Latest 15 Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FETS Benchmark: Foundation Models Outperform Dataset-specific Machine Learning in Energy Time Series Forecasting](https://arxiv.org/abs/2604.22328v1)** | 2026-04-24 |  |
 | **[TimePre: Bridging Accuracy, Efficiency, and Stability in Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2511.18539v2)** | 2026-04-23 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 6 tables</p></details> |
 | **[Beyond Accuracy: A Stability-Aware Metric for Multi-Horizon Forecasting](https://arxiv.org/abs/2601.10863v3)** | 2026-04-22 |  |
 | **[Recency Biased Causal Attention for Time-series Forecasting](https://arxiv.org/abs/2502.06151v2)** | 2026-04-22 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[The CTLNet for Shanghai Composite Index Prediction](https://arxiv.org/abs/2604.16835v1)** | 2026-04-18 |  |
 | **[TriTS: Time Series Forecasting from a Multimodal Perspective](https://arxiv.org/abs/2604.16748v1)** | 2026-04-17 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Accepted by the A2A-MML Workshop in conjunction with CVPR 2026</p></details> |
 | **[Chronax: A Jax Library for Univariate Statistical Forecasting and Conformal Inference](https://arxiv.org/abs/2604.16719v1)** | 2026-04-17 |  |
-| **[Advancing Intelligent Sequence Modeling: Evolution, Trade-offs, and Applications of State- Space Architectures from S4 to Mamba](https://arxiv.org/abs/2503.18970v3)** | 2026-04-17 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
