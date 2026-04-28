@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2026
+title: Latest 15 Papers - April 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1)** | 2026-04-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table. Submitted to the European Electricity Markets (EEM) conference</p></details> |
+| **[DecompKAN: Decomposed Patch-KAN for Long-Term Time Series Forecasting](https://arxiv.org/abs/2604.23968v1)** | 2026-04-27 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 8 tables. Preprint; under review</p></details> |
+| **[Time-Series Forecasting in Safety-Critical Environments: An EU-AI-Act-Compliant Open-Source Package / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein KI-VO-konformes Open-Source-Paket](https://arxiv.org/abs/2604.23859v1)** | 2026-04-26 | <details><summary>Bilin...</summary><p>Bilingual twin paper: English version first, German original below (91 pages total). Single shared bibliography</p></details> |
+| **[Autocorrelation Reintroduces Spectral Bias in KANs for Time Series Forecasting](https://arxiv.org/abs/2604.23518v1)** | 2026-04-26 |  |
+| **[AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting](https://arxiv.org/abs/2604.23239v1)** | 2026-04-25 |  |
+| **[DenoGrad: A Gradient-Based Framework for Data Refinement in Tabular and Time-Series Learning](https://arxiv.org/abs/2511.10161v2)** | 2026-04-24 |  |
 | **[FETS Benchmark: Foundation Models Outperform Dataset-specific Machine Learning in Energy Time Series Forecasting](https://arxiv.org/abs/2604.22328v1)** | 2026-04-24 |  |
 | **[TimePre: Bridging Accuracy, Efficiency, and Stability in Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2511.18539v2)** | 2026-04-23 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 6 tables</p></details> |
 | **[Beyond Accuracy: A Stability-Aware Metric for Multi-Horizon Forecasting](https://arxiv.org/abs/2601.10863v3)** | 2026-04-22 |  |
@@ -16,12 +22,6 @@ labels: documentation
 | **[Integer-only Quantized Transformers for Embedded FPGA-based Time-series Forecasting in AIoT](https://arxiv.org/abs/2407.11041v6)** | 2026-04-21 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 4 tables, accepted by 2024 IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT) and got best paper award</p></details> |
 | **[Conditional Diffusion Modeling with Attention for Probabilistic Battery Capacity Prediction under Real-World Condition](https://arxiv.org/abs/2510.17414v2)** | 2026-04-21 |  |
 | **[CAARL: In-Context Learning for Interpretable Co-Evolving Time Series Forecasting](https://arxiv.org/abs/2604.18305v1)** | 2026-04-20 | <details><summary>Doubl...</summary><p>Double-columned, 8 pages, 4 figures</p></details> |
-| **[Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs](https://arxiv.org/abs/2506.10630v2)** | 2026-04-19 |  |
-| **[SPaRSe-TIME: Saliency-Projected Low-Rank Temporal Modeling for Efficient and Interpretable Time Series Prediction](https://arxiv.org/abs/2604.17350v1)** | 2026-04-19 | N.A |
-| **[In-Context Learning Under Regime Change](https://arxiv.org/abs/2604.16988v1)** | 2026-04-18 |  |
-| **[The CTLNet for Shanghai Composite Index Prediction](https://arxiv.org/abs/2604.16835v1)** | 2026-04-18 |  |
-| **[TriTS: Time Series Forecasting from a Multimodal Perspective](https://arxiv.org/abs/2604.16748v1)** | 2026-04-17 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Accepted by the A2A-MML Workshop in conjunction with CVPR 2026</p></details> |
-| **[Chronax: A Jax Library for Univariate Statistical Forecasting and Conformal Inference](https://arxiv.org/abs/2604.16719v1)** | 2026-04-17 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
