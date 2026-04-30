@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 29, 2026
+title: Latest 15 Papers - May 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,11 +7,14 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hybrid Quantum-Classical Ridgelet Neural Networks for Portfolio Optimization](https://arxiv.org/abs/2601.03654v2)** | 2026-04-29 |  |
+| **[Contrast-Enhanced Gating in GRUs for Robust Low-Data Sequence Learning](https://arxiv.org/abs/2402.09034v3)** | 2026-04-27 | <details><summary>43rd ...</summary><p>43rd The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
 | **[Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1)** | 2026-04-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table. Submitted to the European Electricity Markets (EEM) conference</p></details> |
 | **[DecompKAN: Decomposed Patch-KAN for Long-Term Time Series Forecasting](https://arxiv.org/abs/2604.23968v1)** | 2026-04-27 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 8 tables. Preprint; under review</p></details> |
 | **[Time-Series Forecasting in Safety-Critical Environments: An EU-AI-Act-Compliant Open-Source Package / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein KI-VO-konformes Open-Source-Paket](https://arxiv.org/abs/2604.23859v1)** | 2026-04-26 | <details><summary>Bilin...</summary><p>Bilingual twin paper: English version first, German original below (91 pages total). Single shared bibliography</p></details> |
 | **[Autocorrelation Reintroduces Spectral Bias in KANs for Time Series Forecasting](https://arxiv.org/abs/2604.23518v1)** | 2026-04-26 |  |
 | **[AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting](https://arxiv.org/abs/2604.23239v1)** | 2026-04-25 |  |
+| **[Liquid Neural Network Models for Natural Gas Spot Price Time-Series Forecasting](https://arxiv.org/abs/2604.24788v1)** | 2026-04-24 |  |
 | **[DenoGrad: A Gradient-Based Framework for Data Refinement in Tabular and Time-Series Learning](https://arxiv.org/abs/2511.10161v2)** | 2026-04-24 |  |
 | **[FETS Benchmark: Foundation Models Outperform Dataset-specific Machine Learning in Energy Time Series Forecasting](https://arxiv.org/abs/2604.22328v1)** | 2026-04-24 |  |
 | **[TimePre: Bridging Accuracy, Efficiency, and Stability in Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2511.18539v2)** | 2026-04-23 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 6 tables</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Recency Biased Causal Attention for Time-series Forecasting](https://arxiv.org/abs/2502.06151v2)** | 2026-04-22 |  |
 | **[KANMixer: a minimal KAN-centered mixer for long-term time series forecasting](https://arxiv.org/abs/2508.01575v2)** | 2026-04-22 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 5 tables</p></details> |
 | **[Resource-aware Mixed-precision Quantization for Enhancing Deployability of Transformers for Time-series Forecasting on Embedded FPGAs](https://arxiv.org/abs/2410.03294v4)** | 2026-04-21 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 6 tables, accepted by the 21st EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous2024)</p></details> |
-| **[Integer-only Quantized Transformers for Embedded FPGA-based Time-series Forecasting in AIoT](https://arxiv.org/abs/2407.11041v6)** | 2026-04-21 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 4 tables, accepted by 2024 IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT) and got best paper award</p></details> |
-| **[Conditional Diffusion Modeling with Attention for Probabilistic Battery Capacity Prediction under Real-World Condition](https://arxiv.org/abs/2510.17414v2)** | 2026-04-21 |  |
-| **[CAARL: In-Context Learning for Interpretable Co-Evolving Time Series Forecasting](https://arxiv.org/abs/2604.18305v1)** | 2026-04-20 | <details><summary>Doubl...</summary><p>Double-columned, 8 pages, 4 figures</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
