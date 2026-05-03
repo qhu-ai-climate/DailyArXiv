@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 01, 2026
+title: Latest 15 Papers - May 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Foreclassing: A new machine learning perspective on human decision making with temporal data](https://arxiv.org/abs/2503.04956v2)** | 2026-04-30 | <details><summary>20 pa...</summary><p>20 pages, 1 figure, 15 tables</p></details> |
+| **[ITS-Mina: A Harris Hawks Optimization-Based All-MLP Framework with Iterative Refinement and External Attention for Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.27981v1)** | 2026-04-30 | <details><summary>19 pa...</summary><p>19 pages, 2 figures, 3 tables, 4 algorithms</p></details> |
+| **[CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting](https://arxiv.org/abs/2604.27840v1)** | 2026-04-30 |  |
+| **[Forecasting the Maintained Score from the OpenSSF Scorecard: A Study of GitHub Repositories Linked to PyPI Packages](https://arxiv.org/abs/2601.18344v2)** | 2026-04-30 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 1 table</p></details> |
+| **[Probabilistic Circuits for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.27814v1)** | 2026-04-30 |  |
+| **[A Study on the Performance of Distributed Training of Data-driven CFD Simulations](https://arxiv.org/abs/2604.27431v1)** | 2026-04-30 |  |
 | **[Hybrid Quantum-Classical Ridgelet Neural Networks for Portfolio Optimization](https://arxiv.org/abs/2601.03654v2)** | 2026-04-29 |  |
 | **[Contrast-Enhanced Gating in GRUs for Robust Low-Data Sequence Learning](https://arxiv.org/abs/2402.09034v3)** | 2026-04-27 | <details><summary>43rd ...</summary><p>43rd The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</p></details> |
 | **[Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting](https://arxiv.org/abs/2604.24705v1)** | 2026-04-27 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table. Submitted to the European Electricity Markets (EEM) conference</p></details> |
@@ -16,12 +22,6 @@ labels: documentation
 | **[AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting](https://arxiv.org/abs/2604.23239v1)** | 2026-04-25 |  |
 | **[Liquid Neural Network Models for Natural Gas Spot Price Time-Series Forecasting](https://arxiv.org/abs/2604.24788v1)** | 2026-04-24 |  |
 | **[DenoGrad: A Gradient-Based Framework for Data Refinement in Tabular and Time-Series Learning](https://arxiv.org/abs/2511.10161v2)** | 2026-04-24 |  |
-| **[FETS Benchmark: Foundation Models Outperform Dataset-specific Machine Learning in Energy Time Series Forecasting](https://arxiv.org/abs/2604.22328v1)** | 2026-04-24 |  |
-| **[TimePre: Bridging Accuracy, Efficiency, and Stability in Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2511.18539v2)** | 2026-04-23 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 6 tables</p></details> |
-| **[Beyond Accuracy: A Stability-Aware Metric for Multi-Horizon Forecasting](https://arxiv.org/abs/2601.10863v3)** | 2026-04-22 |  |
-| **[Recency Biased Causal Attention for Time-series Forecasting](https://arxiv.org/abs/2502.06151v2)** | 2026-04-22 |  |
-| **[KANMixer: a minimal KAN-centered mixer for long-term time series forecasting](https://arxiv.org/abs/2508.01575v2)** | 2026-04-22 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 5 tables</p></details> |
-| **[Resource-aware Mixed-precision Quantization for Enhancing Deployability of Transformers for Time-series Forecasting on Embedded FPGAs](https://arxiv.org/abs/2410.03294v4)** | 2026-04-21 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 6 tables, accepted by the 21st EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous2024)</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
