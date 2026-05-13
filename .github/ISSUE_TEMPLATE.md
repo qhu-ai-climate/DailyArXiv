@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 11, 2026
+title: Latest 15 Papers - May 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Perceive, Route and Modulate: Dynamic Pattern Recalibration for Time Series Forecasting](https://arxiv.org/abs/2605.06310v1)** | 2026-05-07 | <details><summary>22 pa...</summary><p>22 pages, 6 figures. Preprint</p></details> |
-| **[Does Synthetic Data Help? Empirical Evidence from Deep Learning Time Series Forecasters](https://arxiv.org/abs/2605.06032v1)** | 2026-05-07 |  |
-| **[AROpt: An Optimization Method for Autoregressive Time Series Forecasting](https://arxiv.org/abs/2602.02288v2)** | 2026-05-07 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 3 tables</p></details> |
-| **[Temporal Functional Circuits: From Spline Plots to Faithful Explanations in KAN Forecasting](https://arxiv.org/abs/2605.05685v1)** | 2026-05-07 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 6 tables, plus appendix. Under review at NeurIPS 2026</p></details> |
-| **[Superposition Is Not Necessary: A Mechanistic Interpretability Analysis of Transformer Representations for Time Series Forecasting](https://arxiv.org/abs/2605.05151v1)** | 2026-05-06 | 13 pages, 5 tables |
-| **[Forecasting Green Skill Demand in the Automotive Industry: Evidence from Online Job Postings](https://arxiv.org/abs/2605.05280v1)** | 2026-05-06 |  |
-| **[Probabilistic Circuits for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.27814v2)** | 2026-05-06 |  |
-| **[Training-Free Probabilistic Time-Series Forecasting with Conformal Seasonal Pools](https://arxiv.org/abs/2605.03789v1)** | 2026-05-05 |  |
-| **[Global and Local Topology-Aware Attention with Persistent Homology and Euler Biases for Time-Series Forecasting](https://arxiv.org/abs/2605.03163v1)** | 2026-05-04 |  |
-| **[Beyond Sequential Prediction: Learning Financial Market Dynamics in Volatile and Non-Stationary Environments through Sentiment-Conditioned Generative Modelling](https://arxiv.org/abs/2604.22801v2)** | 2026-05-04 | 18 pages, 5 figures |
-| **[MSMixer: Learned Multi-Scale Temporal Mixing with Complementary Linear Shortcut for Long-Term Time Series Forecasting](https://arxiv.org/abs/2605.02689v1)** | 2026-05-04 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 8 tables. Submitted to International Journal of Machine Learning and Cybernetics (Springer)</p></details> |
-| **[CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting](https://arxiv.org/abs/2604.27840v2)** | 2026-05-04 |  |
-| **[Exploring Accuracy Law for Deep Time Series Forecasters: An Empirical Study](https://arxiv.org/abs/2510.02729v2)** | 2026-05-04 |  |
-| **[Why Model Selection Fails in Time Series Forecasting: An Empirical Study of Instability Across Data Regimes](https://arxiv.org/abs/2605.01608v1)** | 2026-05-02 |  |
-| **[Ellipsoidal Time Series Forecasting](https://arxiv.org/abs/2505.17370v6)** | 2026-05-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. Public code at https://anonymous.4open.science/r/ FernPaper-58B4</p></details> |
+| **[From Observations to States: Latent Time Series Forecasting](https://arxiv.org/abs/2602.00297v2)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[DAG: A Dual Correlation Network for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2509.14933v3)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Beyond Similarity: Temporal Operator Attention for Time Series Analysis](https://arxiv.org/abs/2605.11287v1)** | 2026-05-11 |  |
+| **[Latent Chain-of-Thought Improves Structured-Data Transformers](https://arxiv.org/abs/2605.11262v1)** | 2026-05-11 |  |
+| **[NoRIN: Backbone-Adaptive Reversible Normalization for Time-Series Forecasting](https://arxiv.org/abs/2605.10823v1)** | 2026-05-11 | 8 pages, 2 figures |
+| **[Calibrating Scientific Foundation Models with Inference-Time Stochastic Attention](https://arxiv.org/abs/2604.19530v2)** | 2026-05-11 |  |
+| **[Fast Training of Mixture-of-Experts for Time Series Forecasting via Expert Loss Integration](https://arxiv.org/abs/2605.10330v1)** | 2026-05-11 |  |
+| **[LeapTS: Rethinking Time Series Forecasting as Adaptive Multi-Horizon Scheduling](https://arxiv.org/abs/2605.10292v1)** | 2026-05-11 |  |
+| **[FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting](https://arxiv.org/abs/2502.18834v2)** | 2026-05-11 |  |
+| **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v8)** | 2026-05-11 | 22 pages,6 figures |
+| **[MICA: Multivariate Infini Compressive Attention for Time Series Forecasting](https://arxiv.org/abs/2604.06473v2)** | 2026-05-11 |  |
+| **[Yield Curve Forecasting using Machine Learning and Econometrics: A Comparative Analysis](https://arxiv.org/abs/2605.09842v1)** | 2026-05-11 | <details><summary>18 pa...</summary><p>18 pages, 12 figures, comparative study of econometric, machine learning, and deep learning methods for U.S. Treasury yield curve forecasting</p></details> |
+| **[Benchmarking Transformer and xLSTM for Time-Series Forecasting of Heat Consumption](https://arxiv.org/abs/2605.09722v1)** | 2026-05-10 | <details><summary>Submi...</summary><p>Submitted version of the paper submitted to IEEE SusTech, 2026</p></details> |
+| **[EventTSF: Event-Aware Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2508.13434v2)** | 2026-05-10 | <details><summary>Accep...</summary><p>Accepted by the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026)</p></details> |
+| **[PA-RNet: Perturbation-Aware Residual Network for Robust Multimodal Time Series Forecasting](https://arxiv.org/abs/2508.04750v2)** | 2026-05-10 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
