@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2026
+title: Latest 15 Papers - May 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Three-Stage Learning Unlocks Strong Performance in Simple Models for Long-Term Time Series Forecasting](https://arxiv.org/abs/2605.13678v1)** | 2026-05-13 |  |
+| **[Characteristic Root Analysis and Regularization for Linear Time Series Forecasting](https://arxiv.org/abs/2509.23597v5)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted for publication at ICLR 2026</p></details> |
+| **[ISOMORPH: A Supply Chain Digital Twin for Simulation, Dataset Generation, and Forecasting Benchmarks](https://arxiv.org/abs/2605.12768v1)** | 2026-05-12 |  |
 | **[From Observations to States: Latent Time Series Forecasting](https://arxiv.org/abs/2602.00297v2)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 | **[DAG: A Dual Correlation Network for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2509.14933v3)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[Beyond Similarity: Temporal Operator Attention for Time Series Analysis](https://arxiv.org/abs/2605.11287v1)** | 2026-05-11 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v8)** | 2026-05-11 | 22 pages,6 figures |
 | **[MICA: Multivariate Infini Compressive Attention for Time Series Forecasting](https://arxiv.org/abs/2604.06473v2)** | 2026-05-11 |  |
 | **[Yield Curve Forecasting using Machine Learning and Econometrics: A Comparative Analysis](https://arxiv.org/abs/2605.09842v1)** | 2026-05-11 | <details><summary>18 pa...</summary><p>18 pages, 12 figures, comparative study of econometric, machine learning, and deep learning methods for U.S. Treasury yield curve forecasting</p></details> |
-| **[Benchmarking Transformer and xLSTM for Time-Series Forecasting of Heat Consumption](https://arxiv.org/abs/2605.09722v1)** | 2026-05-10 | <details><summary>Submi...</summary><p>Submitted version of the paper submitted to IEEE SusTech, 2026</p></details> |
-| **[EventTSF: Event-Aware Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2508.13434v2)** | 2026-05-10 | <details><summary>Accep...</summary><p>Accepted by the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026)</p></details> |
-| **[PA-RNet: Perturbation-Aware Residual Network for Robust Multimodal Time Series Forecasting](https://arxiv.org/abs/2508.04750v2)** | 2026-05-10 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
