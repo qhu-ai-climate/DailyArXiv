@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 15, 2026
+title: Latest 15 Papers - May 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Process-Informed Forecasting of Complex Thermal Dynamics in Pharmaceutical Manufacturing](https://arxiv.org/abs/2509.20349v3)** | 2026-05-15 |  |
+| **[MSMixer: Learned Multi-Scale Temporal Mixing with Complementary Linear Shortcut for Long-Term Time Series Forecasting](https://arxiv.org/abs/2605.02689v2)** | 2026-05-15 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 8 tables. Submitted to International Journal of Machine Learning and Cybernetics (Springer)</p></details> |
+| **[FRWKV+: Adaptive Periodic-Position Branch Interaction for Frequency-Space Linear Time Series Forecasting](https://arxiv.org/abs/2605.15690v1)** | 2026-05-15 | <details><summary>https...</summary><p>https://github.com/yangqingyuan-byte/FRWKV-plus</p></details> |
+| **[Time Series Forecasting Through the Lens of Dynamics](https://arxiv.org/abs/2507.15774v3)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[SeesawNet: Towards Non-stationary Time Series Forecasting with Balanced Modeling of Common and Specific Dependencies](https://arxiv.org/abs/2605.14551v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by IJCAI-ECAI 2026, the 35th International Joint Conference on Artificial Intelligence. Code is at https://github.com/dreamone-Lee/SeesawNet</p></details> |
+| **[ReNF: Rethinking the Design of Neural Long-Term Time Series Forecasters](https://arxiv.org/abs/2509.25914v6)** | 2026-05-14 |  |
+| **[What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions](https://arxiv.org/abs/2605.14422v1)** | 2026-05-14 |  |
+| **[Nexus : An Agentic Framework for Time Series Forecasting](https://arxiv.org/abs/2605.14389v1)** | 2026-05-14 | <details><summary>30 Pa...</summary><p>30 Pages, 3 figures, 5 Tables</p></details> |
+| **[UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration](https://arxiv.org/abs/2604.16325v2)** | 2026-05-14 | <details><summary>The a...</summary><p>The authors wish to withdraw this preprint due to a lack of consensus regarding the final authorship list and the order of authors</p></details> |
+| **[SurF: A Generative Model for Multivariate Irregular Time Series Forecasting](https://arxiv.org/abs/2605.14069v1)** | 2026-05-13 |  |
 | **[Three-Stage Learning Unlocks Strong Performance in Simple Models for Long-Term Time Series Forecasting](https://arxiv.org/abs/2605.13678v1)** | 2026-05-13 |  |
 | **[Characteristic Root Analysis and Regularization for Linear Time Series Forecasting](https://arxiv.org/abs/2509.23597v5)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted for publication at ICLR 2026</p></details> |
 | **[ISOMORPH: A Supply Chain Digital Twin for Simulation, Dataset Generation, and Forecasting Benchmarks](https://arxiv.org/abs/2605.12768v1)** | 2026-05-12 |  |
 | **[From Observations to States: Latent Time Series Forecasting](https://arxiv.org/abs/2602.00297v2)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 | **[DAG: A Dual Correlation Network for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2509.14933v3)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Beyond Similarity: Temporal Operator Attention for Time Series Analysis](https://arxiv.org/abs/2605.11287v1)** | 2026-05-11 |  |
-| **[Latent Chain-of-Thought Improves Structured-Data Transformers](https://arxiv.org/abs/2605.11262v1)** | 2026-05-11 |  |
-| **[NoRIN: Backbone-Adaptive Reversible Normalization for Time-Series Forecasting](https://arxiv.org/abs/2605.10823v1)** | 2026-05-11 | 8 pages, 2 figures |
-| **[Calibrating Scientific Foundation Models with Inference-Time Stochastic Attention](https://arxiv.org/abs/2604.19530v2)** | 2026-05-11 |  |
-| **[Fast Training of Mixture-of-Experts for Time Series Forecasting via Expert Loss Integration](https://arxiv.org/abs/2605.10330v1)** | 2026-05-11 |  |
-| **[LeapTS: Rethinking Time Series Forecasting as Adaptive Multi-Horizon Scheduling](https://arxiv.org/abs/2605.10292v1)** | 2026-05-11 |  |
-| **[FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting](https://arxiv.org/abs/2502.18834v2)** | 2026-05-11 |  |
-| **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](https://arxiv.org/abs/2508.07697v8)** | 2026-05-11 | 22 pages,6 figures |
-| **[MICA: Multivariate Infini Compressive Attention for Time Series Forecasting](https://arxiv.org/abs/2604.06473v2)** | 2026-05-11 |  |
-| **[Yield Curve Forecasting using Machine Learning and Econometrics: A Comparative Analysis](https://arxiv.org/abs/2605.09842v1)** | 2026-05-11 | <details><summary>18 pa...</summary><p>18 pages, 12 figures, comparative study of econometric, machine learning, and deep learning methods for U.S. Treasury yield curve forecasting</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
