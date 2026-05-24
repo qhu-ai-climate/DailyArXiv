@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 21, 2026
+title: Latest 15 Papers - May 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks](https://arxiv.org/abs/2602.05873v2)** | 2026-05-21 |  |
+| **[ChronoVAE-HOPE: Beyond Attention -- A Next-Generation VAE Foundation Model for Specialized Time Series Classification](https://arxiv.org/abs/2605.22684v1)** | 2026-05-21 |  |
+| **[MAP4TS: A Multi-Aspect Prompting Framework for Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2510.23090v2)** | 2026-05-21 | <details><summary>There...</summary><p>There is a error in modeling. Thereafter, paper will be revised and re-uploaded</p></details> |
+| **[TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting](https://arxiv.org/abs/2605.22365v1)** | 2026-05-21 | <details><summary>44 pa...</summary><p>44 pages, 30 figures. ICML 2026</p></details> |
+| **[HealthMamba: An Uncertainty-aware Spatiotemporal Graph State Space Model for Effective and Reliable Healthcare Facility Visit Prediction](https://arxiv.org/abs/2602.05286v3)** | 2026-05-21 | IJCAI 2026 |
+| **[An AI system to help scientists write expert-level empirical software](https://arxiv.org/abs/2509.06503v3)** | 2026-05-21 | <details><summary>78 pa...</summary><p>78 pages, 31 figures, 22 tables</p></details> |
+| **[The Statistical Significance of the Inclusion of Graph Neural Networks in the Financial Time Series Forecasting Problem](https://arxiv.org/abs/2605.21192v1)** | 2026-05-20 |  |
+| **[PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2605.16793v2)** | 2026-05-20 |  |
+| **[Time-Prompt: Integrated Heterogeneous Prompts for Unlocking LLMs in Time Series Forecasting](https://arxiv.org/abs/2506.17631v4)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026</p></details> |
+| **[Reviving Error Correction in Modern Deep Time-Series Forecasting](https://arxiv.org/abs/2605.21088v1)** | 2026-05-20 | 27 pages |
+| **[Dynamic TMoE: A Drift-Aware Dynamic Mixture of Experts Framework for Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2605.20678v1)** | 2026-05-20 | <details><summary>27 pa...</summary><p>27 pages, 7 figures. Accepted to ICML 2026</p></details> |
+| **[LLM Pretraining Shapes a Generalizable Manifold: Insights into Cross-Modal Transfer to Time Series](https://arxiv.org/abs/2605.20449v1)** | 2026-05-19 |  |
+| **[The Harmonic Synthetic Control Method](https://arxiv.org/abs/2605.20359v1)** | 2026-05-19 |  |
 | **[Latent Chain-of-Thought Improves Structured-Data Transformers](https://arxiv.org/abs/2605.11262v2)** | 2026-05-19 |  |
 | **[Toto 2.0: Time Series Forecasting Enters the Scaling Era](https://arxiv.org/abs/2605.20119v1)** | 2026-05-19 | <details><summary>Code:...</summary><p>Code: https://github.com/DataDog/toto Weights: https://huggingface.co/collections/Datadog/toto-20</p></details> |
-| **[Nested Spatio-Temporal Time Series Forecasting](https://arxiv.org/abs/2605.16447v2)** | 2026-05-19 | Accept by ICML 2026 |
-| **[Probabilistic Multivariate Time Series Forecasting with Diffusion Copulas](https://arxiv.org/abs/2605.19685v1)** | 2026-05-19 | <details><summary>ICLR ...</summary><p>ICLR 2026 Workshop Advances in Financial AI</p></details> |
-| **[BERTO: Intent-Driven Network Time Series Forecasting via Natural Language Operator Preferences](https://arxiv.org/abs/2512.05721v2)** | 2026-05-19 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables</p></details> |
-| **[1GC-7RC: One Graphic Card -- Seven Research Challenges! How Good Are AI Agents at Doing Your Job?](https://arxiv.org/abs/2605.17046v2)** | 2026-05-19 |  |
-| **[DSPR: Dual-Stream Physics-Residual Networks for Trustworthy Industrial Time Series Forecasting](https://arxiv.org/abs/2604.07393v3)** | 2026-05-19 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, accepted by KDD 2026</p></details> |
-| **[GenTS: A Comprehensive Benchmark Library for Generative Time Series Models](https://arxiv.org/abs/2605.17804v2)** | 2026-05-19 |  |
-| **[Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting](https://arxiv.org/abs/2605.19249v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. 18 pages, 6 figures</p></details> |
-| **[QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting](https://arxiv.org/abs/2605.18333v1)** | 2026-05-18 |  |
-| **[DAD4TS: Data-Augmentation-Oriented Diffusion Model for Time-Series Forecasting with Small-Scale Data](https://arxiv.org/abs/2605.17866v1)** | 2026-05-18 |  |
-| **[L-Drive: Beyond a Single Mapping-Latent Context Drives Time Series Forecasting](https://arxiv.org/abs/2605.17730v1)** | 2026-05-18 |  |
-| **[Do Stationarity Transformations Actually Improve Time Series Forecasts? A Controlled Experimental Evaluation](https://arxiv.org/abs/2605.17689v1)** | 2026-05-17 |  |
-| **[Beyond the Next Port: A Multi-Task Transformer for Forecasting Future Voyage Segment Durations](https://arxiv.org/abs/2601.08013v2)** | 2026-05-17 |  |
-| **[Towards Principled Test-Time Adaptation for Time Series Forecasting](https://arxiv.org/abs/2605.17250v1)** | 2026-05-17 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
