@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cascaded Transfer: Learning Many Tasks under Budget Constraints](https://arxiv.org/abs/2601.21513v2)** | 2026-05-22 |  |
+| **[Physiome-ODE: A Benchmark for Irregularly Sampled Multivariate Time Series Forecasting Based on Biological ODEs](https://arxiv.org/abs/2502.07489v2)** | 2026-05-22 |  |
+| **[Super-Linear: A Lightweight Pretrained Mixture of Linear Experts for Time Series Forecasting](https://arxiv.org/abs/2509.15105v3)** | 2026-05-22 |  |
+| **[Parametric Prior Mapping Framework for Non-stationary Probabilistic Time Series Forecasting](https://arxiv.org/abs/2605.23402v1)** | 2026-05-22 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, accepted by ICML 2026</p></details> |
+| **[PaP-NF: Probabilistic Long-Term Time Series Forecasting via Prefix-as-Prompt Reprogramming and Normalizing Flows](https://arxiv.org/abs/2605.23219v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
 | **[Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks](https://arxiv.org/abs/2602.05873v2)** | 2026-05-21 |  |
 | **[ChronoVAE-HOPE: Beyond Attention -- A Next-Generation VAE Foundation Model for Specialized Time Series Classification](https://arxiv.org/abs/2605.22684v1)** | 2026-05-21 |  |
 | **[MAP4TS: A Multi-Aspect Prompting Framework for Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2510.23090v2)** | 2026-05-21 | <details><summary>There...</summary><p>There is a error in modeling. Thereafter, paper will be revised and re-uploaded</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2605.16793v2)** | 2026-05-20 |  |
 | **[Time-Prompt: Integrated Heterogeneous Prompts for Unlocking LLMs in Time Series Forecasting](https://arxiv.org/abs/2506.17631v4)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026</p></details> |
 | **[Reviving Error Correction in Modern Deep Time-Series Forecasting](https://arxiv.org/abs/2605.21088v1)** | 2026-05-20 | 27 pages |
-| **[Dynamic TMoE: A Drift-Aware Dynamic Mixture of Experts Framework for Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2605.20678v1)** | 2026-05-20 | <details><summary>27 pa...</summary><p>27 pages, 7 figures. Accepted to ICML 2026</p></details> |
-| **[LLM Pretraining Shapes a Generalizable Manifold: Insights into Cross-Modal Transfer to Time Series](https://arxiv.org/abs/2605.20449v1)** | 2026-05-19 |  |
-| **[The Harmonic Synthetic Control Method](https://arxiv.org/abs/2605.20359v1)** | 2026-05-19 |  |
-| **[Latent Chain-of-Thought Improves Structured-Data Transformers](https://arxiv.org/abs/2605.11262v2)** | 2026-05-19 |  |
-| **[Toto 2.0: Time Series Forecasting Enters the Scaling Era](https://arxiv.org/abs/2605.20119v1)** | 2026-05-19 | <details><summary>Code:...</summary><p>Code: https://github.com/DataDog/toto Weights: https://huggingface.co/collections/Datadog/toto-20</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
