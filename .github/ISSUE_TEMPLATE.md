@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2026
+title: Latest 15 Papers - May 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[STaT: Resolving Shape Distortion in Non-Stationary Time Series via Tri-Modal Synergy](https://arxiv.org/abs/2605.25943v1)** | 2026-05-25 |  |
+| **[Hybrid Quantum Neural Network for Multivariate Clinical Time Series Forecasting](https://arxiv.org/abs/2603.08072v2)** | 2026-05-25 |  |
+| **[L-Drive: Beyond a Single Mapping-Latent Context Drives Time Series Forecasting](https://arxiv.org/abs/2605.17730v2)** | 2026-05-25 |  |
+| **[PiXTime: A Model for Federated Time Series Forecasting with Heterogeneous Data across Nodes](https://arxiv.org/abs/2601.05613v2)** | 2026-05-25 |  |
+| **[TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting](https://arxiv.org/abs/2605.22365v2)** | 2026-05-25 | <details><summary>44 pa...</summary><p>44 pages, 30 figures. ICML 2026</p></details> |
+| **[Beyond Static Uncertainty: Modeling Temporal Uncertainty Dynamics for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2603.24254v2)** | 2026-05-24 |  |
+| **[AME-TS: Anchored Mixture-of-Experts for Time Series Forecasting](https://arxiv.org/abs/2605.25166v1)** | 2026-05-24 |  |
+| **[Factorize to Generalize: Retrieval-Guided Invariant-Dynamic Decomposition for Time Series Forecasting](https://arxiv.org/abs/2605.24911v1)** | 2026-05-24 |  |
+| **[ChronoVAE-HOPE: Beyond Attention -- A Next-Generation VAE Foundation Model for Specialized Time Series Classification](https://arxiv.org/abs/2605.22684v2)** | 2026-05-23 |  |
+| **[Deep ZakaiJ: Structured Filtering for Jump-Diffusion Time Series Forecasting](https://arxiv.org/abs/2605.24548v1)** | 2026-05-23 |  |
+| **[DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting](https://arxiv.org/abs/2601.21726v2)** | 2026-05-23 |  |
+| **[Assessing the Operational Viability of Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2605.24381v1)** | 2026-05-23 | <details><summary>21 pa...</summary><p>21 pages, 8 Figures, Code available at [https://github.com/kavin-soni/timeseries-zeroshot-eval]</p></details> |
 | **[Cascaded Transfer: Learning Many Tasks under Budget Constraints](https://arxiv.org/abs/2601.21513v2)** | 2026-05-22 |  |
 | **[Physiome-ODE: A Benchmark for Irregularly Sampled Multivariate Time Series Forecasting Based on Biological ODEs](https://arxiv.org/abs/2502.07489v2)** | 2026-05-22 |  |
 | **[Super-Linear: A Lightweight Pretrained Mixture of Linear Experts for Time Series Forecasting](https://arxiv.org/abs/2509.15105v3)** | 2026-05-22 |  |
-| **[Parametric Prior Mapping Framework for Non-stationary Probabilistic Time Series Forecasting](https://arxiv.org/abs/2605.23402v1)** | 2026-05-22 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, accepted by ICML 2026</p></details> |
-| **[PaP-NF: Probabilistic Long-Term Time Series Forecasting via Prefix-as-Prompt Reprogramming and Normalizing Flows](https://arxiv.org/abs/2605.23219v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
-| **[Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks](https://arxiv.org/abs/2602.05873v2)** | 2026-05-21 |  |
-| **[ChronoVAE-HOPE: Beyond Attention -- A Next-Generation VAE Foundation Model for Specialized Time Series Classification](https://arxiv.org/abs/2605.22684v1)** | 2026-05-21 |  |
-| **[MAP4TS: A Multi-Aspect Prompting Framework for Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2510.23090v2)** | 2026-05-21 | <details><summary>There...</summary><p>There is a error in modeling. Thereafter, paper will be revised and re-uploaded</p></details> |
-| **[TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting](https://arxiv.org/abs/2605.22365v1)** | 2026-05-21 | <details><summary>44 pa...</summary><p>44 pages, 30 figures. ICML 2026</p></details> |
-| **[HealthMamba: An Uncertainty-aware Spatiotemporal Graph State Space Model for Effective and Reliable Healthcare Facility Visit Prediction](https://arxiv.org/abs/2602.05286v3)** | 2026-05-21 | IJCAI 2026 |
-| **[An AI system to help scientists write expert-level empirical software](https://arxiv.org/abs/2509.06503v3)** | 2026-05-21 | <details><summary>78 pa...</summary><p>78 pages, 31 figures, 22 tables</p></details> |
-| **[The Statistical Significance of the Inclusion of Graph Neural Networks in the Financial Time Series Forecasting Problem](https://arxiv.org/abs/2605.21192v1)** | 2026-05-20 |  |
-| **[PULSE: Generative Phase Evolution for Non-Stationary Time Series Forecasting](https://arxiv.org/abs/2605.16793v2)** | 2026-05-20 |  |
-| **[Time-Prompt: Integrated Heterogeneous Prompts for Unlocking LLMs in Time Series Forecasting](https://arxiv.org/abs/2506.17631v4)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026</p></details> |
-| **[Reviving Error Correction in Modern Deep Time-Series Forecasting](https://arxiv.org/abs/2605.21088v1)** | 2026-05-20 | 27 pages |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
