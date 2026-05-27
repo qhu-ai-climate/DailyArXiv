@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 27, 2026
+title: Latest 15 Papers - May 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Holistic Models: Systematic Component-level Benchmarking of Deep Multivariate Time-Series Forecasting](https://arxiv.org/abs/2605.26562v1)** | 2026-05-26 | <details><summary>accep...</summary><p>accepted by KDD 2026 Datasets and Benchmarks Track</p></details> |
 | **[STaT: Resolving Shape Distortion in Non-Stationary Time Series via Tri-Modal Synergy](https://arxiv.org/abs/2605.25943v1)** | 2026-05-25 |  |
 | **[Hybrid Quantum Neural Network for Multivariate Clinical Time Series Forecasting](https://arxiv.org/abs/2603.08072v2)** | 2026-05-25 |  |
 | **[L-Drive: Beyond a Single Mapping-Latent Context Drives Time Series Forecasting](https://arxiv.org/abs/2605.17730v2)** | 2026-05-25 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Assessing the Operational Viability of Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2605.24381v1)** | 2026-05-23 | <details><summary>21 pa...</summary><p>21 pages, 8 Figures, Code available at [https://github.com/kavin-soni/timeseries-zeroshot-eval]</p></details> |
 | **[Cascaded Transfer: Learning Many Tasks under Budget Constraints](https://arxiv.org/abs/2601.21513v2)** | 2026-05-22 |  |
 | **[Physiome-ODE: A Benchmark for Irregularly Sampled Multivariate Time Series Forecasting Based on Biological ODEs](https://arxiv.org/abs/2502.07489v2)** | 2026-05-22 |  |
-| **[Super-Linear: A Lightweight Pretrained Mixture of Linear Experts for Time Series Forecasting](https://arxiv.org/abs/2509.15105v3)** | 2026-05-22 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
