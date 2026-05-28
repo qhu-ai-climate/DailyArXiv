@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2026
+title: Latest 15 Papers - May 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Online Irregular Multivariate Time Series Forecasting via Uncertainty-Driven Dual-Expert Calibration](https://arxiv.org/abs/2605.28603v1)** | 2026-05-27 | Accepted by KDD 2026 |
+| **[Stabilizing distribution-free probabilistic forecasts](https://arxiv.org/abs/2605.28531v1)** | 2026-05-27 |  |
+| **[Inpainting-Style Conditional Diffusion for Multivariable Time Series Forecasting](https://arxiv.org/abs/2605.28324v1)** | 2026-05-27 |  |
+| **[Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting](https://arxiv.org/abs/2603.16985v2)** | 2026-05-27 | KDD 2026 |
+| **[Dr-CiK: A Testbed for Foresight-Driven Agents](https://arxiv.org/abs/2605.27904v1)** | 2026-05-27 |  |
+| **[Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting](https://arxiv.org/abs/2509.23074v3)** | 2026-05-27 |  |
+| **[GradientStabilizer:Fix the Norm, Not the Gradient](https://arxiv.org/abs/2502.17055v4)** | 2026-05-26 | Accepted By ICML2026 |
 | **[Beyond Holistic Models: Systematic Component-level Benchmarking of Deep Multivariate Time-Series Forecasting](https://arxiv.org/abs/2605.26562v1)** | 2026-05-26 | <details><summary>accep...</summary><p>accepted by KDD 2026 Datasets and Benchmarks Track</p></details> |
 | **[STaT: Resolving Shape Distortion in Non-Stationary Time Series via Tri-Modal Synergy](https://arxiv.org/abs/2605.25943v1)** | 2026-05-25 |  |
 | **[Hybrid Quantum Neural Network for Multivariate Clinical Time Series Forecasting](https://arxiv.org/abs/2603.08072v2)** | 2026-05-25 |  |
@@ -15,13 +22,6 @@ labels: documentation
 | **[TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting](https://arxiv.org/abs/2605.22365v2)** | 2026-05-25 | <details><summary>44 pa...</summary><p>44 pages, 30 figures. ICML 2026</p></details> |
 | **[Beyond Static Uncertainty: Modeling Temporal Uncertainty Dynamics for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2603.24254v2)** | 2026-05-24 |  |
 | **[AME-TS: Anchored Mixture-of-Experts for Time Series Forecasting](https://arxiv.org/abs/2605.25166v1)** | 2026-05-24 |  |
-| **[Factorize to Generalize: Retrieval-Guided Invariant-Dynamic Decomposition for Time Series Forecasting](https://arxiv.org/abs/2605.24911v1)** | 2026-05-24 |  |
-| **[ChronoVAE-HOPE: Beyond Attention -- A Next-Generation VAE Foundation Model for Specialized Time Series Classification](https://arxiv.org/abs/2605.22684v2)** | 2026-05-23 |  |
-| **[Deep ZakaiJ: Structured Filtering for Jump-Diffusion Time Series Forecasting](https://arxiv.org/abs/2605.24548v1)** | 2026-05-23 |  |
-| **[DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting](https://arxiv.org/abs/2601.21726v2)** | 2026-05-23 |  |
-| **[Assessing the Operational Viability of Foundation Models for Time Series Forecasting](https://arxiv.org/abs/2605.24381v1)** | 2026-05-23 | <details><summary>21 pa...</summary><p>21 pages, 8 Figures, Code available at [https://github.com/kavin-soni/timeseries-zeroshot-eval]</p></details> |
-| **[Cascaded Transfer: Learning Many Tasks under Budget Constraints](https://arxiv.org/abs/2601.21513v2)** | 2026-05-22 |  |
-| **[Physiome-ODE: A Benchmark for Irregularly Sampled Multivariate Time Series Forecasting Based on Biological ODEs](https://arxiv.org/abs/2502.07489v2)** | 2026-05-22 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
