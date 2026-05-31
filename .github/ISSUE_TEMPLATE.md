@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 29, 2026
+title: Latest 15 Papers - June 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning](https://arxiv.org/abs/2605.30002v1)** | 2026-05-28 |  |
+| **[Composing Non-Conjugate Factor Graphs with Closed-Form Variational Inference](https://arxiv.org/abs/2605.29467v1)** | 2026-05-28 |  |
+| **[Rethinking Post-Training Recipes for Multimodal Time-Series Forecasting](https://arxiv.org/abs/2605.29401v1)** | 2026-05-28 |  |
+| **[Horizon Activation Mapping for Neural Networks in Time Series Forecasting](https://arxiv.org/abs/2601.02094v4)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted and Presented in International Conference on Optimization and Learning (OLA2026) for publication in LNCS</p></details> |
 | **[Online Irregular Multivariate Time Series Forecasting via Uncertainty-Driven Dual-Expert Calibration](https://arxiv.org/abs/2605.28603v1)** | 2026-05-27 | Accepted by KDD 2026 |
 | **[Stabilizing distribution-free probabilistic forecasts](https://arxiv.org/abs/2605.28531v1)** | 2026-05-27 |  |
 | **[Inpainting-Style Conditional Diffusion for Multivariable Time Series Forecasting](https://arxiv.org/abs/2605.28324v1)** | 2026-05-27 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[STaT: Resolving Shape Distortion in Non-Stationary Time Series via Tri-Modal Synergy](https://arxiv.org/abs/2605.25943v1)** | 2026-05-25 |  |
 | **[Hybrid Quantum Neural Network for Multivariate Clinical Time Series Forecasting](https://arxiv.org/abs/2603.08072v2)** | 2026-05-25 |  |
 | **[L-Drive: Beyond a Single Mapping-Latent Context Drives Time Series Forecasting](https://arxiv.org/abs/2605.17730v2)** | 2026-05-25 |  |
-| **[PiXTime: A Model for Federated Time Series Forecasting with Heterogeneous Data across Nodes](https://arxiv.org/abs/2601.05613v2)** | 2026-05-25 |  |
-| **[TimeGuard: Channel-wise Pool Training for Backdoor Defense in Time Series Forecasting](https://arxiv.org/abs/2605.22365v2)** | 2026-05-25 | <details><summary>44 pa...</summary><p>44 pages, 30 figures. ICML 2026</p></details> |
-| **[Beyond Static Uncertainty: Modeling Temporal Uncertainty Dynamics for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2603.24254v2)** | 2026-05-24 |  |
-| **[AME-TS: Anchored Mixture-of-Experts for Time Series Forecasting](https://arxiv.org/abs/2605.25166v1)** | 2026-05-24 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
