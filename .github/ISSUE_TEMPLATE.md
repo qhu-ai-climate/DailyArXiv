@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2026
+title: Latest 15 Papers - June 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Static Uncertainty: Modeling Temporal Uncertainty Dynamics for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2603.24254v3)** | 2026-05-29 |  |
+| **[Flow map learning in nonlinear vector autoregressive models: influence of the feature-library structure on the training error](https://arxiv.org/abs/2605.31438v1)** | 2026-05-29 | 35 pages, 12 figures |
+| **[Generalizing Multi-Scale Time-Series Modeling with a Single Operator](https://arxiv.org/abs/2605.31129v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 | **[KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning](https://arxiv.org/abs/2605.30002v1)** | 2026-05-28 |  |
 | **[Composing Non-Conjugate Factor Graphs with Closed-Form Variational Inference](https://arxiv.org/abs/2605.29467v1)** | 2026-05-28 |  |
 | **[Rethinking Post-Training Recipes for Multimodal Time-Series Forecasting](https://arxiv.org/abs/2605.29401v1)** | 2026-05-28 |  |
@@ -18,10 +21,7 @@ labels: documentation
 | **[Dr-CiK: A Testbed for Foresight-Driven Agents](https://arxiv.org/abs/2605.27904v1)** | 2026-05-27 |  |
 | **[Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting](https://arxiv.org/abs/2509.23074v3)** | 2026-05-27 |  |
 | **[GradientStabilizer:Fix the Norm, Not the Gradient](https://arxiv.org/abs/2502.17055v4)** | 2026-05-26 | Accepted By ICML2026 |
-| **[Beyond Holistic Models: Systematic Component-level Benchmarking of Deep Multivariate Time-Series Forecasting](https://arxiv.org/abs/2605.26562v1)** | 2026-05-26 | <details><summary>accep...</summary><p>accepted by KDD 2026 Datasets and Benchmarks Track</p></details> |
-| **[STaT: Resolving Shape Distortion in Non-Stationary Time Series via Tri-Modal Synergy](https://arxiv.org/abs/2605.25943v1)** | 2026-05-25 |  |
-| **[Hybrid Quantum Neural Network for Multivariate Clinical Time Series Forecasting](https://arxiv.org/abs/2603.08072v2)** | 2026-05-25 |  |
-| **[L-Drive: Beyond a Single Mapping-Latent Context Drives Time Series Forecasting](https://arxiv.org/abs/2605.17730v2)** | 2026-05-25 |  |
+| **[Unicorn: Scaling High-Dimensional Time Series Forecasting via Universal Correlation Modeling](https://arxiv.org/abs/2605.30376v1)** | 2026-05-26 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
