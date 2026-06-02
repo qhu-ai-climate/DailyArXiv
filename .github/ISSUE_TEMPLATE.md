@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2026
+title: Latest 15 Papers - June 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Static Uncertainty: Modeling Temporal Uncertainty Dynamics for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2603.24254v3)** | 2026-05-29 |  |
-| **[Flow map learning in nonlinear vector autoregressive models: influence of the feature-library structure on the training error](https://arxiv.org/abs/2605.31438v1)** | 2026-05-29 | 35 pages, 12 figures |
-| **[Generalizing Multi-Scale Time-Series Modeling with a Single Operator](https://arxiv.org/abs/2605.31129v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning](https://arxiv.org/abs/2605.30002v1)** | 2026-05-28 |  |
-| **[Composing Non-Conjugate Factor Graphs with Closed-Form Variational Inference](https://arxiv.org/abs/2605.29467v1)** | 2026-05-28 |  |
-| **[Rethinking Post-Training Recipes for Multimodal Time-Series Forecasting](https://arxiv.org/abs/2605.29401v1)** | 2026-05-28 |  |
-| **[Horizon Activation Mapping for Neural Networks in Time Series Forecasting](https://arxiv.org/abs/2601.02094v4)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted and Presented in International Conference on Optimization and Learning (OLA2026) for publication in LNCS</p></details> |
-| **[Online Irregular Multivariate Time Series Forecasting via Uncertainty-Driven Dual-Expert Calibration](https://arxiv.org/abs/2605.28603v1)** | 2026-05-27 | Accepted by KDD 2026 |
-| **[Stabilizing distribution-free probabilistic forecasts](https://arxiv.org/abs/2605.28531v1)** | 2026-05-27 |  |
-| **[Inpainting-Style Conditional Diffusion for Multivariable Time Series Forecasting](https://arxiv.org/abs/2605.28324v1)** | 2026-05-27 |  |
-| **[Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting](https://arxiv.org/abs/2603.16985v2)** | 2026-05-27 | KDD 2026 |
-| **[Dr-CiK: A Testbed for Foresight-Driven Agents](https://arxiv.org/abs/2605.27904v1)** | 2026-05-27 |  |
-| **[Beyond Model Ranking: Predictability-Aligned Evaluation for Time Series Forecasting](https://arxiv.org/abs/2509.23074v3)** | 2026-05-27 |  |
-| **[GradientStabilizer:Fix the Norm, Not the Gradient](https://arxiv.org/abs/2502.17055v4)** | 2026-05-26 | Accepted By ICML2026 |
-| **[Unicorn: Scaling High-Dimensional Time Series Forecasting via Universal Correlation Modeling](https://arxiv.org/abs/2605.30376v1)** | 2026-05-26 |  |
+| **[Bridging the Last Mile of Time Series Forecasting with LLM Agents](https://arxiv.org/abs/2606.02497v1)** | 2026-06-01 |  |
+| **[ODTQA-FoRe: An Open-Domain Tabular Question Answering Dataset for Future Data Forecasting and Reasoning](https://arxiv.org/abs/2606.02433v1)** | 2026-06-01 | <details><summary>This ...</summary><p>This paper has been accepted by Findings of ACL 2026</p></details> |
+| **[VLBM: Variational Latent Basis Modeling for OOD Robust Multivariate Time Series Forecasting](https://arxiv.org/abs/2606.02138v1)** | 2026-06-01 |  |
+| **[Byte Pair Encoding for Efficient Time Series Forecasting](https://arxiv.org/abs/2505.14411v4)** | 2026-06-01 | <details><summary>32 pa...</summary><p>32 pages in total, 22 figures</p></details> |
+| **[ProbRes: Volatility Learning for Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2606.02117v1)** | 2026-06-01 |  |
+| **[Human in the Loop Adaptive Optimization for Improved Time Series Forecasting](https://arxiv.org/abs/2505.15354v2)** | 2026-06-01 |  |
+| **[FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting](https://arxiv.org/abs/2502.18834v3)** | 2026-06-01 |  |
+| **[Estimating Mutual Information between Time Series and Temporal Event Sequences Across Diverse Analysis Tasks](https://arxiv.org/abs/2606.01602v1)** | 2026-06-01 |  |
+| **[FreqLite: A Lightweight Frequency-Decomposed Linear Model with Adaptive Reversible Normalization for Robust Long-Term Time-Series Forecasting](https://arxiv.org/abs/2606.01339v1)** | 2026-05-31 | 26 pages, 5 figures |
+| **[FAiT: Frequency-Aware Inverted Transformer for Multivariate Time Series Forecasting](https://arxiv.org/abs/2606.01306v1)** | 2026-05-31 |  |
+| **[Feature to Dynamics: Feature-space to Autoregression strategy for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2606.01289v1)** | 2026-05-31 |  |
+| **[Optimizing accuracy and diversity: a multi-task approach to forecast combinations](https://arxiv.org/abs/2310.20545v3)** | 2026-05-31 |  |
+| **[SEMixer: Semantics Enhanced MLP-Mixer for Multiscale Mixing and Long-term Time Series Forecasting](https://arxiv.org/abs/2602.16220v2)** | 2026-05-31 | <details><summary>This ...</summary><p>This work is accepted by the proceedings of the ACM Web Conference 2026 (WWW 2026). The code is available at the link https://github.com/Meteor-Stars/SEMixer</p></details> |
+| **[Amortized Predictability-aware Training Framework for Time Series Forecasting and Classification](https://arxiv.org/abs/2602.16224v2)** | 2026-05-31 | <details><summary>This ...</summary><p>This work is accepted by the proceedings of the ACM Web Conference 2026 (WWW 2026). The code is available at the link https://github.com/Meteor-Stars/APTF</p></details> |
+| **[ISOMORPH: A Supply Chain Digital Twin for Simulation, Dataset Generation, and Forecasting Benchmarks](https://arxiv.org/abs/2605.12768v2)** | 2026-05-30 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
