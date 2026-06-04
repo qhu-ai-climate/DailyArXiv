@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 04, 2026
+title: Latest 15 Papers - June 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs](https://arxiv.org/abs/2506.10630v3)** | 2026-06-03 |  |
+| **[Post-Training Corrections for Improved Time-Series Forecasting](https://arxiv.org/abs/2505.15354v3)** | 2026-06-03 |  |
+| **[Signed Dual Attention: Capturing Signed Dependencies in Time Series Forecasting](https://arxiv.org/abs/2606.04833v1)** | 2026-06-03 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, accepted at AAAI 2026 AI4TS Workshop</p></details> |
+| **[It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147v4)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Camera-ready version</p></details> |
+| **[Expectations vs. Realities: The Cost of MSE-Optimal Forecasting Under Conditional Uncertainty](https://arxiv.org/abs/2606.04342v1)** | 2026-06-03 | <details><summary>12 pa...</summary><p>12 pages, Accepted for KDD 2026 Research track</p></details> |
+| **[Risk and cross validation in ridge regression with correlated samples](https://arxiv.org/abs/2408.04607v6)** | 2026-06-02 | <details><summary>50 pa...</summary><p>50 pages, 19 figures. v4: ICML 2025 camera-ready. v5: Fix typo in statement of Theorem 5. v6: typos corrected, to appear in 2026 JSTAT Machine Learning focus collection</p></details> |
+| **[Customizing the Inductive Biases of Softmax Attention using Structured Matrices](https://arxiv.org/abs/2509.07963v2)** | 2026-06-02 | <details><summary>ICML ...</summary><p>ICML 2025. Code available at https://github.com/YilunKuang/structured-attention</p></details> |
+| **[Stationarity-Aware Retrieval-Augmented Time Series Forecasting](https://arxiv.org/abs/2606.04135v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 research track</p></details> |
+| **[Adaptive Patching Is Harder Than It Looks For Time-Series Forecasting](https://arxiv.org/abs/2606.04074v1)** | 2026-06-02 |  |
 | **[FinStressTS: A Parametric Synthetic Benchmark for Time-Series Forecasting in Finance](https://arxiv.org/abs/2606.03184v1)** | 2026-06-02 | KDD 2026 (Oral) |
 | **[DAD4TS: Data-Augmentation-Oriented Diffusion Model for Time-Series Forecasting with Small-Scale Data](https://arxiv.org/abs/2605.17866v2)** | 2026-06-02 |  |
 | **[TiWeaver: Unified Temporal Dynamics Modeling via Contextual Patching](https://arxiv.org/abs/2606.03121v1)** | 2026-06-02 |  |
 | **[From Long News to Accurate Forecast: Importance-Aware Fusion and PRM-Guided Reflection for Time Series Forecasting](https://arxiv.org/abs/2606.03097v1)** | 2026-06-02 |  |
 | **[Data-Driven Forecasting of three-Component Seismograms Using Transformer Architectures](https://arxiv.org/abs/2606.02912v1)** | 2026-06-01 | <details><summary>35 pa...</summary><p>35 pages, 13 figures and 4 tables</p></details> |
 | **[Bridging the Last Mile of Time Series Forecasting with LLM Agents](https://arxiv.org/abs/2606.02497v1)** | 2026-06-01 |  |
-| **[ODTQA-FoRe: An Open-Domain Tabular Question Answering Dataset for Future Data Forecasting and Reasoning](https://arxiv.org/abs/2606.02433v1)** | 2026-06-01 | <details><summary>This ...</summary><p>This paper has been accepted by Findings of ACL 2026</p></details> |
-| **[VLBM: Variational Latent Basis Modeling for OOD Robust Multivariate Time Series Forecasting](https://arxiv.org/abs/2606.02138v1)** | 2026-06-01 |  |
-| **[Byte Pair Encoding for Efficient Time Series Forecasting](https://arxiv.org/abs/2505.14411v4)** | 2026-06-01 | <details><summary>32 pa...</summary><p>32 pages in total, 22 figures</p></details> |
-| **[ProbRes: Volatility Learning for Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2606.02117v1)** | 2026-06-01 |  |
-| **[Human in the Loop Adaptive Optimization for Improved Time Series Forecasting](https://arxiv.org/abs/2505.15354v2)** | 2026-06-01 |  |
-| **[FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting](https://arxiv.org/abs/2502.18834v3)** | 2026-06-01 |  |
-| **[Estimating Mutual Information between Time Series and Temporal Event Sequences Across Diverse Analysis Tasks](https://arxiv.org/abs/2606.01602v1)** | 2026-06-01 |  |
-| **[FreqLite: A Lightweight Frequency-Decomposed Linear Model with Adaptive Reversible Normalization for Robust Long-Term Time-Series Forecasting](https://arxiv.org/abs/2606.01339v1)** | 2026-05-31 | 26 pages, 5 figures |
-| **[FAiT: Frequency-Aware Inverted Transformer for Multivariate Time Series Forecasting](https://arxiv.org/abs/2606.01306v1)** | 2026-05-31 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
