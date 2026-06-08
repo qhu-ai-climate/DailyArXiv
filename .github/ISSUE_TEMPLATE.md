@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2026
+title: Latest 15 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trio: Learning Time-Series Forecasting with Temporal-Spatial-Sample Attention and Structural Causal Priors](https://arxiv.org/abs/2606.07291v1)** | 2026-06-05 |  |
+| **[Forecasting as Rendering: A 2D Gaussian Splatting Framework for Time Series Forecasting](https://arxiv.org/abs/2603.02220v2)** | 2026-06-05 |  |
 | **[Toto 2.0: Time Series Forecasting Enters the Scaling Era](https://arxiv.org/abs/2605.20119v2)** | 2026-06-04 | <details><summary>Code:...</summary><p>Code: https://github.com/DataDog/toto Weights: https://huggingface.co/collections/Datadog/toto-20</p></details> |
 | **[Adaptive Oscillatory-State Alignment for Time Series Forecasting](https://arxiv.org/abs/2606.06010v1)** | 2026-06-04 |  |
 | **[GenAutoML: An Agentic Framework for Dynamic Architecture Generation and Optimization in Time-Series Analysis](https://arxiv.org/abs/2606.05860v1)** | 2026-06-04 | <details><summary>26 pa...</summary><p>26 pages, 17 figures, 12 tables. Under review</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147v4)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Camera-ready version</p></details> |
 | **[Expectations vs. Realities: The Cost of MSE-Optimal Forecasting Under Conditional Uncertainty](https://arxiv.org/abs/2606.04342v1)** | 2026-06-03 | <details><summary>12 pa...</summary><p>12 pages, Accepted for KDD 2026 Research track</p></details> |
 | **[Risk and cross validation in ridge regression with correlated samples](https://arxiv.org/abs/2408.04607v6)** | 2026-06-02 | <details><summary>50 pa...</summary><p>50 pages, 19 figures. v4: ICML 2025 camera-ready. v5: Fix typo in statement of Theorem 5. v6: typos corrected, to appear in 2026 JSTAT Machine Learning focus collection</p></details> |
-| **[Customizing the Inductive Biases of Softmax Attention using Structured Matrices](https://arxiv.org/abs/2509.07963v2)** | 2026-06-02 | <details><summary>ICML ...</summary><p>ICML 2025. Code available at https://github.com/YilunKuang/structured-attention</p></details> |
-| **[Stationarity-Aware Retrieval-Augmented Time Series Forecasting](https://arxiv.org/abs/2606.04135v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 research track</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
