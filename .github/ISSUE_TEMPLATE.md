@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2026
+title: Latest 15 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud-Edge Continuum](https://arxiv.org/abs/2606.09787v1)** | 2026-06-08 | 19 pages, 14 figures |
+| **[Report the Floor: A Training-Free Conformal Interval Is a Mandatory Baseline for Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2606.09473v1)** | 2026-06-08 |  |
+| **[Rivaling Transformers: Multi-Scale Structured State-Space Mixtures for Agentic 6G O-RAN](https://arxiv.org/abs/2510.05255v2)** | 2026-06-08 | <details><summary>12 pa...</summary><p>12 pages, 2 Figures, 5 Tables</p></details> |
+| **[VFEM: Visual Feature Empowered Multivariate Time Series Forecasting with Cross-Modal Fusion](https://arxiv.org/abs/2510.03244v2)** | 2026-06-08 |  |
+| **[FAME: Forecastability-Aware Mixture of Experts for Heterogeneous Time Series Forecasting](https://arxiv.org/abs/2606.08896v1)** | 2026-06-08 |  |
+| **[InA-Probe: Instruction-Aware Active Probing for Time Series Forecasting with LLMs](https://arxiv.org/abs/2606.08601v1)** | 2026-06-07 |  |
+| **[Amortized Predictability-aware Training Framework for Time Series Forecasting and Classification](https://arxiv.org/abs/2602.16224v3)** | 2026-06-07 | <details><summary>This ...</summary><p>This work is accepted by the proceedings of the ACM Web Conference 2026 (WWW 2026). The code is available at the link https://github.com/Meteor-Stars/APTF</p></details> |
+| **[FRWKV+: Periodic-Aware Adaptive Gating for Frequency-Space Linear Time Series Forecasting](https://arxiv.org/abs/2605.15690v2)** | 2026-06-07 |  |
+| **[Causal Semantic Alignment for LLM-based Time Series Forecasting](https://arxiv.org/abs/2606.08262v1)** | 2026-06-06 |  |
 | **[Trio: Learning Time-Series Forecasting with Temporal-Spatial-Sample Attention and Structural Causal Priors](https://arxiv.org/abs/2606.07291v1)** | 2026-06-05 |  |
 | **[Forecasting as Rendering: A 2D Gaussian Splatting Framework for Time Series Forecasting](https://arxiv.org/abs/2603.02220v2)** | 2026-06-05 |  |
 | **[Toto 2.0: Time Series Forecasting Enters the Scaling Era](https://arxiv.org/abs/2605.20119v2)** | 2026-06-04 | <details><summary>Code:...</summary><p>Code: https://github.com/DataDog/toto Weights: https://huggingface.co/collections/Datadog/toto-20</p></details> |
 | **[Adaptive Oscillatory-State Alignment for Time Series Forecasting](https://arxiv.org/abs/2606.06010v1)** | 2026-06-04 |  |
 | **[GenAutoML: An Agentic Framework for Dynamic Architecture Generation and Optimization in Time-Series Analysis](https://arxiv.org/abs/2606.05860v1)** | 2026-06-04 | <details><summary>26 pa...</summary><p>26 pages, 17 figures, 12 tables. Under review</p></details> |
 | **[FATE: Focal-modulated Attention Encoder for Multivariate Time-series Forecasting](https://arxiv.org/abs/2408.11336v3)** | 2026-06-04 |  |
-| **[Wasserstein Exponential Smoothing](https://arxiv.org/abs/2606.05560v1)** | 2026-06-04 |  |
-| **[Evidence-Guided Neural Architecture Selection under Uncertainty for Subject-Specific Blood Glucose Forecasting](https://arxiv.org/abs/2606.05373v1)** | 2026-06-03 |  |
-| **[Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs](https://arxiv.org/abs/2506.10630v3)** | 2026-06-03 |  |
-| **[REGEN: Reference-Guided Synthetic Multivariate Time Series Generation for Forecasting](https://arxiv.org/abs/2606.05264v1)** | 2026-06-03 |  |
-| **[Post-Training Corrections for Improved Time-Series Forecasting](https://arxiv.org/abs/2505.15354v3)** | 2026-06-03 |  |
-| **[Signed Dual Attention: Capturing Signed Dependencies in Time Series Forecasting](https://arxiv.org/abs/2606.04833v1)** | 2026-06-03 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, accepted at AAAI 2026 AI4TS Workshop</p></details> |
-| **[It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks](https://arxiv.org/abs/2602.12147v4)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Camera-ready version</p></details> |
-| **[Expectations vs. Realities: The Cost of MSE-Optimal Forecasting Under Conditional Uncertainty](https://arxiv.org/abs/2606.04342v1)** | 2026-06-03 | <details><summary>12 pa...</summary><p>12 pages, Accepted for KDD 2026 Research track</p></details> |
-| **[Risk and cross validation in ridge regression with correlated samples](https://arxiv.org/abs/2408.04607v6)** | 2026-06-02 | <details><summary>50 pa...</summary><p>50 pages, 19 figures. v4: ICML 2025 camera-ready. v5: Fix typo in statement of Theorem 5. v6: typos corrected, to appear in 2026 JSTAT Machine Learning focus collection</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FADTI: Fourier and Attention Driven Diffusion for Multivariate Time Series Imputation](https://arxiv.org/abs/2512.15116v2)** | 2026-06-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. 10 pages, 7 figures</p></details> |
 | **[HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for Time Series Imputation](https://arxiv.org/abs/2606.05239v1)** | 2026-06-03 |  |
 | **[Multivariate Time Series Data Imputation via Distributionally Robust Regularization](https://arxiv.org/abs/2602.00844v2)** | 2026-05-06 |  |
 | **[HELIX: Hybrid Encoding with Learnable Identity and Cross-dimensional Synthesis for Time Series Imputation](https://arxiv.org/abs/2605.02278v1)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 (spotlight paper)</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[ImputeGAP: A Comprehensive Library for Time Series Imputation](https://arxiv.org/abs/2503.15250v2)** | 2026-01-22 |  |
 | **[Exploiting the Prior of Generative Time Series Imputation](https://arxiv.org/abs/2512.23832v1)** | 2025-12-29 |  |
 | **[STDiff: A State Transition Diffusion Framework for Time Series Imputation in Industrial Systems](https://arxiv.org/abs/2508.19011v3)** | 2025-12-19 | <details><summary>Peer-...</summary><p>Peer-reviewed and published in Expert Systems with Applications, Volume 302 (2026). This version reflects the published article</p></details> |
-| **[A Structure-Preserving Assessment of VBPBB for Time Series Imputation Under Periodic Trends, Noise, and Missingness Mechanisms](https://arxiv.org/abs/2508.19535v3)** | 2025-12-19 | <details><summary>24 pa...</summary><p>24 pages, 6 figure and 3 tables</p></details> |
 
