@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2026
+title: Latest 15 Papers - June 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Intermittent time series forecasting: local vs global models](https://arxiv.org/abs/2601.14031v2)** | 2026-06-10 | <details><summary>Submi...</summary><p>Submitted to the Journal of the Operational Research Society</p></details> |
+| **[CaReTS: A Multi-Task Framework Unifying Classification and Regression for Time Series Forecasting](https://arxiv.org/abs/2511.09789v2)** | 2026-06-10 |  |
 | **[CITRAS: Covariate-Informed Transformer for Time Series Forecasting](https://arxiv.org/abs/2503.24007v4)** | 2026-06-09 |  |
 | **[MemCast: Memory-Driven Time Series Forecasting with Experience-Conditioned Reasoning](https://arxiv.org/abs/2602.03164v2)** | 2026-06-09 |  |
 | **[One Step Closer to Ground Truth: A Multi-Scale Residual-Aware Representation Learning Pipeline for Predicting Time Series Data](https://arxiv.org/abs/2606.10678v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '26)</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[VFEM: Visual Feature Empowered Multivariate Time Series Forecasting with Cross-Modal Fusion](https://arxiv.org/abs/2510.03244v2)** | 2026-06-08 |  |
 | **[FAME: Forecastability-Aware Mixture of Experts for Heterogeneous Time Series Forecasting](https://arxiv.org/abs/2606.08896v1)** | 2026-06-08 |  |
 | **[InA-Probe: Instruction-Aware Active Probing for Time Series Forecasting with LLMs](https://arxiv.org/abs/2606.08601v1)** | 2026-06-07 |  |
-| **[Amortized Predictability-aware Training Framework for Time Series Forecasting and Classification](https://arxiv.org/abs/2602.16224v3)** | 2026-06-07 | <details><summary>This ...</summary><p>This work is accepted by the proceedings of the ACM Web Conference 2026 (WWW 2026). The code is available at the link https://github.com/Meteor-Stars/APTF</p></details> |
-| **[FRWKV+: Periodic-Aware Adaptive Gating for Frequency-Space Linear Time Series Forecasting](https://arxiv.org/abs/2605.15690v2)** | 2026-06-07 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
