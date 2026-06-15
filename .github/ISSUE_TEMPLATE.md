@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2026
+title: Latest 15 Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,12 +7,14 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpikF-GO: Spiking Fourier Graph Operators for Multivariate Time Series Forecasting](https://arxiv.org/abs/2606.13901v1)** | 2026-06-11 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 11 tables. Accepted for presentation at ECML PKDD 2026. Code: https://github.com/jafarbakhshaliyev/SpikF-GO</p></details> |
+| **[Jacobian Scopes: token-level causal attributions in LLMs](https://arxiv.org/abs/2601.16407v3)** | 2026-06-11 | 25 pages, 16 figures |
 | **[Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting](https://arxiv.org/abs/2606.13571v1)** | 2026-06-11 |  |
+| **[Adaptive Oscillatory-State Alignment for Time Series Forecasting](https://arxiv.org/abs/2606.06010v2)** | 2026-06-11 |  |
 | **[Navigating the Safety-Fidelity Trade-off: Massive-Variate Time Series Forecasting for Power Systems via Probabilistic Scenarios](https://arxiv.org/abs/2606.13338v1)** | 2026-06-11 |  |
 | **[GenAutoML: An Agentic Framework for Dynamic Architecture Generation and Optimization in Time-Series Analysis](https://arxiv.org/abs/2606.05860v2)** | 2026-06-11 | <details><summary>26 pa...</summary><p>26 pages, 17 figures, 12 tables. Under review</p></details> |
 | **[One Step Closer to Ground Truth: A Multi-Scale Residual-Aware Representation Learning Pipeline for Predicting Time Series Data](https://arxiv.org/abs/2606.10678v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '26)</p></details> |
 | **[Intermittent time series forecasting: local vs global models](https://arxiv.org/abs/2601.14031v2)** | 2026-06-10 | <details><summary>Submi...</summary><p>Submitted to the Journal of the Operational Research Society</p></details> |
-| **[CaReTS: A Multi-Task Framework Unifying Classification and Regression for Time Series Forecasting](https://arxiv.org/abs/2511.09789v2)** | 2026-06-10 |  |
 | **[CITRAS: Covariate-Informed Transformer for Time Series Forecasting](https://arxiv.org/abs/2503.24007v4)** | 2026-06-09 |  |
 | **[MemCast: Memory-Driven Time Series Forecasting with Experience-Conditioned Reasoning](https://arxiv.org/abs/2602.03164v2)** | 2026-06-09 |  |
 | **[Dirichlet-Guided Group Forecasting for Alleviating Over-smoothing in Time Series Forecasting](https://arxiv.org/abs/2606.10592v1)** | 2026-06-09 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Optimization-based Online Conformal Prediction for Multi-step Forecasting](https://arxiv.org/abs/2508.13362v2)** | 2026-06-08 |  |
 | **[Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud-Edge Continuum](https://arxiv.org/abs/2606.09787v1)** | 2026-06-08 | 19 pages, 14 figures |
 | **[Report the Floor: A Training-Free Conformal Interval Is a Mandatory Baseline for Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2606.09473v1)** | 2026-06-08 |  |
-| **[Does Normalization Choice Matter for Causal Large Time-Series Models?](https://arxiv.org/abs/2606.09954v1)** | 2026-06-08 |  |
-| **[Rivaling Transformers: Multi-Scale Structured State-Space Mixtures for Agentic 6G O-RAN](https://arxiv.org/abs/2510.05255v2)** | 2026-06-08 | <details><summary>12 pa...</summary><p>12 pages, 2 Figures, 5 Tables</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
