@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2026
+title: Latest 15 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ConTex: Reformulating Counterfactual Generation For Time Series Forecasting](https://arxiv.org/abs/2606.18049v1)** | 2026-06-16 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 14 tables</p></details> |
+| **[Multiple cyclicity and Wavelet Decomposition with Channel Correlation for Long-term Time Series Forecasting](https://arxiv.org/abs/2606.17996v1)** | 2026-06-16 |  |
+| **[A Gradient-based Causal Discovery Framework with Applications to Complex Industrial Processes](https://arxiv.org/abs/2507.11178v3)** | 2026-06-16 | <details><summary>9 pag...</summary><p>9 pages,3 figures, conference</p></details> |
+| **[MorphStrata: Layer-Specific Perturbations for Generating Morphence Students in Time-Series Moving Target Defense](https://arxiv.org/abs/2606.17435v1)** | 2026-06-16 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 11 tables</p></details> |
+| **[Jacobian Scopes: token-level causal attributions in LLMs](https://arxiv.org/abs/2601.16407v4)** | 2026-06-15 | 25 pages, 16 figures |
 | **[HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting](https://arxiv.org/abs/2606.17028v1)** | 2026-06-15 |  |
 | **[FlowState: Sampling-Rate-Equivariant Time-Series Forecasting](https://arxiv.org/abs/2508.05287v3)** | 2026-06-15 | <details><summary>Proce...</summary><p>Proceedings of the 43 rd International Conference on Machine Learning, Seoul, South Korea. PMLR 306, 2026. Copyright 2026 by the author(s)</p></details> |
 | **[Simulation-Augmented Multi-Step Split Conformal Prediction for Aggregated Forecasts](https://arxiv.org/abs/2606.16356v1)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 workshop: Forecasting as a New Frontier of Intelligence</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Quantum-classical hybrid models based on error correction for time series forecasting](https://arxiv.org/abs/2606.15213v1)** | 2026-06-13 | <details><summary>Submi...</summary><p>Submitted to Nature Computational Science. 24 pages, 10 figures</p></details> |
 | **[Semantics-Enhanced Retrieval-Augmented Time Series Forecasting](https://arxiv.org/abs/2606.14941v1)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted to the ICML 2026 Workshop on Forecasting as a New Frontier of Intelligence</p></details> |
 | **[SpikF-GO: Spiking Fourier Graph Operators for Multivariate Time Series Forecasting](https://arxiv.org/abs/2606.13901v1)** | 2026-06-11 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 11 tables. Accepted for presentation at ECML PKDD 2026. Code: https://github.com/jafarbakhshaliyev/SpikF-GO</p></details> |
-| **[Jacobian Scopes: token-level causal attributions in LLMs](https://arxiv.org/abs/2601.16407v3)** | 2026-06-11 | 25 pages, 16 figures |
-| **[Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting](https://arxiv.org/abs/2606.13571v1)** | 2026-06-11 |  |
-| **[Adaptive Oscillatory-State Alignment for Time Series Forecasting](https://arxiv.org/abs/2606.06010v2)** | 2026-06-11 |  |
-| **[Navigating the Safety-Fidelity Trade-off: Massive-Variate Time Series Forecasting for Power Systems via Probabilistic Scenarios](https://arxiv.org/abs/2606.13338v1)** | 2026-06-11 |  |
-| **[GenAutoML: An Agentic Framework for Dynamic Architecture Generation and Optimization in Time-Series Analysis](https://arxiv.org/abs/2606.05860v2)** | 2026-06-11 | <details><summary>26 pa...</summary><p>26 pages, 17 figures, 12 tables. Under review</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
