@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 19, 2026
+title: Latest 15 Papers - June 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Adaptive Scale Handling for Forecasting Time Series with Scale Heterogeneity](https://arxiv.org/abs/2606.20010v1)** | 2026-06-18 | <details><summary>This ...</summary><p>This is the full version of the paper accepted by the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). The code and dataset are available at https://github.com/Meteor-Stars/ASTSF</p></details> |
+| **[Does Text Actually Help? Uncovering and Resolving Text Collapse in Multimodal Time Series Forecasting](https://arxiv.org/abs/2606.19413v1)** | 2026-06-17 |  |
+| **[Spectral Retrieval-Augmented Time-Series Forecasting](https://arxiv.org/abs/2606.19412v1)** | 2026-06-17 |  |
 | **[Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](https://arxiv.org/abs/2406.14399v4)** | 2026-06-17 | Accepted by ICML2026 |
 | **[From Values to Tokens: An LLM-Driven Framework for Context-aware Time Series Forecasting via Symbolic Discretization](https://arxiv.org/abs/2508.09191v2)** | 2026-06-17 |  |
-| **[Reinforcement Learning Foundation Models Should Already Be A Thing](https://arxiv.org/abs/2606.18812v1)** | 2026-06-17 |  |
 | **[Unlocking air traffic flow prediction through microscopic aircraft-state modeling](https://arxiv.org/abs/2605.10083v2)** | 2026-06-17 |  |
 | **[TS-Fault: Benchmarking Time Series Forecasters Against Structural Faults](https://arxiv.org/abs/2606.18539v1)** | 2026-06-16 |  |
 | **[Beyond Similarity: Temporal Operator Attention for Time Series Analysis](https://arxiv.org/abs/2605.11287v2)** | 2026-06-16 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[MorphStrata: Layer-Specific Perturbations for Generating Morphence Students in Time-Series Moving Target Defense](https://arxiv.org/abs/2606.17435v1)** | 2026-06-16 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 11 tables</p></details> |
 | **[Jacobian Scopes: token-level causal attributions in LLMs](https://arxiv.org/abs/2601.16407v4)** | 2026-06-15 | 25 pages, 16 figures |
 | **[HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting](https://arxiv.org/abs/2606.17028v1)** | 2026-06-15 |  |
-| **[FlowState: Sampling-Rate-Equivariant Time-Series Forecasting](https://arxiv.org/abs/2508.05287v3)** | 2026-06-15 | <details><summary>Proce...</summary><p>Proceedings of the 43 rd International Conference on Machine Learning, Seoul, South Korea. PMLR 306, 2026. Copyright 2026 by the author(s)</p></details> |
-| **[Simulation-Augmented Multi-Step Split Conformal Prediction for Aggregated Forecasts](https://arxiv.org/abs/2606.16356v1)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 workshop: Forecasting as a New Frontier of Intelligence</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
