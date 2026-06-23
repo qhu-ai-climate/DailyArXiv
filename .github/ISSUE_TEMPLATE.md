@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2026
+title: Latest 15 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Selective Time Series Forecasting via Metalearning](https://arxiv.org/abs/2606.23448v1)** | 2026-06-22 | 16 pages, 5 figures |
+| **[Interpretable Kolmogorov-Arnold Network with Feature-Isolated Temporal Attention Mechanism for Electricity Load Forecasting](https://arxiv.org/abs/2606.23425v1)** | 2026-06-22 |  |
+| **[Distribution-Aware Diffusion-LLM for Robust Ultra-Long-Term Time Series Forecasting](https://arxiv.org/abs/2606.23391v1)** | 2026-06-22 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 8 tables. Accepted at 35th International Conference on Artificial Neural Networks (ICANN 2026)</p></details> |
+| **[Mind the Intention: Task-Aware Backdoor Attacks for Forecast-Driven Distribution Network Operations](https://arxiv.org/abs/2606.21846v1)** | 2026-06-20 |  |
+| **[Estimating Mutual Information between Time Series and Temporal Event Sequences Across Diverse Analysis Tasks](https://arxiv.org/abs/2606.01602v3)** | 2026-06-19 |  |
 | **[Self-Adaptive Scale Handling for Forecasting Time Series with Scale Heterogeneity](https://arxiv.org/abs/2606.20010v1)** | 2026-06-18 | <details><summary>This ...</summary><p>This is the full version of the paper accepted by the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). The code and dataset are available at https://github.com/Meteor-Stars/ASTSF</p></details> |
 | **[Does Text Actually Help? Uncovering and Resolving Text Collapse in Multimodal Time Series Forecasting](https://arxiv.org/abs/2606.19413v1)** | 2026-06-17 |  |
 | **[Spectral Retrieval-Augmented Time-Series Forecasting](https://arxiv.org/abs/2606.19412v1)** | 2026-06-17 |  |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Beyond Similarity: Temporal Operator Attention for Time Series Analysis](https://arxiv.org/abs/2605.11287v2)** | 2026-06-16 |  |
 | **[Causal Forecasting in Panel Data: A Two-Way Synthetic Forecasting Approach](https://arxiv.org/abs/2606.18512v1)** | 2026-06-16 |  |
 | **[ConTex: Reformulating Counterfactual Generation For Time Series Forecasting](https://arxiv.org/abs/2606.18049v1)** | 2026-06-16 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 14 tables</p></details> |
-| **[Multiple cyclicity and Wavelet Decomposition with Channel Correlation for Long-term Time Series Forecasting](https://arxiv.org/abs/2606.17996v1)** | 2026-06-16 |  |
-| **[A Gradient-based Causal Discovery Framework with Applications to Complex Industrial Processes](https://arxiv.org/abs/2507.11178v3)** | 2026-06-16 | <details><summary>9 pag...</summary><p>9 pages,3 figures, conference</p></details> |
-| **[MorphStrata: Layer-Specific Perturbations for Generating Morphence Students in Time-Series Moving Target Defense](https://arxiv.org/abs/2606.17435v1)** | 2026-06-16 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 11 tables</p></details> |
-| **[Jacobian Scopes: token-level causal attributions in LLMs](https://arxiv.org/abs/2601.16407v4)** | 2026-06-15 | 25 pages, 16 figures |
-| **[HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting](https://arxiv.org/abs/2606.17028v1)** | 2026-06-15 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
