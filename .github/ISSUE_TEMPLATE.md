@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2026
+title: Latest 15 Papers - June 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAVEN: A Regime-Aware Variable-context Expert Network for Financial Time Series Forecasting](https://arxiv.org/abs/2606.24062v1)** | 2026-06-23 |  |
 | **[Selective Time Series Forecasting via Metalearning](https://arxiv.org/abs/2606.23448v1)** | 2026-06-22 | 16 pages, 5 figures |
 | **[Interpretable Kolmogorov-Arnold Network with Feature-Isolated Temporal Attention Mechanism for Electricity Load Forecasting](https://arxiv.org/abs/2606.23425v1)** | 2026-06-22 |  |
 | **[Distribution-Aware Diffusion-LLM for Robust Ultra-Long-Term Time Series Forecasting](https://arxiv.org/abs/2606.23391v1)** | 2026-06-22 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 8 tables. Accepted at 35th International Conference on Artificial Neural Networks (ICANN 2026)</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[TS-Fault: Benchmarking Time Series Forecasters Against Structural Faults](https://arxiv.org/abs/2606.18539v1)** | 2026-06-16 |  |
 | **[Beyond Similarity: Temporal Operator Attention for Time Series Analysis](https://arxiv.org/abs/2605.11287v2)** | 2026-06-16 |  |
 | **[Causal Forecasting in Panel Data: A Two-Way Synthetic Forecasting Approach](https://arxiv.org/abs/2606.18512v1)** | 2026-06-16 |  |
-| **[ConTex: Reformulating Counterfactual Generation For Time Series Forecasting](https://arxiv.org/abs/2606.18049v1)** | 2026-06-16 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 14 tables</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
