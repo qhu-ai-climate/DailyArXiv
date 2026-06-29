@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2026
+title: Latest 15 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](https://arxiv.org/abs/2602.01588v3)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted at AISTATS 2026</p></details> |
+| **[TA-SparseMG: Trend-Aware Sparse Forecasting via Multi-Scale Gating for Long-Term Time Series](https://arxiv.org/abs/2606.27908v1)** | 2026-06-26 |  |
+| **[Foundation vs. Specialized Models: Evaluating Catastrophic Forgetting in Continual Time Series Forecasting](https://arxiv.org/abs/2510.00809v3)** | 2026-06-26 |  |
+| **[The Simulacrum: Decision-Theoretic Pretraining for Near-Optimal Time-Series Forecasting and Inference](https://arxiv.org/abs/2606.27711v1)** | 2026-06-26 |  |
+| **[Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](https://arxiv.org/abs/2601.16632v5)** | 2026-06-26 |  |
+| **[SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms](https://arxiv.org/abs/2603.04873v3)** | 2026-06-26 |  |
+| **[Global Explanations for Multivariate Time Series Forecasting Models via $K$-Order Markov Approximations](https://arxiv.org/abs/2606.27599v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Explainable Artificial Intelligence (XAI), International Joint Conference on Artificial Intelligence (IJCAI 2026)</p></details> |
+| **[Unified Zero-Shot Time Series Forecasting: A Darts Foundation](https://arxiv.org/abs/2606.27438v1)** | 2026-06-25 |  |
 | **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v1)** | 2026-06-25 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, and 5 tables</p></details> |
 | **[SEMixer: Semantics Enhanced MLP-Mixer for Multiscale Mixing and Long-term Time Series Forecasting](https://arxiv.org/abs/2602.16220v3)** | 2026-06-25 | <details><summary>This ...</summary><p>This work is accepted by the proceedings of the ACM Web Conference 2026 (WWW 2026). The code is available at the link https://github.com/Meteor-Stars/SEMixer</p></details> |
-| **[Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](https://arxiv.org/abs/2601.16632v4)** | 2026-06-25 |  |
 | **[DMSC: Dynamic Multi-Scale Coordination Framework for Time Series Forecasting](https://arxiv.org/abs/2508.02753v5)** | 2026-06-25 |  |
 | **[PMDformer: Patch-Mean Decoupling Information Transformer for Long-term Forecasting](https://arxiv.org/abs/2606.26549v1)** | 2026-06-25 |  |
 | **[Speaking Numbers to LLMs: Multi-Wavelet Number Embeddings for Time Series Forecasting](https://arxiv.org/abs/2606.26487v1)** | 2026-06-25 | <details><summary>Camer...</summary><p>Camera Ready version of IJCAI 2026</p></details> |
 | **[TopoCast: A Topological Fidelity Framework for Evaluating Transformer-Based Time Series Forecasting](https://arxiv.org/abs/2606.25439v1)** | 2026-06-24 |  |
 | **[MorphStrata: Layer-Specific Perturbations for Generating Morphence Students in Time-Series Moving Target Defense](https://arxiv.org/abs/2606.17435v2)** | 2026-06-24 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 11 tables</p></details> |
-| **[Adapt Only When It Pays: Budgeted Decision-Loss Priority for Delayed Online Time-Series Adaptation](https://arxiv.org/abs/2606.25068v1)** | 2026-06-23 |  |
-| **[RAVEN: A Regime-Aware Variable-context Expert Network for Financial Time Series Forecasting](https://arxiv.org/abs/2606.24062v1)** | 2026-06-23 |  |
-| **[Selective Time Series Forecasting via Metalearning](https://arxiv.org/abs/2606.23448v1)** | 2026-06-22 | 16 pages, 5 figures |
-| **[Interpretable Kolmogorov-Arnold Network with Feature-Isolated Temporal Attention Mechanism for Electricity Load Forecasting](https://arxiv.org/abs/2606.23425v1)** | 2026-06-22 |  |
-| **[Distribution-Aware Diffusion-LLM for Robust Ultra-Long-Term Time Series Forecasting](https://arxiv.org/abs/2606.23391v1)** | 2026-06-22 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 8 tables. Accepted at 35th International Conference on Artificial Neural Networks (ICANN 2026)</p></details> |
-| **[Mind the Intention: Task-Aware Backdoor Attacks for Forecast-Driven Distribution Network Operations](https://arxiv.org/abs/2606.21846v1)** | 2026-06-20 |  |
-| **[Estimating Mutual Information between Time Series and Temporal Event Sequences Across Diverse Analysis Tasks](https://arxiv.org/abs/2606.01602v3)** | 2026-06-19 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
