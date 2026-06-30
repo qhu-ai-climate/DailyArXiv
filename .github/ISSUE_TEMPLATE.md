@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2026
+title: Latest 15 Papers - July 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v2)** | 2026-06-29 | <details><summary>Proje...</summary><p>Project page: https://sakanaai.github.io/SearchCast/ 17 pages, 10 figures, and 5 tables</p></details> |
+| **[Surrogate Modeling for Explainable Predictive Time Series Corrections](https://arxiv.org/abs/2412.19897v3)** | 2026-06-29 |  |
+| **[fev-bench: A Realistic Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.26468v3)** | 2026-06-29 |  |
+| **[Weighted Contrastive Learning for Anomaly-Aware Time-Series Forecasting](https://arxiv.org/abs/2512.07569v2)** | 2026-06-29 |  |
+| **[Adaptive Financial Transformer with Regime-Gated Attention for Stock Return Prediction](https://arxiv.org/abs/2606.29347v1)** | 2026-06-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 10 tables. PyTorch implementation and code available at: https://github.com/Dishan18/FinancialTransformer</p></details> |
+| **[UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration](https://arxiv.org/abs/2604.16325v3)** | 2026-06-27 |  |
+| **[Improving Coherence in Hierarchical Time Series Forecasting using Structured Temporal Fusion](https://arxiv.org/abs/2606.28553v1)** | 2026-06-26 | <details><summary>7 pag...</summary><p>7 pages, 2 figures. Preprint. Source files included</p></details> |
+| **[An Agentic AI Pipeline for Appliance-Level Energy Anomaly Detection and LLM-Driven Recommendations](https://arxiv.org/abs/2606.28467v1)** | 2026-06-26 | <details><summary>07 pa...</summary><p>07 pages, 01 figure, accepted for presentation at the IEEE International Conference on Communication, Computing, Networking, and Control in Cyber-Physical Systems (CCNCPS 2026)</p></details> |
 | **[Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](https://arxiv.org/abs/2602.01588v3)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted at AISTATS 2026</p></details> |
 | **[TA-SparseMG: Trend-Aware Sparse Forecasting via Multi-Scale Gating for Long-Term Time Series](https://arxiv.org/abs/2606.27908v1)** | 2026-06-26 |  |
 | **[Foundation vs. Specialized Models: Evaluating Catastrophic Forgetting in Continual Time Series Forecasting](https://arxiv.org/abs/2510.00809v3)** | 2026-06-26 |  |
@@ -14,14 +22,6 @@ labels: documentation
 | **[Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](https://arxiv.org/abs/2601.16632v5)** | 2026-06-26 |  |
 | **[SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms](https://arxiv.org/abs/2603.04873v3)** | 2026-06-26 |  |
 | **[Global Explanations for Multivariate Time Series Forecasting Models via $K$-Order Markov Approximations](https://arxiv.org/abs/2606.27599v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Explainable Artificial Intelligence (XAI), International Joint Conference on Artificial Intelligence (IJCAI 2026)</p></details> |
-| **[Unified Zero-Shot Time Series Forecasting: A Darts Foundation](https://arxiv.org/abs/2606.27438v1)** | 2026-06-25 |  |
-| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v1)** | 2026-06-25 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, and 5 tables</p></details> |
-| **[SEMixer: Semantics Enhanced MLP-Mixer for Multiscale Mixing and Long-term Time Series Forecasting](https://arxiv.org/abs/2602.16220v3)** | 2026-06-25 | <details><summary>This ...</summary><p>This work is accepted by the proceedings of the ACM Web Conference 2026 (WWW 2026). The code is available at the link https://github.com/Meteor-Stars/SEMixer</p></details> |
-| **[DMSC: Dynamic Multi-Scale Coordination Framework for Time Series Forecasting](https://arxiv.org/abs/2508.02753v5)** | 2026-06-25 |  |
-| **[PMDformer: Patch-Mean Decoupling Information Transformer for Long-term Forecasting](https://arxiv.org/abs/2606.26549v1)** | 2026-06-25 |  |
-| **[Speaking Numbers to LLMs: Multi-Wavelet Number Embeddings for Time Series Forecasting](https://arxiv.org/abs/2606.26487v1)** | 2026-06-25 | <details><summary>Camer...</summary><p>Camera Ready version of IJCAI 2026</p></details> |
-| **[TopoCast: A Topological Fidelity Framework for Evaluating Transformer-Based Time Series Forecasting](https://arxiv.org/abs/2606.25439v1)** | 2026-06-24 |  |
-| **[MorphStrata: Layer-Specific Perturbations for Generating Morphence Students in Time-Series Moving Target Defense](https://arxiv.org/abs/2606.17435v2)** | 2026-06-24 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 11 tables</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
