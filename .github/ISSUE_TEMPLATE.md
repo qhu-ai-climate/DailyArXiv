@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2026
+title: Latest 15 Papers - July 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[StateFlow: Dual-State Recurrent Modeling for Long-Horizon Time Series Forecasting](https://arxiv.org/abs/2607.00197v1)** | 2026-06-30 |  |
+| **[EVOTS: Evolutionary Transformer Search for Time Series Forecasting](https://arxiv.org/abs/2607.00154v1)** | 2026-06-30 |  |
 | **[CLOUDADV: Decision-Aligned Instance Sizing with Zero-Shot Foundation Models under Drift](https://arxiv.org/abs/2606.31470v1)** | 2026-06-30 | 9 pages, 2 figures |
 | **[fev-bench: A Realistic Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.26468v4)** | 2026-06-30 |  |
 | **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v2)** | 2026-06-29 | <details><summary>Proje...</summary><p>Project page: https://sakanaai.github.io/SearchCast/ 17 pages, 10 figures, and 5 tables</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[TA-SparseMG: Trend-Aware Sparse Forecasting via Multi-Scale Gating for Long-Term Time Series](https://arxiv.org/abs/2606.27908v1)** | 2026-06-26 |  |
 | **[Foundation vs. Specialized Models: Evaluating Catastrophic Forgetting in Continual Time Series Forecasting](https://arxiv.org/abs/2510.00809v3)** | 2026-06-26 |  |
 | **[The Simulacrum: Decision-Theoretic Pretraining for Near-Optimal Time-Series Forecasting and Inference](https://arxiv.org/abs/2606.27711v1)** | 2026-06-26 |  |
-| **[Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](https://arxiv.org/abs/2601.16632v5)** | 2026-06-26 |  |
-| **[SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms](https://arxiv.org/abs/2603.04873v3)** | 2026-06-26 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
