@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 03, 2026
+title: Latest 15 Papers - July 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Extreme Adaptive Transformer for Time Series Forecasting](https://arxiv.org/abs/2607.02437v1)** | 2026-07-02 | <details><summary>Submi...</summary><p>Submitted to Scientific Reports</p></details> |
+| **[Self-Gating Attention for Efficient Time Series Forecasting](https://arxiv.org/abs/2607.02344v1)** | 2026-07-02 |  |
+| **[Evolutionary Feature Engineering for Structured Data](https://arxiv.org/abs/2607.01548v1)** | 2026-07-02 | <details><summary>9 pag...</summary><p>9 page main content, 41 pages in total</p></details> |
+| **[Human Supervisor Workload Prediction: Lag Horizon Selection](https://arxiv.org/abs/2505.15939v2)** | 2026-07-01 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, Submitted to the IEEE for possible publication</p></details> |
 | **[StateFlow: Dual-State Recurrent Modeling for Long-Horizon Time Series Forecasting](https://arxiv.org/abs/2607.00197v1)** | 2026-06-30 |  |
 | **[EVOTS: Evolutionary Transformer Search for Time Series Forecasting](https://arxiv.org/abs/2607.00154v1)** | 2026-06-30 |  |
 | **[CLOUDADV: Decision-Aligned Instance Sizing with Zero-Shot Foundation Models under Drift](https://arxiv.org/abs/2606.31470v1)** | 2026-06-30 | 9 pages, 2 figures |
@@ -18,10 +22,6 @@ labels: documentation
 | **[UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration](https://arxiv.org/abs/2604.16325v3)** | 2026-06-27 |  |
 | **[Improving Coherence in Hierarchical Time Series Forecasting using Structured Temporal Fusion](https://arxiv.org/abs/2606.28553v1)** | 2026-06-26 | <details><summary>7 pag...</summary><p>7 pages, 2 figures. Preprint. Source files included</p></details> |
 | **[An Agentic AI Pipeline for Appliance-Level Energy Anomaly Detection and LLM-Driven Recommendations](https://arxiv.org/abs/2606.28467v1)** | 2026-06-26 | <details><summary>07 pa...</summary><p>07 pages, 01 figure, accepted for presentation at the IEEE International Conference on Communication, Computing, Networking, and Control in Cyber-Physical Systems (CCNCPS 2026)</p></details> |
-| **[Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](https://arxiv.org/abs/2602.01588v3)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted at AISTATS 2026</p></details> |
-| **[TA-SparseMG: Trend-Aware Sparse Forecasting via Multi-Scale Gating for Long-Term Time Series](https://arxiv.org/abs/2606.27908v1)** | 2026-06-26 |  |
-| **[Foundation vs. Specialized Models: Evaluating Catastrophic Forgetting in Continual Time Series Forecasting](https://arxiv.org/abs/2510.00809v3)** | 2026-06-26 |  |
-| **[The Simulacrum: Decision-Theoretic Pretraining for Near-Optimal Time-Series Forecasting and Inference](https://arxiv.org/abs/2606.27711v1)** | 2026-06-26 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
