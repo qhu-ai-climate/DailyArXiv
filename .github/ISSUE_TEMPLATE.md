@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2026
+title: Latest 15 Papers - July 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,12 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Do Foundation Models Pay Off? A Break-Even Analysis of Pretrained Time Series Forecasters](https://arxiv.org/abs/2607.04919v1)** | 2026-07-06 |  |
+| **[Deep Learning Network-Temporal Models For Traffic Prediction](https://arxiv.org/abs/2603.11475v2)** | 2026-07-05 |  |
+| **[KAN vs LSTM Performance in Time Series Forecasting](https://arxiv.org/abs/2511.18613v2)** | 2026-07-04 | <details><summary>29 pa...</summary><p>29 pages, 9 figures. v2: substantially revised manuscript -- corrected description of the direct multi-output forecasting protocol, added parameter-count analysis and methodological-asymmetry discussion, disclosed data-scaling limitation, and expanded literature review</p></details> |
 | **[Extreme Adaptive Transformer for Time Series Forecasting](https://arxiv.org/abs/2607.02437v1)** | 2026-07-02 | <details><summary>Submi...</summary><p>Submitted to Scientific Reports</p></details> |
 | **[Self-Gating Attention for Efficient Time Series Forecasting](https://arxiv.org/abs/2607.02344v1)** | 2026-07-02 |  |
+| **[QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series Forecasting](https://arxiv.org/abs/2607.02632v1)** | 2026-07-02 | 7 pages, 4 figures |
 | **[Evolutionary Feature Engineering for Structured Data](https://arxiv.org/abs/2607.01548v1)** | 2026-07-02 | <details><summary>9 pag...</summary><p>9 page main content, 41 pages in total</p></details> |
 | **[Human Supervisor Workload Prediction: Lag Horizon Selection](https://arxiv.org/abs/2505.15939v2)** | 2026-07-01 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, Submitted to the IEEE for possible publication</p></details> |
 | **[StateFlow: Dual-State Recurrent Modeling for Long-Horizon Time Series Forecasting](https://arxiv.org/abs/2607.00197v1)** | 2026-06-30 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v2)** | 2026-06-29 | <details><summary>Proje...</summary><p>Project page: https://sakanaai.github.io/SearchCast/ 17 pages, 10 figures, and 5 tables</p></details> |
 | **[Surrogate Modeling for Explainable Predictive Time Series Corrections](https://arxiv.org/abs/2412.19897v3)** | 2026-06-29 |  |
 | **[Weighted Contrastive Learning for Anomaly-Aware Time-Series Forecasting](https://arxiv.org/abs/2512.07569v2)** | 2026-06-29 |  |
-| **[Adaptive Financial Transformer with Regime-Gated Attention for Stock Return Prediction](https://arxiv.org/abs/2606.29347v1)** | 2026-06-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 10 tables. PyTorch implementation and code available at: https://github.com/Dishan18/FinancialTransformer</p></details> |
-| **[UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration](https://arxiv.org/abs/2604.16325v3)** | 2026-06-27 |  |
-| **[Improving Coherence in Hierarchical Time Series Forecasting using Structured Temporal Fusion](https://arxiv.org/abs/2606.28553v1)** | 2026-06-26 | <details><summary>7 pag...</summary><p>7 pages, 2 figures. Preprint. Source files included</p></details> |
-| **[An Agentic AI Pipeline for Appliance-Level Energy Anomaly Detection and LLM-Driven Recommendations](https://arxiv.org/abs/2606.28467v1)** | 2026-06-26 | <details><summary>07 pa...</summary><p>07 pages, 01 figure, accepted for presentation at the IEEE International Conference on Communication, Computing, Networking, and Control in Cyber-Physical Systems (CCNCPS 2026)</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
