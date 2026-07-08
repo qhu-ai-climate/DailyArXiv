@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2026
+title: Latest 15 Papers - July 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do Stationarity Transformations Actually Improve Time Series Forecasts? A Controlled Experimental Evaluation](https://arxiv.org/abs/2605.17689v2)** | 2026-07-07 |  |
+| **[Channel-wise Retrieval for Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.05543v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026 Oral</p></details> |
 | **[When Do Foundation Models Pay Off? A Break-Even Analysis of Pretrained Time Series Forecasters](https://arxiv.org/abs/2607.04919v1)** | 2026-07-06 |  |
+| **[Exogenous Dropout: A Simple, Strong Baseline for Corruption-Robust Time Series Forecasting with Covariates](https://arxiv.org/abs/2607.05452v1)** | 2026-07-05 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 6 tables</p></details> |
+| **[The Granularity Paradox: How Temporal Disaggregation Inflates In-Sample Fit and Compounds Out-of-Sample Error](https://arxiv.org/abs/2607.05450v1)** | 2026-07-05 |  |
 | **[Deep Learning Network-Temporal Models For Traffic Prediction](https://arxiv.org/abs/2603.11475v2)** | 2026-07-05 |  |
 | **[KAN vs LSTM Performance in Time Series Forecasting](https://arxiv.org/abs/2511.18613v2)** | 2026-07-04 | <details><summary>29 pa...</summary><p>29 pages, 9 figures. v2: substantially revised manuscript -- corrected description of the direct multi-output forecasting protocol, added parameter-count analysis and methodological-asymmetry discussion, disclosed data-scaling limitation, and expanded literature review</p></details> |
 | **[Extreme Adaptive Transformer for Time Series Forecasting](https://arxiv.org/abs/2607.02437v1)** | 2026-07-02 | <details><summary>Submi...</summary><p>Submitted to Scientific Reports</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[StateFlow: Dual-State Recurrent Modeling for Long-Horizon Time Series Forecasting](https://arxiv.org/abs/2607.00197v1)** | 2026-06-30 |  |
 | **[EVOTS: Evolutionary Transformer Search for Time Series Forecasting](https://arxiv.org/abs/2607.00154v1)** | 2026-06-30 |  |
 | **[CLOUDADV: Decision-Aligned Instance Sizing with Zero-Shot Foundation Models under Drift](https://arxiv.org/abs/2606.31470v1)** | 2026-06-30 | 9 pages, 2 figures |
-| **[fev-bench: A Realistic Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.26468v4)** | 2026-06-30 |  |
-| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v2)** | 2026-06-29 | <details><summary>Proje...</summary><p>Project page: https://sakanaai.github.io/SearchCast/ 17 pages, 10 figures, and 5 tables</p></details> |
-| **[Surrogate Modeling for Explainable Predictive Time Series Corrections](https://arxiv.org/abs/2412.19897v3)** | 2026-06-29 |  |
-| **[Weighted Contrastive Learning for Anomaly-Aware Time-Series Forecasting](https://arxiv.org/abs/2512.07569v2)** | 2026-06-29 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
