@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 10, 2026
+title: Latest 15 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Koopman-informed recurrent neural networks](https://arxiv.org/abs/2410.23467v3)** | 2026-07-09 |  |
+| **[RhyMix: A Lightweight Adaptive Multi-Rhythm Network for Long-Term Time Series Forecasting](https://arxiv.org/abs/2607.08234v1)** | 2026-07-09 | 38 Pages |
 | **[Data-Driven Forecasting of three-Component Seismograms Using Transformer Architectures](https://arxiv.org/abs/2606.02912v2)** | 2026-07-08 | <details><summary>35 pa...</summary><p>35 pages, 13 figures and 4 tables. Submitted to JGR: Machine Learning and Computation</p></details> |
 | **[Rethinking Multimodal Time-Series Forecasting Evaluation](https://arxiv.org/abs/2607.06973v1)** | 2026-07-08 |  |
 | **[LLM-Guided Task-Semantic Field Factorization for Industrial Process Forecasting](https://arxiv.org/abs/2607.06623v1)** | 2026-07-07 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Extreme Adaptive Transformer for Time Series Forecasting](https://arxiv.org/abs/2607.02437v1)** | 2026-07-02 | <details><summary>Submi...</summary><p>Submitted to Scientific Reports</p></details> |
 | **[Self-Gating Attention for Efficient Time Series Forecasting](https://arxiv.org/abs/2607.02344v1)** | 2026-07-02 |  |
 | **[QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series Forecasting](https://arxiv.org/abs/2607.02632v1)** | 2026-07-02 | 7 pages, 4 figures |
-| **[Evolutionary Feature Engineering for Structured Data](https://arxiv.org/abs/2607.01548v1)** | 2026-07-02 | <details><summary>9 pag...</summary><p>9 page main content, 41 pages in total</p></details> |
-| **[Human Supervisor Workload Prediction: Lag Horizon Selection](https://arxiv.org/abs/2505.15939v2)** | 2026-07-01 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, Submitted to the IEEE for possible publication</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
