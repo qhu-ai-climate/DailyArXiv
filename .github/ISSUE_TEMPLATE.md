@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 13, 2026
+title: Latest 15 Papers - July 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GatedLinear: Adaptive Routing of Complementary Linear Bases for Time Series Forecasting](https://arxiv.org/abs/2607.09537v1)** | 2026-07-10 |  |
+| **[On-Device Adaptive Battery Power Prediction for Electric Vehicles](https://arxiv.org/abs/2607.09400v1)** | 2026-07-10 | <details><summary>6 pag...</summary><p>6 pages, 3 tables, 5 figures; Accepted to IEEE EdgeCom 2025</p></details> |
+| **[Forking-Sequences: Statistically and Computationally Efficient Multi-Horizon Forecasting with Reduced Volatility](https://arxiv.org/abs/2510.04487v5)** | 2026-07-10 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research</p></details> |
 | **[Koopman-informed recurrent neural networks](https://arxiv.org/abs/2410.23467v3)** | 2026-07-09 |  |
 | **[RhyMix: A Lightweight Adaptive Multi-Rhythm Network for Long-Term Time Series Forecasting](https://arxiv.org/abs/2607.08234v1)** | 2026-07-09 | 38 Pages |
 | **[Data-Driven Forecasting of three-Component Seismograms Using Transformer Architectures](https://arxiv.org/abs/2606.02912v2)** | 2026-07-08 | <details><summary>35 pa...</summary><p>35 pages, 13 figures and 4 tables. Submitted to JGR: Machine Learning and Computation</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[The Granularity Paradox: How Temporal Disaggregation Inflates In-Sample Fit and Compounds Out-of-Sample Error](https://arxiv.org/abs/2607.05450v1)** | 2026-07-05 |  |
 | **[Deep Learning Network-Temporal Models For Traffic Prediction](https://arxiv.org/abs/2603.11475v2)** | 2026-07-05 |  |
 | **[KAN vs LSTM Performance in Time Series Forecasting](https://arxiv.org/abs/2511.18613v2)** | 2026-07-04 | <details><summary>29 pa...</summary><p>29 pages, 9 figures. v2: substantially revised manuscript -- corrected description of the direct multi-output forecasting protocol, added parameter-count analysis and methodological-asymmetry discussion, disclosed data-scaling limitation, and expanded literature review</p></details> |
-| **[Extreme Adaptive Transformer for Time Series Forecasting](https://arxiv.org/abs/2607.02437v1)** | 2026-07-02 | <details><summary>Submi...</summary><p>Submitted to Scientific Reports</p></details> |
-| **[Self-Gating Attention for Efficient Time Series Forecasting](https://arxiv.org/abs/2607.02344v1)** | 2026-07-02 |  |
-| **[QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series Forecasting](https://arxiv.org/abs/2607.02632v1)** | 2026-07-02 | 7 pages, 4 figures |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
