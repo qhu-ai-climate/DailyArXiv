@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2026
+title: Latest 15 Papers - July 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bet on Features: Anytime-Valid and Feature-Aware Auditing of Conditional Quantile Forecasters](https://arxiv.org/abs/2607.11653v1)** | 2026-07-13 |  |
+| **[Multi-Scale Convolution with Optimal Transport Attention Effect on Multivariate Time Series](https://arxiv.org/abs/2607.10740v1)** | 2026-07-12 |  |
+| **[CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting](https://arxiv.org/abs/2602.03564v2)** | 2026-07-11 |  |
 | **[GatedLinear: Adaptive Routing of Complementary Linear Bases for Time Series Forecasting](https://arxiv.org/abs/2607.09537v1)** | 2026-07-10 |  |
 | **[On-Device Adaptive Battery Power Prediction for Electric Vehicles](https://arxiv.org/abs/2607.09400v1)** | 2026-07-10 | <details><summary>6 pag...</summary><p>6 pages, 3 tables, 5 figures; Accepted to IEEE EdgeCom 2025</p></details> |
 | **[Forking-Sequences: Statistically and Computationally Efficient Multi-Horizon Forecasting with Reduced Volatility](https://arxiv.org/abs/2510.04487v5)** | 2026-07-10 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Channel-wise Retrieval for Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.05543v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026 Oral</p></details> |
 | **[When Do Foundation Models Pay Off? A Break-Even Analysis of Pretrained Time Series Forecasters](https://arxiv.org/abs/2607.04919v1)** | 2026-07-06 |  |
 | **[Exogenous Dropout: A Simple, Strong Baseline for Corruption-Robust Time Series Forecasting with Covariates](https://arxiv.org/abs/2607.05452v1)** | 2026-07-05 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 6 tables</p></details> |
-| **[The Granularity Paradox: How Temporal Disaggregation Inflates In-Sample Fit and Compounds Out-of-Sample Error](https://arxiv.org/abs/2607.05450v1)** | 2026-07-05 |  |
-| **[Deep Learning Network-Temporal Models For Traffic Prediction](https://arxiv.org/abs/2603.11475v2)** | 2026-07-05 |  |
-| **[KAN vs LSTM Performance in Time Series Forecasting](https://arxiv.org/abs/2511.18613v2)** | 2026-07-04 | <details><summary>29 pa...</summary><p>29 pages, 9 figures. v2: substantially revised manuscript -- corrected description of the direct multi-output forecasting protocol, added parameter-count analysis and methodological-asymmetry discussion, disclosed data-scaling limitation, and expanded literature review</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
