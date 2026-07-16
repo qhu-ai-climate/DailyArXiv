@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 16, 2026
+title: Latest 15 Papers - July 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting](https://arxiv.org/abs/2607.13006v1)** | 2026-07-14 |  |
+| **[The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting](https://arxiv.org/abs/2607.13006v2)** | 2026-07-15 |  |
+| **[Local Interaction Autoregressive Model for High Dimension Time Series Data](https://arxiv.org/abs/2511.09542v2)** | 2026-07-15 |  |
+| **[Not All Retrievals are Useful: Cross-Attention for Input-Aware RAG in Time Series Forecasting](https://arxiv.org/abs/2603.14709v3)** | 2026-07-15 | <details><summary>KDD W...</summary><p>KDD Workshop on Mining and Learning from Time Series 2026 (Oral Presentation)</p></details> |
 | **[Exploring Zero-Shot Foundation Models for Multivariate Time Series Anomaly Detection](https://arxiv.org/abs/2607.12454v1)** | 2026-07-14 | <details><summary>This ...</summary><p>This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this contribution will be published in Computer Aided Systems Theory - EUROCAST 2026, Lecture Notes in Computer Science, Springer</p></details> |
 | **[Bet on Features: Anytime-Valid and Feature-Aware Auditing of Conditional Quantile Forecasters](https://arxiv.org/abs/2607.11653v1)** | 2026-07-13 |  |
 | **[Multi-Scale Convolution with Optimal Transport Attention Effect on Multivariate Time Series](https://arxiv.org/abs/2607.10740v1)** | 2026-07-12 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Data-Driven Forecasting of three-Component Seismograms Using Transformer Architectures](https://arxiv.org/abs/2606.02912v2)** | 2026-07-08 | <details><summary>35 pa...</summary><p>35 pages, 13 figures and 4 tables. Submitted to JGR: Machine Learning and Computation</p></details> |
 | **[Rethinking Multimodal Time-Series Forecasting Evaluation](https://arxiv.org/abs/2607.06973v1)** | 2026-07-08 |  |
 | **[LLM-Guided Task-Semantic Field Factorization for Industrial Process Forecasting](https://arxiv.org/abs/2607.06623v1)** | 2026-07-07 |  |
-| **[Do Stationarity Transformations Actually Improve Time Series Forecasts? A Controlled Experimental Evaluation](https://arxiv.org/abs/2605.17689v2)** | 2026-07-07 |  |
-| **[Channel-wise Retrieval for Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.05543v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026 Oral</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
