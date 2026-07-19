@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 17, 2026
+title: Latest 15 Papers - July 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Asymmetric Peak-Aware Loss for Peak-Critical Time Series Forecasting](https://arxiv.org/abs/2607.14871v1)** | 2026-07-16 |  |
+| **[Mixed-Frequency Time Series Forecasting via Depth-Separable Neural Networks](https://arxiv.org/abs/2607.14771v1)** | 2026-07-16 |  |
 | **[The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting](https://arxiv.org/abs/2607.13006v2)** | 2026-07-15 |  |
 | **[Local Interaction Autoregressive Model for High Dimension Time Series Data](https://arxiv.org/abs/2511.09542v2)** | 2026-07-15 |  |
 | **[Not All Retrievals are Useful: Cross-Attention for Input-Aware RAG in Time Series Forecasting](https://arxiv.org/abs/2603.14709v3)** | 2026-07-15 | <details><summary>KDD W...</summary><p>KDD Workshop on Mining and Learning from Time Series 2026 (Oral Presentation)</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Koopman-informed recurrent neural networks](https://arxiv.org/abs/2410.23467v3)** | 2026-07-09 |  |
 | **[RhyMix: A Lightweight Adaptive Multi-Rhythm Network for Long-Term Time Series Forecasting](https://arxiv.org/abs/2607.08234v1)** | 2026-07-09 | 38 Pages |
 | **[Data-Driven Forecasting of three-Component Seismograms Using Transformer Architectures](https://arxiv.org/abs/2606.02912v2)** | 2026-07-08 | <details><summary>35 pa...</summary><p>35 pages, 13 figures and 4 tables. Submitted to JGR: Machine Learning and Computation</p></details> |
-| **[Rethinking Multimodal Time-Series Forecasting Evaluation](https://arxiv.org/abs/2607.06973v1)** | 2026-07-08 |  |
-| **[LLM-Guided Task-Semantic Field Factorization for Industrial Process Forecasting](https://arxiv.org/abs/2607.06623v1)** | 2026-07-07 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
