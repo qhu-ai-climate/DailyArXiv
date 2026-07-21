@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2026
+title: Latest 15 Papers - July 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HyBDM: Multi-Scale Hybrid Experts for Time Series Forecasting with Bidirectional Dependency Modeling](https://arxiv.org/abs/2607.16882v1)** | 2026-07-18 |  |
+| **[GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting](https://arxiv.org/abs/2601.05353v2)** | 2026-07-18 |  |
+| **[LLM-Guided Task-Semantic Field Factorization for Industrial Process Forecasting](https://arxiv.org/abs/2607.06623v2)** | 2026-07-18 |  |
+| **[Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.15802v2)** | 2026-07-18 | <details><summary>Accep...</summary><p>Accepted and published in Transactions on Machine Learning Research (TMLR), 2026</p></details> |
+| **[FETS Benchmark: Foundation Models Enable Scalable and Generalizable Energy Time Series Forecasting](https://arxiv.org/abs/2604.22328v2)** | 2026-07-17 |  |
+| **[Multivariate Time Series Forecasting with Gate-Based Quantum Reservoir Computing on NISQ Hardware](https://arxiv.org/abs/2510.13634v2)** | 2026-07-17 |  |
+| **[A Quantum-Classical Hybrid Framework for Multivariate Time-Series Forecasting Complexity-Fidelity Trade-offs and Limitations](https://arxiv.org/abs/2607.16358v1)** | 2026-07-17 |  |
 | **[A Benchmark for Electrical Load Forecasting Across Grid Levels: Time-Series Transformers Outperform Established Methods](https://arxiv.org/abs/2607.15705v1)** | 2026-07-17 |  |
 | **[Asymmetric Peak-Aware Loss for Peak-Critical Time Series Forecasting](https://arxiv.org/abs/2607.14871v1)** | 2026-07-16 |  |
 | **[Mixed-Frequency Time Series Forecasting via Depth-Separable Neural Networks](https://arxiv.org/abs/2607.14771v1)** | 2026-07-16 |  |
@@ -15,13 +22,6 @@ labels: documentation
 | **[Not All Retrievals are Useful: Cross-Attention for Input-Aware RAG in Time Series Forecasting](https://arxiv.org/abs/2603.14709v3)** | 2026-07-15 | <details><summary>KDD W...</summary><p>KDD Workshop on Mining and Learning from Time Series 2026 (Oral Presentation)</p></details> |
 | **[Exploring Zero-Shot Foundation Models for Multivariate Time Series Anomaly Detection](https://arxiv.org/abs/2607.12454v1)** | 2026-07-14 | <details><summary>This ...</summary><p>This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this contribution will be published in Computer Aided Systems Theory - EUROCAST 2026, Lecture Notes in Computer Science, Springer</p></details> |
 | **[Bet on Features: Anytime-Valid and Feature-Aware Auditing of Conditional Quantile Forecasters](https://arxiv.org/abs/2607.11653v1)** | 2026-07-13 |  |
-| **[Multi-Scale Convolution with Optimal Transport Attention Effect on Multivariate Time Series](https://arxiv.org/abs/2607.10740v1)** | 2026-07-12 |  |
-| **[CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting](https://arxiv.org/abs/2602.03564v2)** | 2026-07-11 |  |
-| **[GatedLinear: Adaptive Routing of Complementary Linear Bases for Time Series Forecasting](https://arxiv.org/abs/2607.09537v1)** | 2026-07-10 |  |
-| **[On-Device Adaptive Battery Power Prediction for Electric Vehicles](https://arxiv.org/abs/2607.09400v1)** | 2026-07-10 | <details><summary>6 pag...</summary><p>6 pages, 3 tables, 5 figures; Accepted to IEEE EdgeCom 2025</p></details> |
-| **[Forking-Sequences: Statistically and Computationally Efficient Multi-Horizon Forecasting with Reduced Volatility](https://arxiv.org/abs/2510.04487v5)** | 2026-07-10 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research</p></details> |
-| **[Koopman-informed recurrent neural networks](https://arxiv.org/abs/2410.23467v3)** | 2026-07-09 |  |
-| **[RhyMix: A Lightweight Adaptive Multi-Rhythm Network for Long-Term Time Series Forecasting](https://arxiv.org/abs/2607.08234v1)** | 2026-07-09 | 38 Pages |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
