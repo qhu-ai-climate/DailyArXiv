@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2026
+title: Latest 15 Papers - July 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting](https://arxiv.org/abs/2605.18333v2)** | 2026-07-22 |  |
 | **[OpenMHC: Accelerating the Science of Wearable Foundation Models](https://arxiv.org/abs/2607.16235v2)** | 2026-07-21 |  |
 | **[HyBDM: Multi-Scale Hybrid Experts for Time Series Forecasting with Bidirectional Dependency Modeling](https://arxiv.org/abs/2607.16882v1)** | 2026-07-18 |  |
 | **[GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting](https://arxiv.org/abs/2601.05353v2)** | 2026-07-18 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting](https://arxiv.org/abs/2607.13006v2)** | 2026-07-15 |  |
 | **[Local Interaction Autoregressive Model for High Dimension Time Series Data](https://arxiv.org/abs/2511.09542v2)** | 2026-07-15 |  |
 | **[Not All Retrievals are Useful: Cross-Attention for Input-Aware RAG in Time Series Forecasting](https://arxiv.org/abs/2603.14709v3)** | 2026-07-15 | <details><summary>KDD W...</summary><p>KDD Workshop on Mining and Learning from Time Series 2026 (Oral Presentation)</p></details> |
-| **[Exploring Zero-Shot Foundation Models for Multivariate Time Series Anomaly Detection](https://arxiv.org/abs/2607.12454v1)** | 2026-07-14 | <details><summary>This ...</summary><p>This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this contribution will be published in Computer Aided Systems Theory - EUROCAST 2026, Lecture Notes in Computer Science, Springer</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
