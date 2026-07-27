@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2026
+title: Latest 15 Papers - July 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hopformer: Homogeneity-Pursuit Transformer for Time Series Forecasting](https://arxiv.org/abs/2607.22299v1)** | 2026-07-24 |  |
+| **[Predictive Query Language: A Domain-Specific Language for Predictive Modeling on Relational Databases](https://arxiv.org/abs/2602.09572v3)** | 2026-07-24 | <details><summary>Prese...</summary><p>Presented at TaDA@VLDB2026</p></details> |
+| **[CARNet Cycle-Conditioned Core Aggregation and Redistribution for Multivariate Time Series Forecasting](https://arxiv.org/abs/2607.21681v1)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted at ECML PKDD 2026 (Research Track). Shortlisted for Best Research Track Student Paper Award</p></details> |
 | **[GlucoTune: A Unified Framework for Blood Glucose Preprocessing, Forecasting, and Benchmarking in Diabetes](https://arxiv.org/abs/2607.21117v1)** | 2026-07-23 |  |
 | **[HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting](https://arxiv.org/abs/2606.17028v2)** | 2026-07-22 | <details><summary>Withd...</summary><p>Withdrawn after identifying an evaluation-window mismatch: the reported validation and test evaluations skip the first 336 target positions, making comparisons with cited baselines non-equivalent. This is not data leakage. Corrected evaluation preserves nontrivial forecasting behavior, but changes some benchmark results. A revised version may follow</p></details> |
 | **[QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting](https://arxiv.org/abs/2605.18333v2)** | 2026-07-22 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Multivariate Time Series Forecasting with Gate-Based Quantum Reservoir Computing on NISQ Hardware](https://arxiv.org/abs/2510.13634v2)** | 2026-07-17 |  |
 | **[A Quantum-Classical Hybrid Framework for Multivariate Time-Series Forecasting Complexity-Fidelity Trade-offs and Limitations](https://arxiv.org/abs/2607.16358v1)** | 2026-07-17 |  |
 | **[A Benchmark for Electrical Load Forecasting Across Grid Levels: Time-Series Transformers Outperform Established Methods](https://arxiv.org/abs/2607.15705v1)** | 2026-07-17 |  |
-| **[Asymmetric Peak-Aware Loss for Peak-Critical Time Series Forecasting](https://arxiv.org/abs/2607.14871v1)** | 2026-07-16 |  |
-| **[Mixed-Frequency Time Series Forecasting via Depth-Separable Neural Networks](https://arxiv.org/abs/2607.14771v1)** | 2026-07-16 |  |
-| **[The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting](https://arxiv.org/abs/2607.13006v2)** | 2026-07-15 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
