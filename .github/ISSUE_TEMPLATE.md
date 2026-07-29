@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2026
+title: Latest 15 Papers - July 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DRIFT: Direct-Recursive Intervention-Conditioned Forecasting of ICU Physiological Trajectories](https://arxiv.org/abs/2607.25864v1)** | 2026-07-28 | <details><summary>34 pa...</summary><p>34 pages, 1 figure; extended technical appendices included</p></details> |
+| **[Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](https://arxiv.org/abs/2601.16632v6)** | 2026-07-28 |  |
+| **[LLM as Forecasting Planner: Training-Free Text Conditioning for Time-Series Foundation Models](https://arxiv.org/abs/2607.24892v1)** | 2026-07-27 |  |
 | **[Multivariate Time Series Forecasting with Adaptive Non-Local Observables](https://arxiv.org/abs/2607.24399v1)** | 2026-07-27 |  |
 | **[Variational Quantum Conditional Boltzmann Machines for Time-Series Forecasting: Architectures, Symmetric Hyperparameter Evaluation, and a Nonlinear Benchmark](https://arxiv.org/abs/2607.24065v1)** | 2026-07-27 | 45 pages |
 | **[Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting](https://arxiv.org/abs/2602.17634v2)** | 2026-07-27 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting](https://arxiv.org/abs/2606.17028v2)** | 2026-07-22 | <details><summary>Withd...</summary><p>Withdrawn after identifying an evaluation-window mismatch: the reported validation and test evaluations skip the first 336 target positions, making comparisons with cited baselines non-equivalent. This is not data leakage. Corrected evaluation preserves nontrivial forecasting behavior, but changes some benchmark results. A revised version may follow</p></details> |
 | **[QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting](https://arxiv.org/abs/2605.18333v2)** | 2026-07-22 |  |
 | **[OpenMHC: Accelerating the Science of Wearable Foundation Models](https://arxiv.org/abs/2607.16235v2)** | 2026-07-21 |  |
-| **[HyBDM: Multi-Scale Hybrid Experts for Time Series Forecasting with Bidirectional Dependency Modeling](https://arxiv.org/abs/2607.16882v1)** | 2026-07-18 |  |
-| **[GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting](https://arxiv.org/abs/2601.05353v2)** | 2026-07-18 |  |
-| **[LLM-Guided Task-Semantic Field Factorization for Industrial Process Forecasting](https://arxiv.org/abs/2607.06623v2)** | 2026-07-18 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
