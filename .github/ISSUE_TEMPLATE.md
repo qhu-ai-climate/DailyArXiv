@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 03, 2026
+title: Latest 15 Papers - August 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion](https://arxiv.org/abs/2607.29459v1)** | 2026-07-31 |  |
+| **[TimeRFT: Stimulating Generalizable Time Series Forecasting for TSFMs via Reinforcement Finetuning](https://arxiv.org/abs/2605.00015v2)** | 2026-07-31 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, In Submission</p></details> |
 | **[Information Bottleneck Learning for Faithful Time Series Forecasting Explanations](https://arxiv.org/abs/2607.28124v1)** | 2026-07-30 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 8 tables</p></details> |
 | **[Enhancing Irregular Time Series Forecasting with Continuous-Time Modeling Framework](https://arxiv.org/abs/2607.28035v1)** | 2026-07-30 | 13 pages, 5 figures |
 | **[Rehearse: Stepping Back from the Confidence Cliff in Self-Improving Autoresearch](https://arxiv.org/abs/2607.27687v1)** | 2026-07-30 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Foundation Models and Fine-Tuning: Toward a New Generation of Models for Time Series Forecasting](https://arxiv.org/abs/2607.23146v1)** | 2026-07-25 |  |
 | **[Hopformer: Homogeneity-Pursuit Transformer for Time Series Forecasting](https://arxiv.org/abs/2607.22299v1)** | 2026-07-24 |  |
 | **[Predictive Query Language: A Domain-Specific Language for Predictive Modeling on Relational Databases](https://arxiv.org/abs/2602.09572v3)** | 2026-07-24 | <details><summary>Prese...</summary><p>Presented at TaDA@VLDB2026</p></details> |
-| **[CARNet Cycle-Conditioned Core Aggregation and Redistribution for Multivariate Time Series Forecasting](https://arxiv.org/abs/2607.21681v1)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted at ECML PKDD 2026 (Research Track). Shortlisted for Best Research Track Student Paper Award</p></details> |
-| **[GlucoTune: A Unified Framework for Blood Glucose Preprocessing, Forecasting, and Benchmarking in Diabetes](https://arxiv.org/abs/2607.21117v1)** | 2026-07-23 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
