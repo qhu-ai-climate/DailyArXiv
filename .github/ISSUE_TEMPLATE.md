@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2026
+title: Latest 15 Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AROpt: An Optimization Method for Autoregressive Time Series Forecasting](https://arxiv.org/abs/2602.02288v3)** | 2026-08-03 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 6 tables</p></details> |
+| **[GradientStabilizer:Fix the Norm, Not the Gradient](https://arxiv.org/abs/2502.17055v5)** | 2026-08-03 | Accepted By ICML2026 |
+| **[ReasonCast: Towards Explainable Time Series Forecasting with Reasoning](https://arxiv.org/abs/2608.01875v1)** | 2026-08-03 |  |
+| **[Beyond Magnitude and Shape: A Direction-Aware Loss for Time Series Forecasting](https://arxiv.org/abs/2608.01857v1)** | 2026-08-03 |  |
+| **[Evaluating Forecasting Techniques for Hardware Errors on a Large-scale HPC System](https://arxiv.org/abs/2608.01648v1)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at the 7th International Workshop on Monitoring, Observability, and Operational Data Analytics (MODA 2026), held in conjunction with ISC High Performance 2026</p></details> |
 | **[TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion](https://arxiv.org/abs/2607.29459v1)** | 2026-07-31 |  |
 | **[TimeRFT: Stimulating Generalizable Time Series Forecasting for TSFMs via Reinforcement Finetuning](https://arxiv.org/abs/2605.00015v2)** | 2026-07-31 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, In Submission</p></details> |
 | **[Information Bottleneck Learning for Faithful Time Series Forecasting Explanations](https://arxiv.org/abs/2607.28124v1)** | 2026-07-30 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 8 tables</p></details> |
@@ -17,15 +22,11 @@ labels: documentation
 | **[LLM as Forecasting Planner: Training-Free Text Conditioning for Time-Series Foundation Models](https://arxiv.org/abs/2607.24892v1)** | 2026-07-27 |  |
 | **[Multivariate Time Series Forecasting with Adaptive Non-Local Observables](https://arxiv.org/abs/2607.24399v1)** | 2026-07-27 |  |
 | **[Variational Quantum Conditional Boltzmann Machines for Time-Series Forecasting: Architectures, Symmetric Hyperparameter Evaluation, and a Nonlinear Benchmark](https://arxiv.org/abs/2607.24065v1)** | 2026-07-27 | 45 pages |
-| **[Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting](https://arxiv.org/abs/2602.17634v2)** | 2026-07-27 |  |
-| **[QuantFlow: A Federated Mamba-Based Post-Transformer Foundation Model for Time-Series Forecasting](https://arxiv.org/abs/2607.02632v2)** | 2026-07-26 | 9 pages, 4 figures |
-| **[Foundation Models and Fine-Tuning: Toward a New Generation of Models for Time Series Forecasting](https://arxiv.org/abs/2607.23146v1)** | 2026-07-25 |  |
-| **[Hopformer: Homogeneity-Pursuit Transformer for Time Series Forecasting](https://arxiv.org/abs/2607.22299v1)** | 2026-07-24 |  |
-| **[Predictive Query Language: A Domain-Specific Language for Predictive Modeling on Relational Databases](https://arxiv.org/abs/2602.09572v3)** | 2026-07-24 | <details><summary>Prese...</summary><p>Presented at TaDA@VLDB2026</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GLAIM: Learning Global and Local Adaptive Inter-Variable Dependency for Multivariate Time Series Imputation](https://arxiv.org/abs/2608.02366v1)** | 2026-08-03 |  |
 | **[Impute On-Demand: Adaptive Correlated Time Series Imputation for Changing Environments](https://arxiv.org/abs/2607.23503v1)** | 2026-07-26 | <details><summary>15 pa...</summary><p>15 pages, 9 figures. Accepted for publication in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</p></details> |
 | **[ALER-TI: Aligned Latent Embedding Retrieval for Time Series Imputation](https://arxiv.org/abs/2607.07640v1)** | 2026-07-08 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 12 tables</p></details> |
 | **[FADTI: Fourier and Attention Driven Diffusion for Multivariate Time Series Imputation](https://arxiv.org/abs/2512.15116v2)** | 2026-06-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. 10 pages, 7 figures</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[The Stationarity Bias: Stratified Stress-Testing for Time-Series Imputation in Regulated Dynamical Systems](https://arxiv.org/abs/2602.15637v1)** | 2026-02-17 |  |
 | **[Are Time-Indexed Foundation Models the Future of Time Series Imputation?](https://arxiv.org/abs/2511.05980v2)** | 2026-02-06 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research, 2026</p></details> |
 | **[Analyzing and Improving Diffusion Models for Time-Series Data Imputation: A Proximal Recursion Perspective](https://arxiv.org/abs/2602.01182v1)** | 2026-02-01 |  |
-| **[ImputeGAP: A Comprehensive Library for Time Series Imputation](https://arxiv.org/abs/2503.15250v2)** | 2026-01-22 |  |
 
