@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2026
+title: Latest 15 Papers - August 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting](https://arxiv.org/abs/2405.16440v2)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted by Pattern Recognition 2026</p></details> |
+| **[POEM: Phase-Aware $\mathrm{SO}(2)$ Feature Rotation for Time Series Forecasting Under Periodicity Drift](https://arxiv.org/abs/2608.03630v1)** | 2026-08-04 | 9 pages, 5 figures |
+| **[NPMixer: Hierarchical Neighboring Patch Mixing for Time Series Forecasting](https://arxiv.org/abs/2605.07476v2)** | 2026-08-04 |  |
+| **[FinVerse: Financial Time-Series Benchmark](https://arxiv.org/abs/2608.03259v1)** | 2026-08-04 | 24 pages |
+| **[CastFSR: A Fast--Slow--Reflect Agentic Reasoning Framework for Context-Aware Time Series Forecasting](https://arxiv.org/abs/2608.03031v1)** | 2026-08-04 |  |
 | **[AROpt: An Optimization Method for Autoregressive Time Series Forecasting](https://arxiv.org/abs/2602.02288v3)** | 2026-08-03 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 6 tables</p></details> |
 | **[GradientStabilizer:Fix the Norm, Not the Gradient](https://arxiv.org/abs/2502.17055v5)** | 2026-08-03 | Accepted By ICML2026 |
 | **[ReasonCast: Towards Explainable Time Series Forecasting with Reasoning](https://arxiv.org/abs/2608.01875v1)** | 2026-08-03 |  |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Information Bottleneck Learning for Faithful Time Series Forecasting Explanations](https://arxiv.org/abs/2607.28124v1)** | 2026-07-30 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 8 tables</p></details> |
 | **[Enhancing Irregular Time Series Forecasting with Continuous-Time Modeling Framework](https://arxiv.org/abs/2607.28035v1)** | 2026-07-30 | 13 pages, 5 figures |
 | **[Rehearse: Stepping Back from the Confidence Cliff in Self-Improving Autoresearch](https://arxiv.org/abs/2607.27687v1)** | 2026-07-30 |  |
-| **[DRIFT: Direct-Recursive Intervention-Conditioned Forecasting of ICU Physiological Trajectories](https://arxiv.org/abs/2607.25864v1)** | 2026-07-28 | <details><summary>34 pa...</summary><p>34 pages, 1 figure; extended technical appendices included</p></details> |
-| **[Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](https://arxiv.org/abs/2601.16632v6)** | 2026-07-28 |  |
-| **[LLM as Forecasting Planner: Training-Free Text Conditioning for Time-Series Foundation Models](https://arxiv.org/abs/2607.24892v1)** | 2026-07-27 |  |
-| **[Multivariate Time Series Forecasting with Adaptive Non-Local Observables](https://arxiv.org/abs/2607.24399v1)** | 2026-07-27 |  |
-| **[Variational Quantum Conditional Boltzmann Machines for Time-Series Forecasting: Architectures, Symmetric Hyperparameter Evaluation, and a Nonlinear Benchmark](https://arxiv.org/abs/2607.24065v1)** | 2026-07-27 | 45 pages |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
