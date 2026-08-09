@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2026
+title: Latest 15 Papers - August 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TS-RAG: Retrieval Augmented Generation for Time Series Forecasting](https://arxiv.org/abs/2608.06223v1)** | 2026-08-06 |  |
+| **[Invariant Representation Learning for Source-Free Time Series Forecasting with LLM-Centric Proxy Denoising](https://arxiv.org/abs/2510.05589v3)** | 2026-08-06 | Accepted by ICML2026 |
+| **[Multivariate Time Series Forecasting needs Cross Variable Loss](https://arxiv.org/abs/2608.05742v1)** | 2026-08-06 |  |
+| **[MM-ISTS: Cooperating Irregularly Sampled Time Series Forecasting with Multimodal Vision-Text LLMs](https://arxiv.org/abs/2603.05997v2)** | 2026-08-06 |  |
+| **[Beyond Linear Dynamics: Neural Bilinear Dynamical Models for Time Series Forecasting](https://arxiv.org/abs/2608.04471v1)** | 2026-08-05 |  |
+| **[Echo Flow Networks](https://arxiv.org/abs/2509.24122v3)** | 2026-08-05 | Under Review |
 | **[MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting](https://arxiv.org/abs/2405.16440v2)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted by Pattern Recognition 2026</p></details> |
 | **[POEM: Phase-Aware $\mathrm{SO}(2)$ Feature Rotation for Time Series Forecasting Under Periodicity Drift](https://arxiv.org/abs/2608.03630v1)** | 2026-08-04 | 9 pages, 5 figures |
+| **[CAMP: A Cycle-Aware Multi-Scale Patch Mixer for Time Series Forecasting](https://arxiv.org/abs/2608.04051v1)** | 2026-08-04 |  |
 | **[NPMixer: Hierarchical Neighboring Patch Mixing for Time Series Forecasting](https://arxiv.org/abs/2605.07476v2)** | 2026-08-04 |  |
 | **[FinVerse: Financial Time-Series Benchmark](https://arxiv.org/abs/2608.03259v1)** | 2026-08-04 | 24 pages |
 | **[CastFSR: A Fast--Slow--Reflect Agentic Reasoning Framework for Context-Aware Time Series Forecasting](https://arxiv.org/abs/2608.03031v1)** | 2026-08-04 |  |
 | **[AROpt: An Optimization Method for Autoregressive Time Series Forecasting](https://arxiv.org/abs/2602.02288v3)** | 2026-08-03 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 6 tables</p></details> |
 | **[GradientStabilizer:Fix the Norm, Not the Gradient](https://arxiv.org/abs/2502.17055v5)** | 2026-08-03 | Accepted By ICML2026 |
 | **[ReasonCast: Towards Explainable Time Series Forecasting with Reasoning](https://arxiv.org/abs/2608.01875v1)** | 2026-08-03 |  |
-| **[Beyond Magnitude and Shape: A Direction-Aware Loss for Time Series Forecasting](https://arxiv.org/abs/2608.01857v1)** | 2026-08-03 |  |
-| **[Evaluating Forecasting Techniques for Hardware Errors on a Large-scale HPC System](https://arxiv.org/abs/2608.01648v1)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at the 7th International Workshop on Monitoring, Observability, and Operational Data Analytics (MODA 2026), held in conjunction with ISC High Performance 2026</p></details> |
-| **[TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion](https://arxiv.org/abs/2607.29459v1)** | 2026-07-31 |  |
-| **[TimeRFT: Stimulating Generalizable Time Series Forecasting for TSFMs via Reinforcement Finetuning](https://arxiv.org/abs/2605.00015v2)** | 2026-07-31 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, In Submission</p></details> |
-| **[Information Bottleneck Learning for Faithful Time Series Forecasting Explanations](https://arxiv.org/abs/2607.28124v1)** | 2026-07-30 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 8 tables</p></details> |
-| **[Enhancing Irregular Time Series Forecasting with Continuous-Time Modeling Framework](https://arxiv.org/abs/2607.28035v1)** | 2026-07-30 | 13 pages, 5 figures |
-| **[Rehearse: Stepping Back from the Confidence Cliff in Self-Improving Autoresearch](https://arxiv.org/abs/2607.27687v1)** | 2026-07-30 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
