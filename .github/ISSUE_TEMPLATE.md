@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2026
+title: Latest 15 Papers - August 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accelerating Time Series Foundation Models with Speculative Decoding](https://arxiv.org/abs/2511.18191v2)** | 2026-08-12 |  |
+| **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
+| **[A Factor Graph Approach to Scalable Multi-Output Gaussian Process Regression](https://arxiv.org/abs/2608.11917v1)** | 2026-08-12 |  |
+| **[FM-LLM: A frequency-enhanced mixture-of-experts framework for adapting LLMs to time series forecasting](https://arxiv.org/abs/2608.11623v1)** | 2026-08-12 |  |
+| **[XGBoost "is all you need": the case of forecasting transmitted heat energy in District Heating Systems](https://arxiv.org/abs/2608.11446v1)** | 2026-08-11 | <details><summary>9 pag...</summary><p>9 pages, 7 figures. This preprint corresponds to the paper published in Lecture Notes in Networks and Systems, vol. 860 (ICIST 2024), Springer</p></details> |
 | **[Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting](https://arxiv.org/abs/2608.11114v1)** | 2026-08-11 |  |
 | **[Benchmarking Time Series Generation Methods for Privacy-Preserving Forecasting](https://arxiv.org/abs/2608.10891v1)** | 2026-08-11 |  |
 | **[Retrieval-Corrected Conformal Prediction for Time Series](https://arxiv.org/abs/2608.10553v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM '26), Rome, Italy</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Time-Series Forecasting in Safety-Critical Environments: An Open-Source Package for EU-AI-Act-Compliant Development / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket für die KI-VO-konforme Entwicklung](https://arxiv.org/abs/2604.23859v2)** | 2026-08-10 | <details><summary>Versi...</summary><p>Version 2. Working paper. Bilingual twin paper: English version first, German original below (98 pages total). Single shared bibliography</p></details> |
 | **[Hybrid Neural-Classical Correction for Frozen Time Series Foundation Models: A Comprehensive Ablation Study on High-Frequency Stock Prediction](https://arxiv.org/abs/2608.08825v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted and presented at IJCNN 2026, part of the IEEE World Congress on Computational Intelligence (WCCI 2026)</p></details> |
 | **[End-to-End Neural Decomposition with Koopman Operators for Time-Series Forecasting](https://arxiv.org/abs/2608.08788v1)** | 2026-08-09 |  |
-| **[Efficient Test-Time Scaling for LLM-based Time Series Forecasting](https://arxiv.org/abs/2608.08675v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted at KDD 2026 (Oral)</p></details> |
-| **[OpenMHC: Accelerating the Science of Wearable Foundation Models](https://arxiv.org/abs/2607.16235v3)** | 2026-08-08 |  |
-| **[Ground-Truth Neighborhood Regularization for Reinforcement Learning Post-Training of Time Series Foundation Models](https://arxiv.org/abs/2608.08010v1)** | 2026-08-08 |  |
-| **[PhysAttNet: Enhancing Predictive Performance in Industrial and Astrophysical Time Series via Physics-Informed Attention](https://arxiv.org/abs/2608.07681v1)** | 2026-08-07 |  |
-| **[QFCQT: A Chaotically Gated Quantformer Framework for Volatile Time-Series Forecasting](https://arxiv.org/abs/2608.07363v1)** | 2026-08-07 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
