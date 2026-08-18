@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2026
+title: Latest 15 Papers - August 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TRACE-CASH: Trial-History-Conditioned Reinforcement Learning for Adaptive Configuration Exploration in Time-Series CASH](https://arxiv.org/abs/2608.16410v1)** | 2026-08-17 |  |
+| **[From Recoverability to Functional Use: Auditing Temporal Reports in Time-Series Forecasting](https://arxiv.org/abs/2608.10433v4)** | 2026-08-17 |  |
+| **[PhyxMamba: Chaotic System Reconstruction from Short Context Observations with Generative State-Space Models](https://arxiv.org/abs/2505.23863v3)** | 2026-08-17 |  |
+| **[Closing the Loop: A Control-Theoretic Framework for Provably Stable Time Series Forecasting with LLMs](https://arxiv.org/abs/2602.12756v2)** | 2026-08-17 | Accepted by ACM MM26 |
+| **[AsyTO: Asymmetric Temporal Operator for Parameter-Efficient Multivariate Time Series Forecasting](https://arxiv.org/abs/2608.16098v1)** | 2026-08-17 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 4 tables</p></details> |
+| **[Macroeconomic Forecasting with Large Language Models](https://arxiv.org/abs/2407.00890v5)** | 2026-08-17 |  |
+| **[Adapting LLMs to Time Series Forecasting via Temporal Heterogeneity Modeling and Representation Alignment](https://arxiv.org/abs/2508.07195v2)** | 2026-08-16 |  |
 | **[Causal Forecasting in Panel Data: A Two-Way Synthetic Forecasting Approach](https://arxiv.org/abs/2606.18512v2)** | 2026-08-14 |  |
 | **[When Denoising Hurts: Rethinking the Terminal Step of Diffusion Time Series Forecasters -- Extended Version](https://arxiv.org/abs/2608.14067v1)** | 2026-08-14 |  |
-| **[From Recoverability to Functional Use: Certifying Temporal Reports in Time-Series Forecasting](https://arxiv.org/abs/2608.10433v3)** | 2026-08-14 |  |
 | **[Model-agnostic Retrieval-Augmented Extended Forecasting for time series](https://arxiv.org/abs/2608.14054v1)** | 2026-08-14 | 6 pages, 1 figure |
 | **[Time-Series Forecasting in Safety-Critical Environments: An Open-Source Package for EU-AI-Act-Compliant Development / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket für die KI-VO-konforme Entwicklung](https://arxiv.org/abs/2604.23859v3)** | 2026-08-13 | <details><summary>Versi...</summary><p>Version 3. Working paper. Bilingual twin paper: English version first, German original below (100 pages total). Single shared bibliography</p></details> |
 | **[Accelerating Time Series Foundation Models with Speculative Decoding](https://arxiv.org/abs/2511.18191v2)** | 2026-08-12 |  |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[A Factor Graph Approach to Scalable Multi-Output Gaussian Process Regression](https://arxiv.org/abs/2608.11917v1)** | 2026-08-12 |  |
 | **[FM-LLM: A frequency-enhanced mixture-of-experts framework for adapting LLMs to time series forecasting](https://arxiv.org/abs/2608.11623v1)** | 2026-08-12 |  |
-| **[XGBoost "is all you need": the case of forecasting transmitted heat energy in District Heating Systems](https://arxiv.org/abs/2608.11446v1)** | 2026-08-11 | <details><summary>9 pag...</summary><p>9 pages, 7 figures. This preprint corresponds to the paper published in Lecture Notes in Networks and Systems, vol. 860 (ICIST 2024), Springer</p></details> |
-| **[Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting](https://arxiv.org/abs/2608.11114v1)** | 2026-08-11 |  |
-| **[Benchmarking Time Series Generation Methods for Privacy-Preserving Forecasting](https://arxiv.org/abs/2608.10891v1)** | 2026-08-11 |  |
-| **[Retrieval-Corrected Conformal Prediction for Time Series](https://arxiv.org/abs/2608.10553v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM '26), Rome, Italy</p></details> |
-| **[CastFSR: A Fast--Slow--Reflect Agentic Reasoning Framework for Context-Aware Time Series Forecasting](https://arxiv.org/abs/2608.03031v2)** | 2026-08-11 |  |
-| **[TimePre: Bridging Accuracy, Efficiency, and Stability in Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2511.18539v3)** | 2026-08-11 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 16 tables</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
