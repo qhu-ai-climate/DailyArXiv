@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2026
+title: Latest 15 Papers - August 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continuous Evolution Pool: Taming Recurring Concept Drift in Online Time Series Forecasting](https://arxiv.org/abs/2506.14790v3)** | 2026-08-18 |  |
+| **[SPACE: Sample-cloud Predictive Adaptive Conformal Ellipsoids for Multivariate Time-Series Forecasting](https://arxiv.org/abs/2608.17333v1)** | 2026-08-18 |  |
+| **[TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts](https://arxiv.org/abs/2602.21693v2)** | 2026-08-18 |  |
+| **[Beyond MSE: Rethinking the Evaluation Metric and Benchmarking for Irregular Time Series Forecasting](https://arxiv.org/abs/2608.17293v1)** | 2026-08-18 |  |
+| **[Rethinking Irregular Time Series Forecasting from the Perspective of Basis Functions](https://arxiv.org/abs/2608.17284v1)** | 2026-08-18 |  |
+| **[SCENARIODIFF: A Scenario-level Guidance Framework for Multimodal Time Series Forecasting--Extended Version](https://arxiv.org/abs/2608.17164v1)** | 2026-08-17 | <details><summary>10 pa...</summary><p>10 pages. An extended version of "SCENARIODIFF: A Scenario-level Guidance Framework for Multimodal Time Series Forecasting" accepted at ICDM 2026</p></details> |
 | **[TRACE-CASH: Trial-History-Conditioned Reinforcement Learning for Adaptive Configuration Exploration in Time-Series CASH](https://arxiv.org/abs/2608.16410v1)** | 2026-08-17 |  |
 | **[From Recoverability to Functional Use: Auditing Temporal Reports in Time-Series Forecasting](https://arxiv.org/abs/2608.10433v4)** | 2026-08-17 |  |
 | **[PhyxMamba: Chaotic System Reconstruction from Short Context Observations with Generative State-Space Models](https://arxiv.org/abs/2505.23863v3)** | 2026-08-17 |  |
@@ -16,12 +22,6 @@ labels: documentation
 | **[Adapting LLMs to Time Series Forecasting via Temporal Heterogeneity Modeling and Representation Alignment](https://arxiv.org/abs/2508.07195v2)** | 2026-08-16 |  |
 | **[Causal Forecasting in Panel Data: A Two-Way Synthetic Forecasting Approach](https://arxiv.org/abs/2606.18512v2)** | 2026-08-14 |  |
 | **[When Denoising Hurts: Rethinking the Terminal Step of Diffusion Time Series Forecasters -- Extended Version](https://arxiv.org/abs/2608.14067v1)** | 2026-08-14 |  |
-| **[Model-agnostic Retrieval-Augmented Extended Forecasting for time series](https://arxiv.org/abs/2608.14054v1)** | 2026-08-14 | 6 pages, 1 figure |
-| **[Time-Series Forecasting in Safety-Critical Environments: An Open-Source Package for EU-AI-Act-Compliant Development / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket für die KI-VO-konforme Entwicklung](https://arxiv.org/abs/2604.23859v3)** | 2026-08-13 | <details><summary>Versi...</summary><p>Version 3. Working paper. Bilingual twin paper: English version first, German original below (100 pages total). Single shared bibliography</p></details> |
-| **[Accelerating Time Series Foundation Models with Speculative Decoding](https://arxiv.org/abs/2511.18191v2)** | 2026-08-12 |  |
-| **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
-| **[A Factor Graph Approach to Scalable Multi-Output Gaussian Process Regression](https://arxiv.org/abs/2608.11917v1)** | 2026-08-12 |  |
-| **[FM-LLM: A frequency-enhanced mixture-of-experts framework for adapting LLMs to time series forecasting](https://arxiv.org/abs/2608.11623v1)** | 2026-08-12 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
