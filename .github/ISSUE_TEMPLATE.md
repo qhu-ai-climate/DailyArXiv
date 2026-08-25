@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2026
+title: Latest 15 Papers - August 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters](https://arxiv.org/abs/2608.23473v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
+| **[Which Histories Matter for Time Series Forecasting? Learning Predictive Relevance with Future Supervision](https://arxiv.org/abs/2608.23221v1)** | 2026-08-24 |  |
+| **[Time Series Forecasting via Reasoning: A Slow-Thinking Approach with Reinforcement Fine-Tuned LLMs](https://arxiv.org/abs/2506.10630v4)** | 2026-08-24 |  |
+| **[MOSAIC: Modular Orchestration for Structured Agentic Intelligence and Composition](https://arxiv.org/abs/2606.00708v2)** | 2026-08-23 |  |
+| **[Semantics or Structure? Auditing Text Sensitivity in Multimodal Time-Series Forecasting](https://arxiv.org/abs/2608.22321v1)** | 2026-08-23 |  |
+| **[NeST: Neighborhood-aware semantic alignment and temporal modulation for LLM based time series forecasting](https://arxiv.org/abs/2412.04806v2)** | 2026-08-22 |  |
+| **[Unlocking air traffic flow prediction through microscopic aircraft-state modeling](https://arxiv.org/abs/2605.10083v3)** | 2026-08-22 |  |
 | **[ConceptTS: LLM-Guided Concept Bottlenecks for Interpretable Multivariate Time-Series Forecasting](https://arxiv.org/abs/2608.21277v1)** | 2026-08-21 |  |
 | **[Fuzzy-MoE: Interpretable Regime-Conditioned Expert Routing for Non-Stationary Multivariate Time Series Forecasting](https://arxiv.org/abs/2608.20761v1)** | 2026-08-21 |  |
 | **[Wasserstein Exponential Smoothing for Distributional Time Series Forecasting](https://arxiv.org/abs/2606.05560v2)** | 2026-08-21 |  |
@@ -15,13 +22,6 @@ labels: documentation
 | **[Rethinking Patch Based Multivariate Time Series Forecasting with Semantic Structured Partitioning](https://arxiv.org/abs/2608.19966v1)** | 2026-08-20 |  |
 | **[FinVerse: Financial Time-Series Benchmark](https://arxiv.org/abs/2608.03259v2)** | 2026-08-20 | 24 pages |
 | **[ReAugment: Model Zoo-Guided RL for Few-Shot Time Series Augmentation and Forecasting](https://arxiv.org/abs/2409.06282v5)** | 2026-08-20 |  |
-| **[Time Series Forecasting based on Solana Digital Asset Dataset](https://arxiv.org/abs/2608.19521v1)** | 2026-08-20 |  |
-| **[Quantifying Event Impacts on Time Series via Multiscale Contrastive Learning](https://arxiv.org/abs/2608.19447v1)** | 2026-08-19 |  |
-| **[Structured Latent Space Modeling over Multi-Scale Temporal Patches for Multivariate Time Series Forecasting](https://arxiv.org/abs/2607.19404v2)** | 2026-08-19 |  |
-| **[An Empirical Benchmark of Deep Time-Series Models for Smart Meter Energy Forecasting](https://arxiv.org/abs/2608.18675v1)** | 2026-08-19 |  |
-| **[A Factor Graph Approach to Scalable Multi-Output Gaussian Process Regression](https://arxiv.org/abs/2608.11917v2)** | 2026-08-19 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 1 Table. International Conference on Probabilistic Graphical Models 2026</p></details> |
-| **[Continuous Evolution Pool: Taming Recurring Concept Drift in Online Time Series Forecasting](https://arxiv.org/abs/2506.14790v3)** | 2026-08-18 |  |
-| **[SPACE: Sample-cloud Predictive Adaptive Conformal Ellipsoids for Multivariate Time-Series Forecasting](https://arxiv.org/abs/2608.17333v1)** | 2026-08-18 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
