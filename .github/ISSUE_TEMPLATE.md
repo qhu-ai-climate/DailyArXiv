@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Difference: Adaptive Reversible Differencing (AdaRDiff) for Time Series Forecasting](https://arxiv.org/abs/2608.28134v1)** | 2026-08-28 |  |
 | **[SAGE: Variate-Wise Semantic Augmentation for Vision-Language Time Series Forecasting](https://arxiv.org/abs/2608.26829v1)** | 2026-08-27 | 10 pages, 2 figures |
 | **[CEDAR: Controlled and Event-Driven Demand Forecasting via Residual Decomposition](https://arxiv.org/abs/2608.25871v1)** | 2026-08-26 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables. Published in KDD 2026</p></details> |
 | **[When Does Context Routing Help? A Systematic Study of Multi-Modal Fusion in Time Series Forecasting](https://arxiv.org/abs/2608.25128v1)** | 2026-08-25 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Semantics or Structure? Auditing Text Sensitivity in Multimodal Time-Series Forecasting](https://arxiv.org/abs/2608.22321v1)** | 2026-08-23 |  |
 | **[NeST: Neighborhood-aware semantic alignment and temporal modulation for LLM based time series forecasting](https://arxiv.org/abs/2412.04806v2)** | 2026-08-22 |  |
 | **[Unlocking air traffic flow prediction through microscopic aircraft-state modeling](https://arxiv.org/abs/2605.10083v3)** | 2026-08-22 |  |
-| **[ConceptTS: LLM-Guided Concept Bottlenecks for Interpretable Multivariate Time-Series Forecasting](https://arxiv.org/abs/2608.21277v1)** | 2026-08-21 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
