@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2026
+title: Latest 15 Papers - September 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Human-in-the-Loop Autonomous Agent for Industry Time Series Forecasting](https://arxiv.org/abs/2608.30976v1)** | 2026-08-31 |  |
+| **[A foundation model with multi-variate parallel attention to generate neuronal activity](https://arxiv.org/abs/2506.20354v3)** | 2026-08-31 | <details><summary>The c...</summary><p>The code is available at https://github.com/IBM/multi-variate-parallel-transformer. The SWEC iEEG dataset is available at https://huggingface.co/datasets/NeuroTec/SWEC_iEEG_Dataset. Published at ICLR 2026</p></details> |
+| **[Structure Aware Neural Architecture Search for Mixture of Experts](https://arxiv.org/abs/2608.29817v1)** | 2026-08-30 | 22 pages, 3 figures |
+| **[ButterMamba: Butterworth-Enhanced Spatial-Temporal Mamba for Efficient Traffic Flow Prediction](https://arxiv.org/abs/2608.29658v1)** | 2026-08-30 | 9 pages, 6 figures |
+| **[Predicting the Unpredictable: LLM-powered Long-term Chaotic Time Series Forecasting under Short-term Observations](https://arxiv.org/abs/2608.29579v1)** | 2026-08-30 |  |
 | **[Learning to Difference: Adaptive Reversible Differencing (AdaRDiff) for Time Series Forecasting](https://arxiv.org/abs/2608.28134v1)** | 2026-08-28 |  |
 | **[SAGE: Variate-Wise Semantic Augmentation for Vision-Language Time Series Forecasting](https://arxiv.org/abs/2608.26829v1)** | 2026-08-27 | 10 pages, 2 figures |
 | **[CEDAR: Controlled and Event-Driven Demand Forecasting via Residual Decomposition](https://arxiv.org/abs/2608.25871v1)** | 2026-08-26 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables. Published in KDD 2026</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Velocity-coupled Representation Refinement for Satellite Orbit Prediction](https://arxiv.org/abs/2608.23728v1)** | 2026-08-24 | 18 pages, 6 figures |
 | **[MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters](https://arxiv.org/abs/2608.23473v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
 | **[Which Histories Matter for Time Series Forecasting? Learning Predictive Relevance with Future Supervision](https://arxiv.org/abs/2608.23221v1)** | 2026-08-24 |  |
-| **[Time Series Forecasting via Reasoning: A Slow-Thinking Approach with Reinforcement Fine-Tuned LLMs](https://arxiv.org/abs/2506.10630v4)** | 2026-08-24 |  |
-| **[MOSAIC: Modular Orchestration for Structured Agentic Intelligence and Composition](https://arxiv.org/abs/2606.00708v2)** | 2026-08-23 |  |
-| **[Semantics or Structure? Auditing Text Sensitivity in Multimodal Time-Series Forecasting](https://arxiv.org/abs/2608.22321v1)** | 2026-08-23 |  |
-| **[NeST: Neighborhood-aware semantic alignment and temporal modulation for LLM based time series forecasting](https://arxiv.org/abs/2412.04806v2)** | 2026-08-22 |  |
-| **[Unlocking air traffic flow prediction through microscopic aircraft-state modeling](https://arxiv.org/abs/2605.10083v3)** | 2026-08-22 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
