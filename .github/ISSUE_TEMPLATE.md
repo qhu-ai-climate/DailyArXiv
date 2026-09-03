@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2026
+title: Latest 15 Papers - September 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compositional Spectral Prompts for LLM-based Online Time Series Forecasting](https://arxiv.org/abs/2609.02093v1)** | 2026-09-02 | CIKM 2026 |
+| **[DynG-Diff: A State-Aware Dynamic Guidance Diffusion Framework for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2609.02068v1)** | 2026-09-02 |  |
+| **[RecKAN: Kolmogorov-Arnold Networks with a Learnable Recursive Polynomial Basis](https://arxiv.org/abs/2609.01729v1)** | 2026-09-01 | 21 pages , 7 figures |
 | **[When Does Online Adaptation Pay on the Edge? A Leakage-Free Evaluation of Warmup, Learning-Rate Selection, and Resource Trade-offs for Time-Series Forecasting](https://arxiv.org/abs/2609.01126v1)** | 2026-09-01 | <details><summary>under...</summary><p>under review, IEEE BigData 2026</p></details> |
 | **[A Human-in-the-Loop Autonomous Agent for Industry Time Series Forecasting](https://arxiv.org/abs/2608.30976v1)** | 2026-08-31 |  |
 | **[A foundation model with multi-variate parallel attention to generate neuronal activity](https://arxiv.org/abs/2506.20354v3)** | 2026-08-31 | <details><summary>The c...</summary><p>The code is available at https://github.com/IBM/multi-variate-parallel-transformer. The SWEC iEEG dataset is available at https://huggingface.co/datasets/NeuroTec/SWEC_iEEG_Dataset. Published at ICLR 2026</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[When Does Context Routing Help? A Systematic Study of Multi-Modal Fusion in Time Series Forecasting](https://arxiv.org/abs/2608.25128v1)** | 2026-08-25 |  |
 | **[NVExplain: Explaining Time Series Forecasting with Latent Trajectory Analysis and Structure-Preserving Surrogates](https://arxiv.org/abs/2608.25080v1)** | 2026-08-25 |  |
 | **[Single State Update Predictive Coding training for Time Series Forecasting and Anomaly Detection](https://arxiv.org/abs/2608.24697v1)** | 2026-08-25 |  |
-| **[In-Context Inpainting for Time Series Forecasting](https://arxiv.org/abs/2608.23855v1)** | 2026-08-24 |  |
-| **[Velocity-coupled Representation Refinement for Satellite Orbit Prediction](https://arxiv.org/abs/2608.23728v1)** | 2026-08-24 | 18 pages, 6 figures |
-| **[MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters](https://arxiv.org/abs/2608.23473v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
