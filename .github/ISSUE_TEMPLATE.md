@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2026
+title: Latest 15 Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SurF: A Generative Model for Multivariate Irregular Time Series Forecasting](https://arxiv.org/abs/2605.14069v2)** | 2026-09-09 |  |
+| **[KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning](https://arxiv.org/abs/2605.30002v2)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
 | **[It's All in the Way You Say It: The Role of Information Representation in LLM-Based Glycemic-Event Prediction](https://arxiv.org/abs/2609.08772v1)** | 2026-09-08 | <details><summary>Submi...</summary><p>Submitted to a journal for peer-review</p></details> |
 | **[Not All Variables Agree: Reliability-Aware Variable-Wise Gradient Surgery for Multivariate Time-Series Forecasting](https://arxiv.org/abs/2609.08554v1)** | 2026-09-08 | <details><summary>34 pa...</summary><p>34 pages, 21 figures, 20 tables</p></details> |
 | **[Fewer yet critical: Reducing Redundant Token Dependencies for Transformer-based Time Series Forecasting](https://arxiv.org/abs/2503.06867v2)** | 2026-09-08 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[MZ-Rain: Moisture-Budget-Guided Zero-Inflated Model for Station-Level Precipitation Nowcasting](https://arxiv.org/abs/2609.04864v1)** | 2026-09-04 | 16 pages, 6 figures |
 | **[Sustained Performance and Energy Accounting for Nonlinear Forecasting Across Classical and Simulated Quantum Models](https://arxiv.org/abs/2510.25183v2)** | 2026-09-04 | <details><summary>6 pag...</summary><p>6 pages, 1 table, 2 figures. Work conducted under QIntern 2025 (QWorld) with support from Fractal AI Research. Accepted at QCML (PReMI) 2025</p></details> |
 | **[MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters](https://arxiv.org/abs/2608.23473v2)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
-| **[Rollcast: Proper-Score Gated Rolling Anchors for Adaptive Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2609.05561v1)** | 2026-09-03 |  |
-| **[RATL: Learning from Retrieved Residuals for Robust Multivariate Time-Series Forecasting](https://arxiv.org/abs/2609.03937v1)** | 2026-09-03 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
