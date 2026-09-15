@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 15, 2026
+title: Latest 15 Papers - September 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parameter-Efficient Adaptation of Pretrained Language Models for Time-Series Forecasting](https://arxiv.org/abs/2609.15344v1)** | 2026-09-14 |  |
+| **[Beyond Numerical Time Series: A Unified Benchmark for Multimodal Forecasting with Heterogeneous Context](https://arxiv.org/abs/2609.15087v1)** | 2026-09-14 | preprint |
+| **[PPDL: A Real-world Industrial User Retention Ratio Forecasting Framework Integrating Physical Priors with Deep Learning](https://arxiv.org/abs/2609.13789v1)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted by ICDM 2026</p></details> |
 | **[Explaining Time Series Forecasting with Horizon-Resolved Attribution](https://arxiv.org/abs/2609.12639v1)** | 2026-09-11 |  |
 | **[When Does Text Inform? Benchmarking Information-Theoretic Metrics for Multimodal Time-Series Forecasting](https://arxiv.org/abs/2609.11282v1)** | 2026-09-10 |  |
 | **[CryptoL: Towards Scale Dominance and Physics Constraints Mitigation in Financial Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.11206v1)** | 2026-09-10 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Fewer yet critical: Reducing Redundant Token Dependencies for Transformer-based Time Series Forecasting](https://arxiv.org/abs/2503.06867v2)** | 2026-09-08 |  |
 | **[IPM-FM: A Foundation Model with Consensus Feature Selection for Industrial Process Monitoring](https://arxiv.org/abs/2609.08375v1)** | 2026-09-08 |  |
 | **[HypLTSF: A Hyperbolic Geometric View of Multi-Scale Hierarchies for Long-Term Time Series Forecasting](https://arxiv.org/abs/2609.08286v1)** | 2026-09-08 | <details><summary>Submi...</summary><p>Submitted to IEEE TNNLS</p></details> |
-| **[A Multimodal Label Forecasting Method for Aperiodic Visuo-Motor Time Series](https://arxiv.org/abs/2609.07930v1)** | 2026-09-07 |  |
-| **[Echo State Networks for Time Series Forecasting: Hyperparameter Sweep and Benchmarking](https://arxiv.org/abs/2602.03912v5)** | 2026-09-06 |  |
-| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v2)** | 2026-09-06 | <details><summary>Withd...</summary><p>Withdrawn by mutual agreement of all authors due to critical data leakage identified in the temporal train-test splitting and masked reconstruction pipeline, which invalidates the reported zero-shot forecasting benchmarks and core conclusions</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
