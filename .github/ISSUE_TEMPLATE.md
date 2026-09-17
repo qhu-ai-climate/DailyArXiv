@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2026
+title: Latest 15 Papers - September 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Program Adaptive Non-Local Observables for Machine Learning](https://arxiv.org/abs/2609.18655v1)** | 2026-09-16 |  |
+| **[Which Histories Matter for Time Series Forecasting? Learning Predictive Relevance with Future Supervision](https://arxiv.org/abs/2608.23221v2)** | 2026-09-16 |  |
+| **[TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895v1)** | 2026-09-15 |  |
 | **[Parameter-Efficient Adaptation of Pretrained Language Models for Time-Series Forecasting](https://arxiv.org/abs/2609.15344v1)** | 2026-09-14 |  |
 | **[Beyond Numerical Time Series: A Unified Benchmark for Multimodal Forecasting with Heterogeneous Context](https://arxiv.org/abs/2609.15087v1)** | 2026-09-14 | preprint |
 | **[PPDL: A Real-world Industrial User Retention Ratio Forecasting Framework Integrating Physical Priors with Deep Learning](https://arxiv.org/abs/2609.13789v1)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted by ICDM 2026</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning](https://arxiv.org/abs/2605.30002v2)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
 | **[It's All in the Way You Say It: The Role of Information Representation in LLM-Based Glycemic-Event Prediction](https://arxiv.org/abs/2609.08772v1)** | 2026-09-08 | <details><summary>Submi...</summary><p>Submitted to a journal for peer-review</p></details> |
 | **[Not All Variables Agree: Reliability-Aware Variable-Wise Gradient Surgery for Multivariate Time-Series Forecasting](https://arxiv.org/abs/2609.08554v1)** | 2026-09-08 | <details><summary>34 pa...</summary><p>34 pages, 21 figures, 20 tables</p></details> |
-| **[Fewer yet critical: Reducing Redundant Token Dependencies for Transformer-based Time Series Forecasting](https://arxiv.org/abs/2503.06867v2)** | 2026-09-08 |  |
-| **[IPM-FM: A Foundation Model with Consensus Feature Selection for Industrial Process Monitoring](https://arxiv.org/abs/2609.08375v1)** | 2026-09-08 |  |
-| **[HypLTSF: A Hyperbolic Geometric View of Multi-Scale Hierarchies for Long-Term Time Series Forecasting](https://arxiv.org/abs/2609.08286v1)** | 2026-09-08 | <details><summary>Submi...</summary><p>Submitted to IEEE TNNLS</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
