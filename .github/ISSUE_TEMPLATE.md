@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2026
+title: Latest 15 Papers - September 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SETTer: Sparse-Encoder Transformer for Long-term Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.20086v1)** | 2026-09-17 |  |
+| **[Physical knowledge on historical data matters more than enforcing physical constraints on the forecast](https://arxiv.org/abs/2609.19871v1)** | 2026-09-17 |  |
+| **[CoRe: Coherence and Relational Alignment for Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.19670v1)** | 2026-09-17 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Neural Information Processing (ICONIP 2026)</p></details> |
+| **[Fast Training of Mixture-of-Experts for Time Series Forecasting via Expert Loss Integration](https://arxiv.org/abs/2605.10330v2)** | 2026-09-16 |  |
 | **[Learning to Program Adaptive Non-Local Observables for Machine Learning](https://arxiv.org/abs/2609.18655v1)** | 2026-09-16 |  |
 | **[Which Histories Matter for Time Series Forecasting? Learning Predictive Relevance with Future Supervision](https://arxiv.org/abs/2608.23221v2)** | 2026-09-16 |  |
 | **[TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895v1)** | 2026-09-15 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[CryptoL: Towards Scale Dominance and Physics Constraints Mitigation in Financial Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.11206v1)** | 2026-09-10 |  |
 | **[Bidirectional Multimodal Fusion of Sky Images and Time-Series for Solar Forecasting with Large Language Models](https://arxiv.org/abs/2609.11135v1)** | 2026-09-10 |  |
 | **[FINESSE: An Agent-Based Simulator and Benchmark Dataset for Multimodal Financial Event Sequences](https://arxiv.org/abs/2609.11993v1)** | 2026-09-09 |  |
-| **[SurF: A Generative Model for Multivariate Irregular Time Series Forecasting](https://arxiv.org/abs/2605.14069v2)** | 2026-09-09 |  |
-| **[KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning](https://arxiv.org/abs/2605.30002v2)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
-| **[It's All in the Way You Say It: The Role of Information Representation in LLM-Based Glycemic-Event Prediction](https://arxiv.org/abs/2609.08772v1)** | 2026-09-08 | <details><summary>Submi...</summary><p>Submitted to a journal for peer-review</p></details> |
-| **[Not All Variables Agree: Reliability-Aware Variable-Wise Gradient Surgery for Multivariate Time-Series Forecasting](https://arxiv.org/abs/2609.08554v1)** | 2026-09-08 | <details><summary>34 pa...</summary><p>34 pages, 21 figures, 20 tables</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
