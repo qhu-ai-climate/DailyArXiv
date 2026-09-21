@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2026
+title: Latest 15 Papers - September 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ISOMORPH: A Supply Chain Digital Twin for Simulation, Dataset Generation, and Forecasting Benchmarks](https://arxiv.org/abs/2605.12768v3)** | 2026-09-18 |  |
+| **[Tracing the Evidence Behind Zero-Shot Time-Series Forecasting: A Source-First Taxonomy and Audit Framework](https://arxiv.org/abs/2609.21425v1)** | 2026-09-18 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Accepted to ACM AI Summit 2026 (Visionary Papers)</p></details> |
+| **[Fidel-TS: A High-Fidelity Multimodal Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.24789v5)** | 2026-09-18 | new version |
+| **[A Lightweight Plug-in Gate for Transformer-Based Time-Series Forecasters](https://arxiv.org/abs/2609.21044v1)** | 2026-09-17 |  |
 | **[SETTer: Sparse-Encoder Transformer for Long-term Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.20086v1)** | 2026-09-17 |  |
 | **[Physical knowledge on historical data matters more than enforcing physical constraints on the forecast](https://arxiv.org/abs/2609.19871v1)** | 2026-09-17 |  |
 | **[CoRe: Coherence and Relational Alignment for Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.19670v1)** | 2026-09-17 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Neural Information Processing (ICONIP 2026)</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Beyond Numerical Time Series: A Unified Benchmark for Multimodal Forecasting with Heterogeneous Context](https://arxiv.org/abs/2609.15087v1)** | 2026-09-14 | preprint |
 | **[PPDL: A Real-world Industrial User Retention Ratio Forecasting Framework Integrating Physical Priors with Deep Learning](https://arxiv.org/abs/2609.13789v1)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted by ICDM 2026</p></details> |
 | **[Explaining Time Series Forecasting with Horizon-Resolved Attribution](https://arxiv.org/abs/2609.12639v1)** | 2026-09-11 |  |
-| **[When Does Text Inform? Benchmarking Information-Theoretic Metrics for Multimodal Time-Series Forecasting](https://arxiv.org/abs/2609.11282v1)** | 2026-09-10 |  |
-| **[CryptoL: Towards Scale Dominance and Physics Constraints Mitigation in Financial Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.11206v1)** | 2026-09-10 |  |
-| **[Bidirectional Multimodal Fusion of Sky Images and Time-Series for Solar Forecasting with Large Language Models](https://arxiv.org/abs/2609.11135v1)** | 2026-09-10 |  |
-| **[FINESSE: An Agent-Based Simulator and Benchmark Dataset for Multimodal Financial Event Sequences](https://arxiv.org/abs/2609.11993v1)** | 2026-09-09 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
