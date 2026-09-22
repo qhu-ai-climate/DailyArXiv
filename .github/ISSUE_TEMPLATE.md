@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2026
+title: Latest 15 Papers - September 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series Forecasting](https://arxiv.org/abs/2609.24862v1)** | 2026-09-21 |  |
+| **[MUSE: Dependency-Aware Adaptation of a Frozen Vision Backbone for Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.24441v1)** | 2026-09-21 |  |
+| **[Recovering Lost Details: Multi-Scale Frequency Compensation for Long-Term Time Series Forecasting](https://arxiv.org/abs/2609.24229v1)** | 2026-09-21 | <details><summary>11 pa...</summary><p>11 pages. Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)</p></details> |
+| **[TAC-Time: Texts as Channels For Multimodal Time Series Forecasting](https://arxiv.org/abs/2609.24156v1)** | 2026-09-21 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 4 tables</p></details> |
+| **[Q-DEQ: Discrete Solving and Quantization for Deep Equilibrium Models in Time Series Forecasting under Edge Deployment Coding Constraints](https://arxiv.org/abs/2609.24042v1)** | 2026-09-21 |  |
+| **[Financial Language Models as Applied Artificial Intelligence Systems for News-Based Trading under Market Frictions](https://arxiv.org/abs/2609.23703v1)** | 2026-09-20 | <details><summary>47 pa...</summary><p>47 pages. Revise and resubmit at Engineering Applications of Artificial Intelligence</p></details> |
+| **[TEMPER: Temporal Encoder-Masked Probabilistic Ensemble Regressor for Time-Series Forecasting](https://arxiv.org/abs/2609.23701v1)** | 2026-09-20 |  |
+| **[One Patch, Three Roles: What Is Actually Coupled in Autoregressive Time-Series Forecasting?](https://arxiv.org/abs/2609.23686v1)** | 2026-09-20 |  |
+| **[Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting](https://arxiv.org/abs/2609.23378v1)** | 2026-09-20 |  |
+| **[CTRL: Control-Based Time Series Forecasting with LLM-Guided Residual Learning](https://arxiv.org/abs/2609.23257v1)** | 2026-09-20 | <details><summary>Publi...</summary><p>Published in Findings of the Association for Computational Linguistics: ACL 2026. 18 pages, 9 figures, 22 tables</p></details> |
+| **[Beyond Similarity: Coverage-Aware Prompt Selection for Time Series Forecasting with LLMs](https://arxiv.org/abs/2609.22977v1)** | 2026-09-19 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026. 24 pages, 8 figures, 15 tables</p></details> |
+| **[A Hybrid Attention Model Learning Unified Time-aware Patch Representation for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.22836v1)** | 2026-09-19 |  |
+| **[Beyond Average Error through Oracle-Informed Stress Tests for Time-Series Forecasting](https://arxiv.org/abs/2609.22820v1)** | 2026-09-19 | <details><summary>34 pa...</summary><p>34 pages, 13 figures, 23 tables</p></details> |
+| **[A Multimodal Label Forecasting Method for Aperiodic Visuo-Motor Time Series](https://arxiv.org/abs/2609.07930v2)** | 2026-09-18 |  |
 | **[ISOMORPH: A Supply Chain Digital Twin for Simulation, Dataset Generation, and Forecasting Benchmarks](https://arxiv.org/abs/2605.12768v3)** | 2026-09-18 |  |
-| **[Tracing the Evidence Behind Zero-Shot Time-Series Forecasting: A Source-First Taxonomy and Audit Framework](https://arxiv.org/abs/2609.21425v1)** | 2026-09-18 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Accepted to ACM AI Summit 2026 (Visionary Papers)</p></details> |
-| **[Fidel-TS: A High-Fidelity Multimodal Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.24789v5)** | 2026-09-18 | new version |
-| **[A Lightweight Plug-in Gate for Transformer-Based Time-Series Forecasters](https://arxiv.org/abs/2609.21044v1)** | 2026-09-17 |  |
-| **[SETTer: Sparse-Encoder Transformer for Long-term Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.20086v1)** | 2026-09-17 |  |
-| **[Physical knowledge on historical data matters more than enforcing physical constraints on the forecast](https://arxiv.org/abs/2609.19871v1)** | 2026-09-17 |  |
-| **[CoRe: Coherence and Relational Alignment for Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.19670v1)** | 2026-09-17 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Neural Information Processing (ICONIP 2026)</p></details> |
-| **[Fast Training of Mixture-of-Experts for Time Series Forecasting via Expert Loss Integration](https://arxiv.org/abs/2605.10330v2)** | 2026-09-16 |  |
-| **[Learning to Program Adaptive Non-Local Observables for Machine Learning](https://arxiv.org/abs/2609.18655v1)** | 2026-09-16 |  |
-| **[Which Histories Matter for Time Series Forecasting? Learning Predictive Relevance with Future Supervision](https://arxiv.org/abs/2608.23221v2)** | 2026-09-16 |  |
-| **[TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895v1)** | 2026-09-15 |  |
-| **[Parameter-Efficient Adaptation of Pretrained Language Models for Time-Series Forecasting](https://arxiv.org/abs/2609.15344v1)** | 2026-09-14 |  |
-| **[Beyond Numerical Time Series: A Unified Benchmark for Multimodal Forecasting with Heterogeneous Context](https://arxiv.org/abs/2609.15087v1)** | 2026-09-14 | preprint |
-| **[PPDL: A Real-world Industrial User Retention Ratio Forecasting Framework Integrating Physical Priors with Deep Learning](https://arxiv.org/abs/2609.13789v1)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted by ICDM 2026</p></details> |
-| **[Explaining Time Series Forecasting with Horizon-Resolved Attribution](https://arxiv.org/abs/2609.12639v1)** | 2026-09-11 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Does Adversarial Refinement Help? A Negative Result and Open Problem in Adapting R3GAN to Time Series Imputation](https://arxiv.org/abs/2609.23102v1)** | 2026-09-19 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, 2 tables. Accepted at the 12th Workshop on Mining and Learning from Time Series (MiLeTS 2026), held with KDD 2026. This arXiv version incorporates a post-workshop reproducibility audit of the saved runs. Code: https://github.com/he-yufeng/adversarial-refinement-imputation</p></details> |
 | **[RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation](https://arxiv.org/abs/2609.11648v1)** | 2026-09-10 |  |
 | **[FADTI: Fourier and Attention Driven Diffusion for Multivariate Time Series Imputation](https://arxiv.org/abs/2512.15116v3)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE International Conference on Data Mining (ICDM 2026). 10 pages, 7 figures</p></details> |
 | **[Curriculum-Aware Interpolate-then-Refine: Learned Physiological Time-Series Imputation under Realistic Missingness](https://arxiv.org/abs/2608.21207v1)** | 2026-08-21 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[EVIL: Evolving Interpretable Algorithms for Zero-Shot Inference on Event Sequences and Time Series with LLMs](https://arxiv.org/abs/2604.15787v1)** | 2026-04-17 |  |
 | **[tBayes-MICE: A Bayesian Approach to Multiple Imputation for Time Series Data](https://arxiv.org/abs/2603.27142v2)** | 2026-04-09 |  |
 | **[T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation](https://arxiv.org/abs/2602.21043v4)** | 2026-04-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[Uncovering Memorization in Timeseries Imputation models: LBRM Membership Inference and its link to attribute Leakage](https://arxiv.org/abs/2603.24213v1)** | 2026-03-25 |  |
 
