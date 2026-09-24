@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2026
+title: Latest 15 Papers - September 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Where to Look: A Shared Relative-Alignment Module for Time-Series Forecasting and PPG-to-Vital-Sign Reconstruction](https://arxiv.org/abs/2609.27473v1)** | 2026-09-23 |  |
+| **[Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting](https://arxiv.org/abs/2609.23378v2)** | 2026-09-23 |  |
+| **[Forecast Workflow Bench: Evaluating Language-Model Decisions with Budgeted Forecast Tools](https://arxiv.org/abs/2609.27385v1)** | 2026-09-23 |  |
+| **[GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting](https://arxiv.org/abs/2601.05353v3)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)</p></details> |
+| **[TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895v2)** | 2026-09-22 |  |
 | **[Latent Dataset Distillation for Human Motion Prediction](https://arxiv.org/abs/2609.26430v1)** | 2026-09-22 |  |
 | **[A Hybrid Attention Model Learning Unified Time-aware Patch Representation for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.22836v2)** | 2026-09-22 | <details><summary>There...</summary><p>There are some mistake of expression in the paper</p></details> |
 | **[Beyond Average Error through Oracle-Informed Stress Tests for Time-Series Forecasting](https://arxiv.org/abs/2609.22820v2)** | 2026-09-22 | <details><summary>34 pa...</summary><p>34 pages, 13 figures, 23 tables</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Q-DEQ: Discrete Solving and Quantization for Deep Equilibrium Models in Time Series Forecasting under Edge Deployment Coding Constraints](https://arxiv.org/abs/2609.24042v1)** | 2026-09-21 |  |
 | **[Financial Language Models as Applied Artificial Intelligence Systems for News-Based Trading under Market Frictions](https://arxiv.org/abs/2609.23703v1)** | 2026-09-20 | <details><summary>47 pa...</summary><p>47 pages. Revise and resubmit at Engineering Applications of Artificial Intelligence</p></details> |
 | **[TEMPER: Temporal Encoder-Masked Probabilistic Ensemble Regressor for Time-Series Forecasting](https://arxiv.org/abs/2609.23701v1)** | 2026-09-20 |  |
-| **[One Patch, Three Roles: What Is Actually Coupled in Autoregressive Time-Series Forecasting?](https://arxiv.org/abs/2609.23686v1)** | 2026-09-20 |  |
-| **[Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting](https://arxiv.org/abs/2609.23378v1)** | 2026-09-20 |  |
-| **[CTRL: Control-Based Time Series Forecasting with LLM-Guided Residual Learning](https://arxiv.org/abs/2609.23257v1)** | 2026-09-20 | <details><summary>Publi...</summary><p>Published in Findings of the Association for Computational Linguistics: ACL 2026. 18 pages, 9 figures, 22 tables</p></details> |
-| **[Beyond Similarity: Coverage-Aware Prompt Selection for Time Series Forecasting with LLMs](https://arxiv.org/abs/2609.22977v1)** | 2026-09-19 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026. 24 pages, 8 figures, 15 tables</p></details> |
-| **[A Multimodal Label Forecasting Method for Aperiodic Visuo-Motor Time Series](https://arxiv.org/abs/2609.07930v2)** | 2026-09-18 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
