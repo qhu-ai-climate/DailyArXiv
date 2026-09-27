@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 25, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DecoVAE: a Lightweight Interpretable Trend-Seasonal VAE Framework for Efficient Probabilistic Time Series Forecasting](https://arxiv.org/abs/2608.20052v2)** | 2026-09-24 |  |
+| **[CLaST: Context-aware Contrastive VAE for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2608.20025v2)** | 2026-09-24 |  |
 | **[Learning Where to Look: A Shared Relative-Alignment Module for Time-Series Forecasting and PPG-to-Vital-Sign Reconstruction](https://arxiv.org/abs/2609.27473v1)** | 2026-09-23 |  |
 | **[Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting](https://arxiv.org/abs/2609.23378v2)** | 2026-09-23 |  |
 | **[Forecast Workflow Bench: Evaluating Language-Model Decisions with Budgeted Forecast Tools](https://arxiv.org/abs/2609.27385v1)** | 2026-09-23 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Recovering Lost Details: Multi-Scale Frequency Compensation for Long-Term Time Series Forecasting](https://arxiv.org/abs/2609.24229v1)** | 2026-09-21 | <details><summary>11 pa...</summary><p>11 pages. Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)</p></details> |
 | **[TAC-Time: Texts as Channels For Multimodal Time Series Forecasting](https://arxiv.org/abs/2609.24156v1)** | 2026-09-21 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 4 tables</p></details> |
 | **[Q-DEQ: Discrete Solving and Quantization for Deep Equilibrium Models in Time Series Forecasting under Edge Deployment Coding Constraints](https://arxiv.org/abs/2609.24042v1)** | 2026-09-21 |  |
-| **[Financial Language Models as Applied Artificial Intelligence Systems for News-Based Trading under Market Frictions](https://arxiv.org/abs/2609.23703v1)** | 2026-09-20 | <details><summary>47 pa...</summary><p>47 pages. Revise and resubmit at Engineering Applications of Artificial Intelligence</p></details> |
-| **[TEMPER: Temporal Encoder-Masked Probabilistic Ensemble Regressor for Time-Series Forecasting](https://arxiv.org/abs/2609.23701v1)** | 2026-09-20 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
