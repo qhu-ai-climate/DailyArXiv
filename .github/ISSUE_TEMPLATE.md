@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2026
+title: Latest 15 Papers - September 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DecoVAE: a Lightweight Interpretable Trend-Seasonal VAE Framework for Efficient Probabilistic Time Series Forecasting](https://arxiv.org/abs/2608.20052v2)** | 2026-09-24 |  |
+| **[WorldTS: World Modeling for Multimodal Covariate-aware Time Series Forecasting](https://arxiv.org/abs/2609.31162v1)** | 2026-09-25 |  |
+| **[Aurora-X: Built for Extreme Time Series Forecasting](https://arxiv.org/abs/2609.31038v1)** | 2026-09-25 |  |
+| **[FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting](https://arxiv.org/abs/2512.14253v4)** | 2026-09-25 |  |
+| **[EPOC: Endpoint-Preserving Online Correction With Compressed Residual State for Multi-Horizon Time Series Forecasting](https://arxiv.org/abs/2609.30929v1)** | 2026-09-25 |  |
+| **[DecoVAE: a Lightweight Interpretable Trend-Seasonal VAE Framework for Efficient Probabilistic Time Series Forecasting](https://arxiv.org/abs/2608.20052v3)** | 2026-09-25 |  |
 | **[CLaST: Context-aware Contrastive VAE for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2608.20025v2)** | 2026-09-24 |  |
 | **[Learning Where to Look: A Shared Relative-Alignment Module for Time-Series Forecasting and PPG-to-Vital-Sign Reconstruction](https://arxiv.org/abs/2609.27473v1)** | 2026-09-23 |  |
 | **[Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting](https://arxiv.org/abs/2609.23378v2)** | 2026-09-23 |  |
@@ -18,14 +22,11 @@ labels: documentation
 | **[A Hybrid Attention Model Learning Unified Time-aware Patch Representation for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.22836v2)** | 2026-09-22 | <details><summary>There...</summary><p>There are some mistake of expression in the paper</p></details> |
 | **[Beyond Average Error through Oracle-Informed Stress Tests for Time-Series Forecasting](https://arxiv.org/abs/2609.22820v2)** | 2026-09-22 | <details><summary>34 pa...</summary><p>34 pages, 13 figures, 23 tables</p></details> |
 | **[When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series Forecasting](https://arxiv.org/abs/2609.24862v1)** | 2026-09-21 |  |
-| **[MUSE: Dependency-Aware Adaptation of a Frozen Vision Backbone for Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.24441v1)** | 2026-09-21 |  |
-| **[Recovering Lost Details: Multi-Scale Frequency Compensation for Long-Term Time Series Forecasting](https://arxiv.org/abs/2609.24229v1)** | 2026-09-21 | <details><summary>11 pa...</summary><p>11 pages. Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)</p></details> |
-| **[TAC-Time: Texts as Channels For Multimodal Time Series Forecasting](https://arxiv.org/abs/2609.24156v1)** | 2026-09-21 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 4 tables</p></details> |
-| **[Q-DEQ: Discrete Solving and Quantization for Deep Equilibrium Models in Time Series Forecasting under Edge Deployment Coding Constraints](https://arxiv.org/abs/2609.24042v1)** | 2026-09-21 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GAUDI: Geometry-Aware Diffusion for Calibrated Air-Quality Time-Series Imputation](https://arxiv.org/abs/2609.30340v1)** | 2026-09-24 |  |
 | **[SPLICE: Latent Diffusion over JEPA Embeddings for Conformal Time-Series Inpainting](https://arxiv.org/abs/2605.00126v2)** | 2026-09-21 |  |
 | **[When Does Adversarial Refinement Help? A Negative Result and Open Problem in Adapting R3GAN to Time Series Imputation](https://arxiv.org/abs/2609.23102v1)** | 2026-09-19 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, 2 tables. Accepted at the 12th Workshop on Mining and Learning from Time Series (MiLeTS 2026), held with KDD 2026. This arXiv version incorporates a post-workshop reproducibility audit of the saved runs. Code: https://github.com/he-yufeng/adversarial-refinement-imputation</p></details> |
 | **[RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation](https://arxiv.org/abs/2609.11648v1)** | 2026-09-10 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[HELIX: Hybrid Encoding with Learnable Identity and Cross-dimensional Synthesis for Time Series Imputation](https://arxiv.org/abs/2605.02278v1)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 (spotlight paper)</p></details> |
 | **[EVIL: Evolving Interpretable Algorithms for Zero-Shot Inference on Event Sequences and Time Series with LLMs](https://arxiv.org/abs/2604.15787v1)** | 2026-04-17 |  |
 | **[tBayes-MICE: A Bayesian Approach to Multiple Imputation for Time Series Data](https://arxiv.org/abs/2603.27142v2)** | 2026-04-09 |  |
-| **[T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation](https://arxiv.org/abs/2602.21043v4)** | 2026-04-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 
