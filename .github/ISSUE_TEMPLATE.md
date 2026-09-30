@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GARDiff: Graph-Aligned Residual Diffusion for Probabilistic Multivariate Time-Series Forecasting](https://arxiv.org/abs/2609.37694v1)** | 2026-09-29 |  |
+| **[Variational Augmented Invertible Koopman Autoencoder for probabilistic time series forecasting](https://arxiv.org/abs/2609.37435v1)** | 2026-09-29 |  |
+| **[JudgeCast: Time Series Forecasting with Experience-Informed Covariate Judgements](https://arxiv.org/abs/2609.36966v1)** | 2026-09-29 |  |
+| **[Rethinking Patch Based Multivariate Time Series Forecasting with Semantic Structured Partitioning](https://arxiv.org/abs/2608.19966v2)** | 2026-09-29 |  |
+| **[Multivariate Time Series Forecasting needs Cross Variable Loss](https://arxiv.org/abs/2608.05742v3)** | 2026-09-29 | <details><summary>This ...</summary><p>This paper has been accepted by NeurIPS 2026</p></details> |
+| **[Channel-Dependent State Space Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.36453v1)** | 2026-09-29 |  |
+| **[GNA: Granular Neighbor Assembly for Retrieval-Augmented Multivariate Time-Series Forecasting](https://arxiv.org/abs/2609.36281v1)** | 2026-09-28 |  |
 | **[A Hybrid Attention Model Learning Unified Time-aware Patch Representation for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.22836v3)** | 2026-09-28 |  |
 | **[A Hierarchy of Entropy-Shapley Games for Multivariate Predictive Uncertainty](https://arxiv.org/abs/2609.35217v1)** | 2026-09-28 |  |
 | **[SpikeLite: Lightweight Spiking Neural Networks for Time-Series Forecasting](https://arxiv.org/abs/2609.35097v1)** | 2026-09-28 |  |
@@ -14,18 +21,12 @@ labels: documentation
 | **[Correction-space Cross-variate Interaction for Test-time Adaptation in Time Series Forecasting](https://arxiv.org/abs/2609.34638v1)** | 2026-09-28 |  |
 | **[KiT: A Foundation Model for Financial Time-Series Forecasting using DiffusionTransformers](https://arxiv.org/abs/2609.34507v1)** | 2026-09-28 |  |
 | **[From HL to H+L-1 Parameters: A Hankel-Toeplitz Forecaster for Long-Term Time Series Forecasting](https://arxiv.org/abs/2609.33984v1)** | 2026-09-27 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 2 tables. Submitted to IEEE ICASSP 2027</p></details> |
-| **[Multivariate Time Series Forecasting needs Cross Variable Loss](https://arxiv.org/abs/2608.05742v2)** | 2026-09-27 | <details><summary>This ...</summary><p>This paper has been accepted by NeurIPS 2026</p></details> |
 | **[Correct then Forecast: Observer State-Space Models for Time Series Forecasting](https://arxiv.org/abs/2609.33566v1)** | 2026-09-27 |  |
-| **[PACE-FNO: Physics-Aligned Canonical Equivariance for Fourier Neural Operators](https://arxiv.org/abs/2605.18606v2)** | 2026-09-27 |  |
-| **[BITS: Rethinking Fair and Comprehensive Evaluation for Irregular Time Series Forecasting](https://arxiv.org/abs/2609.33303v1)** | 2026-09-27 |  |
-| **[Self-Evolving Time-Series Forecasting Agents with Episodic Memory and Online Policy Learning](https://arxiv.org/abs/2609.32689v1)** | 2026-09-26 |  |
-| **[MixBench-TS: A Multivariate Time Series Forecasting Benchmark Where Channel Mixing Pays Off](https://arxiv.org/abs/2609.32656v1)** | 2026-09-26 | 29 pages, 4 figures |
-| **[Fast Training of Mixture-of-Experts for Time Series Forecasting via Expert Loss Integration](https://arxiv.org/abs/2605.10330v3)** | 2026-09-26 |  |
-| **[TimeES: Probabilistic and Deterministic Time Series Forecasting via Evolutionary Spectra](https://arxiv.org/abs/2609.32384v1)** | 2026-09-26 | <details><summary>Accep...</summary><p>Accepted as NeurIPS 2026 Poster</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProCTI: Prototype-Refined Global Conditioning for Diffusion-Based Time Series Imputation](https://arxiv.org/abs/2609.37632v1)** | 2026-09-29 |  |
 | **[HAGI++: Head-Assisted Gaze Imputation and Generation](https://arxiv.org/abs/2511.02468v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Visualization and Computer Graphics (TVCG). Extended version of our UIST'25 paper, "HAGI: Head-Assisted Gaze Imputation for Mobile Eye Trackers"</p></details> |
 | **[GAUDI: Geometry-Aware Diffusion for Calibrated Air-Quality Time-Series Imputation](https://arxiv.org/abs/2609.30340v1)** | 2026-09-24 |  |
 | **[SPLICE: Latent Diffusion over JEPA Embeddings for Conformal Time-Series Inpainting](https://arxiv.org/abs/2605.00126v2)** | 2026-09-21 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for Time Series Imputation](https://arxiv.org/abs/2606.05239v1)** | 2026-06-03 |  |
 | **[Multivariate Time Series Data Imputation via Distributionally Robust Regularization](https://arxiv.org/abs/2602.00844v2)** | 2026-05-06 |  |
 | **[HELIX: Hybrid Encoding with Learnable Identity and Cross-dimensional Synthesis for Time Series Imputation](https://arxiv.org/abs/2605.02278v1)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 (spotlight paper)</p></details> |
-| **[EVIL: Evolving Interpretable Algorithms for Zero-Shot Inference on Event Sequences and Time Series with LLMs](https://arxiv.org/abs/2604.15787v1)** | 2026-04-17 |  |
 
