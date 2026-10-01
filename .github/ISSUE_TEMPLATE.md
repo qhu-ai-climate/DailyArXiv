@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2026
+title: Latest 15 Papers - October 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OpenTSLM TeeMoE: A Unified Time-Series Language Model for Forecasting, Contextual Prediction, and Reasoning](https://arxiv.org/abs/2609.40265v1)** | 2026-09-30 | <details><summary>39 pa...</summary><p>39 pages, 2 figures. Code: https://github.com/OpenTSLM/OpenTSLM-TeeMoE ; model: https://huggingface.co/OpenTSLM/TeeMoE</p></details> |
+| **[Beyond Model Ranking: Regime Diagnosis for Distributional-Statistical Misspecification in Industrial Time-Series Forecasting](https://arxiv.org/abs/2609.40117v1)** | 2026-09-30 | 31 pages, 12 figures |
+| **[Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting](https://arxiv.org/abs/2606.13571v2)** | 2026-09-30 |  |
+| **[Pseudo-Label-Triggered Retraining from Forecast Errors for Online Time Series Forecasting](https://arxiv.org/abs/2609.39789v1)** | 2026-09-30 |  |
+| **[The Nixtlaverse: An Open-Source Ecosystem for Forecasting](https://arxiv.org/abs/2609.39741v1)** | 2026-09-30 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, 6 tables. Submitted to the International Journal of Forecasting. Code and benchmark artifact: https://doi.org/10.6084/m9.figshare.33399445</p></details> |
+| **[JudgeCast: Time Series Forecasting with Experience-Informed Covariate Judgements](https://arxiv.org/abs/2609.36966v2)** | 2026-09-30 |  |
+| **[Certifying Residual Architectures from Their Primitives: A Sharp Stability Threshold](https://arxiv.org/abs/2607.14576v2)** | 2026-09-29 |  |
 | **[GARDiff: Graph-Aligned Residual Diffusion for Probabilistic Multivariate Time-Series Forecasting](https://arxiv.org/abs/2609.37694v1)** | 2026-09-29 |  |
 | **[Variational Augmented Invertible Koopman Autoencoder for probabilistic time series forecasting](https://arxiv.org/abs/2609.37435v1)** | 2026-09-29 |  |
-| **[JudgeCast: Time Series Forecasting with Experience-Informed Covariate Judgements](https://arxiv.org/abs/2609.36966v1)** | 2026-09-29 |  |
 | **[Rethinking Patch Based Multivariate Time Series Forecasting with Semantic Structured Partitioning](https://arxiv.org/abs/2608.19966v2)** | 2026-09-29 |  |
 | **[Multivariate Time Series Forecasting needs Cross Variable Loss](https://arxiv.org/abs/2608.05742v3)** | 2026-09-29 | <details><summary>This ...</summary><p>This paper has been accepted by NeurIPS 2026</p></details> |
 | **[Channel-Dependent State Space Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.36453v1)** | 2026-09-29 |  |
 | **[GNA: Granular Neighbor Assembly for Retrieval-Augmented Multivariate Time-Series Forecasting](https://arxiv.org/abs/2609.36281v1)** | 2026-09-28 |  |
 | **[A Hybrid Attention Model Learning Unified Time-aware Patch Representation for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.22836v3)** | 2026-09-28 |  |
 | **[A Hierarchy of Entropy-Shapley Games for Multivariate Predictive Uncertainty](https://arxiv.org/abs/2609.35217v1)** | 2026-09-28 |  |
-| **[SpikeLite: Lightweight Spiking Neural Networks for Time-Series Forecasting](https://arxiv.org/abs/2609.35097v1)** | 2026-09-28 |  |
-| **[XMatch: Enhancing Covariate-Aware Time Series Forecasting through Tree-Structured Exogenous Matching](https://arxiv.org/abs/2609.34939v1)** | 2026-09-28 |  |
-| **[Correction-space Cross-variate Interaction for Test-time Adaptation in Time Series Forecasting](https://arxiv.org/abs/2609.34638v1)** | 2026-09-28 |  |
-| **[KiT: A Foundation Model for Financial Time-Series Forecasting using DiffusionTransformers](https://arxiv.org/abs/2609.34507v1)** | 2026-09-28 |  |
-| **[From HL to H+L-1 Parameters: A Hankel-Toeplitz Forecaster for Long-Term Time Series Forecasting](https://arxiv.org/abs/2609.33984v1)** | 2026-09-27 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 2 tables. Submitted to IEEE ICASSP 2027</p></details> |
-| **[Correct then Forecast: Observer State-Space Models for Time Series Forecasting](https://arxiv.org/abs/2609.33566v1)** | 2026-09-27 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
