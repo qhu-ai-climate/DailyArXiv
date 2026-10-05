@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,14 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Most-Recent Anchoring with Recurrent Ordering for Time Series Forecasting](https://arxiv.org/abs/2610.03494v1)** | 2026-10-02 |  |
+| **[Dual-Context Analog Retrieval for Time Series Forecasting](https://arxiv.org/abs/2610.03491v1)** | 2026-10-02 |  |
+| **[On Unlearning for Time-series Forecasting](https://arxiv.org/abs/2610.02865v1)** | 2026-10-02 | 22 pages |
+| **[Time Series Forecasting Benchmarks Need Scenario-Grounded Stress Testing](https://arxiv.org/abs/2610.02608v1)** | 2026-10-02 |  |
+| **[LEAF: A Living Benchmark for Event-Augmented Forecasting](https://arxiv.org/abs/2605.16358v2)** | 2026-10-01 | <details><summary>12 ta...</summary><p>12 tables, 6 figures, 39 pages</p></details> |
 | **[Pooling Helps, Learned Weighting Hurts In-Context: Decomposing Group Attention](https://arxiv.org/abs/2610.01831v1)** | 2026-10-01 |  |
 | **[ProtoFlow: Prototype-Guided Flow Matching for Multivariate Time Series Forecasting](https://arxiv.org/abs/2610.01320v1)** | 2026-10-01 |  |
+| **[MACTS-EM: Multi-Agent Collaborative Time Series Forecasting with Emergent Memory](https://arxiv.org/abs/2610.02255v1)** | 2026-09-30 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, 5 tables</p></details> |
 | **[OpenTSLM TeeMoE: A Unified Time-Series Language Model for Forecasting, Contextual Prediction, and Reasoning](https://arxiv.org/abs/2609.40265v1)** | 2026-09-30 | <details><summary>39 pa...</summary><p>39 pages, 2 figures. Code: https://github.com/OpenTSLM/OpenTSLM-TeeMoE ; model: https://huggingface.co/OpenTSLM/TeeMoE</p></details> |
 | **[Beyond Model Ranking: Regime Diagnosis for Distributional-Statistical Misspecification in Industrial Time-Series Forecasting](https://arxiv.org/abs/2609.40117v1)** | 2026-09-30 | 31 pages, 12 figures |
 | **[Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting](https://arxiv.org/abs/2606.13571v2)** | 2026-09-30 |  |
@@ -16,12 +22,6 @@ labels: documentation
 | **[The Nixtlaverse: An Open-Source Ecosystem for Forecasting](https://arxiv.org/abs/2609.39741v1)** | 2026-09-30 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, 6 tables. Submitted to the International Journal of Forecasting. Code and benchmark artifact: https://doi.org/10.6084/m9.figshare.33399445</p></details> |
 | **[JudgeCast: Time Series Forecasting with Experience-Informed Covariate Judgements](https://arxiv.org/abs/2609.36966v2)** | 2026-09-30 |  |
 | **[Certifying Residual Architectures from Their Primitives: A Sharp Stability Threshold](https://arxiv.org/abs/2607.14576v2)** | 2026-09-29 |  |
-| **[GARDiff: Graph-Aligned Residual Diffusion for Probabilistic Multivariate Time-Series Forecasting](https://arxiv.org/abs/2609.37694v1)** | 2026-09-29 |  |
-| **[Variational Augmented Invertible Koopman Autoencoder for probabilistic time series forecasting](https://arxiv.org/abs/2609.37435v1)** | 2026-09-29 |  |
-| **[Rethinking Patch Based Multivariate Time Series Forecasting with Semantic Structured Partitioning](https://arxiv.org/abs/2608.19966v2)** | 2026-09-29 |  |
-| **[Multivariate Time Series Forecasting needs Cross Variable Loss](https://arxiv.org/abs/2608.05742v3)** | 2026-09-29 | <details><summary>This ...</summary><p>This paper has been accepted by NeurIPS 2026</p></details> |
-| **[Channel-Dependent State Space Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.36453v1)** | 2026-09-29 |  |
-| **[GNA: Granular Neighbor Assembly for Retrieval-Augmented Multivariate Time-Series Forecasting](https://arxiv.org/abs/2609.36281v1)** | 2026-09-28 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
