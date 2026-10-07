@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Explainable Failure Prediction and Prevention in Maritime](https://arxiv.org/abs/2610.08363v1)** | 2026-10-06 |  |
+| **[Quadratic Direct Forecast for Training Multi-Step Time-Series Forecast Models](https://arxiv.org/abs/2511.00053v2)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Time-o1: Time-Series Forecasting Needs Transformed Label Alignment](https://arxiv.org/abs/2505.17847v3)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted as poster in NeurIPS 2025</p></details> |
+| **[DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment](https://arxiv.org/abs/2510.24574v3)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Deep Time-Series Forecasting in 10 Years: A Survey](https://arxiv.org/abs/2603.19899v2)** | 2026-10-06 | <details><summary>This ...</summary><p>This survey is accepted by IEEE TPAMI</p></details> |
+| **[Retrieval Is Not Enough: Refreshing Memory for Frozen Time-Series Forecasters](https://arxiv.org/abs/2610.07834v1)** | 2026-10-06 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 6 tables</p></details> |
+| **[Forecast Accuracy Is Not Trading Profit: Evolving Small Recurrent Networks for Stock Return Prediction](https://arxiv.org/abs/2610.07825v1)** | 2026-10-06 |  |
+| **[Scale-Invariant Training for Time Series Foundation Models](https://arxiv.org/abs/2610.07324v1)** | 2026-10-05 |  |
 | **[Chronax: A Jax Library for Forecasting and Conformal Inference](https://arxiv.org/abs/2604.16719v2)** | 2026-10-05 | <details><summary>Adds ...</summary><p>Adds an author and corrects references</p></details> |
 | **[TempusBench: An Evaluation Framework for Time-Series Forecasting](https://arxiv.org/abs/2604.11529v3)** | 2026-10-05 | <details><summary>Techn...</summary><p>Technical report. Adds authors and corrects references</p></details> |
+| **[When Attention Does Not Explain the Peak: Temporal Reference vs. Forecast Output in Attention-Based Time-Series Forecasting](https://arxiv.org/abs/2610.07080v1)** | 2026-10-05 | <details><summary>NeurI...</summary><p>NeurIPS 2026: Accepted to the TAE (Trust-AI-Eval) Workshop</p></details> |
 | **[MercerFlow: Flow Matching in a Kernel-Induced Latent Space for Probabilistic Forecasting](https://arxiv.org/abs/2610.06039v1)** | 2026-10-05 |  |
 | **[EPOC: Endpoint-Preserving Online Correction With Compressed Residual State for Multi-Horizon Time Series Forecasting](https://arxiv.org/abs/2609.30929v2)** | 2026-10-05 | <details><summary>under...</summary><p>under review, IEEE Access</p></details> |
 | **[FreSia: Frequency-Semantic Instantiation and Alignment for Multivariate Time Series Analysis](https://arxiv.org/abs/2610.05726v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accept by Pattern Recongnition</p></details> |
-| **[BeliefGraph-JEPA: Structured Latent World Models for Action-Conditioned Time Series](https://arxiv.org/abs/2610.05409v1)** | 2026-10-04 |  |
-| **[Task-Adaptive Physical Reservoir Computing via Tunable Molecular Communication Dynamics](https://arxiv.org/abs/2602.05931v2)** | 2026-10-04 | <details><summary>Revis...</summary><p>Revised and extended version, as submitted for journal publication. 40-page main text with 8 figures and 4 tables, followed by a 39-page Supporting Information. Code and data: https://github.com/calico-lab/task-adaptive-mc-prc</p></details> |
-| **[TSAE: Structured Sparse Autoencoders for Interpreting Time-Series Forecasting Models](https://arxiv.org/abs/2610.04925v1)** | 2026-10-04 |  |
-| **[TIMBRE: Teaching Time Series Forecasters to Read, Remember, and Reconcile](https://arxiv.org/abs/2610.04795v1)** | 2026-10-03 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 4 tables. Code: https://github.com/stephen-guan-researcher/TIMBRE ; Checkpoints: https://huggingface.co/XinyuGuan/TIMBRE</p></details> |
-| **[KALEIDO: Input-Space Adaptation of a Vision Model for Time-Series Forecasting Through Gated Fold Geometries](https://arxiv.org/abs/2610.04786v1)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Workshop on Foundation Models for Temporal Systems (FMTS)</p></details> |
-| **[TMAML: Temporal Model-Agnostic Meta-Learning for Cold-Start Time Series Forecasting](https://arxiv.org/abs/2610.04547v1)** | 2026-10-03 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, Accepted at Neurips 2026 TS-LIMITS Workshop</p></details> |
-| **[EvoCast: Reliable Autonomous Research Agents for Iterative Forecasting Architecture Evolution](https://arxiv.org/abs/2610.04517v1)** | 2026-10-03 | <details><summary>26 pa...</summary><p>26 pages, 11 figures, including references and appendices. Code: https://github.com/18e0-x/EvoCast</p></details> |
-| **[Transformer Based Time-Series Forecasting for Stock](https://arxiv.org/abs/2502.09625v2)** | 2026-10-03 |  |
-| **[Contrastive Time Series Forecasting with Anomalies](https://arxiv.org/abs/2512.11526v2)** | 2026-10-03 |  |
-| **[Model-Agnostic Online Certificate-Driven Calibration for Time Series Forecasting Under Distribution Shift](https://arxiv.org/abs/2609.31960v2)** | 2026-10-03 | <details><summary>Oral ...</summary><p>Oral presentation at the 42nd Conference on Uncertainty in Artificial Intelligence (UAI 2026). Published in Proceedings of Machine Learning Research (PMLR), Vol. 337, pp. 2244-2273</p></details> |
+| **[The Premise Is the Problem: Exchangeability Failure in Self-Monitored Test-Time Adaptation](https://arxiv.org/abs/2610.07038v1)** | 2026-10-04 | 49 pages, 9 figures |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
