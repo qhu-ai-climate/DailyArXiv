@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 09, 2026
+title: Latest 15 Papers - October 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdaCast: Conditional Parameter Generation for Adaptive Time Series Forecasting](https://arxiv.org/abs/2610.12240v1)** | 2026-10-08 |  |
+| **[Training on the Future: A Delay-Aware Audit of Test-Time Adaptation for Time-Series Forecasting](https://arxiv.org/abs/2610.12232v1)** | 2026-10-08 | <details><summary>34 pa...</summary><p>34 pages, 9 figures. Code and cached results: https://github.com/Xodios/TRAINING-ON-THE-FUTURE-A-DELAY-AWARE-AUDIT-OF-TEST-TIME-ADAPTATION-FOR-TIME-SERIES-FORECASTING</p></details> |
+| **[Large-Scale Benchmarking of Quantum Neural Network Configurations for Financial Time Series Forecasting](https://arxiv.org/abs/2610.12148v1)** | 2026-10-08 |  |
+| **[SCORE: Spectral Correlation Estimation for Multivariate Gaussians](https://arxiv.org/abs/2610.12096v1)** | 2026-10-08 |  |
+| **[Revisiting Identity and Spectra Dispersion in Media-Bridged Time Series Forecasting: Linking Multivariate Signals and Narrative Flows](https://arxiv.org/abs/2610.11924v1)** | 2026-10-08 |  |
+| **[BEAT: Balanced Frequency Adaptive Tuning for Long-Term Time-Series Forecasting](https://arxiv.org/abs/2501.19065v3)** | 2026-10-08 | 11 pages, 2 figures |
+| **[CTRL: Control-Based Time Series Forecasting with LLM-Guided Residual Learning](https://arxiv.org/abs/2609.23257v2)** | 2026-10-08 | <details><summary>Publi...</summary><p>Published in Findings of the Association for Computational Linguistics: ACL 2026. 18 pages, 9 figures, 22 tables</p></details> |
+| **[SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting](https://arxiv.org/abs/2610.11229v1)** | 2026-10-08 |  |
+| **[AliO: Output Alignment Matters in Long-Term Time Series Forecasing](https://arxiv.org/abs/2610.11213v1)** | 2026-10-08 | <details><summary>NeurI...</summary><p>NeurIPS 2025. 46 pages</p></details> |
+| **[SACQ: Structured Decoding with Memory-Conditioned Refinement for Long-Horizon Forecasting](https://arxiv.org/abs/2610.11170v1)** | 2026-10-08 | 10 pages, 7 figures |
+| **[CARE: A Lightweight Plug-in Gated Correction and Uncertainty-aware Module for Long-term Time Series Forecasting](https://arxiv.org/abs/2610.11165v1)** | 2026-10-08 | 15pages, 2figures |
+| **[RideBench: A Large-Scale Exogenous-Aware Benchmark for Ride-Hailing Time Series Forecasting](https://arxiv.org/abs/2610.11164v1)** | 2026-10-08 |  |
+| **[ROAR: Retrieval Opportunity-Aware Refinement for Zero-Shot Time Series Forecasting](https://arxiv.org/abs/2605.24911v2)** | 2026-10-08 |  |
+| **[On linearity or non-linearity in machine learning for quantum chaotic dynamics](https://arxiv.org/abs/2610.10697v1)** | 2026-10-07 | <details><summary>Franc...</summary><p>Francesco Perciavalle and Agostino Gallo contributed equally to this work. 11 pages, 5 figures</p></details> |
 | **[OpenTSLM TeeMoE: A Unified Time-Series Language Model for Forecasting, Contextual Prediction, and Reasoning](https://arxiv.org/abs/2609.40265v2)** | 2026-10-07 | <details><summary>39 pa...</summary><p>39 pages, 2 figures. Code: https://github.com/OpenTSLM/OpenTSLM-TeeMoE ; model: https://huggingface.co/OpenTSLM/TeeMoE</p></details> |
-| **[DiTS: Multimodal Diffusion Transformers Are Time Series Forecasters](https://arxiv.org/abs/2602.06597v2)** | 2026-10-07 |  |
-| **[Evaluating Sequence Assembly Strategies for Differentially Private Synthetic Time-Series Forecasting](https://arxiv.org/abs/2610.10222v1)** | 2026-10-07 |  |
-| **[Temporal Predictive Multiplicity: Equally Accurate Time Series Models Yield Different Forecast Trajectories](https://arxiv.org/abs/2610.09994v1)** | 2026-10-07 |  |
-| **[Mixed-Frequency Time Series Forecasting via Depth-Separable Neural Networks](https://arxiv.org/abs/2607.14771v2)** | 2026-10-07 |  |
-| **[QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting](https://arxiv.org/abs/2605.18333v3)** | 2026-10-07 | <details><summary>To ap...</summary><p>To appear at the IEEE International Conference on Quantum Artificial Intelligence (QAI), Nottingham, UK, December 2026</p></details> |
-| **[Retrieval Is Not Enough: Refreshing Memory for Frozen Time-Series Forecasters](https://arxiv.org/abs/2610.07834v2)** | 2026-10-07 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 6 tables, Work in progress</p></details> |
-| **[Explainable Failure Prediction and Prevention in Maritime](https://arxiv.org/abs/2610.08363v1)** | 2026-10-06 |  |
-| **[Quadratic Direct Forecast for Training Multi-Step Time-Series Forecast Models](https://arxiv.org/abs/2511.00053v2)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Time-o1: Time-Series Forecasting Needs Transformed Label Alignment](https://arxiv.org/abs/2505.17847v3)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted as poster in NeurIPS 2025</p></details> |
-| **[DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment](https://arxiv.org/abs/2510.24574v3)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Deep Time-Series Forecasting in 10 Years: A Survey](https://arxiv.org/abs/2603.19899v2)** | 2026-10-06 | <details><summary>This ...</summary><p>This survey is accepted by IEEE TPAMI</p></details> |
-| **[Forecast Accuracy Is Not Trading Profit: Evolving Small Recurrent Networks for Stock Return Prediction](https://arxiv.org/abs/2610.07825v1)** | 2026-10-06 |  |
-| **[Scale-Invariant Training for Time Series Foundation Models](https://arxiv.org/abs/2610.07324v1)** | 2026-10-05 |  |
-| **[Chronax: A Jax Library for Forecasting and Conformal Inference](https://arxiv.org/abs/2604.16719v2)** | 2026-10-05 | <details><summary>Adds ...</summary><p>Adds an author and corrects references</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
