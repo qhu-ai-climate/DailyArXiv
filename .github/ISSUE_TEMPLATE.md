@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2026
+title: Latest 15 Papers - October 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Theory of the Mechanics of Information: Generalization Through Measurement of Uncertainty (Learning is Measuring)](https://arxiv.org/abs/2510.22809v2)** | 2026-10-08 | 119 pages |
 | **[AdaCast: Conditional Parameter Generation for Adaptive Time Series Forecasting](https://arxiv.org/abs/2610.12240v1)** | 2026-10-08 |  |
 | **[Training on the Future: A Delay-Aware Audit of Test-Time Adaptation for Time-Series Forecasting](https://arxiv.org/abs/2610.12232v1)** | 2026-10-08 | <details><summary>34 pa...</summary><p>34 pages, 9 figures. Code and cached results: https://github.com/Xodios/TRAINING-ON-THE-FUTURE-A-DELAY-AWARE-AUDIT-OF-TEST-TIME-ADAPTATION-FOR-TIME-SERIES-FORECASTING</p></details> |
 | **[Large-Scale Benchmarking of Quantum Neural Network Configurations for Financial Time Series Forecasting](https://arxiv.org/abs/2610.12148v1)** | 2026-10-08 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[RideBench: A Large-Scale Exogenous-Aware Benchmark for Ride-Hailing Time Series Forecasting](https://arxiv.org/abs/2610.11164v1)** | 2026-10-08 |  |
 | **[ROAR: Retrieval Opportunity-Aware Refinement for Zero-Shot Time Series Forecasting](https://arxiv.org/abs/2605.24911v2)** | 2026-10-08 |  |
 | **[On linearity or non-linearity in machine learning for quantum chaotic dynamics](https://arxiv.org/abs/2610.10697v1)** | 2026-10-07 | <details><summary>Franc...</summary><p>Francesco Perciavalle and Agostino Gallo contributed equally to this work. 11 pages, 5 figures</p></details> |
-| **[OpenTSLM TeeMoE: A Unified Time-Series Language Model for Forecasting, Contextual Prediction, and Reasoning](https://arxiv.org/abs/2609.40265v2)** | 2026-10-07 | <details><summary>39 pa...</summary><p>39 pages, 2 figures. Code: https://github.com/OpenTSLM/OpenTSLM-TeeMoE ; model: https://huggingface.co/OpenTSLM/TeeMoE</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
