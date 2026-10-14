@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2026
+title: Latest 15 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Theory of the Mechanics of Information: Generalization Through Measurement of Uncertainty (Learning is Measuring)](https://arxiv.org/abs/2510.22809v2)** | 2026-10-08 | 119 pages |
-| **[AdaCast: Conditional Parameter Generation for Adaptive Time Series Forecasting](https://arxiv.org/abs/2610.12240v1)** | 2026-10-08 |  |
-| **[Training on the Future: A Delay-Aware Audit of Test-Time Adaptation for Time-Series Forecasting](https://arxiv.org/abs/2610.12232v1)** | 2026-10-08 | <details><summary>34 pa...</summary><p>34 pages, 9 figures. Code and cached results: https://github.com/Xodios/TRAINING-ON-THE-FUTURE-A-DELAY-AWARE-AUDIT-OF-TEST-TIME-ADAPTATION-FOR-TIME-SERIES-FORECASTING</p></details> |
-| **[Large-Scale Benchmarking of Quantum Neural Network Configurations for Financial Time Series Forecasting](https://arxiv.org/abs/2610.12148v1)** | 2026-10-08 |  |
-| **[SCORE: Spectral Correlation Estimation for Multivariate Gaussians](https://arxiv.org/abs/2610.12096v1)** | 2026-10-08 |  |
-| **[Revisiting Identity and Spectra Dispersion in Media-Bridged Time Series Forecasting: Linking Multivariate Signals and Narrative Flows](https://arxiv.org/abs/2610.11924v1)** | 2026-10-08 |  |
-| **[BEAT: Balanced Frequency Adaptive Tuning for Long-Term Time-Series Forecasting](https://arxiv.org/abs/2501.19065v3)** | 2026-10-08 | 11 pages, 2 figures |
-| **[CTRL: Control-Based Time Series Forecasting with LLM-Guided Residual Learning](https://arxiv.org/abs/2609.23257v2)** | 2026-10-08 | <details><summary>Publi...</summary><p>Published in Findings of the Association for Computational Linguistics: ACL 2026. 18 pages, 9 figures, 22 tables</p></details> |
-| **[SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting](https://arxiv.org/abs/2610.11229v1)** | 2026-10-08 |  |
-| **[AliO: Output Alignment Matters in Long-Term Time Series Forecasing](https://arxiv.org/abs/2610.11213v1)** | 2026-10-08 | <details><summary>NeurI...</summary><p>NeurIPS 2025. 46 pages</p></details> |
-| **[SACQ: Structured Decoding with Memory-Conditioned Refinement for Long-Horizon Forecasting](https://arxiv.org/abs/2610.11170v1)** | 2026-10-08 | 10 pages, 7 figures |
-| **[CARE: A Lightweight Plug-in Gated Correction and Uncertainty-aware Module for Long-term Time Series Forecasting](https://arxiv.org/abs/2610.11165v1)** | 2026-10-08 | 15pages, 2figures |
-| **[RideBench: A Large-Scale Exogenous-Aware Benchmark for Ride-Hailing Time Series Forecasting](https://arxiv.org/abs/2610.11164v1)** | 2026-10-08 |  |
-| **[ROAR: Retrieval Opportunity-Aware Refinement for Zero-Shot Time Series Forecasting](https://arxiv.org/abs/2605.24911v2)** | 2026-10-08 |  |
-| **[On linearity or non-linearity in machine learning for quantum chaotic dynamics](https://arxiv.org/abs/2610.10697v1)** | 2026-10-07 | <details><summary>Franc...</summary><p>Francesco Perciavalle and Agostino Gallo contributed equally to this work. 11 pages, 5 figures</p></details> |
+| **[Probabilistic Circuits for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.27814v3)** | 2026-10-13 |  |
+| **[Deterministic Prediction as Global Velocity: Flow Matching for Probabilistic Time-Series Forecast](https://arxiv.org/abs/2610.18621v1)** | 2026-10-13 |  |
+| **[Adaptive Patching Is Harder Than It Looks For Time-Series Forecasting](https://arxiv.org/abs/2606.04074v2)** | 2026-10-13 |  |
+| **[Hierarchical Time Series Forecasting with Operator-Valued Kernels](https://arxiv.org/abs/2610.18196v1)** | 2026-10-13 |  |
+| **[TStruct: Learning Shared Temporal Structures for Long-Term Time-Series Forecasting](https://arxiv.org/abs/2610.17864v1)** | 2026-10-13 | <details><summary>This ...</summary><p>This paper has been accepted to NeurIPS 2026(Main Track)</p></details> |
+| **[GIFT-Eval-CTX: A Benchmark For Contextual Forecasting Model Evaluation](https://arxiv.org/abs/2610.17794v1)** | 2026-10-13 |  |
+| **[LLM Evaluation is a Forecasting Problem](https://arxiv.org/abs/2610.17018v1)** | 2026-10-12 |  |
+| **[Naga: Vedic Encoding for Deep State Space Models](https://arxiv.org/abs/2511.13510v2)** | 2026-10-12 |  |
+| **[AlphaCast: A Human Wisdom-LLM Intelligence Co-Reasoning Framework for Time Series Forecasting](https://arxiv.org/abs/2511.08947v6)** | 2026-10-12 | <details><summary>Accep...</summary><p>Accepted by CIKM 2026</p></details> |
+| **[ChronoScribe: Semantic-Numerical Specialization for Instruction-Driven Time Series Forecasting](https://arxiv.org/abs/2610.16345v1)** | 2026-10-12 | 9 pages, 7 figures |
+| **[Hyperbolic Time Series Forecasting with Learnable Decomposition and Manifold Dynamics](https://arxiv.org/abs/2610.15760v1)** | 2026-10-11 |  |
+| **[QiYao-I: A Manifold Based Foundation Model for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2610.06936v2)** | 2026-10-11 | <details><summary>29 pa...</summary><p>29 pages, 5 figures, 20 tables. Preprint</p></details> |
+| **[World2TS: Real-World Event Context for Time-Series Forecasting](https://arxiv.org/abs/2610.14861v1)** | 2026-10-10 |  |
+| **[When Attention Does Not Explain the Peak: Temporal Reference vs. Forecast Output in Attention-Based Time-Series Forecasting](https://arxiv.org/abs/2610.07080v2)** | 2026-10-10 | <details><summary>NeurI...</summary><p>NeurIPS 2026: Accepted to the TAE (Trust-AI-Eval) Workshop</p></details> |
+| **[DPAL: A Test-Time Adaptation Loss for Financial Time Series Forecasting](https://arxiv.org/abs/2610.14376v1)** | 2026-10-09 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
