@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2026
+title: Latest 15 Papers - October 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Time-series Forecasting Needs Kernelized Moment Balancing](https://arxiv.org/abs/2602.00717v2)** | 2026-10-14 |  |
+| **[Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series](https://arxiv.org/abs/2402.05203v3)** | 2026-10-14 | 36 pages, 5 figures |
+| **[Empirical Boundaries of Reservoir Computing for Few-Shot Sequence Pattern Tasks](https://arxiv.org/abs/2610.19997v1)** | 2026-10-14 | <details><summary>4th I...</summary><p>4th International Workshop on Reservoir Computing (RC 2026) 35th International Conference on Artificial Neural Networks (ICANN 2026)</p></details> |
+| **[DiffPTS: Rethinking Diffusion ELBO for Probabilistic Time Series Forecasting](https://arxiv.org/abs/2609.32363v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted as NeurIPS 2026 Poster</p></details> |
+| **[TimeES: Probabilistic and Deterministic Time Series Forecasting via Evolutionary Spectra](https://arxiv.org/abs/2609.32384v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted as NeurIPS 2026 Poster</p></details> |
+| **[CTIA-ODE: Continuous-Time Inter-Variable Attention for Long-Term Time Series Forecasting](https://arxiv.org/abs/2610.19831v1)** | 2026-10-14 |  |
+| **[Beyond Static Positional Encoding: Bayesian Time-aware Attention for Non-Stationary Long-term Time Series Forecasting](https://arxiv.org/abs/2610.19603v1)** | 2026-10-14 | <details><summary>44 pa...</summary><p>44 pages, 12 figures, including appendices</p></details> |
+| **[RhyMix: A Lightweight Adaptive Multi-Rhythm Network for Long-Term Time Series Forecasting](https://arxiv.org/abs/2607.08234v2)** | 2026-10-13 | 28 Pages |
+| **[Hopformer: Homogeneity-Pursuit Transformer for Time Series Forecasting](https://arxiv.org/abs/2607.22299v2)** | 2026-10-13 | <details><summary>36 pa...</summary><p>36 pages, 5 figures, 25 tables. v2: new end-to-end risk bound under temporal dependence; expanded experiments (6 datasets, 10 baselines) with ablations and statistical inference; extended appendices</p></details> |
 | **[Probabilistic Circuits for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.27814v3)** | 2026-10-13 |  |
 | **[Deterministic Prediction as Global Velocity: Flow Matching for Probabilistic Time-Series Forecast](https://arxiv.org/abs/2610.18621v1)** | 2026-10-13 |  |
 | **[Adaptive Patching Is Harder Than It Looks For Time-Series Forecasting](https://arxiv.org/abs/2606.04074v2)** | 2026-10-13 |  |
 | **[Hierarchical Time Series Forecasting with Operator-Valued Kernels](https://arxiv.org/abs/2610.18196v1)** | 2026-10-13 |  |
 | **[TStruct: Learning Shared Temporal Structures for Long-Term Time-Series Forecasting](https://arxiv.org/abs/2610.17864v1)** | 2026-10-13 | <details><summary>This ...</summary><p>This paper has been accepted to NeurIPS 2026(Main Track)</p></details> |
 | **[GIFT-Eval-CTX: A Benchmark For Contextual Forecasting Model Evaluation](https://arxiv.org/abs/2610.17794v1)** | 2026-10-13 |  |
-| **[LLM Evaluation is a Forecasting Problem](https://arxiv.org/abs/2610.17018v1)** | 2026-10-12 |  |
-| **[Naga: Vedic Encoding for Deep State Space Models](https://arxiv.org/abs/2511.13510v2)** | 2026-10-12 |  |
-| **[AlphaCast: A Human Wisdom-LLM Intelligence Co-Reasoning Framework for Time Series Forecasting](https://arxiv.org/abs/2511.08947v6)** | 2026-10-12 | <details><summary>Accep...</summary><p>Accepted by CIKM 2026</p></details> |
-| **[ChronoScribe: Semantic-Numerical Specialization for Instruction-Driven Time Series Forecasting](https://arxiv.org/abs/2610.16345v1)** | 2026-10-12 | 9 pages, 7 figures |
-| **[Hyperbolic Time Series Forecasting with Learnable Decomposition and Manifold Dynamics](https://arxiv.org/abs/2610.15760v1)** | 2026-10-11 |  |
-| **[QiYao-I: A Manifold Based Foundation Model for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2610.06936v2)** | 2026-10-11 | <details><summary>29 pa...</summary><p>29 pages, 5 figures, 20 tables. Preprint</p></details> |
-| **[World2TS: Real-World Event Context for Time-Series Forecasting](https://arxiv.org/abs/2610.14861v1)** | 2026-10-10 |  |
-| **[When Attention Does Not Explain the Peak: Temporal Reference vs. Forecast Output in Attention-Based Time-Series Forecasting](https://arxiv.org/abs/2610.07080v2)** | 2026-10-10 | <details><summary>NeurI...</summary><p>NeurIPS 2026: Accepted to the TAE (Trust-AI-Eval) Workshop</p></details> |
-| **[DPAL: A Test-Time Adaptation Loss for Financial Time Series Forecasting](https://arxiv.org/abs/2610.14376v1)** | 2026-10-09 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
