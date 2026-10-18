@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 16, 2026
+title: Latest 15 Papers - October 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathFM: Fast Generative Forecasting of Multivariate Trajectories](https://arxiv.org/abs/2610.22358v1)** | 2026-10-15 |  |
+| **[conformalForecast: An R package for sequential conformal prediction in time series](https://arxiv.org/abs/2610.21648v1)** | 2026-10-15 |  |
+| **[FANTF: Fuzzy attention network based transformers for time series analysis](https://arxiv.org/abs/2504.00070v2)** | 2026-10-15 |  |
+| **[DST-Net: Decomposed Spatio-Temporal Network for Time Series Forecasting](https://arxiv.org/abs/2610.21123v1)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted at the World Computing-Power Network Conference-Academic (WCNCA) 2026</p></details> |
+| **[Quantile-Guided Diffusion for Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2610.20739v1)** | 2026-10-14 | <details><summary>33 pa...</summary><p>33 pages, 10 figures, 20 tables</p></details> |
 | **[Deep Time-series Forecasting Needs Kernelized Moment Balancing](https://arxiv.org/abs/2602.00717v2)** | 2026-10-14 |  |
 | **[Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series](https://arxiv.org/abs/2402.05203v3)** | 2026-10-14 | 36 pages, 5 figures |
 | **[Empirical Boundaries of Reservoir Computing for Few-Shot Sequence Pattern Tasks](https://arxiv.org/abs/2610.19997v1)** | 2026-10-14 | <details><summary>4th I...</summary><p>4th International Workshop on Reservoir Computing (RC 2026) 35th International Conference on Artificial Neural Networks (ICANN 2026)</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[RhyMix: A Lightweight Adaptive Multi-Rhythm Network for Long-Term Time Series Forecasting](https://arxiv.org/abs/2607.08234v2)** | 2026-10-13 | 28 Pages |
 | **[Hopformer: Homogeneity-Pursuit Transformer for Time Series Forecasting](https://arxiv.org/abs/2607.22299v2)** | 2026-10-13 | <details><summary>36 pa...</summary><p>36 pages, 5 figures, 25 tables. v2: new end-to-end risk bound under temporal dependence; expanded experiments (6 datasets, 10 baselines) with ablations and statistical inference; extended appendices</p></details> |
 | **[Probabilistic Circuits for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2604.27814v3)** | 2026-10-13 |  |
-| **[Deterministic Prediction as Global Velocity: Flow Matching for Probabilistic Time-Series Forecast](https://arxiv.org/abs/2610.18621v1)** | 2026-10-13 |  |
-| **[Adaptive Patching Is Harder Than It Looks For Time-Series Forecasting](https://arxiv.org/abs/2606.04074v2)** | 2026-10-13 |  |
-| **[Hierarchical Time Series Forecasting with Operator-Valued Kernels](https://arxiv.org/abs/2610.18196v1)** | 2026-10-13 |  |
-| **[TStruct: Learning Shared Temporal Structures for Long-Term Time-Series Forecasting](https://arxiv.org/abs/2610.17864v1)** | 2026-10-13 | <details><summary>This ...</summary><p>This paper has been accepted to NeurIPS 2026(Main Track)</p></details> |
-| **[GIFT-Eval-CTX: A Benchmark For Contextual Forecasting Model Evaluation](https://arxiv.org/abs/2610.17794v1)** | 2026-10-13 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
