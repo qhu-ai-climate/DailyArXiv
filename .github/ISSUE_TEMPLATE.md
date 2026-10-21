@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2026
+title: Latest 15 Papers - October 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Model- and Layer-Level Closed-Loop Forecasting with SSM-Based Spiking Neural Networks](https://arxiv.org/abs/2610.28495v1)** | 2026-10-20 |  |
+| **[The surprising simplicity of forecasting quantum chaotic many-body dynamics](https://arxiv.org/abs/2610.10697v2)** | 2026-10-20 | <details><summary>Franc...</summary><p>Francesco Perciavalle and Agostino Gallo contributed equally to this work. 11 pages, 5 figures</p></details> |
+| **[Robust Residual Correction via Selective Deployment for Time Series Forecasting](https://arxiv.org/abs/2512.22428v3)** | 2026-10-20 | <details><summary>18 pa...</summary><p>18 pages. Accepted at NeurIPS 2026. Revised title, experimental analyses, and theoretical discussion</p></details> |
+| **[Training-Free Continual Learning for Multimodal Forecasting via Prompt Evolution](https://arxiv.org/abs/2610.27468v1)** | 2026-10-20 |  |
+| **[TxnQA: Benchmarking Analytical Reasoning and Evidence Grounding over Transaction Event Sequences](https://arxiv.org/abs/2610.27256v1)** | 2026-10-19 |  |
 | **[Channel-Dependent State Space Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2609.36453v2)** | 2026-10-19 |  |
 | **[WhatIf-Bench: Benchmarking Intervention-Aware Time Series Forecasting](https://arxiv.org/abs/2610.26582v1)** | 2026-10-19 | <details><summary>Leade...</summary><p>Leaderboard at https://huggingface.co/spaces/arjunashok/WhatIf-Bench; code at https://github.com/ashok-arjun/whatif-bench</p></details> |
 | **[REATS: LLM Reasoning-based Ensemble Learning for Adaptive Time Series Forecasting](https://arxiv.org/abs/2608.10149v2)** | 2026-10-19 |  |
 | **[CTLite: Lightweight Irregular Multivariate Time Series Forecasting with Reusable Continuous-Time Summaries](https://arxiv.org/abs/2610.26379v1)** | 2026-10-19 |  |
 | **[Forecasting Voltage Time Series under Anomalies Using a WGAN Model With Lipschitz Control and Progressive Kernel Critic Strategy](https://arxiv.org/abs/2610.23394v2)** | 2026-10-19 |  |
+| **[Dynamic Dual-Feedback Conformal Inference for Time Series Forecasting](https://arxiv.org/abs/2610.26987v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
 | **[Paloma: Phase-Conditioned Residual Modulation for Time Series Forecasting](https://arxiv.org/abs/2610.25392v1)** | 2026-10-18 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026 spotlight</p></details> |
 | **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v4)** | 2026-10-18 | <details><summary>7 pag...</summary><p>7 pages, 1 figure(s), 6 table(s)</p></details> |
 | **[EasyResearch: Honest Regression, Forecasting and Signal Classification for Researchers Who Do Not Program](https://arxiv.org/abs/2610.25263v1)** | 2026-10-18 |  |
 | **[FreshCast: Timely and Complementary Retrieval for Frozen Time Series Forecasters](https://arxiv.org/abs/2610.07834v3)** | 2026-10-17 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 6 tables, Work in progress</p></details> |
-| **[Markovian Linguistic-Temporal Bridge: Unlocking the Potential of LLMs for Time Series Forecasting](https://arxiv.org/abs/2505.13175v2)** | 2026-10-17 |  |
-| **[CTIA-ODE: Continuous-Time Inter-Variable Attention for Long-Term Time Series Forecasting](https://arxiv.org/abs/2610.19831v2)** | 2026-10-17 |  |
-| **[Nexus : An Agentic Framework for Context-Aware Time Series Forecasting](https://arxiv.org/abs/2605.14389v2)** | 2026-10-16 | <details><summary>28 Pa...</summary><p>28 Pages, 4 figures, 8 Tables</p></details> |
-| **[LagNet: Lag-Structured Operators for Long-Term Time Series Forecasting](https://arxiv.org/abs/2610.23735v1)** | 2026-10-16 |  |
-| **[OliO: ODE-based Linear Transition Operator for Self-Supervised Time Series Forecasting](https://arxiv.org/abs/2610.23345v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[ASE: Attribution-Guided Semantic Evolution for Time Series Forecasting](https://arxiv.org/abs/2610.23027v1)** | 2026-10-16 | 11 pages, 3 figures |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
