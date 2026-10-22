@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Agentic Model Orchestration for Time Series Forecasting](https://arxiv.org/abs/2610.29504v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by the NeurIPS 2026 Workshop on Foundation Models for Temporal Systems (FMTS)</p></details> |
+| **[Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism](https://arxiv.org/abs/2603.18712v3)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
+| **[HealthMamba: An Uncertainty-aware Spatiotemporal Graph State Space Model for Effective and Reliable Healthcare Facility Visit Prediction](https://arxiv.org/abs/2602.05286v4)** | 2026-10-21 | IJCAI 2026 |
 | **[Model- and Layer-Level Closed-Loop Forecasting with SSM-Based Spiking Neural Networks](https://arxiv.org/abs/2610.28495v1)** | 2026-10-20 |  |
 | **[The surprising simplicity of forecasting quantum chaotic many-body dynamics](https://arxiv.org/abs/2610.10697v2)** | 2026-10-20 | <details><summary>Franc...</summary><p>Francesco Perciavalle and Agostino Gallo contributed equally to this work. 11 pages, 5 figures</p></details> |
 | **[Robust Residual Correction via Selective Deployment for Time Series Forecasting](https://arxiv.org/abs/2512.22428v3)** | 2026-10-20 | <details><summary>18 pa...</summary><p>18 pages. Accepted at NeurIPS 2026. Revised title, experimental analyses, and theoretical discussion</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Forecasting Voltage Time Series under Anomalies Using a WGAN Model With Lipschitz Control and Progressive Kernel Critic Strategy](https://arxiv.org/abs/2610.23394v2)** | 2026-10-19 |  |
 | **[Dynamic Dual-Feedback Conformal Inference for Time Series Forecasting](https://arxiv.org/abs/2610.26987v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
 | **[Paloma: Phase-Conditioned Residual Modulation for Time Series Forecasting](https://arxiv.org/abs/2610.25392v1)** | 2026-10-18 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026 spotlight</p></details> |
-| **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v4)** | 2026-10-18 | <details><summary>7 pag...</summary><p>7 pages, 1 figure(s), 6 table(s)</p></details> |
-| **[EasyResearch: Honest Regression, Forecasting and Signal Classification for Researchers Who Do Not Program](https://arxiv.org/abs/2610.25263v1)** | 2026-10-18 |  |
-| **[FreshCast: Timely and Complementary Retrieval for Frozen Time Series Forecasters](https://arxiv.org/abs/2610.07834v3)** | 2026-10-17 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 6 tables, Work in progress</p></details> |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
