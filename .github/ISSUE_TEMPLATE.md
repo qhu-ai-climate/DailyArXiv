@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 28, 2026
+title: Latest 15 Papers - October 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BadTime: An Effective Backdoor Attack on Multivariate Long-Term Time Series Forecasting](https://arxiv.org/abs/2508.04189v3)** | 2026-10-27 |  |
+| **[STeP-TS: Shared Temporal Filters with Pruning for Time Series](https://arxiv.org/abs/2610.35128v2)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted at the Workshop TS-LIMITS at NeurIPS 2026</p></details> |
+| **[Foreclassing: From Forecasts to Decisions](https://arxiv.org/abs/2503.04956v3)** | 2026-10-27 | <details><summary>45 pa...</summary><p>45 pages, 1 figure, 24 tables</p></details> |
+| **[RankFormer: Rethinking Time Series Transformers through Representation Capacity Analysis and Progressive Decoding](https://arxiv.org/abs/2610.36703v1)** | 2026-10-27 | 12 pages |
 | **[Sliding-Window Signatures as Features for Time Series Forecasting](https://arxiv.org/abs/2510.12337v2)** | 2026-10-26 |  |
-| **[STeP-TS: Shared Temporal Filters with Pruning for Time Series](https://arxiv.org/abs/2610.35128v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted at the Workshop TS-LIMITS at NeurIPS 2026</p></details> |
 | **[Multivariate Time Series Forecasting needs Cross Variable Loss](https://arxiv.org/abs/2608.05742v4)** | 2026-10-26 | <details><summary>This ...</summary><p>This paper has been accepted by NeurIPS 2026</p></details> |
 | **[EF-LLM: A Continual Learning-Based Framework for AI-Assisted Automation, Enhanced Sparse Prediction, and Hallucination Detection](https://arxiv.org/abs/2411.00852v3)** | 2026-10-26 |  |
 | **[TimeWorld: Towards Action-Conditioned Multimodal World Models for Time Series Forecasting](https://arxiv.org/abs/2610.34797v1)** | 2026-10-26 | under review |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Model-agnostic predictability quantification of multivariable time series](https://arxiv.org/abs/2610.33209v1)** | 2026-10-23 | <details><summary>The c...</summary><p>The code is available at https://github.com/ClaudiaShu/MAPS</p></details> |
 | **[GateTS: Versatile and Efficient Forecasting via Attention-Inspired routed Mixture-of-Experts](https://arxiv.org/abs/2508.17515v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted to Neurocomputing</p></details> |
 | **[FinVerse: Toward More Realistic Evaluation for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.03259v3)** | 2026-10-23 | 40 pages |
-| **[DBCM: Dual-Branch Calibration Module for Test-Time Adaptation in Time Series Forecasting](https://arxiv.org/abs/2610.32071v1)** | 2026-10-23 |  |
-| **[How do standard time series forecasting benchmarks translate to finance? A broad study of risk adjusted performance](https://arxiv.org/abs/2603.01820v2)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Forecasting. 47 pages, 30 figures, 12 tables</p></details> |
-| **[A Model-Agnostic Correction Framework for Short-Term Building Load Forecasting](https://arxiv.org/abs/2610.31959v1)** | 2026-10-22 | Work in progress |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
