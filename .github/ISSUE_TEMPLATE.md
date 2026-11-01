@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 30, 2026
+title: Latest 15 Papers - November 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CTLite: Lightweight Irregular Multivariate Time Series Forecasting with Reusable Continuous-Time Summaries](https://arxiv.org/abs/2610.26379v2)** | 2026-10-29 |  |
+| **[IMRouter: Imbalance-aware Temporal Pattern Routing for LLM-based Time Series Forecasting](https://arxiv.org/abs/2610.39246v1)** | 2026-10-29 |  |
+| **[On the Generalization Gap of Streaming Federated Learning with Markovian Data](https://arxiv.org/abs/2610.38686v1)** | 2026-10-28 | 78 Pages, 5 Figures |
+| **[Bet on Features: Anytime-Valid and Feature-Aware Auditing of Conditional Quantile Forecasters](https://arxiv.org/abs/2607.11653v2)** | 2026-10-28 |  |
+| **[Vendster: An Evaluation Arena to Investigate How Forecasting Tool Quality Affects LLM Agent Behaviors in Buyer-Vendor Negotiation](https://arxiv.org/abs/2610.38292v1)** | 2026-10-28 |  |
+| **[Measuring Deep Learning Performance - An Empirical Study of Performance Distributions Across Architectures and Tasks](https://arxiv.org/abs/2610.38037v1)** | 2026-10-27 |  |
+| **[Jacobian Scopes: A Unified Geometric Framework for Token-Level LLM Attribution](https://arxiv.org/abs/2601.16407v5)** | 2026-10-27 | 35 pages, 17 figures |
 | **[BadTime: An Effective Backdoor Attack on Multivariate Long-Term Time Series Forecasting](https://arxiv.org/abs/2508.04189v3)** | 2026-10-27 |  |
 | **[STeP-TS: Shared Temporal Filters with Pruning for Time Series](https://arxiv.org/abs/2610.35128v2)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted at the Workshop TS-LIMITS at NeurIPS 2026</p></details> |
 | **[Foreclassing: From Forecasts to Decisions](https://arxiv.org/abs/2503.04956v3)** | 2026-10-27 | <details><summary>45 pa...</summary><p>45 pages, 1 figure, 24 tables</p></details> |
@@ -15,13 +22,6 @@ labels: documentation
 | **[Multivariate Time Series Forecasting needs Cross Variable Loss](https://arxiv.org/abs/2608.05742v4)** | 2026-10-26 | <details><summary>This ...</summary><p>This paper has been accepted by NeurIPS 2026</p></details> |
 | **[EF-LLM: A Continual Learning-Based Framework for AI-Assisted Automation, Enhanced Sparse Prediction, and Hallucination Detection](https://arxiv.org/abs/2411.00852v3)** | 2026-10-26 |  |
 | **[TimeWorld: Towards Action-Conditioned Multimodal World Models for Time Series Forecasting](https://arxiv.org/abs/2610.34797v1)** | 2026-10-26 | under review |
-| **[Dynamic Multi-Step Decoding for Time-Series Foundation Models](https://arxiv.org/abs/2610.34409v1)** | 2026-10-25 | <details><summary>23 pa...</summary><p>23 pages including appendix, 2 figures, 20 tables</p></details> |
-| **[AliO: Output Alignment Matters in Long-Term Time Series Forecasing](https://arxiv.org/abs/2610.11213v2)** | 2026-10-25 | <details><summary>NeurI...</summary><p>NeurIPS 2025. 46 pages</p></details> |
-| **[Learning What to Share: Expert Specialization for Time-Series Forecasting](https://arxiv.org/abs/2610.33822v1)** | 2026-10-24 | 60 pages, 9 figures |
-| **[TempShap: When and How Much a Feature Matters in Time-Series Forecasting](https://arxiv.org/abs/2610.33330v1)** | 2026-10-23 |  |
-| **[Model-agnostic predictability quantification of multivariable time series](https://arxiv.org/abs/2610.33209v1)** | 2026-10-23 | <details><summary>The c...</summary><p>The code is available at https://github.com/ClaudiaShu/MAPS</p></details> |
-| **[GateTS: Versatile and Efficient Forecasting via Attention-Inspired routed Mixture-of-Experts](https://arxiv.org/abs/2508.17515v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted to Neurocomputing</p></details> |
-| **[FinVerse: Toward More Realistic Evaluation for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.03259v3)** | 2026-10-23 | 40 pages |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
