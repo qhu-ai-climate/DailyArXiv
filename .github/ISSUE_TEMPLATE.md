@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2026
+title: Latest 15 Papers - November 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Chronos-2: A foundation model for multivariate time series forecasting](https://arxiv.org/abs/2610.41956v1)** | 2026-10-30 | <details><summary>41 pa...</summary><p>41 pages, 9 figures. Extended version of the Chronos-2 technical report (arXiv:2510.15821), adding scientific case studies (epidemiology, macroeconomics, carbon flux, hydrology, hierarchical forecasting), additional baselines, ablation studies, and calibration analysis. Code: https://github.com/amazon-science/chronos-forecasting</p></details> |
+| **[A Controlled Comparison of Deep Learning Architectures for Multi-Horizon Financial Forecasting: Evidence from 918 Experiments](https://arxiv.org/abs/2603.16886v2)** | 2026-10-30 |  |
+| **[TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research](https://arxiv.org/abs/2610.40901v1)** | 2026-10-29 | <details><summary>Code:...</summary><p>Code: https://github.com/D2I-Group/TSFLab</p></details> |
 | **[CTLite: Lightweight Irregular Multivariate Time Series Forecasting with Reusable Continuous-Time Summaries](https://arxiv.org/abs/2610.26379v2)** | 2026-10-29 |  |
 | **[IMRouter: Imbalance-aware Temporal Pattern Routing for LLM-based Time Series Forecasting](https://arxiv.org/abs/2610.39246v1)** | 2026-10-29 |  |
 | **[On the Generalization Gap of Streaming Federated Learning with Markovian Data](https://arxiv.org/abs/2610.38686v1)** | 2026-10-28 | 78 Pages, 5 Figures |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Foreclassing: From Forecasts to Decisions](https://arxiv.org/abs/2503.04956v3)** | 2026-10-27 | <details><summary>45 pa...</summary><p>45 pages, 1 figure, 24 tables</p></details> |
 | **[RankFormer: Rethinking Time Series Transformers through Representation Capacity Analysis and Progressive Decoding](https://arxiv.org/abs/2610.36703v1)** | 2026-10-27 | 12 pages |
 | **[Sliding-Window Signatures as Features for Time Series Forecasting](https://arxiv.org/abs/2510.12337v2)** | 2026-10-26 |  |
-| **[Multivariate Time Series Forecasting needs Cross Variable Loss](https://arxiv.org/abs/2608.05742v4)** | 2026-10-26 | <details><summary>This ...</summary><p>This paper has been accepted by NeurIPS 2026</p></details> |
-| **[EF-LLM: A Continual Learning-Based Framework for AI-Assisted Automation, Enhanced Sparse Prediction, and Hallucination Detection](https://arxiv.org/abs/2411.00852v3)** | 2026-10-26 |  |
-| **[TimeWorld: Towards Action-Conditioned Multimodal World Models for Time Series Forecasting](https://arxiv.org/abs/2610.34797v1)** | 2026-10-26 | under review |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
