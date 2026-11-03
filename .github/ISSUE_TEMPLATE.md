@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2026
+title: Latest 15 Papers - November 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502v5)** | 2026-11-02 |  |
+| **[AliO: Output Alignment Matters in Long-Term Time Series Forecasing](https://arxiv.org/abs/2610.11213v3)** | 2026-11-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025. 46 pages</p></details> |
+| **[HQNN-CL: Regime-Aware Hybrid Quantum Neural Network with Continual Learning for Financial Forecasting](https://arxiv.org/abs/2611.02091v1)** | 2026-11-01 | 20 Pages, 8 Figures |
+| **[StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](https://arxiv.org/abs/2602.08983v2)** | 2026-11-01 | <details><summary>Publi...</summary><p>Published at ICML 2026. Code: https://github.com/yubinkim04/StretchTime</p></details> |
+| **[Mitigating Catastrophic Forgetting in Task-Free Federated Continual Forecasting via Two-Tier Replay under Concept Drift](https://arxiv.org/abs/2611.01098v1)** | 2026-10-31 | <details><summary>Peer-...</summary><p>Peer-reviewed and accepted for presentation at the AGCS 2026 conference</p></details> |
 | **[Chronos-2: A foundation model for multivariate time series forecasting](https://arxiv.org/abs/2610.41956v1)** | 2026-10-30 | <details><summary>41 pa...</summary><p>41 pages, 9 figures. Extended version of the Chronos-2 technical report (arXiv:2510.15821), adding scientific case studies (epidemiology, macroeconomics, carbon flux, hydrology, hierarchical forecasting), additional baselines, ablation studies, and calibration analysis. Code: https://github.com/amazon-science/chronos-forecasting</p></details> |
 | **[A Controlled Comparison of Deep Learning Architectures for Multi-Horizon Financial Forecasting: Evidence from 918 Experiments](https://arxiv.org/abs/2603.16886v2)** | 2026-10-30 |  |
 | **[TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research](https://arxiv.org/abs/2610.40901v1)** | 2026-10-29 | <details><summary>Code:...</summary><p>Code: https://github.com/D2I-Group/TSFLab</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Vendster: An Evaluation Arena to Investigate How Forecasting Tool Quality Affects LLM Agent Behaviors in Buyer-Vendor Negotiation](https://arxiv.org/abs/2610.38292v1)** | 2026-10-28 |  |
 | **[Measuring Deep Learning Performance - An Empirical Study of Performance Distributions Across Architectures and Tasks](https://arxiv.org/abs/2610.38037v1)** | 2026-10-27 |  |
 | **[Jacobian Scopes: A Unified Geometric Framework for Token-Level LLM Attribution](https://arxiv.org/abs/2601.16407v5)** | 2026-10-27 | 35 pages, 17 figures |
-| **[BadTime: An Effective Backdoor Attack on Multivariate Long-Term Time Series Forecasting](https://arxiv.org/abs/2508.04189v3)** | 2026-10-27 |  |
-| **[STeP-TS: Shared Temporal Filters with Pruning for Time Series](https://arxiv.org/abs/2610.35128v2)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted at the Workshop TS-LIMITS at NeurIPS 2026</p></details> |
-| **[Foreclassing: From Forecasts to Decisions](https://arxiv.org/abs/2503.04956v3)** | 2026-10-27 | <details><summary>45 pa...</summary><p>45 pages, 1 figure, 24 tables</p></details> |
-| **[RankFormer: Rethinking Time Series Transformers through Representation Capacity Analysis and Progressive Decoding](https://arxiv.org/abs/2610.36703v1)** | 2026-10-27 | 12 pages |
-| **[Sliding-Window Signatures as Features for Time Series Forecasting](https://arxiv.org/abs/2510.12337v2)** | 2026-10-26 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
