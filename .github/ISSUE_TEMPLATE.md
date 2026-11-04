@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2026
+title: Latest 15 Papers - November 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CATF: A Manager-Worker Framework for Context-Aware Time-Series Forecasting](https://arxiv.org/abs/2611.05325v1)** | 2026-11-03 | <details><summary>21 pa...</summary><p>21 pages of main text (including references), with 4 figures and 3 tables, plus 16 pages of appendices</p></details> |
+| **[From AutoResearch to Continual AutoResearch: Do Agents Learn Across Tasks?](https://arxiv.org/abs/2611.05108v1)** | 2026-11-03 |  |
+| **[TStruct: Learning Shared Temporal Structures for Long-Term Time Series Forecasting](https://arxiv.org/abs/2610.17864v2)** | 2026-11-03 |  |
+| **[Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2611.04760v1)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895v3)** | 2026-11-03 |  |
+| **[Which Deep Learner? A Systematic Evaluation of Advanced Deep Forecasting Models Accuracy and Efficiency for Network Traffic Prediction](https://arxiv.org/abs/2601.02694v2)** | 2026-11-03 | <details><summary>Revis...</summary><p>Revised version: expanded network-management analysis and model-selection guidelines; added tuning-cost analysis and clarified experimental methodology</p></details> |
 | **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502v5)** | 2026-11-02 |  |
 | **[AliO: Output Alignment Matters in Long-Term Time Series Forecasing](https://arxiv.org/abs/2610.11213v3)** | 2026-11-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025. 46 pages</p></details> |
 | **[HQNN-CL: Regime-Aware Hybrid Quantum Neural Network with Continual Learning for Financial Forecasting](https://arxiv.org/abs/2611.02091v1)** | 2026-11-01 | 20 Pages, 8 Figures |
@@ -16,12 +22,6 @@ labels: documentation
 | **[A Controlled Comparison of Deep Learning Architectures for Multi-Horizon Financial Forecasting: Evidence from 918 Experiments](https://arxiv.org/abs/2603.16886v2)** | 2026-10-30 |  |
 | **[TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research](https://arxiv.org/abs/2610.40901v1)** | 2026-10-29 | <details><summary>Code:...</summary><p>Code: https://github.com/D2I-Group/TSFLab</p></details> |
 | **[CTLite: Lightweight Irregular Multivariate Time Series Forecasting with Reusable Continuous-Time Summaries](https://arxiv.org/abs/2610.26379v2)** | 2026-10-29 |  |
-| **[IMRouter: Imbalance-aware Temporal Pattern Routing for LLM-based Time Series Forecasting](https://arxiv.org/abs/2610.39246v1)** | 2026-10-29 |  |
-| **[On the Generalization Gap of Streaming Federated Learning with Markovian Data](https://arxiv.org/abs/2610.38686v1)** | 2026-10-28 | 78 Pages, 5 Figures |
-| **[Bet on Features: Anytime-Valid and Feature-Aware Auditing of Conditional Quantile Forecasters](https://arxiv.org/abs/2607.11653v2)** | 2026-10-28 |  |
-| **[Vendster: An Evaluation Arena to Investigate How Forecasting Tool Quality Affects LLM Agent Behaviors in Buyer-Vendor Negotiation](https://arxiv.org/abs/2610.38292v1)** | 2026-10-28 |  |
-| **[Measuring Deep Learning Performance - An Empirical Study of Performance Distributions Across Architectures and Tasks](https://arxiv.org/abs/2610.38037v1)** | 2026-10-27 |  |
-| **[Jacobian Scopes: A Unified Geometric Framework for Token-Level LLM Attribution](https://arxiv.org/abs/2601.16407v5)** | 2026-10-27 | 35 pages, 17 figures |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
