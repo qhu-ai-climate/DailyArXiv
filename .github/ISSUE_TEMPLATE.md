@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2026
+title: Latest 15 Papers - November 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Thermally Conditioned Time-Series Forecasting of Grain Growth in Polycrystalline Materials](https://arxiv.org/abs/2611.06843v1)** | 2026-11-04 |  |
+| **[From Fixed Defaults to Calibrated Activation Policies for Long-Term Time-Series Forecasting](https://arxiv.org/abs/2611.06559v1)** | 2026-11-04 | <details><summary>36 pa...</summary><p>36 pages, 2 figures. Shijie Xu and Boyan Tang contributed equally. Code: https://github.com/Tt200411/From-Fixed-Defaults-to-Calibrated-Activation-Policies-for-Long-Term-Time-Series-Forecasting</p></details> |
+| **[AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting](https://arxiv.org/abs/2604.23239v2)** | 2026-11-04 |  |
+| **[fev-bench: A Realistic Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.26468v5)** | 2026-11-04 | <details><summary>Publu...</summary><p>Publushed at NeurIPS 2026, Evaluations & Datasets Track</p></details> |
+| **[Learning From Static Context in Federated Time Series Forecasting](https://arxiv.org/abs/2611.06064v1)** | 2026-11-04 | <details><summary>4th I...</summary><p>4th IEEE International Conference on Federated Learning Technologies and Applications (FLTA 2026)</p></details> |
+| **[Decouple to Reuse: Fine-Grained Knowledge Augmentation for Time Series Foundation Models](https://arxiv.org/abs/2611.05993v1)** | 2026-11-04 | 13 pages, 10 figures |
+| **[Sensor Response-Time Reduction using Long-Short Term Memory Network Forecasting](https://arxiv.org/abs/2404.17144v3)** | 2026-11-03 | 12 pages, 6 figures |
+| **[A Lightweight Multi-View Approach to Short-Term Load Forecasting](https://arxiv.org/abs/2602.09220v2)** | 2026-11-03 |  |
 | **[CATF: A Manager-Worker Framework for Context-Aware Time-Series Forecasting](https://arxiv.org/abs/2611.05325v1)** | 2026-11-03 | <details><summary>21 pa...</summary><p>21 pages of main text (including references), with 4 figures and 3 tables, plus 16 pages of appendices</p></details> |
 | **[From AutoResearch to Continual AutoResearch: Do Agents Learn Across Tasks?](https://arxiv.org/abs/2611.05108v1)** | 2026-11-03 |  |
 | **[TStruct: Learning Shared Temporal Structures for Long-Term Time Series Forecasting](https://arxiv.org/abs/2610.17864v2)** | 2026-11-03 |  |
@@ -14,14 +22,6 @@ labels: documentation
 | **[TabPFN-3.5: Technical Report](https://arxiv.org/abs/2609.17895v3)** | 2026-11-03 |  |
 | **[Which Deep Learner? A Systematic Evaluation of Advanced Deep Forecasting Models Accuracy and Efficiency for Network Traffic Prediction](https://arxiv.org/abs/2601.02694v2)** | 2026-11-03 | <details><summary>Revis...</summary><p>Revised version: expanded network-management analysis and model-selection guidelines; added tuning-cost analysis and clarified experimental methodology</p></details> |
 | **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502v5)** | 2026-11-02 |  |
-| **[AliO: Output Alignment Matters in Long-Term Time Series Forecasing](https://arxiv.org/abs/2610.11213v3)** | 2026-11-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025. 46 pages</p></details> |
-| **[HQNN-CL: Regime-Aware Hybrid Quantum Neural Network with Continual Learning for Financial Forecasting](https://arxiv.org/abs/2611.02091v1)** | 2026-11-01 | 20 Pages, 8 Figures |
-| **[StretchTime: Adaptive Time Series Forecasting via Symplectic Attention](https://arxiv.org/abs/2602.08983v2)** | 2026-11-01 | <details><summary>Publi...</summary><p>Published at ICML 2026. Code: https://github.com/yubinkim04/StretchTime</p></details> |
-| **[Mitigating Catastrophic Forgetting in Task-Free Federated Continual Forecasting via Two-Tier Replay under Concept Drift](https://arxiv.org/abs/2611.01098v1)** | 2026-10-31 | <details><summary>Peer-...</summary><p>Peer-reviewed and accepted for presentation at the AGCS 2026 conference</p></details> |
-| **[Chronos-2: A foundation model for multivariate time series forecasting](https://arxiv.org/abs/2610.41956v1)** | 2026-10-30 | <details><summary>41 pa...</summary><p>41 pages, 9 figures. Extended version of the Chronos-2 technical report (arXiv:2510.15821), adding scientific case studies (epidemiology, macroeconomics, carbon flux, hydrology, hierarchical forecasting), additional baselines, ablation studies, and calibration analysis. Code: https://github.com/amazon-science/chronos-forecasting</p></details> |
-| **[A Controlled Comparison of Deep Learning Architectures for Multi-Horizon Financial Forecasting: Evidence from 918 Experiments](https://arxiv.org/abs/2603.16886v2)** | 2026-10-30 |  |
-| **[TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research](https://arxiv.org/abs/2610.40901v1)** | 2026-10-29 | <details><summary>Code:...</summary><p>Code: https://github.com/D2I-Group/TSFLab</p></details> |
-| **[CTLite: Lightweight Irregular Multivariate Time Series Forecasting with Reusable Continuous-Time Summaries](https://arxiv.org/abs/2610.26379v2)** | 2026-10-29 |  |
 
 ## Time Series Imputation
 | **Title** | **Date** | **Comment** |
